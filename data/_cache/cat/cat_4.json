@@ -1,0 +1,848 @@
+{
+  "categoryList": [
+    {
+      "id": 4,
+      "name": "Bags",
+      "description": null,
+      "canonical_url": "gear/bags.html",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 14,
+      "display_mode": null,
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": null,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 14,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 15
+    },
+    "items": [
+      {
+        "canonical_url": "push-it-messenger-bag.html",
+        "id": 14,
+        "name": "Push It Messenger Bag",
+        "new": 0,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "24-WB04",
+        "special_price": 40,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/b/wb04-blue-0.jpg",
+        "product_type": "simple",
+        "final_price": 40,
+        "discount_percent": 11.11,
+        "url_key": "push-it-messenger-bag",
+        "image": {
+          "label": "Image",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 45
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "overnight-duffle.html",
+        "id": 13,
+        "name": "Overnight Duffle",
+        "new": 1,
+        "rating_summary": 60,
+        "review_count": 3,
+        "sku": "24-WB07",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/b/wb07-brown-0.jpg",
+        "product_type": "simple",
+        "final_price": 45,
+        "discount_percent": 0,
+        "url_key": "overnight-duffle",
+        "image": {
+          "label": "Overnight Duffle",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 45
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "driven-backpack.html",
+        "id": 12,
+        "name": "Driven Backpack",
+        "new": null,
+        "rating_summary": 90,
+        "review_count": 2,
+        "sku": "24-WB03",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/b/wb03-purple-0.jpg",
+        "product_type": "simple",
+        "final_price": 36,
+        "discount_percent": 0,
+        "url_key": "driven-backpack",
+        "image": {
+          "label": "Driven Backpack",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 36
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "endeavor-daytrip-backpack.html",
+        "id": 11,
+        "name": "Endeavor Daytrip Backpack",
+        "new": null,
+        "rating_summary": 73,
+        "review_count": 3,
+        "sku": "24-WB06",
+        "special_price": 33,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/b/wb06-red-0.jpg",
+        "product_type": "simple",
+        "final_price": 33,
+        "discount_percent": 0,
+        "url_key": "endeavor-daytrip-backpack",
+        "image": {
+          "label": "Endeavor Daytrip Backpack",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 33
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "savvy-shoulder-tote.html",
+        "id": 10,
+        "name": "Savvy Shoulder Tote",
+        "new": null,
+        "rating_summary": 80,
+        "review_count": 2,
+        "sku": "24-WB05",
+        "special_price": 24,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/b/wb05-red-0.jpg",
+        "product_type": "simple",
+        "final_price": 24,
+        "discount_percent": 25,
+        "url_key": "savvy-shoulder-tote",
+        "image": {
+          "label": "Savvy Shoulder Tote",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 32
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "compete-track-tote.html",
+        "id": 9,
+        "name": "Compete Track Tote",
+        "new": null,
+        "rating_summary": 70,
+        "review_count": 2,
+        "sku": "24-WB02",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/b/wb02-green-0.jpg",
+        "product_type": "simple",
+        "final_price": 32,
+        "discount_percent": 0,
+        "url_key": "compete-track-tote",
+        "image": {
+          "label": "Compete Track Tote",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 32
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "voyage-yoga-bag.html",
+        "id": 8,
+        "name": "Voyage Yoga Bag",
+        "new": null,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "24-WB01",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/b/wb01-black-0.jpg",
+        "product_type": "simple",
+        "final_price": 32,
+        "discount_percent": 0,
+        "url_key": "voyage-yoga-bag",
+        "image": {
+          "label": "Voyage Yoga Bag",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 32
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "impulse-duffle.html",
+        "id": 7,
+        "name": "Impulse Duffle",
+        "new": null,
+        "rating_summary": 80,
+        "review_count": 3,
+        "sku": "24-UB02",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/u/b/ub02-black-0.jpg",
+        "product_type": "simple",
+        "final_price": 74,
+        "discount_percent": 0,
+        "url_key": "impulse-duffle",
+        "image": {
+          "label": "Impulse Duffle",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 74
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "fusion-backpack.html",
+        "id": 6,
+        "name": "Fusion Backpack",
+        "new": null,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "24-MB02",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/b/mb02-gray-0.jpg",
+        "product_type": "simple",
+        "final_price": 59,
+        "discount_percent": 0,
+        "url_key": "fusion-backpack",
+        "image": {
+          "label": "Fusion Backpack",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 59
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "rival-field-messenger.html",
+        "id": 5,
+        "name": "Rival Field Messenger",
+        "new": 1,
+        "rating_summary": 70,
+        "review_count": 2,
+        "sku": "24-MB06",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/b/mb06-gray-0.jpg",
+        "product_type": "simple",
+        "final_price": 45,
+        "discount_percent": 0,
+        "url_key": "rival-field-messenger",
+        "image": {
+          "label": "Rival Field Messenger",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 45
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "wayfarer-messenger-bag.html",
+        "id": 4,
+        "name": "Wayfarer Messenger Bag",
+        "new": 1,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "24-MB05",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/b/mb05-black-0.jpg",
+        "product_type": "simple",
+        "final_price": 45,
+        "discount_percent": 0,
+        "url_key": "wayfarer-messenger-bag",
+        "image": {
+          "label": "Wayfarer Messenger Bag",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 45
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "crown-summit-backpack.html",
+        "id": 3,
+        "name": "Crown Summit Backpack",
+        "new": null,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "24-MB03",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/b/mb03-black-0.jpg",
+        "product_type": "simple",
+        "final_price": 38,
+        "discount_percent": 0,
+        "url_key": "crown-summit-backpack",
+        "image": {
+          "label": "Crown Summit Backpack",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 38
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "strive-shoulder-pack.html",
+        "id": 2,
+        "name": "Strive Shoulder Pack",
+        "new": null,
+        "rating_summary": 90,
+        "review_count": 2,
+        "sku": "24-MB04",
+        "special_price": 32,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/b/mb04-black-0.jpg",
+        "product_type": "simple",
+        "final_price": 32,
+        "discount_percent": 0,
+        "url_key": "strive-shoulder-pack",
+        "image": {
+          "label": "Strive Shoulder Pack",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 32
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "joust-duffle-bag.html",
+        "id": 1,
+        "name": "Joust Duffle Bag",
+        "new": null,
+        "rating_summary": 50,
+        "review_count": 2,
+        "sku": "24-MB01",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/b/mb01-blue-0.jpg",
+        "product_type": "simple",
+        "final_price": 34,
+        "discount_percent": 0,
+        "url_key": "joust-duffle-bag",
+        "image": {
+          "label": "Joust Duffle Bag",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 34
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 5,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 1,
+            "label": "20-30",
+            "value": "20_30"
+          },
+          {
+            "count": 7,
+            "label": "30-40",
+            "value": "30_40"
+          },
+          {
+            "count": 4,
+            "label": "40-50",
+            "value": "40_50"
+          },
+          {
+            "count": 1,
+            "label": "50-60",
+            "value": "50_60"
+          },
+          {
+            "count": 1,
+            "label": "70-80",
+            "value": "70_80"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 4,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 14,
+            "label": "Gear",
+            "value": "Mw=="
+          },
+          {
+            "count": 14,
+            "label": "Bags",
+            "value": "NA=="
+          },
+          {
+            "count": 7,
+            "label": "Collections",
+            "value": "Nw=="
+          },
+          {
+            "count": 3,
+            "label": "New Luma Yoga Collection",
+            "value": "OA=="
+          }
+        ]
+      },
+      {
+        "attribute_code": "activity",
+        "count": 8,
+        "label": "Activity",
+        "position": 0,
+        "options": [
+          {
+            "count": 6,
+            "label": "Yoga",
+            "value": "8"
+          },
+          {
+            "count": 9,
+            "label": "Gym",
+            "value": "11"
+          },
+          {
+            "count": 4,
+            "label": "Hiking",
+            "value": "18"
+          },
+          {
+            "count": 4,
+            "label": "Overnight",
+            "value": "19"
+          },
+          {
+            "count": 6,
+            "label": "School",
+            "value": "20"
+          },
+          {
+            "count": 2,
+            "label": "Trail",
+            "value": "21"
+          },
+          {
+            "count": 5,
+            "label": "Travel",
+            "value": "22"
+          },
+          {
+            "count": 5,
+            "label": "Urban",
+            "value": "23"
+          }
+        ]
+      },
+      {
+        "attribute_code": "style_bags",
+        "count": 7,
+        "label": "Style",
+        "position": 0,
+        "options": [
+          {
+            "count": 4,
+            "label": "Backpack",
+            "value": "24"
+          },
+          {
+            "count": 1,
+            "label": "Luggage",
+            "value": "25"
+          },
+          {
+            "count": 2,
+            "label": "Duffel",
+            "value": "26"
+          },
+          {
+            "count": 4,
+            "label": "Messenger",
+            "value": "27"
+          },
+          {
+            "count": 6,
+            "label": "Laptop",
+            "value": "28"
+          },
+          {
+            "count": 6,
+            "label": "Exercise",
+            "value": "29"
+          },
+          {
+            "count": 4,
+            "label": "Tote",
+            "value": "30"
+          }
+        ]
+      },
+      {
+        "attribute_code": "material",
+        "count": 9,
+        "label": "Material",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "Burlap",
+            "value": "31"
+          },
+          {
+            "count": 1,
+            "label": "Canvas",
+            "value": "32"
+          },
+          {
+            "count": 1,
+            "label": "Cotton",
+            "value": "33"
+          },
+          {
+            "count": 2,
+            "label": "Leather",
+            "value": "35"
+          },
+          {
+            "count": 3,
+            "label": "Mesh",
+            "value": "36"
+          },
+          {
+            "count": 11,
+            "label": "Nylon",
+            "value": "37"
+          },
+          {
+            "count": 11,
+            "label": "Polyester",
+            "value": "38"
+          },
+          {
+            "count": 1,
+            "label": "Rayon",
+            "value": "39"
+          },
+          {
+            "count": 1,
+            "label": "Suede",
+            "value": "41"
+          }
+        ]
+      },
+      {
+        "attribute_code": "strap_bags",
+        "count": 8,
+        "label": "Strap/Handle",
+        "position": 0,
+        "options": [
+          {
+            "count": 11,
+            "label": "Adjustable",
+            "value": "61"
+          },
+          {
+            "count": 4,
+            "label": "Cross Body",
+            "value": "62"
+          },
+          {
+            "count": 2,
+            "label": "Detachable",
+            "value": "63"
+          },
+          {
+            "count": 9,
+            "label": "Double",
+            "value": "64"
+          },
+          {
+            "count": 7,
+            "label": "Padded",
+            "value": "65"
+          },
+          {
+            "count": 7,
+            "label": "Shoulder",
+            "value": "66"
+          },
+          {
+            "count": 4,
+            "label": "Single",
+            "value": "67"
+          },
+          {
+            "count": 1,
+            "label": "Telescoping",
+            "value": "68"
+          }
+        ]
+      },
+      {
+        "attribute_code": "features_bags",
+        "count": 10,
+        "label": "Features",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "Wheeled",
+            "value": "70"
+          },
+          {
+            "count": 2,
+            "label": "Hydration Pocket",
+            "value": "71"
+          },
+          {
+            "count": 6,
+            "label": "Audio Pocket",
+            "value": "72"
+          },
+          {
+            "count": 1,
+            "label": "Flapover",
+            "value": "73"
+          },
+          {
+            "count": 8,
+            "label": "Waterproof",
+            "value": "74"
+          },
+          {
+            "count": 10,
+            "label": "Lightweight",
+            "value": "75"
+          },
+          {
+            "count": 1,
+            "label": "TSA Approved",
+            "value": "76"
+          },
+          {
+            "count": 5,
+            "label": "Reflective",
+            "value": "77"
+          },
+          {
+            "count": 7,
+            "label": "Laptop Sleeve",
+            "value": "78"
+          },
+          {
+            "count": 6,
+            "label": "Lockable",
+            "value": "79"
+          }
+        ]
+      },
+      {
+        "attribute_code": "eco_collection",
+        "count": 1,
+        "label": "Eco Collection",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "No",
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "attribute_code": "performance_fabric",
+        "count": 1,
+        "label": "Performance Fabric",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "erin_recommends",
+        "count": 2,
+        "label": "Erin Recommends",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 3,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "new",
+        "count": 2,
+        "label": "New",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 3,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "sale",
+        "count": 2,
+        "label": "Sale",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 3,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      }
+    ]
+  }
+}

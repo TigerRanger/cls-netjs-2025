@@ -1,0 +1,735 @@
+{
+  "categoryList": [
+    {
+      "id": 26,
+      "name": "Bras & Tanks",
+      "description": null,
+      "canonical_url": "women/tops-women/tanks-women.html",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 14,
+      "display_mode": null,
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": null,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 14,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 15
+    },
+    "items": [
+      {
+        "canonical_url": "breathe-easy-tank.html",
+        "id": 1812,
+        "name": "Breathe-Easy Tank",
+        "new": 0,
+        "rating_summary": 70,
+        "review_count": 2,
+        "sku": "WT09",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/t/wt09-white_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 34,
+        "discount_percent": 0,
+        "url_key": "breathe-easy-tank",
+        "image": {
+          "label": "Breathe-Easy Tank",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 34
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "antonia-racer-tank.html",
+        "id": 1796,
+        "name": "Antonia Racer Tank",
+        "new": 0,
+        "rating_summary": 60,
+        "review_count": 3,
+        "sku": "WT08",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/t/wt08-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 34,
+        "discount_percent": 0,
+        "url_key": "antonia-racer-tank",
+        "image": {
+          "label": "Antonia Racer Tank",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 34
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "maya-tunic.html",
+        "id": 1780,
+        "name": "Maya Tunic",
+        "new": 0,
+        "rating_summary": 80,
+        "review_count": 1,
+        "sku": "WT07",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/t/wt07-green_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 29,
+        "discount_percent": 0,
+        "url_key": "maya-tunic",
+        "image": {
+          "label": "Maya Tunic",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 29
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "chloe-compete-tank.html",
+        "id": 1764,
+        "name": "Chloe Compete Tank",
+        "new": 0,
+        "rating_summary": 73,
+        "review_count": 3,
+        "sku": "WT06",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/t/wt06-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 39,
+        "discount_percent": 0,
+        "url_key": "chloe-compete-tank",
+        "image": {
+          "label": "Chloe Compete Tank",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 39
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "leah-yoga-top.html",
+        "id": 1748,
+        "name": "Leah Yoga Top",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "WT05",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/t/wt05-purple_main_4.jpg",
+        "product_type": "configurable",
+        "final_price": 39,
+        "discount_percent": 0,
+        "url_key": "leah-yoga-top",
+        "image": {
+          "label": "Leah Yoga Top",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 39
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "nona-fitness-tank.html",
+        "id": 1732,
+        "name": "Nona Fitness Tank",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "WT04",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/t/wt04-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 39,
+        "discount_percent": 0,
+        "url_key": "nona-fitness-tank",
+        "image": {
+          "label": "Nona Fitness Tank",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 39
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "nora-practice-tank.html",
+        "id": 1716,
+        "name": "Nora Practice Tank",
+        "new": 1,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "WT03",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/t/wt03-red_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 39,
+        "discount_percent": 0,
+        "url_key": "nora-practice-tank",
+        "image": {
+          "label": "Nora Practice Tank",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 39
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "zoe-tank.html",
+        "id": 1700,
+        "name": "Zoe Tank",
+        "new": 0,
+        "rating_summary": 53,
+        "review_count": 3,
+        "sku": "WT02",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/t/wt02-orange_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 29,
+        "discount_percent": 0,
+        "url_key": "zoe-tank",
+        "image": {
+          "label": "Zoe Tank",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 29
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "bella-tank.html",
+        "id": 1684,
+        "name": "Bella Tank",
+        "new": 0,
+        "rating_summary": 80,
+        "review_count": 2,
+        "sku": "WT01",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/t/wt01-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 29,
+        "discount_percent": 0,
+        "url_key": "bella-tank",
+        "image": {
+          "label": "Bella Tank",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 29
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "lucia-cross-fit-bra.html",
+        "id": 1668,
+        "name": "Lucia Cross-Fit Bra ",
+        "new": 0,
+        "rating_summary": 40,
+        "review_count": 3,
+        "sku": "WB05",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/b/wb05-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 39,
+        "discount_percent": 0,
+        "url_key": "lucia-cross-fit-bra",
+        "image": {
+          "label": "Lucia Cross-Fit Bra ",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 39
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "prima-compete-bra-top.html",
+        "id": 1652,
+        "name": "Prima Compete Bra Top",
+        "new": 0,
+        "rating_summary": 60,
+        "review_count": 3,
+        "sku": "WB04",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/b/wb04-blue_main_4.jpg",
+        "product_type": "configurable",
+        "final_price": 24,
+        "discount_percent": 0,
+        "url_key": "prima-compete-bra-top",
+        "image": {
+          "label": "Prima Compete Bra Top",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 24
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "celeste-sports-bra.html",
+        "id": 1636,
+        "name": "Celeste Sports Bra",
+        "new": 1,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "WB03",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/b/wb03-green_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 39,
+        "discount_percent": 0,
+        "url_key": "celeste-sports-bra",
+        "image": {
+          "label": "Celeste Sports Bra",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 39
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "erica-evercool-sports-bra.html",
+        "id": 1620,
+        "name": "Erica Evercool Sports Bra",
+        "new": 0,
+        "rating_summary": 60,
+        "review_count": 4,
+        "sku": "WB02",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/b/wb02-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 39,
+        "discount_percent": 0,
+        "url_key": "erica-evercool-sports-bra",
+        "image": {
+          "label": "Erica Evercool Sports Bra",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 39
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "electra-bra-top.html",
+        "id": 1604,
+        "name": "Electra Bra Top",
+        "new": 0,
+        "rating_summary": 75,
+        "review_count": 4,
+        "sku": "WB01",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/b/wb01-gray_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 39,
+        "discount_percent": 0,
+        "url_key": "electra-bra-top",
+        "image": {
+          "label": "Electra Bra Top",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 39
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 2,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 4,
+            "label": "20-30",
+            "value": "20_30"
+          },
+          {
+            "count": 10,
+            "label": "30-40",
+            "value": "30_40"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 7,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 14,
+            "label": "Women Tops",
+            "value": "MjE="
+          },
+          {
+            "count": 14,
+            "label": "Bras & Tanks",
+            "value": "MjY="
+          },
+          {
+            "count": 3,
+            "label": "Women Sale",
+            "value": "MzA="
+          },
+          {
+            "count": 3,
+            "label": "Erin Recommends",
+            "value": "MzQ="
+          },
+          {
+            "count": 4,
+            "label": "Performance Fabrics",
+            "value": "MzU="
+          },
+          {
+            "count": 2,
+            "label": "New Luma Yoga Collection",
+            "value": "OA=="
+          },
+          {
+            "count": 2,
+            "label": "Eco Friendly",
+            "value": "MzY="
+          }
+        ]
+      },
+      {
+        "attribute_code": "material",
+        "count": 11,
+        "label": "Material",
+        "position": 0,
+        "options": [
+          {
+            "count": 4,
+            "label": "Cocona&reg; performance fabric",
+            "value": "142"
+          },
+          {
+            "count": 4,
+            "label": "Cotton",
+            "value": "33"
+          },
+          {
+            "count": 1,
+            "label": "Mesh",
+            "value": "36"
+          },
+          {
+            "count": 3,
+            "label": "Nylon",
+            "value": "37"
+          },
+          {
+            "count": 2,
+            "label": "Lycra&reg;",
+            "value": "148"
+          },
+          {
+            "count": 5,
+            "label": "Polyester",
+            "value": "38"
+          },
+          {
+            "count": 1,
+            "label": "Microfiber",
+            "value": "149"
+          },
+          {
+            "count": 2,
+            "label": "Spandex",
+            "value": "150"
+          },
+          {
+            "count": 1,
+            "label": "HeatTec&reg;",
+            "value": "151"
+          },
+          {
+            "count": 3,
+            "label": "EverCool&trade;",
+            "value": "152"
+          },
+          {
+            "count": 6,
+            "label": "Organic Cotton",
+            "value": "153"
+          }
+        ]
+      },
+      {
+        "attribute_code": "eco_collection",
+        "count": 2,
+        "label": "Eco Collection",
+        "position": 0,
+        "options": [
+          {
+            "count": 11,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 3,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "performance_fabric",
+        "count": 2,
+        "label": "Performance Fabric",
+        "position": 0,
+        "options": [
+          {
+            "count": 9,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 5,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "erin_recommends",
+        "count": 2,
+        "label": "Erin Recommends",
+        "position": 0,
+        "options": [
+          {
+            "count": 11,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 3,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "new",
+        "count": 2,
+        "label": "New",
+        "position": 0,
+        "options": [
+          {
+            "count": 12,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 2,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "sale",
+        "count": 2,
+        "label": "Sale",
+        "position": 0,
+        "options": [
+          {
+            "count": 11,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 3,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "style_general",
+        "count": 3,
+        "label": "Style",
+        "position": 0,
+        "options": [
+          {
+            "count": 5,
+            "label": "Bra",
+            "value": "130"
+          },
+          {
+            "count": 9,
+            "label": "Tank",
+            "value": "134"
+          },
+          {
+            "count": 1,
+            "label": "Camisole",
+            "value": "141"
+          }
+        ]
+      },
+      {
+        "attribute_code": "pattern",
+        "count": 3,
+        "label": "Pattern",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "Checked",
+            "value": "193"
+          },
+          {
+            "count": 12,
+            "label": "Solid",
+            "value": "196"
+          },
+          {
+            "count": 1,
+            "label": "Striped",
+            "value": "198"
+          }
+        ]
+      },
+      {
+        "attribute_code": "climate",
+        "count": 2,
+        "label": "Climate",
+        "position": 0,
+        "options": [
+          {
+            "count": 14,
+            "label": "Indoor",
+            "value": "204"
+          },
+          {
+            "count": 14,
+            "label": "Warm",
+            "value": "208"
+          }
+        ]
+      }
+    ]
+  }
+}

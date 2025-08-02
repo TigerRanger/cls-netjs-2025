@@ -1,0 +1,878 @@
+{
+  "categoryList": [
+    {
+      "id": 22,
+      "name": "Women Bottoms",
+      "description": null,
+      "canonical_url": "women/bottoms-women.html",
+      "children_count": "2",
+      "image": "http://magento7.nz/media/catalog/category/bannerTest.jpeg",
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 25,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 0,
+      "custom_title": null,
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "women/bottoms-women/pants-women.html",
+          "name": "Pants",
+          "position": 1,
+          "url_key": "pants-women"
+        },
+        {
+          "canonical_url": "women/bottoms-women/shorts-women.html",
+          "name": "Shorts",
+          "position": 2,
+          "url_key": "shorts-women"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 25,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 2,
+      "page_size": 15
+    },
+    "items": [
+      {
+        "canonical_url": "erika-running-short.html",
+        "id": 2040,
+        "name": "Erika Running Short",
+        "new": 0,
+        "rating_summary": 60,
+        "review_count": 3,
+        "sku": "WSH12",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/s/wsh12-green_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 45,
+        "discount_percent": 0,
+        "url_key": "erika-running-short",
+        "image": {
+          "label": "Erika Running Short",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 45
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "ina-compression-short.html",
+        "id": 2024,
+        "name": "Ina Compression Short",
+        "new": 0,
+        "rating_summary": 73,
+        "review_count": 3,
+        "sku": "WSH11",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/s/wsh11-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 49,
+        "discount_percent": 0,
+        "url_key": "ina-compression-short",
+        "image": {
+          "label": "Ina Compression Short",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 49
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "ana-running-short.html",
+        "id": 2017,
+        "name": "Ana Running Short",
+        "new": 0,
+        "rating_summary": 80,
+        "review_count": 3,
+        "sku": "WSH10",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/s/wsh10-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 40,
+        "discount_percent": 0,
+        "url_key": "ana-running-short",
+        "image": {
+          "label": "Ana Running Short",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 40
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "mimi-all-purpose-short.html",
+        "id": 2010,
+        "name": "Mimi All-Purpose Short",
+        "new": 0,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "WSH09",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/s/wsh09-gray_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 44,
+        "discount_percent": 0,
+        "url_key": "mimi-all-purpose-short",
+        "image": {
+          "label": "Mimi All-Purpose Short",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 44
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "sybil-running-short.html",
+        "id": 2003,
+        "name": "Sybil Running Short",
+        "new": 0,
+        "rating_summary": 93,
+        "review_count": 3,
+        "sku": "WSH08",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/s/wsh08-purple_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 44,
+        "discount_percent": 0,
+        "url_key": "sybil-running-short",
+        "image": {
+          "label": "Sybil Running Short",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 44
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "echo-fit-compression-short.html",
+        "id": 1997,
+        "name": "Echo Fit Compression Short",
+        "new": 1,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "WSH07",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/s/wsh07-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 24,
+        "discount_percent": 0,
+        "url_key": "echo-fit-compression-short",
+        "image": {
+          "label": "Echo Fit Compression Short",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 24
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "portia-capri.html",
+        "id": 1903,
+        "name": "Portia Capri",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "WP13",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/p/wp13-orange_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 49,
+        "discount_percent": 0,
+        "url_key": "portia-capri",
+        "image": {
+          "label": "Portia Capri",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 49
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "angel-light-running-short.html",
+        "id": 1990,
+        "name": "Angel Light Running Short",
+        "new": 0,
+        "rating_summary": 70,
+        "review_count": 2,
+        "sku": "WSH06",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/s/wsh06-gray_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 42,
+        "discount_percent": 0,
+        "url_key": "angel-light-running-short",
+        "image": {
+          "label": "Angel Light Running Short",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 42
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "deirdre-relaxed-fit-capri.html",
+        "id": 1896,
+        "name": "Deirdre Relaxed-Fit Capri",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "WP12",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/p/wp12-gray_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 63,
+        "discount_percent": 0,
+        "url_key": "deirdre-relaxed-fit-capri",
+        "image": {
+          "label": "Deirdre Relaxed-Fit Capri",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 63
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "bess-yoga-short.html",
+        "id": 1983,
+        "name": "Bess Yoga Short",
+        "new": 0,
+        "rating_summary": 73,
+        "review_count": 3,
+        "sku": "WSH05",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/s/wsh05-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 28,
+        "discount_percent": 0,
+        "url_key": "bess-yoga-short",
+        "image": {
+          "label": "Bess Yoga Short",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 28
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "sylvia-capri.html",
+        "id": 1889,
+        "name": "Sylvia Capri",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "WP11",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/p/wp11-green_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 42,
+        "discount_percent": 0,
+        "url_key": "sylvia-capri",
+        "image": {
+          "label": "Sylvia Capri",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 42
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "daria-bikram-pant.html",
+        "id": 1882,
+        "name": "Daria Bikram Pant",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "WP10",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/p/wp10-gray_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 51,
+        "discount_percent": 0,
+        "url_key": "daria-bikram-pant",
+        "image": {
+          "label": "Daria Bikram Pant",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 51
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "artemis-running-short.html",
+        "id": 1967,
+        "name": "Artemis Running Short",
+        "new": 0,
+        "rating_summary": 80,
+        "review_count": 2,
+        "sku": "WSH04",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/s/wsh04-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 45,
+        "discount_percent": 0,
+        "url_key": "artemis-running-short",
+        "image": {
+          "label": "Artemis Running Short",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 45
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "carina-basic-capri.html",
+        "id": 1875,
+        "name": "Carina Basic Capri",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "WP09",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/p/wp09-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 51,
+        "discount_percent": 0,
+        "url_key": "carina-basic-capri",
+        "image": {
+          "label": "Carina Basic Capri",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 51
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "bardot-capri.html",
+        "id": 1868,
+        "name": "Bardot Capri",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "WP08",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/p/wp08-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 48,
+        "discount_percent": 0,
+        "url_key": "bardot-capri",
+        "image": {
+          "label": "Bardot Capri",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 48
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 5,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 4,
+            "label": "20-30",
+            "value": "20_30"
+          },
+          {
+            "count": 7,
+            "label": "30-40",
+            "value": "30_40"
+          },
+          {
+            "count": 10,
+            "label": "40-50",
+            "value": "40_50"
+          },
+          {
+            "count": 2,
+            "label": "50-60",
+            "value": "50_60"
+          },
+          {
+            "count": 2,
+            "label": "60-70",
+            "value": "60_70"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 9,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 25,
+            "label": "Women Bottoms",
+            "value": "MjI="
+          },
+          {
+            "count": 12,
+            "label": "Shorts",
+            "value": "Mjg="
+          },
+          {
+            "count": 5,
+            "label": "Erin Recommends",
+            "value": "MzQ="
+          },
+          {
+            "count": 3,
+            "label": "Eco Friendly",
+            "value": "MzY="
+          },
+          {
+            "count": 6,
+            "label": "Performance Fabrics",
+            "value": "MzU="
+          },
+          {
+            "count": 4,
+            "label": "New Luma Yoga Collection",
+            "value": "OA=="
+          },
+          {
+            "count": 2,
+            "label": "Women Sale",
+            "value": "MzA="
+          },
+          {
+            "count": 13,
+            "label": "Pants",
+            "value": "Mjc="
+          },
+          {
+            "count": 13,
+            "label": "Pants",
+            "value": "MzI="
+          }
+        ]
+      },
+      {
+        "attribute_code": "material",
+        "count": 13,
+        "label": "Material",
+        "position": 0,
+        "options": [
+          {
+            "count": 4,
+            "label": "Cocona&reg; performance fabric",
+            "value": "142"
+          },
+          {
+            "count": 4,
+            "label": "Cotton",
+            "value": "33"
+          },
+          {
+            "count": 3,
+            "label": "Mesh",
+            "value": "36"
+          },
+          {
+            "count": 5,
+            "label": "LumaTech&trade;",
+            "value": "147"
+          },
+          {
+            "count": 3,
+            "label": "Nylon",
+            "value": "37"
+          },
+          {
+            "count": 2,
+            "label": "Lycra&reg;",
+            "value": "148"
+          },
+          {
+            "count": 7,
+            "label": "Polyester",
+            "value": "38"
+          },
+          {
+            "count": 3,
+            "label": "Microfiber",
+            "value": "149"
+          },
+          {
+            "count": 2,
+            "label": "Rayon",
+            "value": "39"
+          },
+          {
+            "count": 11,
+            "label": "Spandex",
+            "value": "150"
+          },
+          {
+            "count": 13,
+            "label": "Organic Cotton",
+            "value": "153"
+          },
+          {
+            "count": 4,
+            "label": "CoolTech&trade;",
+            "value": "155"
+          },
+          {
+            "count": 2,
+            "label": "Wool",
+            "value": "158"
+          }
+        ]
+      },
+      {
+        "attribute_code": "eco_collection",
+        "count": 2,
+        "label": "Eco Collection",
+        "position": 0,
+        "options": [
+          {
+            "count": 18,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 7,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "performance_fabric",
+        "count": 2,
+        "label": "Performance Fabric",
+        "position": 0,
+        "options": [
+          {
+            "count": 18,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 7,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "erin_recommends",
+        "count": 2,
+        "label": "Erin Recommends",
+        "position": 0,
+        "options": [
+          {
+            "count": 20,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 5,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "new",
+        "count": 2,
+        "label": "New",
+        "position": 0,
+        "options": [
+          {
+            "count": 21,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 4,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "sale",
+        "count": 2,
+        "label": "Sale",
+        "position": 0,
+        "options": [
+          {
+            "count": 23,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 2,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "style_bottom",
+        "count": 9,
+        "label": "Style",
+        "position": 0,
+        "options": [
+          {
+            "count": 4,
+            "label": "Base Layer",
+            "value": "104"
+          },
+          {
+            "count": 10,
+            "label": "Basic",
+            "value": "105"
+          },
+          {
+            "count": 8,
+            "label": "Capri",
+            "value": "106"
+          },
+          {
+            "count": 3,
+            "label": "Compression",
+            "value": "107"
+          },
+          {
+            "count": 4,
+            "label": "Leggings",
+            "value": "108"
+          },
+          {
+            "count": 2,
+            "label": "Parachute",
+            "value": "109"
+          },
+          {
+            "count": 5,
+            "label": "Snug",
+            "value": "111"
+          },
+          {
+            "count": 3,
+            "label": "Sweatpants",
+            "value": "112"
+          },
+          {
+            "count": 3,
+            "label": "Track Pants",
+            "value": "114"
+          }
+        ]
+      },
+      {
+        "attribute_code": "pattern",
+        "count": 5,
+        "label": "Pattern",
+        "position": 0,
+        "options": [
+          {
+            "count": 5,
+            "label": "Color-Blocked",
+            "value": "194"
+          },
+          {
+            "count": 1,
+            "label": "Graphic Print",
+            "value": "195"
+          },
+          {
+            "count": 13,
+            "label": "Solid",
+            "value": "196"
+          },
+          {
+            "count": 5,
+            "label": "Solid-Highlight",
+            "value": "197"
+          },
+          {
+            "count": 1,
+            "label": "Striped",
+            "value": "198"
+          }
+        ]
+      },
+      {
+        "attribute_code": "climate",
+        "count": 7,
+        "label": "Climate",
+        "position": 0,
+        "options": [
+          {
+            "count": 10,
+            "label": "All-Weather",
+            "value": "201"
+          },
+          {
+            "count": 3,
+            "label": "Cool",
+            "value": "203"
+          },
+          {
+            "count": 20,
+            "label": "Indoor",
+            "value": "204"
+          },
+          {
+            "count": 17,
+            "label": "Mild",
+            "value": "205"
+          },
+          {
+            "count": 7,
+            "label": "Spring",
+            "value": "207"
+          },
+          {
+            "count": 15,
+            "label": "Warm",
+            "value": "208"
+          },
+          {
+            "count": 16,
+            "label": "Hot",
+            "value": "211"
+          }
+        ]
+      }
+    ]
+  }
+}

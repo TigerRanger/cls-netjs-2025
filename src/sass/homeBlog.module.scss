@@ -1,0 +1,35 @@
+ .blog-block {
+    padding: 10px 0 30px;
+    display: flex;
+    margin: 0;
+  }
+
+
+  .blog-title {
+    color: #1661a3;
+    display: flex;
+    padding: 10px 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    height: 62px;
+    display: -webkit-box;
+    text-decoration: none;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+
+  h2.blog-title{
+    text-align: center;
+    margin-bottom: 0;
+    height: auto;
+    font-size: 1.5rem;
+  }
+
+
+  .blog-p{
+    color: #504f4f;
+    text-align: center;
+  }
+
+
+  

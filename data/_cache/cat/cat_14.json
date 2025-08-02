@@ -1,0 +1,723 @@
+{
+  "categoryList": [
+    {
+      "id": 14,
+      "name": "Jackets",
+      "description": null,
+      "canonical_url": "men/tops-men/jackets-men.html",
+      "children_count": "2",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 11,
+      "display_mode": null,
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": null,
+      "custom_title": null,
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "men/tops-men/jackets-men/black-jacket.html",
+          "name": "Black jacket",
+          "position": 1,
+          "url_key": "black-jacket"
+        },
+        {
+          "canonical_url": "men/tops-men/jackets-men/red-jacket.html",
+          "name": "RED Jacket",
+          "position": 2,
+          "url_key": "red-jacket"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 11,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 15
+    },
+    "items": [
+      {
+        "canonical_url": "proteus-fitness-jackshirt.html",
+        "id": 430,
+        "name": "Proteus Fitness Jackshirt",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "MJ12",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/j/mj12-orange_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 45,
+        "discount_percent": 0,
+        "url_key": "proteus-fitness-jackshirt",
+        "image": {
+          "label": "Proteus Fitness Jackshirt",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 45
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "montana-wind-jacket.html",
+        "id": 414,
+        "name": "Montana Wind Jacket",
+        "new": 1,
+        "rating_summary": 53,
+        "review_count": 3,
+        "sku": "MJ03",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/j/mj03-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 49,
+        "discount_percent": 0,
+        "url_key": "montana-wind-jacket",
+        "image": {
+          "label": "Montana Wind Jacket",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 49
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "jupiter-all-weather-trainer.html",
+        "id": 398,
+        "name": "Jupiter All-Weather Trainer ",
+        "new": 0,
+        "rating_summary": 80,
+        "review_count": 3,
+        "sku": "MJ06",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/j/mj06-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 56.99,
+        "discount_percent": 0,
+        "url_key": "jupiter-all-weather-trainer",
+        "image": {
+          "label": "Jupiter All-Weather Trainer ",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 56.99
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "typhon-performance-fleece-lined-jacket.html",
+        "id": 382,
+        "name": "Typhon Performance Fleece-lined Jacket",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "MJ11",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/j/mj11-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 60,
+        "discount_percent": 0,
+        "url_key": "typhon-performance-fleece-lined-jacket",
+        "image": {
+          "label": "Typhon Performance Fleece-lined Jacket",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 60
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "mars-heattech-trade-pullover.html",
+        "id": 366,
+        "name": "Mars HeatTech&trade; Pullover",
+        "new": 0,
+        "rating_summary": 70,
+        "review_count": 2,
+        "sku": "MJ10",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/j/mj10-red_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 66,
+        "discount_percent": 0,
+        "url_key": "mars-heattech-trade-pullover",
+        "image": {
+          "label": "Mars HeatTech&trade; Pullover",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 66
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "taurus-elements-shell.html",
+        "id": 350,
+        "name": "Taurus Elements Shell",
+        "new": 0,
+        "rating_summary": 70,
+        "review_count": 2,
+        "sku": "MJ09",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/j/mj09-yellow_main_4.jpg",
+        "product_type": "configurable",
+        "final_price": 65,
+        "discount_percent": 0,
+        "url_key": "taurus-elements-shell",
+        "image": {
+          "label": "Taurus Elements Shell",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 65
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "lando-gym-jacket.html",
+        "id": 334,
+        "name": "Lando Gym Jacket",
+        "new": 0,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "MJ08",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/j/mj08-gray_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 99,
+        "discount_percent": 0,
+        "url_key": "lando-gym-jacket",
+        "image": {
+          "label": "Lando Gym Jacket",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 99
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "orion-two-tone-fitted-jacket.html",
+        "id": 318,
+        "name": "Orion Two-Tone Fitted Jacket",
+        "new": 0,
+        "rating_summary": 50,
+        "review_count": 2,
+        "sku": "MJ07",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/j/mj07-red_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 72,
+        "discount_percent": 0,
+        "url_key": "orion-two-tone-fitted-jacket",
+        "image": {
+          "label": "Orion Two-Tone Fitted Jacket",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 72
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "kenobi-trail-jacket.html",
+        "id": 302,
+        "name": "Kenobi Trail Jacket",
+        "new": 0,
+        "rating_summary": 93,
+        "review_count": 3,
+        "sku": "MJ04",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/j/mj04-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 47,
+        "discount_percent": 0,
+        "url_key": "kenobi-trail-jacket",
+        "image": {
+          "label": "Kenobi Trail Jacket",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 47
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "hyperion-elements-jacket.html",
+        "id": 286,
+        "name": "Hyperion Elements Jacket",
+        "new": 1,
+        "rating_summary": 90,
+        "review_count": 2,
+        "sku": "MJ02",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/j/mj02-green_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 51,
+        "discount_percent": 0,
+        "url_key": "hyperion-elements-jacket",
+        "image": {
+          "label": "Hyperion Elements Jacket",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 51
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "beaumont-summit-kit.html",
+        "id": 270,
+        "name": "Beaumont Summit Kit",
+        "new": 0,
+        "rating_summary": 90,
+        "review_count": 2,
+        "sku": "MJ01",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/j/mj01-yellow_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 42,
+        "discount_percent": 0,
+        "url_key": "beaumont-summit-kit",
+        "image": {
+          "label": "Beaumont Summit Kit",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 42
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 5,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 4,
+            "label": "40-50",
+            "value": "40_50"
+          },
+          {
+            "count": 2,
+            "label": "50-60",
+            "value": "50_60"
+          },
+          {
+            "count": 3,
+            "label": "60-70",
+            "value": "60_70"
+          },
+          {
+            "count": 1,
+            "label": "70-80",
+            "value": "70_80"
+          },
+          {
+            "count": 1,
+            "label": "90-100",
+            "value": "90_100"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 3,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 11,
+            "label": "Tops",
+            "value": "MTI="
+          },
+          {
+            "count": 11,
+            "label": "Jackets",
+            "value": "MTQ="
+          },
+          {
+            "count": 2,
+            "label": "Eco Friendly",
+            "value": "MzY="
+          }
+        ]
+      },
+      {
+        "attribute_code": "material",
+        "count": 10,
+        "label": "Material",
+        "position": 0,
+        "options": [
+          {
+            "count": 2,
+            "label": "Cocona&reg; performance fabric",
+            "value": "142"
+          },
+          {
+            "count": 1,
+            "label": "Cotton",
+            "value": "33"
+          },
+          {
+            "count": 5,
+            "label": "Fleece",
+            "value": "144"
+          },
+          {
+            "count": 1,
+            "label": "Hemp",
+            "value": "145"
+          },
+          {
+            "count": 2,
+            "label": "LumaTech&trade;",
+            "value": "147"
+          },
+          {
+            "count": 5,
+            "label": "Nylon",
+            "value": "37"
+          },
+          {
+            "count": 1,
+            "label": "Lycra&reg;",
+            "value": "148"
+          },
+          {
+            "count": 9,
+            "label": "Polyester",
+            "value": "38"
+          },
+          {
+            "count": 1,
+            "label": "Spandex",
+            "value": "150"
+          },
+          {
+            "count": 1,
+            "label": "Wool",
+            "value": "158"
+          }
+        ]
+      },
+      {
+        "attribute_code": "eco_collection",
+        "count": 2,
+        "label": "Eco Collection",
+        "position": 0,
+        "options": [
+          {
+            "count": 9,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 2,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "performance_fabric",
+        "count": 2,
+        "label": "Performance Fabric",
+        "position": 0,
+        "options": [
+          {
+            "count": 8,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 3,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "erin_recommends",
+        "count": 2,
+        "label": "Erin Recommends",
+        "position": 0,
+        "options": [
+          {
+            "count": 9,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 2,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "new",
+        "count": 2,
+        "label": "New",
+        "position": 0,
+        "options": [
+          {
+            "count": 9,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 2,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "sale",
+        "count": 2,
+        "label": "Sale",
+        "position": 0,
+        "options": [
+          {
+            "count": 9,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 2,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "style_general",
+        "count": 12,
+        "label": "Style",
+        "position": 0,
+        "options": [
+          {
+            "count": 5,
+            "label": "Insulated",
+            "value": "116"
+          },
+          {
+            "count": 1,
+            "label": "Jacket",
+            "value": "117"
+          },
+          {
+            "count": 6,
+            "label": "Lightweight",
+            "value": "119"
+          },
+          {
+            "count": 3,
+            "label": "Hooded",
+            "value": "120"
+          },
+          {
+            "count": 2,
+            "label": "Heavy Duty",
+            "value": "121"
+          },
+          {
+            "count": 5,
+            "label": "Rain Coat",
+            "value": "122"
+          },
+          {
+            "count": 5,
+            "label": "Hard Shell",
+            "value": "123"
+          },
+          {
+            "count": 5,
+            "label": "Soft Shell",
+            "value": "124"
+          },
+          {
+            "count": 6,
+            "label": "Windbreaker",
+            "value": "125"
+          },
+          {
+            "count": 7,
+            "label": "&frac14; zip",
+            "value": "127"
+          },
+          {
+            "count": 5,
+            "label": "Full Zip",
+            "value": "128"
+          },
+          {
+            "count": 1,
+            "label": "Reversible",
+            "value": "129"
+          }
+        ]
+      },
+      {
+        "attribute_code": "pattern",
+        "count": 1,
+        "label": "Pattern",
+        "position": 0,
+        "options": [
+          {
+            "count": 11,
+            "label": "Solid",
+            "value": "196"
+          }
+        ]
+      },
+      {
+        "attribute_code": "climate",
+        "count": 10,
+        "label": "Climate",
+        "position": 0,
+        "options": [
+          {
+            "count": 5,
+            "label": "All-Weather",
+            "value": "201"
+          },
+          {
+            "count": 2,
+            "label": "Cold",
+            "value": "202"
+          },
+          {
+            "count": 9,
+            "label": "Cool",
+            "value": "203"
+          },
+          {
+            "count": 2,
+            "label": "Indoor",
+            "value": "204"
+          },
+          {
+            "count": 4,
+            "label": "Mild",
+            "value": "205"
+          },
+          {
+            "count": 5,
+            "label": "Rainy",
+            "value": "206"
+          },
+          {
+            "count": 10,
+            "label": "Spring",
+            "value": "207"
+          },
+          {
+            "count": 1,
+            "label": "Warm",
+            "value": "208"
+          },
+          {
+            "count": 9,
+            "label": "Windy",
+            "value": "209"
+          },
+          {
+            "count": 3,
+            "label": "Wintry",
+            "value": "210"
+          }
+        ]
+      }
+    ]
+  }
+}

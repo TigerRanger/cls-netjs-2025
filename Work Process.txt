@@ -1,0 +1,184 @@
+1. NextMage Project
+-----------------------------------------
+
+Create a Folder in Wamp name bazerfinal
+
+2. Insatll latest Nextjs
+-----------------------------------------
+npx create-next-app@latest .
+
+3. Add Github Repository
+-----------------------------------------
+
+create new repoistoy in Github and run the code 
+
+Push Rule
+--------------
+git init 
+git remote add origin https://github.com/TigerRanger/finalbazer.git
+git add ./
+git commit -m "first commit"
+git push -u origin master
+
+pull rule
+------------
+
+git clone https://github.com/username/repo-name.git
+
+EX: git clone https://github.com/TigerRanger/finalbazer.git
+
+git pull origin master
+
+
+4. Add SASS and react-Bootstrap (no need to extra js)
+========================================================
+
+npm install sass
+
+npm install react-bootstrap bootstrap
+
+
+5. ADD env file and variables in Project and image file permission for domain
+================================================================================
+
+.env  file  create and add
+
+MAGENTO_ENDPOINT=http://magento7.nz/graphql
+MAGENTO_ENDPOINT_SITE=http://magento7.nz
+GOOGLE_CLIENT_ID=58183698070-2bkjdc5ttrmmn8e8keg3obb8i3ce959j.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=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
+NEXTJS_SECRET_KEY=c9eaa5368e5c3fc79ec369ed0cdff4d3
+NEXTAUTH_URL=http://localhost:3000
+WP_ENDPOINT=http://cls-blog.nz/graphql
+WP_SITE_URL=http://cls-blog.nz
+MAIN_SITE_URL=http://localhost:3000
+
+
+and update next.config.ts
+
+---------------------------------
+
+import type { NextConfig } from "next";
+
+const nextConfig: NextConfig = {
+  /* config options here */
+
+
+  async rewrites() {
+    return [
+      {
+        source: '/magento-graphql/:path*', // Your Next.js proxy endpoint
+        destination: 'http://magento7.nz/graphql/:path*', // Magento GraphQL endpoint
+      },
+    ];
+  },
+  
+  env: {
+    MAGENTO_ENDPOINT: process.env.MAGENTO_ENDPOINT,
+    MAGENTO_ENDPOINT_SITE: process.env.MAGENTO_ENDPOINT_SITE,
+    GOOGLE_CLIENT_ID: process.env.GOOGLE_CLIENT_ID,
+    GOOGLE_CLIENT_SECRET: process.env.GOOGLE_CLIENT_SECRET,
+    NEXTJS_SECRET_KEY: process.env.NEXTJS_SECRET_KEY,
+    WP_ENDPOINT:process.env.WP_ENDPOINT,
+    WP_SITE_URL:process.env.WP_SITE_URL,
+    MAIN_SITE_URL: process.env.MAIN_SITE_URL,
+  },
+
+
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "cls-computer.de",
+        pathname: "/**",
+      },
+      {
+        protocol: "https",
+        hostname: "lh3.googleusercontent.com",
+        pathname: "/**",
+      },
+      {
+        protocol: "http",
+        hostname: "magento7.nz",
+        pathname: "/**",
+      },
+      {
+        protocol: "http",
+        hostname: "cls-blog.nz",
+        pathname: "/**",
+      },
+    ],
+  }
+
+};
+
+export default nextConfig;
+----------------------------------------------------
+
+
+
+5. Fix Git Ignore Problem 
+================================================================================
+
+edit .gitignore and remove filename or add # before 
+
+#.env*
+we need that run next js
+
+6. Create Cache Api fo Magento 2 and Next js , Axios add
+============================================================
+
+npm install axios
+
+I have add and write code for Api
+
+7. Header and Footer Add Redux and NextAuth add 
+============================================================
+
+npm install @reduxjs/toolkit react-redux
+
+npm install -D @types/react-redux   /// for Typescript add extra
+
+
+npm install next-auth    //  for next auth
+
+// save cart or other data to redux using memory and expire system
+
+npm install redux-persist
+npm install redux-persist-transform-expire
+
+
+  // Swiper slide
+  npm install swiper
+  
+  // ua-parser-js for device Detection
+  npm install ua-parser-js
+
+  
+8. Home Page setup
+============================================================
+
+npm install canvas
+
+# canvas use create captcha image.
+
+# favicon image error show --- solve using remove favicon from public folder put in src/app folder .
+
+I have add and code other files
+
+
+9. Category with Filter and Product Page 
+============================================================
+
+# Add Apollo client in my Project
+
+npm install @apollo/client graphql
+
+
+# Add React Tab for use tab my Project
+
+npm install react-tabs
+
+# LightBox for Single Product
+
+npm install yet-another-react-lightbox

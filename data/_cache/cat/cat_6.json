@@ -1,0 +1,511 @@
+{
+  "categoryList": [
+    {
+      "id": 6,
+      "name": "Watches",
+      "description": null,
+      "canonical_url": "gear/watches.html",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 9,
+      "display_mode": null,
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": null,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 9,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 15
+    },
+    "items": [
+      {
+        "canonical_url": "didi-sport-watch.html",
+        "id": 44,
+        "name": "Didi Sport Watch",
+        "new": 1,
+        "rating_summary": 70,
+        "review_count": 2,
+        "sku": "24-WG02",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/g/wg02-bk-0.jpg",
+        "product_type": "simple",
+        "final_price": 92,
+        "discount_percent": 0,
+        "url_key": "didi-sport-watch",
+        "image": {
+          "label": "Didi Sport Watch",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 92
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "clamber-watch.html",
+        "id": 43,
+        "name": "Clamber Watch",
+        "new": null,
+        "rating_summary": 53,
+        "review_count": 3,
+        "sku": "24-WG03",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/g/wg03-gr-0.jpg",
+        "product_type": "simple",
+        "final_price": 54,
+        "discount_percent": 0,
+        "url_key": "clamber-watch",
+        "image": {
+          "label": "Clamber Watch",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 54
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "bolo-sport-watch.html",
+        "id": 42,
+        "name": "Bolo Sport Watch",
+        "new": null,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "24-WG01",
+        "special_price": 49,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/g/wg01-bk-0.jpg",
+        "product_type": "simple",
+        "final_price": 49,
+        "discount_percent": 0,
+        "url_key": "bolo-sport-watch",
+        "image": {
+          "label": "Bolo Sport Watch",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 49
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "luma-analog-watch.html",
+        "id": 41,
+        "name": "Luma Analog Watch",
+        "new": null,
+        "rating_summary": 80,
+        "review_count": 2,
+        "sku": "24-WG09",
+        "special_price": 43,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/g/wg09-gr-0.jpg",
+        "product_type": "simple",
+        "final_price": 43,
+        "discount_percent": 0,
+        "url_key": "luma-analog-watch",
+        "image": {
+          "label": "Luma Analog Watch",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 43
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "dash-digital-watch.html",
+        "id": 40,
+        "name": "Dash Digital Watch",
+        "new": 1,
+        "rating_summary": 73,
+        "review_count": 3,
+        "sku": "24-MG02",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/g/mg02-bk-0.jpg",
+        "product_type": "simple",
+        "final_price": 92,
+        "discount_percent": 0,
+        "url_key": "dash-digital-watch",
+        "image": {
+          "label": "Dash Digital Watch",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 92
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "cruise-dual-analog-watch.html",
+        "id": 39,
+        "name": "Cruise Dual Analog Watch",
+        "new": 1,
+        "rating_summary": 65,
+        "review_count": 4,
+        "sku": "24-MG05",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/g/mg05-br-0.jpg",
+        "product_type": "simple",
+        "final_price": 55,
+        "discount_percent": 0,
+        "url_key": "cruise-dual-analog-watch",
+        "image": {
+          "label": "Cruise Dual Analog Watch",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 55
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "summit-watch.html",
+        "id": 38,
+        "name": "Summit Watch",
+        "new": 1,
+        "rating_summary": 47,
+        "review_count": 3,
+        "sku": "24-MG03",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/g/mg03-br-0.jpg",
+        "product_type": "simple",
+        "final_price": 54,
+        "discount_percent": 0,
+        "url_key": "summit-watch",
+        "image": {
+          "label": "Summit Watch",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 54
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "endurance-watch.html",
+        "id": 37,
+        "name": "Endurance Watch",
+        "new": null,
+        "rating_summary": 87,
+        "review_count": 3,
+        "sku": "24-MG01",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/g/mg01-bk-0.jpg",
+        "product_type": "simple",
+        "final_price": 49,
+        "discount_percent": 0,
+        "url_key": "endurance-watch",
+        "image": {
+          "label": "Endurance Watch",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 49
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "aim-analog-watch.html",
+        "id": 36,
+        "name": "Aim Analog Watch",
+        "new": null,
+        "rating_summary": 80,
+        "review_count": 2,
+        "sku": "24-MG04",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/g/mg04-bk-0.jpg",
+        "product_type": "simple",
+        "final_price": 45,
+        "discount_percent": 0,
+        "url_key": "aim-analog-watch",
+        "image": {
+          "label": "Aim Analog Watch",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 45
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 3,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 4,
+            "label": "40-50",
+            "value": "40_50"
+          },
+          {
+            "count": 3,
+            "label": "50-60",
+            "value": "50_60"
+          },
+          {
+            "count": 2,
+            "label": "90-100",
+            "value": "90_100"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 4,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 9,
+            "label": "Gear",
+            "value": "Mw=="
+          },
+          {
+            "count": 9,
+            "label": "Watches",
+            "value": "Ng=="
+          },
+          {
+            "count": 4,
+            "label": "Collections",
+            "value": "Nw=="
+          },
+          {
+            "count": 4,
+            "label": "New Luma Yoga Collection",
+            "value": "OA=="
+          }
+        ]
+      },
+      {
+        "attribute_code": "activity",
+        "count": 5,
+        "label": "Activity",
+        "position": 0,
+        "options": [
+          {
+            "count": 4,
+            "label": "Outdoor",
+            "value": "5"
+          },
+          {
+            "count": 7,
+            "label": "Recreation",
+            "value": "9"
+          },
+          {
+            "count": 5,
+            "label": "Gym",
+            "value": "11"
+          },
+          {
+            "count": 5,
+            "label": "Athletic",
+            "value": "16"
+          },
+          {
+            "count": 4,
+            "label": "Sports",
+            "value": "17"
+          }
+        ]
+      },
+      {
+        "attribute_code": "material",
+        "count": 6,
+        "label": "Material",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "Leather",
+            "value": "35"
+          },
+          {
+            "count": 3,
+            "label": "Metal",
+            "value": "43"
+          },
+          {
+            "count": 4,
+            "label": "Plastic",
+            "value": "44"
+          },
+          {
+            "count": 5,
+            "label": "Rubber",
+            "value": "45"
+          },
+          {
+            "count": 1,
+            "label": "Stainless Steel",
+            "value": "47"
+          },
+          {
+            "count": 5,
+            "label": "Silicone",
+            "value": "48"
+          }
+        ]
+      },
+      {
+        "attribute_code": "gender",
+        "count": 4,
+        "label": "Gender",
+        "position": null,
+        "options": [
+          {
+            "count": 0,
+            "label": "Male",
+            "value": "1"
+          },
+          {
+            "count": 5,
+            "label": "Men",
+            "value": "80"
+          },
+          {
+            "count": 5,
+            "label": "Women",
+            "value": "81"
+          },
+          {
+            "count": 1,
+            "label": "Unisex",
+            "value": "84"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_gear",
+        "count": 4,
+        "label": "Category",
+        "position": 0,
+        "options": [
+          {
+            "count": 9,
+            "label": "Electronic",
+            "value": "86"
+          },
+          {
+            "count": 7,
+            "label": "Exercise",
+            "value": "87"
+          },
+          {
+            "count": 2,
+            "label": "Fashion",
+            "value": "88"
+          },
+          {
+            "count": 9,
+            "label": "Timepiece",
+            "value": "90"
+          }
+        ]
+      },
+      {
+        "attribute_code": "new",
+        "count": 1,
+        "label": "New",
+        "position": 0,
+        "options": [
+          {
+            "count": 4,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "sale",
+        "count": 1,
+        "label": "Sale",
+        "position": 0,
+        "options": [
+          {
+            "count": 2,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      }
+    ]
+  }
+}

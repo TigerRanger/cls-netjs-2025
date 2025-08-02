@@ -1,0 +1,883 @@
+{
+  "categoryList": [
+    {
+      "id": 13,
+      "name": "Bottoms",
+      "description": null,
+      "canonical_url": "men/bottoms-men.html",
+      "children_count": "2",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 24,
+      "display_mode": null,
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": null,
+      "custom_title": null,
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "men/bottoms-men/pants-men.html",
+          "name": "Pants",
+          "position": 1,
+          "url_key": "pants-men"
+        },
+        {
+          "canonical_url": "men/bottoms-men/shorts-men.html",
+          "name": "Shorts",
+          "position": 2,
+          "url_key": "shorts-men"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 24,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 2,
+      "page_size": 15
+    },
+    "items": [
+      {
+        "canonical_url": "cronus-yoga-pant.html",
+        "id": 880,
+        "name": "Cronus Yoga Pant ",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "MP12",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/p/mp12-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 48,
+        "discount_percent": 0,
+        "url_key": "cronus-yoga-pant",
+        "image": {
+          "label": "Cronus Yoga Pant ",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 48
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "pierce-gym-short.html",
+        "id": 1028,
+        "name": "Pierce Gym Short",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "MSH12",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/msh12-red_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 27,
+        "discount_percent": 0,
+        "url_key": "pierce-gym-short",
+        "image": {
+          "label": "Pierce Gym Short",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 27
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "aether-gym-pant.html",
+        "id": 867,
+        "name": "Aether Gym Pant ",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "MP11",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/p/mp11-brown_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 74,
+        "discount_percent": 0,
+        "url_key": "aether-gym-pant",
+        "image": {
+          "label": "Aether Gym Pant ",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 74
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "arcadio-gym-short.html",
+        "id": 1015,
+        "name": "Arcadio Gym Short",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "MSH11",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/msh11-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 20,
+        "discount_percent": 0,
+        "url_key": "arcadio-gym-short",
+        "image": {
+          "label": "Arcadio Gym Short",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 20
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "orestes-yoga-pant.html",
+        "id": 854,
+        "name": "Orestes Yoga Pant ",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "MP10",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/p/mp10-black_main_4.jpg",
+        "product_type": "configurable",
+        "final_price": 66,
+        "discount_percent": 0,
+        "url_key": "orestes-yoga-pant",
+        "image": {
+          "label": "Orestes Yoga Pant ",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 66
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "sol-active-short.html",
+        "id": 1002,
+        "name": "Sol Active Short",
+        "new": 1,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "MSH10",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/msh10-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 32,
+        "discount_percent": 0,
+        "url_key": "sol-active-short",
+        "image": {
+          "label": "Sol Active Short",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 32
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "livingston-all-purpose-tight.html",
+        "id": 841,
+        "name": "Livingston All-Purpose Tight",
+        "new": 1,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "MP09",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/p/mp09-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 75,
+        "discount_percent": 0,
+        "url_key": "livingston-all-purpose-tight",
+        "image": {
+          "label": "Livingston All-Purpose Tight",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 75
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "troy-yoga-short.html",
+        "id": 989,
+        "name": "Troy Yoga Short",
+        "new": 0,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "MSH09",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/msh09-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 24,
+        "discount_percent": 0,
+        "url_key": "troy-yoga-short",
+        "image": {
+          "label": "Troy Yoga Short",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 24
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "zeppelin-yoga-pant.html",
+        "id": 828,
+        "name": "Zeppelin Yoga Pant",
+        "new": 1,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "MP08",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/p/mp08-green_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 82,
+        "discount_percent": 0,
+        "url_key": "zeppelin-yoga-pant",
+        "image": {
+          "label": "Zeppelin Yoga Pant",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 82
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "orestes-fitness-short.html",
+        "id": 976,
+        "name": "Orestes Fitness Short",
+        "new": 0,
+        "rating_summary": 60,
+        "review_count": 2,
+        "sku": "MSH08",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/msh08-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 35,
+        "discount_percent": 0,
+        "url_key": "orestes-fitness-short",
+        "image": {
+          "label": "Orestes Fitness Short",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 35
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "thorpe-track-pant.html",
+        "id": 815,
+        "name": "Thorpe Track Pant",
+        "new": 1,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "MP07",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/p/mp07-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 68,
+        "discount_percent": 0,
+        "url_key": "thorpe-track-pant",
+        "image": {
+          "label": "Thorpe Track Pant",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 68
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "rapha-sports-short.html",
+        "id": 963,
+        "name": "Rapha  Sports Short",
+        "new": 0,
+        "rating_summary": 87,
+        "review_count": 3,
+        "sku": "MSH07",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/msh07-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 35,
+        "discount_percent": 0,
+        "url_key": "rapha-sports-short",
+        "image": {
+          "label": "Rapha  Sports Short",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 35
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "mithra-warmup-pant.html",
+        "id": 802,
+        "name": "Mithra Warmup Pant",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "MP06",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/p/mp06-gray_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 28,
+        "discount_percent": 0,
+        "url_key": "mithra-warmup-pant",
+        "image": {
+          "label": "Mithra Warmup Pant",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 28
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "lono-yoga-short.html",
+        "id": 950,
+        "name": "Lono Yoga Short",
+        "new": 1,
+        "rating_summary": 70,
+        "review_count": 2,
+        "sku": "MSH06",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/msh06-gray_main_4.jpg",
+        "product_type": "configurable",
+        "final_price": 32,
+        "discount_percent": 0,
+        "url_key": "lono-yoga-short",
+        "image": {
+          "label": "Lono Yoga Short",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 32
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "kratos-gym-pant.html",
+        "id": 789,
+        "name": "Kratos Gym Pant",
+        "new": 1,
+        "rating_summary": 73,
+        "review_count": 3,
+        "sku": "MP05",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/p/mp05-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 57,
+        "discount_percent": 0,
+        "url_key": "kratos-gym-pant",
+        "image": {
+          "label": "Kratos Gym Pant",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 57
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 5,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 6,
+            "label": "20-30",
+            "value": "20_30"
+          },
+          {
+            "count": 10,
+            "label": "30-40",
+            "value": "30_40"
+          },
+          {
+            "count": 3,
+            "label": "40-50",
+            "value": "40_50"
+          },
+          {
+            "count": 3,
+            "label": "50-60",
+            "value": "50_60"
+          },
+          {
+            "count": 2,
+            "label": "60-70",
+            "value": "60_70"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 9,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 24,
+            "label": "Bottoms",
+            "value": "MTM="
+          },
+          {
+            "count": 12,
+            "label": "Shorts",
+            "value": "MTk="
+          },
+          {
+            "count": 3,
+            "label": "Men Sale",
+            "value": "MzE="
+          },
+          {
+            "count": 7,
+            "label": "New Luma Yoga Collection",
+            "value": "OA=="
+          },
+          {
+            "count": 4,
+            "label": "Performance Fabrics",
+            "value": "MzU="
+          },
+          {
+            "count": 5,
+            "label": "Erin Recommends",
+            "value": "MzQ="
+          },
+          {
+            "count": 12,
+            "label": "Pants",
+            "value": "MTg="
+          },
+          {
+            "count": 12,
+            "label": "Pants",
+            "value": "MzI="
+          },
+          {
+            "count": 1,
+            "label": "Eco Friendly",
+            "value": "MzY="
+          }
+        ]
+      },
+      {
+        "attribute_code": "material",
+        "count": 15,
+        "label": "Material",
+        "position": 0,
+        "options": [
+          {
+            "count": 3,
+            "label": "Cocona&reg; performance fabric",
+            "value": "142"
+          },
+          {
+            "count": 2,
+            "label": "Cotton",
+            "value": "33"
+          },
+          {
+            "count": 4,
+            "label": "Fleece",
+            "value": "144"
+          },
+          {
+            "count": 2,
+            "label": "Hemp",
+            "value": "145"
+          },
+          {
+            "count": 2,
+            "label": "Mesh",
+            "value": "36"
+          },
+          {
+            "count": 6,
+            "label": "LumaTech&trade;",
+            "value": "147"
+          },
+          {
+            "count": 5,
+            "label": "Nylon",
+            "value": "37"
+          },
+          {
+            "count": 2,
+            "label": "Lycra&reg;",
+            "value": "148"
+          },
+          {
+            "count": 15,
+            "label": "Polyester",
+            "value": "38"
+          },
+          {
+            "count": 8,
+            "label": "Rayon",
+            "value": "39"
+          },
+          {
+            "count": 11,
+            "label": "Spandex",
+            "value": "150"
+          },
+          {
+            "count": 3,
+            "label": "Organic Cotton",
+            "value": "153"
+          },
+          {
+            "count": 7,
+            "label": "CoolTech&trade;",
+            "value": "155"
+          },
+          {
+            "count": 1,
+            "label": "Linen",
+            "value": "157"
+          },
+          {
+            "count": 9,
+            "label": "Wool",
+            "value": "158"
+          }
+        ]
+      },
+      {
+        "attribute_code": "eco_collection",
+        "count": 2,
+        "label": "Eco Collection",
+        "position": 0,
+        "options": [
+          {
+            "count": 23,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 1,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "performance_fabric",
+        "count": 2,
+        "label": "Performance Fabric",
+        "position": 0,
+        "options": [
+          {
+            "count": 17,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 7,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "erin_recommends",
+        "count": 2,
+        "label": "Erin Recommends",
+        "position": 0,
+        "options": [
+          {
+            "count": 19,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 5,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "new",
+        "count": 2,
+        "label": "New",
+        "position": 0,
+        "options": [
+          {
+            "count": 17,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 7,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "sale",
+        "count": 2,
+        "label": "Sale",
+        "position": 0,
+        "options": [
+          {
+            "count": 21,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 3,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "style_bottom",
+        "count": 7,
+        "label": "Style",
+        "position": 0,
+        "options": [
+          {
+            "count": 15,
+            "label": "Base Layer",
+            "value": "104"
+          },
+          {
+            "count": 5,
+            "label": "Compression",
+            "value": "107"
+          },
+          {
+            "count": 4,
+            "label": "Leggings",
+            "value": "108"
+          },
+          {
+            "count": 8,
+            "label": "Sweatpants",
+            "value": "112"
+          },
+          {
+            "count": 1,
+            "label": "Tights",
+            "value": "113"
+          },
+          {
+            "count": 10,
+            "label": "Track Pants",
+            "value": "114"
+          },
+          {
+            "count": 23,
+            "label": "Workout Pants",
+            "value": "115"
+          }
+        ]
+      },
+      {
+        "attribute_code": "pattern",
+        "count": 2,
+        "label": "Pattern",
+        "position": 0,
+        "options": [
+          {
+            "count": 24,
+            "label": "Solid",
+            "value": "196"
+          },
+          {
+            "count": 2,
+            "label": "Striped",
+            "value": "198"
+          }
+        ]
+      },
+      {
+        "attribute_code": "climate",
+        "count": 11,
+        "label": "Climate",
+        "position": 0,
+        "options": [
+          {
+            "count": 13,
+            "label": "All-Weather",
+            "value": "201"
+          },
+          {
+            "count": 6,
+            "label": "Cold",
+            "value": "202"
+          },
+          {
+            "count": 11,
+            "label": "Cool",
+            "value": "203"
+          },
+          {
+            "count": 15,
+            "label": "Indoor",
+            "value": "204"
+          },
+          {
+            "count": 5,
+            "label": "Mild",
+            "value": "205"
+          },
+          {
+            "count": 1,
+            "label": "Rainy",
+            "value": "206"
+          },
+          {
+            "count": 12,
+            "label": "Spring",
+            "value": "207"
+          },
+          {
+            "count": 10,
+            "label": "Warm",
+            "value": "208"
+          },
+          {
+            "count": 9,
+            "label": "Windy",
+            "value": "209"
+          },
+          {
+            "count": 10,
+            "label": "Wintry",
+            "value": "210"
+          },
+          {
+            "count": 8,
+            "label": "Hot",
+            "value": "211"
+          }
+        ]
+      }
+    ]
+  }
+}

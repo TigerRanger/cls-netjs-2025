@@ -1,0 +1,635 @@
+{
+  "categoryList": [
+    {
+      "id": 16,
+      "name": "Tees",
+      "description": null,
+      "canonical_url": "men/tops-men/tees-men.html",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 12,
+      "display_mode": null,
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": null,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 12,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 15
+    },
+    "items": [
+      {
+        "canonical_url": "strike-endurance-tee.html",
+        "id": 622,
+        "name": "Strike Endurance Tee",
+        "new": 1,
+        "rating_summary": 65,
+        "review_count": 4,
+        "sku": "MS08",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/ms08-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 39,
+        "discount_percent": 0,
+        "url_key": "strike-endurance-tee",
+        "image": {
+          "label": "Strike Endurance Tee",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 39
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "deion-long-sleeve-evercool-trade-tee.html",
+        "id": 606,
+        "name": "Deion Long-Sleeve EverCool&trade; Tee",
+        "new": 0,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "MS07",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/ms07-green_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 39,
+        "discount_percent": 0,
+        "url_key": "deion-long-sleeve-evercool-trade-tee",
+        "image": {
+          "label": "Deion Long-Sleeve EverCool&trade; Tee",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 39
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "logan-heattec-reg-tee.html",
+        "id": 590,
+        "name": "Logan  HeatTec&reg; Tee",
+        "new": 0,
+        "rating_summary": 60,
+        "review_count": 3,
+        "sku": "MS10",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/ms10-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 24,
+        "discount_percent": 0,
+        "url_key": "logan-heattec-reg-tee",
+        "image": {
+          "label": "Logan  HeatTec&reg; Tee",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 24
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "ryker-lumatech-trade-tee-v-neck.html",
+        "id": 574,
+        "name": "Ryker LumaTech&trade; Tee (V-neck)",
+        "new": 0,
+        "rating_summary": 90,
+        "review_count": 2,
+        "sku": "MS02",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/ms02-gray_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 28,
+        "discount_percent": 0,
+        "url_key": "ryker-lumatech-trade-tee-v-neck",
+        "image": {
+          "label": "Ryker LumaTech&trade; Tee (V-neck)",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 28
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "aero-daily-fitness-tee.html",
+        "id": 558,
+        "name": "Aero Daily Fitness Tee",
+        "new": 0,
+        "rating_summary": 80,
+        "review_count": 3,
+        "sku": "MS01",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/ms01-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 24,
+        "discount_percent": 0,
+        "url_key": "aero-daily-fitness-tee",
+        "image": {
+          "label": "Aero Daily Fitness Tee",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 24
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "zoltan-gym-tee.html",
+        "id": 542,
+        "name": "Zoltan Gym Tee",
+        "new": 1,
+        "rating_summary": 70,
+        "review_count": 2,
+        "sku": "MS06",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/ms06-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 29,
+        "discount_percent": 0,
+        "url_key": "zoltan-gym-tee",
+        "image": {
+          "label": "Zoltan Gym Tee",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 29
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "balboa-persistence-tee.html",
+        "id": 526,
+        "name": "Balboa Persistence Tee",
+        "new": 0,
+        "rating_summary": 60,
+        "review_count": 2,
+        "sku": "MS03",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/ms03-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 29,
+        "discount_percent": 0,
+        "url_key": "balboa-persistence-tee",
+        "image": {
+          "label": "Balboa Persistence Tee",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 29
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "atomic-endurance-running-tee-crew-neck.html",
+        "id": 510,
+        "name": "Atomic Endurance Running Tee (Crew-Neck)",
+        "new": 1,
+        "rating_summary": 53,
+        "review_count": 3,
+        "sku": "MS12",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/ms12-red_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 29,
+        "discount_percent": 0,
+        "url_key": "atomic-endurance-running-tee-crew-neck",
+        "image": {
+          "label": "Atomic Endurance Running Tee (Crew-Neck)",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 29
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "atomic-endurance-running-tee-v-neck.html",
+        "id": 494,
+        "name": "Atomic Endurance Running Tee (V-neck)",
+        "new": 0,
+        "rating_summary": 80,
+        "review_count": 3,
+        "sku": "MS11",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/ms11-green_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 28,
+        "discount_percent": 0,
+        "url_key": "atomic-endurance-running-tee-v-neck",
+        "image": {
+          "label": "Atomic Endurance Running Tee (V-neck)",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 28
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "ryker-lumatech-trade-tee-crew-neck.html",
+        "id": 478,
+        "name": "Ryker LumaTech&trade; Tee (Crew-neck)",
+        "new": 0,
+        "rating_summary": 73,
+        "review_count": 3,
+        "sku": "MS09",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/ms09-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 32,
+        "discount_percent": 0,
+        "url_key": "ryker-lumatech-trade-tee-crew-neck",
+        "image": {
+          "label": "Ryker LumaTech&trade; Tee (Crew-neck)",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 32
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "helios-evercool-trade-tee.html",
+        "id": 462,
+        "name": "Helios EverCool&trade; Tee",
+        "new": 0,
+        "rating_summary": 80,
+        "review_count": 3,
+        "sku": "MS05",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/ms05-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 24,
+        "discount_percent": 0,
+        "url_key": "helios-evercool-trade-tee",
+        "image": {
+          "label": "Helios EverCool&trade; Tee",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 24
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "gobi-heattec-reg-tee.html",
+        "id": 446,
+        "name": "Gobi HeatTec&reg; Tee",
+        "new": 1,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "MS04",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/ms04-orange_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 29,
+        "discount_percent": 0,
+        "url_key": "gobi-heattec-reg-tee",
+        "image": {
+          "label": "Gobi HeatTec&reg; Tee",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 29
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 2,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 9,
+            "label": "20-30",
+            "value": "20_30"
+          },
+          {
+            "count": 3,
+            "label": "30-40",
+            "value": "30_40"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 3,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 12,
+            "label": "Tops",
+            "value": "MTI="
+          },
+          {
+            "count": 12,
+            "label": "Tees",
+            "value": "MTY="
+          },
+          {
+            "count": 1,
+            "label": "Eco Friendly",
+            "value": "MzY="
+          }
+        ]
+      },
+      {
+        "attribute_code": "material",
+        "count": 9,
+        "label": "Material",
+        "position": 0,
+        "options": [
+          {
+            "count": 4,
+            "label": "Cocona&reg; performance fabric",
+            "value": "142"
+          },
+          {
+            "count": 3,
+            "label": "Cotton",
+            "value": "33"
+          },
+          {
+            "count": 2,
+            "label": "LumaTech&trade;",
+            "value": "147"
+          },
+          {
+            "count": 1,
+            "label": "Lycra&reg;",
+            "value": "148"
+          },
+          {
+            "count": 8,
+            "label": "Polyester",
+            "value": "38"
+          },
+          {
+            "count": 1,
+            "label": "Rayon",
+            "value": "39"
+          },
+          {
+            "count": 2,
+            "label": "HeatTec&reg;",
+            "value": "151"
+          },
+          {
+            "count": 2,
+            "label": "EverCool&trade;",
+            "value": "152"
+          },
+          {
+            "count": 6,
+            "label": "Organic Cotton",
+            "value": "153"
+          }
+        ]
+      },
+      {
+        "attribute_code": "eco_collection",
+        "count": 2,
+        "label": "Eco Collection",
+        "position": 0,
+        "options": [
+          {
+            "count": 11,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 1,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "performance_fabric",
+        "count": 2,
+        "label": "Performance Fabric",
+        "position": 0,
+        "options": [
+          {
+            "count": 8,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 4,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "erin_recommends",
+        "count": 2,
+        "label": "Erin Recommends",
+        "position": 0,
+        "options": [
+          {
+            "count": 9,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 3,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "new",
+        "count": 2,
+        "label": "New",
+        "position": 0,
+        "options": [
+          {
+            "count": 8,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 4,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "sale",
+        "count": 2,
+        "label": "Sale",
+        "position": 0,
+        "options": [
+          {
+            "count": 10,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 2,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "style_general",
+        "count": 1,
+        "label": "Style",
+        "position": 0,
+        "options": [
+          {
+            "count": 12,
+            "label": "Tee",
+            "value": "135"
+          }
+        ]
+      },
+      {
+        "attribute_code": "pattern",
+        "count": 1,
+        "label": "Pattern",
+        "position": 0,
+        "options": [
+          {
+            "count": 12,
+            "label": "Solid",
+            "value": "196"
+          }
+        ]
+      },
+      {
+        "attribute_code": "climate",
+        "count": 4,
+        "label": "Climate",
+        "position": 0,
+        "options": [
+          {
+            "count": 12,
+            "label": "All-Weather",
+            "value": "201"
+          },
+          {
+            "count": 2,
+            "label": "Cool",
+            "value": "203"
+          },
+          {
+            "count": 12,
+            "label": "Indoor",
+            "value": "204"
+          },
+          {
+            "count": 12,
+            "label": "Warm",
+            "value": "208"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+[
+  {
+    "id": 38,
+    "name": "Feature Products",
+    "url": "what-is-new",
+    "canonical_url": "what-is-new.html",
+    "type": "Drop Down"
+  },
+  {
+    "id": 23,
+    "name": "Jackets",
+    "url": "jackets-women",
+    "canonical_url": "women/tops-women/jackets-women.html",
+    "type": "magento"
+  },
+  {
+    "id": 24,
+    "name": "Hoodies & Sweatshirts",
+    "url": "hoodies-and-sweatshirts-women",
+    "canonical_url": "women/tops-women/hoodies-and-sweatshirts-women.html",
+    "type": "magento"
+  },
+  {
+    "id": 25,
+    "name": "Tees",
+    "url": "tees-women",
+    "canonical_url": "women/tops-women/tees-women.html",
+    "type": "magento"
+  },
+  {
+    "id": 26,
+    "name": "Bras & Tanks",
+    "url": "tanks-women",
+    "canonical_url": "women/tops-women/tanks-women.html",
+    "type": "magento"
+  },
+  {
+    "id": 21,
+    "name": "Women Tops",
+    "url": "tops-women",
+    "canonical_url": "women/tops-women.html",
+    "type": "magento"
+  },
+  {
+    "id": 27,
+    "name": "Pants",
+    "url": "pants-women",
+    "canonical_url": "women/bottoms-women/pants-women.html",
+    "type": "magento"
+  },
+  {
+    "id": 28,
+    "name": "Shorts",
+    "url": "shorts-women",
+    "canonical_url": "women/bottoms-women/shorts-women.html",
+    "type": "magento"
+  },
+  {
+    "id": 22,
+    "name": "Women Bottoms",
+    "url": "bottoms-women",
+    "canonical_url": "women/bottoms-women.html",
+    "type": "magento"
+  },
+  {
+    "id": 20,
+    "name": "Women Collection",
+    "url": "women",
+    "canonical_url": "women.html",
+    "type": "Mega"
+  },
+  {
+    "id": 41,
+    "name": "Black jacket",
+    "url": "black-jacket",
+    "canonical_url": "men/tops-men/jackets-men/black-jacket.html",
+    "type": "magento"
+  },
+  {
+    "id": 42,
+    "name": "RED Jacket",
+    "url": "red-jacket",
+    "canonical_url": "men/tops-men/jackets-men/red-jacket.html",
+    "type": "magento"
+  },
+  {
+    "id": 14,
+    "name": "Jackets",
+    "url": "jackets-men",
+    "canonical_url": "men/tops-men/jackets-men.html",
+    "type": "magento"
+  },
+  {
+    "id": 15,
+    "name": "Hoodies & Sweatshirts",
+    "url": "hoodies-and-sweatshirts-men",
+    "canonical_url": "men/tops-men/hoodies-and-sweatshirts-men.html",
+    "type": "magento"
+  },
+  {
+    "id": 16,
+    "name": "Tees",
+    "url": "tees-men",
+    "canonical_url": "men/tops-men/tees-men.html",
+    "type": "magento"
+  },
+  {
+    "id": 17,
+    "name": "Tanks",
+    "url": "tanks-men",
+    "canonical_url": "men/tops-men/tanks-men.html",
+    "type": "magento"
+  },
+  {
+    "id": 12,
+    "name": "Tops",
+    "url": "tops-men",
+    "canonical_url": "men/tops-men.html",
+    "type": "magento"
+  },
+  {
+    "id": 18,
+    "name": "Pants",
+    "url": "pants-men",
+    "canonical_url": "men/bottoms-men/pants-men.html",
+    "type": "magento"
+  },
+  {
+    "id": 19,
+    "name": "Shorts",
+    "url": "shorts-men",
+    "canonical_url": "men/bottoms-men/shorts-men.html",
+    "type": "magento"
+  },
+  {
+    "id": 13,
+    "name": "Bottoms",
+    "url": "bottoms-men",
+    "canonical_url": "men/bottoms-men.html",
+    "type": "magento"
+  },
+  {
+    "id": 11,
+    "name": "Men",
+    "url": "men",
+    "canonical_url": "men.html",
+    "type": "Mega"
+  },
+  {
+    "id": 4,
+    "name": "Bags",
+    "url": "bags",
+    "canonical_url": "gear/bags.html",
+    "type": "magento"
+  },
+  {
+    "id": 5,
+    "name": "Fitness Equipment",
+    "url": "fitness-equipment",
+    "canonical_url": "gear/fitness-equipment.html",
+    "type": "magento"
+  },
+  {
+    "id": 6,
+    "name": "Watches",
+    "url": "watches",
+    "canonical_url": "gear/watches.html",
+    "type": "magento"
+  },
+  {
+    "id": 3,
+    "name": "Gear",
+    "url": "gear",
+    "canonical_url": "gear.html",
+    "type": "Drop Down"
+  },
+  {
+    "id": 8,
+    "name": "New Luma Yoga Collection",
+    "url": "yoga-new",
+    "canonical_url": "collections/yoga-new.html",
+    "type": "magento"
+  },
+  {
+    "id": 34,
+    "name": "Erin Recommends",
+    "url": "erin-recommends",
+    "canonical_url": "collections/erin-recommends.html",
+    "type": "magento"
+  },
+  {
+    "id": 35,
+    "name": "Performance Fabrics",
+    "url": "performance-fabrics",
+    "canonical_url": "collections/performance-fabrics.html",
+    "type": "magento"
+  },
+  {
+    "id": 36,
+    "name": "Eco Friendly",
+    "url": "eco-friendly",
+    "canonical_url": "collections/eco-friendly.html",
+    "type": "magento"
+  },
+  {
+    "id": 39,
+    "name": "Performance Sportswear New",
+    "url": "performance-new",
+    "canonical_url": "collections/performance-new.html",
+    "type": "magento"
+  },
+  {
+    "id": 40,
+    "name": "Eco Collection New",
+    "url": "eco-new",
+    "canonical_url": "collections/eco-new.html",
+    "type": "magento"
+  },
+  {
+    "id": 7,
+    "name": "Collections",
+    "url": "collections",
+    "canonical_url": "collections.html",
+    "type": "Mega"
+  },
+  {
+    "id": 10,
+    "name": "Video Download",
+    "url": "training-video",
+    "canonical_url": "training/training-video.html",
+    "type": "magento"
+  },
+  {
+    "id": 9,
+    "name": "Training",
+    "url": "training",
+    "canonical_url": "training.html",
+    "type": "Drop Down"
+  },
+  {
+    "id": 37,
+    "name": "Sale",
+    "url": "sale",
+    "canonical_url": "sale.html",
+    "type": "Drop Down"
+  },
+  {
+    "id": 2,
+    "name": "Default Category",
+    "url": "default-category",
+    "canonical_url": "catalog/category/view/s/default-category/id/2/",
+    "type": "magento"
+  }
+]

@@ -1,0 +1,150 @@
+.hidden-block {
+    padding: 30px 0;
+    background: #f0f0f0;
+
+    .visible-title{
+        margin-bottom: 0;
+    }
+}
+
+.hidden-block h1, 
+.hidden-block h2, 
+.hidden-block h3, 
+.hidden-block h4, 
+.hidden-block h5, 
+.hidden-block h6 {
+    padding: 10px 0;
+    margin-top: 10px;
+}
+
+.hidden-block h2 {
+    font-size: 1.5rem;
+    color: #1661a3;
+}
+
+.hidden-block h3 {
+    font-size: 1.4rem;
+}
+
+.hidden-block h4, 
+.hidden-block h5, 
+.hidden-block h6 {
+    font-size: 1.3rem;
+}
+
+.hidden-block p {
+    word-wrap: break-word;
+    letter-spacing: 1px;
+    text-align: justify;
+    font-size: 0.9rem;
+    color: #5f5e5e;
+}
+
+.hidden-block a {
+    color: black;
+    font-weight: bold;
+}
+
+.hidden-block a:hover {
+    color: #1661a3;
+}
+
+.hidden-block ul {
+    list-style: none;
+    margin: 20px 0;
+    padding: 0;
+}
+
+.hidden-block ul li {
+    padding-left: 20px;
+    position: relative;
+    line-height: 30px;
+}
+
+.hidden-block ul li::before {
+    content: "";
+    position: absolute;
+    border: 1px solid #1661a3;
+    width: 8px;
+    height: 8px;
+    left: 0;
+    top: 12px;
+    background: #1661a3;
+}
+
+.hidden-block ol {
+    padding: 0;
+    margin: 20px 0;
+    list-style: none;
+    counter-reset: item;
+}
+
+.hidden-block ol li {
+    padding-left: 32px;
+    position: relative;
+    line-height: 40px;
+}
+
+.hidden-block ol li::before {
+    content: counter(item);
+    counter-increment: item;
+    position: absolute;
+    left: 0;
+    top: 9px;
+    width: 25px;
+    height: 25px;
+    background-color:#1661a3;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.9rem;
+}
+
+.hidden-container {
+    overflow: hidden;
+    height: 0;
+    opacity: 0;
+    transition: height 0.5s ease, opacity 0.5s ease;
+  }
+  
+  .hidden-container.show {
+    opacity: 1;
+  }
+  
+  .hidden-container.hide {
+    opacity: 0;
+  }
+  
+  .btn-container {
+    margin: 10px 0;
+    display: flex;
+    justify-content: start;
+  }
+  
+ 
+ .common-btn.hidden-btn {
+	color: #0859a1;
+	cursor: pointer;
+    border:none;
+    background: none;
+    padding: 0;
+
+    &:hover {
+        color: #1661a3;
+        text-decoration: underline;
+    }
+}
+
+ 
+.h-d-r {
+	background-color: #fff;
+	padding: 10px 20px;
+}
+ 
+.visible-container {
+	font-size: 15px;
+	line-height: 30px;
+	color: #464545;
+	margin: 10px 0;
+}

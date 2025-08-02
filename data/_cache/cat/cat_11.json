@@ -1,0 +1,48 @@
+{
+  "categoryList": [
+    {
+      "id": 11,
+      "name": "Men",
+      "description": null,
+      "canonical_url": "men.html",
+      "children_count": "2",
+      "image": null,
+      "is_anchor": 0,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 0,
+      "display_mode": "PAGE",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 0,
+      "custom_title": null,
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "men/tops-men.html",
+          "name": "Tops",
+          "position": 1,
+          "url_key": "tops-men"
+        },
+        {
+          "canonical_url": "men/bottoms-men.html",
+          "name": "Bottoms",
+          "position": 2,
+          "url_key": "bottoms-men"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 15
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

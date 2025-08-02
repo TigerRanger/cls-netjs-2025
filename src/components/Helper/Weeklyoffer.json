@@ -1,0 +1,152 @@
+{
+  "endTime": "2025-05-10T23:59:59",
+  "products": [
+    {
+      "id": 1,
+      "name": "Gaming Laptop - Intel Core Ultra 7-155H - RTX 4060 (14\")",
+      "sku": "CLS11503",
+      "image": {
+        "url": "https://cls-computer.de/pub/media/catalog/product/cache/ed8ce1ad996822abbdff7eddf8c39701/v/5/v540tnd-1.jpg",
+        "label": "Gaming Laptop - Intel Core Ultra 7-155H - RTX 4060 (14\")"
+      },
+      "url_key": "#",
+      "special_price": 1587,
+      "price": {
+        "regularPrice": {
+          "amount": {
+            "value": 1620,
+            "currency": "€"
+          }
+        }
+      },
+      "rating_summary": 100,
+      "review_count": 3
+    },
+    {
+      "id": 2,
+      "name": "Gaming Laptop - 17.3\" - AMD Ryzen 9 7945HX - RTX 4080",
+      "sku": "CLS23501",
+      "image": {
+        "url": "https://cls-computer.de/pub/media/catalog/product/cache/ed8ce1ad996822abbdff7eddf8c39701/c/l/cls113120-400.jpg",
+        "label": "Gaming Laptop - 17.3\" - AMD Ryzen 9 7945HX - RTX 4080"
+      },
+      "url_key": "#",
+      "special_price": 3738,
+      "price": {
+        "regularPrice": {
+          "amount": {
+            "value": 3750,
+            "currency": "€"
+          }
+        }
+      },
+      "rating_summary": 80,
+      "review_count": 4
+    },
+    {
+      "id": 3,
+      "name": "14\" Office Laptop HP ProBook 445 G10 Pike Silver AMD Ryzen 7 7730U",
+      "sku": "CLS21511",
+      "image": {
+        "url": "https://cls-computer.de/pub/media/catalog/product/cache/ed8ce1ad996822abbdff7eddf8c39701/c/l/cls113001-501.webp",
+        "label": "14\" Office Laptop HP ProBook 445 G10 Pike Silver AMD Ryzen 7 7730U"
+      },
+      "url_key": "#",
+      "special_price": 1082,
+      "price": {
+        "regularPrice": {
+          "amount": {
+            "value": 1100,
+            "currency": "€"
+          }
+        }
+      },
+      "rating_summary": 100,
+      "review_count": 5
+    },
+    {
+      "id": 4,
+      "name": "Gaming Laptop - Intel Core i9-14900HX - RTX 4050 (17.3\")",
+      "sku": "CLS11523",
+      "image": {
+        "url": "https://cls-computer.de/pub/media/catalog/product/cache/ed8ce1ad996822abbdff7eddf8c39701/n/p/np70snc-1_3.jpg",
+        "label": "Gaming Laptop - Intel Core i9-14900HX - RTX 4050 (17.3\")"
+      },
+      "url_key": "#",
+      "special_price": 1581,
+      "price": {
+        "regularPrice": {
+          "amount": {
+            "value": 1620,
+            "currency": "€"
+          }
+        }
+      },
+      "rating_summary": 100,
+      "review_count": 1
+    },
+    {
+      "id": 5,
+      "name": "Gaming Laptop - Intel Core i9-14900HX - RTX 4080 (17\")",
+      "sku": "CLS11507",
+      "image": {
+        "url": "https://cls-computer.de/pub/media/catalog/product/cache/ed8ce1ad996822abbdff7eddf8c39701/g/m/gm7ix8n-1.jpg",
+        "label": "Gaming Laptop - Intel Core i9-14900HX - RTX 4080 (17\")"
+      },
+      "url_key": "#",
+      "special_price": 2801,
+      "price": {
+        "regularPrice": {
+          "amount": {
+            "value": 2821,
+            "currency": "€"
+          }
+        }
+      },
+      "rating_summary": 100,
+      "review_count": 2
+    },
+    {
+      "id": 6,
+      "name": "Gaming Laptop - Intel Core Ultra 7-155H - RTX 4050 (14\")",
+      "sku": "CLS21500",
+      "image": {
+        "url": "https://cls-computer.de/pub/media/catalog/product/cache/ed8ce1ad996822abbdff7eddf8c39701/v/5/v540tnc-1_1.jpg",
+        "label": "Gaming Laptop - Intel Core Ultra 7-155H - RTX 4050 (14\")"
+      },
+      "url_key": "#",
+      "special_price": 1517,
+      "price": {
+        "regularPrice": {
+          "amount": {
+            "value": 1520,
+            "currency": "€"
+          }
+        }
+      },
+      "rating_summary": 80,
+      "review_count": 4
+    },
+    {
+      "id": 7,
+      "name": "Gaming Laptop - Intel Core i9-14900HX - RTX 4090 (17.3\")",
+      "sku": "CLS31509",
+      "image": {
+        "url": "https://cls-computer.de/pub/media/catalog/product/cache/ed8ce1ad996822abbdff7eddf8c39701/x/3/x370snw-g-1_1.jpg",
+        "label": "Gaming Laptop - Intel Core i9-14900HX - RTX 4090 (17.3\")"
+      },
+      "url_key": "#",
+      "special_price": 3432,
+      "price": {
+        "regularPrice": {
+          "amount": {
+            "value": 3450,
+            "currency": "€"
+          }
+        }
+      },
+      "rating_summary": 100,
+      "review_count": 5
+    }
+  ]
+}

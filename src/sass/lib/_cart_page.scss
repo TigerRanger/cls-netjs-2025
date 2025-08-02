@@ -1,0 +1,264 @@
+.cart-item-page {
+  padding: 5px 0;
+  background: #f2f3f7;
+  h1 {
+    color: #0057a6;
+    font-size: 1.4rem;
+    margin: 10px 0;
+    text-align: center;
+    background: white;
+    padding: 12px 15px;
+  }
+
+ .Empty_box {
+    text-align: left;
+    padding: 40px;
+    background: #f8f8f8;
+    border-radius: 8px;
+    color: #3b3b3b;
+    margin-bottom: 20px;
+
+
+    p {
+      margin: 10px 0;
+      font-size: 16px;
+    }
+
+    a {
+      color: #0072ce;
+      text-decoration: underline;
+    }
+  }
+
+}
+
+
+.cart-product-page{
+  margin-bottom: 40px;
+
+
+ .input-text.qty {
+	width: 40px;
+	height: 40px;
+	text-align: center;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+
+.col-xs-12.col-md-3.oneline {
+	text-align: right;
+
+}
+
+.Delete_item {
+	background: none;
+	border: none;
+}
+
+    label  span{
+      border: 0;
+      clip: rect(0, 0, 0, 0);
+      height: 1px;
+      margin: -1px;
+      overflow: hidden;
+      padding: 0;
+      position: absolute;
+      width: 1px;
+    }
+
+    h3.product-name {
+	  font-size: 18px;
+    font-weight: bold;
+    }
+    .row.item {
+        background: #fff;
+        margin: 5px 0;
+        padding: 7px 0;
+          padding-bottom: 7px;
+        align-items: center;
+        padding-bottom: 0;
+    }
+
+    .row.item.headline{
+      padding: 10px 0;
+      background: #0057a6;
+      color: white;
+
+    }
+
+      .data.table.totals {
+        max-width: 400px;
+        width: 100%;
+        margin: 10px 0;
+          td{
+            padding: 10px 0;
+          }
+          th{
+            padding: 10px 0;
+          }
+
+          td.amount{
+            text-align: right;
+          }
+      }
+
+    .cart-price {
+	  color: #393939;
+	  font-weight: bold;
+    }
+    .final-price {
+      color: #0a437e;
+      font-weight: bold;
+    }
+
+}
+
+.u_button {
+	background: whitesmoke;
+	border: none;
+	font-size: 14px;
+	padding: 5px 10px;
+	border-radius: 5px;
+	box-shadow: rgba(67, 71, 85, 0.27) 0px 0px 0.25em, rgba(90, 125, 188, 0.05) 0px 0.25em 1em;
+	border: 1px solid #e6e6e6;
+}
+
+.qty-block {
+	display: flex;
+	gap: 15px;
+	align-items: center;
+	justify-content: space-between;
+}
+
+
+.side-sticky {
+	background: #f5f5f5;
+	padding: 10px 20px;
+	box-shadow: rgba(164, 164, 164, 0.15) 0px 5px 15px 0px;
+  position: sticky;
+  top: 10px;
+  z-index: 1;
+
+
+  table *{
+    background: none;
+  }
+
+  .table-caption {
+	display: none;
+  }
+}
+
+
+@media (max-width:768){
+  .row.item.headline{
+    display: none;
+  }
+}
+
+
+.c_button.action.primary {
+	background: #0669c6;
+	color: white;
+	border: none;
+	width: 100%;
+	padding: 14px 18px;
+	max-width: 380px;
+	margin: 0 auto;
+	display: block;
+	margin-bottom: 20px;
+	font-size: 19px;
+  transition : all 0.2s ease-in;
+   &:hover{
+      background: #0a437e;
+   }
+}
+
+
+
+.title.toggle-header{
+  width: 100%;
+  cursor: pointer;
+  position: relative;
+  padding: 10px 0;
+	border-bottom: 1px solid #e0e4e7;
+  &:after{
+content: "";
+  border: solid #868484;
+    border-top-width: medium;
+    border-right-width: medium;
+    border-bottom-width: medium;
+    border-left-width: medium;
+    border-top-width: medium;
+    border-right-width: medium;
+    border-bottom-width: medium;
+    border-left-width: medium;
+    border-width: 0 2px 2px 0;
+   
+  padding: 4px;
+  transform: rotate(-135deg);
+  position: absolute;
+  top: 10px;
+  right: 6px;
+
+  }
+}
+
+
+.title.toggle-header.active{
+
+    &:after{
+      transform: rotate(45deg);
+  }
+
+}
+
+.estimate-box {
+	width: 100%;
+
+   label{
+      width: 100%;
+      clear: both;
+      display: block;
+      padding: 7px 0;
+      font-weight: bold;
+      color: #5e5e5e;
+      margin: 5px  0;
+   }
+
+    select , input {
+      width: 100%;
+      background: white;
+      border: 1px solid #e4e4e4;
+      padding: 8px 12px;
+    }
+    
+  max-height: 0;
+  transition: max-height 0.3s ease-in-out, opacity 0.3s ease;
+  opacity: 0;
+  pointer-events: none;
+
+  &.open {
+    max-height: 500px; // adjust as needed
+    opacity: 1;
+    pointer-events: auto;
+  }
+
+}
+
+.c_button.action.secondary {
+	margin: 15px 0;
+	background: white;
+	padding: 5px 10px;
+	border: 1px solid #c3bdbd;
+	color: #454444;
+	cursor: pointer;
+  transition: all 0.3s ease-in-out;
+
+   &:hover{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+   }
+}

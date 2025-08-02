@@ -1,0 +1,1043 @@
+{
+  "categoryList": [
+    {
+      "id": 3,
+      "name": "Gear",
+      "description": null,
+      "canonical_url": "gear.html",
+      "children_count": "3",
+      "image": null,
+      "is_anchor": 0,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 34,
+      "display_mode": "PAGE",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 0,
+      "custom_title": null,
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "gear/bags.html",
+          "name": "Bags",
+          "position": 1,
+          "url_key": "bags"
+        },
+        {
+          "canonical_url": "gear/fitness-equipment.html",
+          "name": "Fitness Equipment",
+          "position": 2,
+          "url_key": "fitness-equipment"
+        },
+        {
+          "canonical_url": "gear/watches.html",
+          "name": "Watches",
+          "position": 3,
+          "url_key": "watches"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 34,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 3,
+      "page_size": 15
+    },
+    "items": [
+      {
+        "canonical_url": "set-of-sprite-yoga-straps.html",
+        "id": 46,
+        "name": "Set of Sprite Yoga Straps",
+        "new": null,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "24-WG085_Group",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/l/u/luma-yoga-strap-set.jpg",
+        "product_type": "grouped",
+        "final_price": 0,
+        "discount_percent": 0,
+        "url_key": "set-of-sprite-yoga-straps",
+        "image": {
+          "label": "Set of Sprite Yoga Straps",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 0
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "sprite-yoga-companion-kit.html",
+        "id": 45,
+        "name": "Sprite Yoga Companion Kit",
+        "new": null,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "24-WG080",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/l/u/luma-yoga-kit-2.jpg",
+        "product_type": "bundle",
+        "final_price": 0,
+        "discount_percent": 0,
+        "url_key": "sprite-yoga-companion-kit",
+        "image": {
+          "label": "Sprite Yoga Companion Kit",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 61
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "didi-sport-watch.html",
+        "id": 44,
+        "name": "Didi Sport Watch",
+        "new": 1,
+        "rating_summary": 70,
+        "review_count": 2,
+        "sku": "24-WG02",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/g/wg02-bk-0.jpg",
+        "product_type": "simple",
+        "final_price": 92,
+        "discount_percent": 0,
+        "url_key": "didi-sport-watch",
+        "image": {
+          "label": "Didi Sport Watch",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 92
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "clamber-watch.html",
+        "id": 43,
+        "name": "Clamber Watch",
+        "new": null,
+        "rating_summary": 53,
+        "review_count": 3,
+        "sku": "24-WG03",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/g/wg03-gr-0.jpg",
+        "product_type": "simple",
+        "final_price": 54,
+        "discount_percent": 0,
+        "url_key": "clamber-watch",
+        "image": {
+          "label": "Clamber Watch",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 54
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "bolo-sport-watch.html",
+        "id": 42,
+        "name": "Bolo Sport Watch",
+        "new": null,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "24-WG01",
+        "special_price": 49,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/g/wg01-bk-0.jpg",
+        "product_type": "simple",
+        "final_price": 49,
+        "discount_percent": 0,
+        "url_key": "bolo-sport-watch",
+        "image": {
+          "label": "Bolo Sport Watch",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 49
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "luma-analog-watch.html",
+        "id": 41,
+        "name": "Luma Analog Watch",
+        "new": null,
+        "rating_summary": 80,
+        "review_count": 2,
+        "sku": "24-WG09",
+        "special_price": 43,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/g/wg09-gr-0.jpg",
+        "product_type": "simple",
+        "final_price": 43,
+        "discount_percent": 0,
+        "url_key": "luma-analog-watch",
+        "image": {
+          "label": "Luma Analog Watch",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 43
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "dash-digital-watch.html",
+        "id": 40,
+        "name": "Dash Digital Watch",
+        "new": 1,
+        "rating_summary": 73,
+        "review_count": 3,
+        "sku": "24-MG02",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/g/mg02-bk-0.jpg",
+        "product_type": "simple",
+        "final_price": 92,
+        "discount_percent": 0,
+        "url_key": "dash-digital-watch",
+        "image": {
+          "label": "Dash Digital Watch",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 92
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "cruise-dual-analog-watch.html",
+        "id": 39,
+        "name": "Cruise Dual Analog Watch",
+        "new": 1,
+        "rating_summary": 65,
+        "review_count": 4,
+        "sku": "24-MG05",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/g/mg05-br-0.jpg",
+        "product_type": "simple",
+        "final_price": 55,
+        "discount_percent": 0,
+        "url_key": "cruise-dual-analog-watch",
+        "image": {
+          "label": "Cruise Dual Analog Watch",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 55
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "summit-watch.html",
+        "id": 38,
+        "name": "Summit Watch",
+        "new": 1,
+        "rating_summary": 47,
+        "review_count": 3,
+        "sku": "24-MG03",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/g/mg03-br-0.jpg",
+        "product_type": "simple",
+        "final_price": 54,
+        "discount_percent": 0,
+        "url_key": "summit-watch",
+        "image": {
+          "label": "Summit Watch",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 54
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "endurance-watch.html",
+        "id": 37,
+        "name": "Endurance Watch",
+        "new": null,
+        "rating_summary": 87,
+        "review_count": 3,
+        "sku": "24-MG01",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/g/mg01-bk-0.jpg",
+        "product_type": "simple",
+        "final_price": 49,
+        "discount_percent": 0,
+        "url_key": "endurance-watch",
+        "image": {
+          "label": "Endurance Watch",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 49
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "aim-analog-watch.html",
+        "id": 36,
+        "name": "Aim Analog Watch",
+        "new": null,
+        "rating_summary": 80,
+        "review_count": 2,
+        "sku": "24-MG04",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/g/mg04-bk-0.jpg",
+        "product_type": "simple",
+        "final_price": 45,
+        "discount_percent": 0,
+        "url_key": "aim-analog-watch",
+        "image": {
+          "label": "Aim Analog Watch",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 45
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "harmony-lumaflex-trade-strength-band-kit.html",
+        "id": 23,
+        "name": "Harmony Lumaflex&trade; Strength Band Kit ",
+        "new": null,
+        "rating_summary": 60,
+        "review_count": 3,
+        "sku": "24-UG03",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/u/g/ug03-bk-0.jpg",
+        "product_type": "simple",
+        "final_price": 22,
+        "discount_percent": 0,
+        "url_key": "harmony-lumaflex-trade-strength-band-kit",
+        "image": {
+          "label": "Harmony Lumaflex&trade; Strength Band Kit ",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 22
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "sprite-foam-roller.html",
+        "id": 22,
+        "name": "Sprite Foam Roller",
+        "new": null,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "24-WG088",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/l/u/luma-foam-roller.jpg",
+        "product_type": "simple",
+        "final_price": 19,
+        "discount_percent": 0,
+        "url_key": "sprite-foam-roller",
+        "image": {
+          "label": "Sprite Foam Roller",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 19
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "sprite-foam-yoga-brick.html",
+        "id": 21,
+        "name": "Sprite Foam Yoga Brick",
+        "new": null,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "24-WG084",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/l/u/luma-yoga-brick.jpg",
+        "product_type": "simple",
+        "final_price": 5,
+        "discount_percent": 0,
+        "url_key": "sprite-foam-yoga-brick",
+        "image": {
+          "label": "Sprite Foam Yoga Brick",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 5
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "quest-lumaflex-trade-band.html",
+        "id": 20,
+        "name": "Quest Lumaflex&trade; Band",
+        "new": null,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "24-UG01",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/u/g/ug01-bk-0.jpg",
+        "product_type": "simple",
+        "final_price": 19,
+        "discount_percent": 0,
+        "url_key": "quest-lumaflex-trade-band",
+        "image": {
+          "label": "Quest Lumaflex&trade; Band",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 19
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 9,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 2,
+            "label": "0-10",
+            "value": "0_10"
+          },
+          {
+            "count": 7,
+            "label": "10-20",
+            "value": "10_20"
+          },
+          {
+            "count": 2,
+            "label": "20-30",
+            "value": "20_30"
+          },
+          {
+            "count": 7,
+            "label": "30-40",
+            "value": "30_40"
+          },
+          {
+            "count": 8,
+            "label": "40-50",
+            "value": "40_50"
+          },
+          {
+            "count": 4,
+            "label": "50-60",
+            "value": "50_60"
+          },
+          {
+            "count": 1,
+            "label": "60-70",
+            "value": "60_70"
+          },
+          {
+            "count": 1,
+            "label": "70-80",
+            "value": "70_80"
+          },
+          {
+            "count": 2,
+            "label": "90-100",
+            "value": "90_100"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 6,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 34,
+            "label": "Gear",
+            "value": "Mw=="
+          },
+          {
+            "count": 11,
+            "label": "Fitness Equipment",
+            "value": "NQ=="
+          },
+          {
+            "count": 9,
+            "label": "Watches",
+            "value": "Ng=="
+          },
+          {
+            "count": 13,
+            "label": "Collections",
+            "value": "Nw=="
+          },
+          {
+            "count": 8,
+            "label": "New Luma Yoga Collection",
+            "value": "OA=="
+          },
+          {
+            "count": 14,
+            "label": "Bags",
+            "value": "NA=="
+          }
+        ]
+      },
+      {
+        "attribute_code": "activity",
+        "count": 12,
+        "label": "Activity",
+        "position": 0,
+        "options": [
+          {
+            "count": 4,
+            "label": "Outdoor",
+            "value": "5"
+          },
+          {
+            "count": 10,
+            "label": "Yoga",
+            "value": "8"
+          },
+          {
+            "count": 9,
+            "label": "Recreation",
+            "value": "9"
+          },
+          {
+            "count": 23,
+            "label": "Gym",
+            "value": "11"
+          },
+          {
+            "count": 7,
+            "label": "Athletic",
+            "value": "16"
+          },
+          {
+            "count": 7,
+            "label": "Sports",
+            "value": "17"
+          },
+          {
+            "count": 4,
+            "label": "Hiking",
+            "value": "18"
+          },
+          {
+            "count": 4,
+            "label": "Overnight",
+            "value": "19"
+          },
+          {
+            "count": 6,
+            "label": "School",
+            "value": "20"
+          },
+          {
+            "count": 2,
+            "label": "Trail",
+            "value": "21"
+          },
+          {
+            "count": 5,
+            "label": "Travel",
+            "value": "22"
+          },
+          {
+            "count": 5,
+            "label": "Urban",
+            "value": "23"
+          }
+        ]
+      },
+      {
+        "attribute_code": "style_bags",
+        "count": 7,
+        "label": "Style",
+        "position": 0,
+        "options": [
+          {
+            "count": 4,
+            "label": "Backpack",
+            "value": "24"
+          },
+          {
+            "count": 1,
+            "label": "Luggage",
+            "value": "25"
+          },
+          {
+            "count": 2,
+            "label": "Duffel",
+            "value": "26"
+          },
+          {
+            "count": 4,
+            "label": "Messenger",
+            "value": "27"
+          },
+          {
+            "count": 6,
+            "label": "Laptop",
+            "value": "28"
+          },
+          {
+            "count": 6,
+            "label": "Exercise",
+            "value": "29"
+          },
+          {
+            "count": 4,
+            "label": "Tote",
+            "value": "30"
+          }
+        ]
+      },
+      {
+        "attribute_code": "material",
+        "count": 16,
+        "label": "Material",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "Burlap",
+            "value": "31"
+          },
+          {
+            "count": 2,
+            "label": "Canvas",
+            "value": "32"
+          },
+          {
+            "count": 1,
+            "label": "Cotton",
+            "value": "33"
+          },
+          {
+            "count": 6,
+            "label": "Leather",
+            "value": "35"
+          },
+          {
+            "count": 3,
+            "label": "Mesh",
+            "value": "36"
+          },
+          {
+            "count": 11,
+            "label": "Nylon",
+            "value": "37"
+          },
+          {
+            "count": 11,
+            "label": "Polyester",
+            "value": "38"
+          },
+          {
+            "count": 1,
+            "label": "Rayon",
+            "value": "39"
+          },
+          {
+            "count": 1,
+            "label": "Suede",
+            "value": "41"
+          },
+          {
+            "count": 3,
+            "label": "Foam",
+            "value": "42"
+          },
+          {
+            "count": 3,
+            "label": "Metal",
+            "value": "43"
+          },
+          {
+            "count": 11,
+            "label": "Plastic",
+            "value": "44"
+          },
+          {
+            "count": 9,
+            "label": "Rubber",
+            "value": "45"
+          },
+          {
+            "count": 1,
+            "label": "Synthetic",
+            "value": "46"
+          },
+          {
+            "count": 1,
+            "label": "Stainless Steel",
+            "value": "47"
+          },
+          {
+            "count": 5,
+            "label": "Silicone",
+            "value": "48"
+          }
+        ]
+      },
+      {
+        "attribute_code": "strap_bags",
+        "count": 8,
+        "label": "Strap/Handle",
+        "position": 0,
+        "options": [
+          {
+            "count": 11,
+            "label": "Adjustable",
+            "value": "61"
+          },
+          {
+            "count": 4,
+            "label": "Cross Body",
+            "value": "62"
+          },
+          {
+            "count": 2,
+            "label": "Detachable",
+            "value": "63"
+          },
+          {
+            "count": 9,
+            "label": "Double",
+            "value": "64"
+          },
+          {
+            "count": 7,
+            "label": "Padded",
+            "value": "65"
+          },
+          {
+            "count": 7,
+            "label": "Shoulder",
+            "value": "66"
+          },
+          {
+            "count": 4,
+            "label": "Single",
+            "value": "67"
+          },
+          {
+            "count": 1,
+            "label": "Telescoping",
+            "value": "68"
+          }
+        ]
+      },
+      {
+        "attribute_code": "features_bags",
+        "count": 10,
+        "label": "Features",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "Wheeled",
+            "value": "70"
+          },
+          {
+            "count": 2,
+            "label": "Hydration Pocket",
+            "value": "71"
+          },
+          {
+            "count": 6,
+            "label": "Audio Pocket",
+            "value": "72"
+          },
+          {
+            "count": 1,
+            "label": "Flapover",
+            "value": "73"
+          },
+          {
+            "count": 8,
+            "label": "Waterproof",
+            "value": "74"
+          },
+          {
+            "count": 10,
+            "label": "Lightweight",
+            "value": "75"
+          },
+          {
+            "count": 1,
+            "label": "TSA Approved",
+            "value": "76"
+          },
+          {
+            "count": 5,
+            "label": "Reflective",
+            "value": "77"
+          },
+          {
+            "count": 7,
+            "label": "Laptop Sleeve",
+            "value": "78"
+          },
+          {
+            "count": 6,
+            "label": "Lockable",
+            "value": "79"
+          }
+        ]
+      },
+      {
+        "attribute_code": "gender",
+        "count": 4,
+        "label": "Gender",
+        "position": null,
+        "options": [
+          {
+            "count": 0,
+            "label": "Male",
+            "value": "1"
+          },
+          {
+            "count": 15,
+            "label": "Men",
+            "value": "80"
+          },
+          {
+            "count": 15,
+            "label": "Women",
+            "value": "81"
+          },
+          {
+            "count": 11,
+            "label": "Unisex",
+            "value": "84"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_gear",
+        "count": 5,
+        "label": "Category",
+        "position": 0,
+        "options": [
+          {
+            "count": 4,
+            "label": "Cardio",
+            "value": "85"
+          },
+          {
+            "count": 9,
+            "label": "Electronic",
+            "value": "86"
+          },
+          {
+            "count": 17,
+            "label": "Exercise",
+            "value": "87"
+          },
+          {
+            "count": 2,
+            "label": "Fashion",
+            "value": "88"
+          },
+          {
+            "count": 9,
+            "label": "Timepiece",
+            "value": "90"
+          }
+        ]
+      },
+      {
+        "attribute_code": "eco_collection",
+        "count": 1,
+        "label": "Eco Collection",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "No",
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "attribute_code": "performance_fabric",
+        "count": 1,
+        "label": "Performance Fabric",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "erin_recommends",
+        "count": 2,
+        "label": "Erin Recommends",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 5,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "new",
+        "count": 2,
+        "label": "New",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 8,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "sale",
+        "count": 2,
+        "label": "Sale",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 6,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      }
+    ]
+  }
+}

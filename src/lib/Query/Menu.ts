@@ -1,0 +1,122 @@
+export const  menuQuery = `
+query GetMenu {
+    categoryList {
+        id
+        name
+        url_key
+        canonical_url
+        children {
+            id
+            name
+            url_key
+            mega_icon
+            canonical_url
+            custom_link_enable
+            custom_link_text
+            include_in_menu
+            menutype
+            menutypecol
+            display_mode
+            is_anchor
+            children {
+                id
+                name
+                url_key
+                canonical_url
+                custom_link_enable
+                custom_link_text
+                include_in_menu
+                mega_icon
+                is_anchor
+                display_mode
+                children {
+                    id
+                    name
+                    url_key
+                    canonical_url
+                    custom_link_enable
+                    custom_link_text
+                    include_in_menu
+                    mega_icon
+                    is_anchor
+                    display_mode
+                    children {
+                        id
+                        name
+                        url_key
+                        canonical_url
+                        custom_link_enable
+                        custom_link_text
+                        include_in_menu
+                        mega_icon
+                        display_mode
+                    }
+                }
+            }
+        }
+    }
+    storeConfig {
+        absolute_footer
+        copyright
+        logo_alt
+        logo_height
+        logo_width
+        header_logo_src
+        is_guest_checkout_enabled
+        root_category_id
+        store_name
+        website_name
+        head_includes
+        default_description
+        default_keywords
+        default_title
+        head_shortcut_icon
+        base_currency_code
+        product_reviews_enabled
+        allow_guests_to_write_product_reviews
+    }
+   getStoreInfo {
+        apple_store_link
+        company_address
+        company_info
+        enable_latest_offers
+        enable_secondary_menu
+        faccbook_app_id
+        facebook
+        footer_first_block_content
+        footer_first_block_title
+        footer_logo
+        footer_logo_alt
+        footer_logo_enable
+        footer_logo_height
+        footer_logo_width
+        footer_second_block_content
+        footer_second_block_title
+        instagram
+        latest_offer_link
+        latest_offers_content
+        latest_offers_title
+        linkedin
+        pinterest
+        play_store_link
+        secondary_menu
+        store_city
+        store_country
+        store_hours
+        store_name
+        store_phone
+        store_postcode
+        store_street_line1
+        store_street_line2
+        store_support_email
+        top_mega_menu
+        twitter_X
+        youtube
+        grid_per_page_values
+        grid_per_page
+        default_sort_by
+        default_sort_direction
+    }
+
+}
+`;

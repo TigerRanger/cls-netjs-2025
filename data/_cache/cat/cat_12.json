@@ -1,0 +1,930 @@
+{
+  "categoryList": [
+    {
+      "id": 12,
+      "name": "Tops",
+      "description": null,
+      "canonical_url": "men/tops-men.html",
+      "children_count": "4",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 48,
+      "display_mode": null,
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": null,
+      "custom_title": null,
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "men/tops-men/jackets-men.html",
+          "name": "Jackets",
+          "position": 1,
+          "url_key": "jackets-men"
+        },
+        {
+          "canonical_url": "men/tops-men/hoodies-and-sweatshirts-men.html",
+          "name": "Hoodies & Sweatshirts",
+          "position": 2,
+          "url_key": "hoodies-and-sweatshirts-men"
+        },
+        {
+          "canonical_url": "men/tops-men/tees-men.html",
+          "name": "Tees",
+          "position": 3,
+          "url_key": "tees-men"
+        },
+        {
+          "canonical_url": "men/tops-men/tanks-men.html",
+          "name": "Tanks",
+          "position": 4,
+          "url_key": "tanks-men"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 48,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 4,
+      "page_size": 15
+    },
+    "items": [
+      {
+        "canonical_url": "marco-lightweight-active-hoodie.html",
+        "id": 254,
+        "name": "Marco Lightweight Active Hoodie",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "MH13",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/h/mh13-blue_main_4.jpg",
+        "product_type": "configurable",
+        "final_price": 74,
+        "discount_percent": 0,
+        "url_key": "marco-lightweight-active-hoodie",
+        "image": {
+          "label": "Marco Lightweight Active Hoodie",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 74
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "strike-endurance-tee.html",
+        "id": 622,
+        "name": "Strike Endurance Tee",
+        "new": 1,
+        "rating_summary": 65,
+        "review_count": 4,
+        "sku": "MS08",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/ms08-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 39,
+        "discount_percent": 0,
+        "url_key": "strike-endurance-tee",
+        "image": {
+          "label": "Strike Endurance Tee",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 39
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "ajax-full-zip-sweatshirt.html",
+        "id": 238,
+        "name": "Ajax Full-Zip Sweatshirt ",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "MH12",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/h/mh12-green_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 69,
+        "discount_percent": 0,
+        "url_key": "ajax-full-zip-sweatshirt",
+        "image": {
+          "label": "Ajax Full-Zip Sweatshirt ",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 69
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "deion-long-sleeve-evercool-trade-tee.html",
+        "id": 606,
+        "name": "Deion Long-Sleeve EverCool&trade; Tee",
+        "new": 0,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "MS07",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/ms07-green_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 39,
+        "discount_percent": 0,
+        "url_key": "deion-long-sleeve-evercool-trade-tee",
+        "image": {
+          "label": "Deion Long-Sleeve EverCool&trade; Tee",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 39
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "proteus-fitness-jackshirt.html",
+        "id": 430,
+        "name": "Proteus Fitness Jackshirt",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "MJ12",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/j/mj12-orange_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 45,
+        "discount_percent": 0,
+        "url_key": "proteus-fitness-jackshirt",
+        "image": {
+          "label": "Proteus Fitness Jackshirt",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 45
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "grayson-crewneck-sweatshirt.html",
+        "id": 222,
+        "name": "Grayson Crewneck Sweatshirt ",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "MH11",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/h/mh11-white_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 64,
+        "discount_percent": 0,
+        "url_key": "grayson-crewneck-sweatshirt",
+        "image": {
+          "label": "Grayson Crewneck Sweatshirt ",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 64
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "logan-heattec-reg-tee.html",
+        "id": 590,
+        "name": "Logan  HeatTec&reg; Tee",
+        "new": 0,
+        "rating_summary": 60,
+        "review_count": 3,
+        "sku": "MS10",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/ms10-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 24,
+        "discount_percent": 0,
+        "url_key": "logan-heattec-reg-tee",
+        "image": {
+          "label": "Logan  HeatTec&reg; Tee",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 24
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "montana-wind-jacket.html",
+        "id": 414,
+        "name": "Montana Wind Jacket",
+        "new": 1,
+        "rating_summary": 53,
+        "review_count": 3,
+        "sku": "MJ03",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/j/mj03-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 49,
+        "discount_percent": 0,
+        "url_key": "montana-wind-jacket",
+        "image": {
+          "label": "Montana Wind Jacket",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 49
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "mach-street-sweatshirt.html",
+        "id": 206,
+        "name": "Mach Street Sweatshirt ",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "MH10",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/h/mh10-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 62,
+        "discount_percent": 0,
+        "url_key": "mach-street-sweatshirt",
+        "image": {
+          "label": "Mach Street Sweatshirt ",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 62
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "ryker-lumatech-trade-tee-v-neck.html",
+        "id": 574,
+        "name": "Ryker LumaTech&trade; Tee (V-neck)",
+        "new": 0,
+        "rating_summary": 90,
+        "review_count": 2,
+        "sku": "MS02",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/ms02-gray_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 28,
+        "discount_percent": 0,
+        "url_key": "ryker-lumatech-trade-tee-v-neck",
+        "image": {
+          "label": "Ryker LumaTech&trade; Tee (V-neck)",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 28
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "jupiter-all-weather-trainer.html",
+        "id": 398,
+        "name": "Jupiter All-Weather Trainer ",
+        "new": 0,
+        "rating_summary": 80,
+        "review_count": 3,
+        "sku": "MJ06",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/j/mj06-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 56.99,
+        "discount_percent": 0,
+        "url_key": "jupiter-all-weather-trainer",
+        "image": {
+          "label": "Jupiter All-Weather Trainer ",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 56.99
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "abominable-hoodie.html",
+        "id": 190,
+        "name": "Abominable Hoodie",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "MH09",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/h/mh09-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 69,
+        "discount_percent": 0,
+        "url_key": "abominable-hoodie",
+        "image": {
+          "label": "Abominable Hoodie",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 69
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "aero-daily-fitness-tee.html",
+        "id": 558,
+        "name": "Aero Daily Fitness Tee",
+        "new": 0,
+        "rating_summary": 80,
+        "review_count": 3,
+        "sku": "MS01",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/s/ms01-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 24,
+        "discount_percent": 0,
+        "url_key": "aero-daily-fitness-tee",
+        "image": {
+          "label": "Aero Daily Fitness Tee",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 24
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "typhon-performance-fleece-lined-jacket.html",
+        "id": 382,
+        "name": "Typhon Performance Fleece-lined Jacket",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "MJ11",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/j/mj11-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 60,
+        "discount_percent": 0,
+        "url_key": "typhon-performance-fleece-lined-jacket",
+        "image": {
+          "label": "Typhon Performance Fleece-lined Jacket",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 60
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "oslo-trek-hoodie.html",
+        "id": 174,
+        "name": "Oslo Trek Hoodie",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "MH08",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/m/h/mh08-brown_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 42,
+        "discount_percent": 0,
+        "url_key": "oslo-trek-hoodie",
+        "image": {
+          "label": "Oslo Trek Hoodie",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 42
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 8,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 3,
+            "label": "10-20",
+            "value": "10_20"
+          },
+          {
+            "count": 17,
+            "label": "20-30",
+            "value": "20_30"
+          },
+          {
+            "count": 4,
+            "label": "30-40",
+            "value": "30_40"
+          },
+          {
+            "count": 6,
+            "label": "40-50",
+            "value": "40_50"
+          },
+          {
+            "count": 5,
+            "label": "50-60",
+            "value": "50_60"
+          },
+          {
+            "count": 9,
+            "label": "60-70",
+            "value": "60_70"
+          },
+          {
+            "count": 3,
+            "label": "70-80",
+            "value": "70_80"
+          },
+          {
+            "count": 1,
+            "label": "90-100",
+            "value": "90_100"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 6,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 48,
+            "label": "Tops",
+            "value": "MTI="
+          },
+          {
+            "count": 12,
+            "label": "Tanks",
+            "value": "MTc="
+          },
+          {
+            "count": 8,
+            "label": "Eco Friendly",
+            "value": "MzY="
+          },
+          {
+            "count": 12,
+            "label": "Tees",
+            "value": "MTY="
+          },
+          {
+            "count": 11,
+            "label": "Jackets",
+            "value": "MTQ="
+          },
+          {
+            "count": 13,
+            "label": "Hoodies & Sweatshirts",
+            "value": "MTU="
+          }
+        ]
+      },
+      {
+        "attribute_code": "material",
+        "count": 15,
+        "label": "Material",
+        "position": 0,
+        "options": [
+          {
+            "count": 11,
+            "label": "Cocona&reg; performance fabric",
+            "value": "142"
+          },
+          {
+            "count": 5,
+            "label": "Cotton",
+            "value": "33"
+          },
+          {
+            "count": 10,
+            "label": "Fleece",
+            "value": "144"
+          },
+          {
+            "count": 2,
+            "label": "Hemp",
+            "value": "145"
+          },
+          {
+            "count": 7,
+            "label": "LumaTech&trade;",
+            "value": "147"
+          },
+          {
+            "count": 10,
+            "label": "Nylon",
+            "value": "37"
+          },
+          {
+            "count": 3,
+            "label": "Lycra&reg;",
+            "value": "148"
+          },
+          {
+            "count": 32,
+            "label": "Polyester",
+            "value": "38"
+          },
+          {
+            "count": 1,
+            "label": "Rayon",
+            "value": "39"
+          },
+          {
+            "count": 1,
+            "label": "Spandex",
+            "value": "150"
+          },
+          {
+            "count": 3,
+            "label": "HeatTec&reg;",
+            "value": "151"
+          },
+          {
+            "count": 4,
+            "label": "EverCool&trade;",
+            "value": "152"
+          },
+          {
+            "count": 16,
+            "label": "Organic Cotton",
+            "value": "153"
+          },
+          {
+            "count": 1,
+            "label": "CoolTech&trade;",
+            "value": "155"
+          },
+          {
+            "count": 7,
+            "label": "Wool",
+            "value": "158"
+          }
+        ]
+      },
+      {
+        "attribute_code": "eco_collection",
+        "count": 2,
+        "label": "Eco Collection",
+        "position": 0,
+        "options": [
+          {
+            "count": 40,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 8,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "performance_fabric",
+        "count": 2,
+        "label": "Performance Fabric",
+        "position": 0,
+        "options": [
+          {
+            "count": 35,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 13,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "erin_recommends",
+        "count": 2,
+        "label": "Erin Recommends",
+        "position": 0,
+        "options": [
+          {
+            "count": 38,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 10,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "new",
+        "count": 2,
+        "label": "New",
+        "position": 0,
+        "options": [
+          {
+            "count": 36,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 12,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "sale",
+        "count": 2,
+        "label": "Sale",
+        "position": 0,
+        "options": [
+          {
+            "count": 38,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 10,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "style_general",
+        "count": 14,
+        "label": "Style",
+        "position": 0,
+        "options": [
+          {
+            "count": 5,
+            "label": "Insulated",
+            "value": "116"
+          },
+          {
+            "count": 1,
+            "label": "Jacket",
+            "value": "117"
+          },
+          {
+            "count": 6,
+            "label": "Lightweight",
+            "value": "119"
+          },
+          {
+            "count": 3,
+            "label": "Hooded",
+            "value": "120"
+          },
+          {
+            "count": 2,
+            "label": "Heavy Duty",
+            "value": "121"
+          },
+          {
+            "count": 5,
+            "label": "Rain Coat",
+            "value": "122"
+          },
+          {
+            "count": 5,
+            "label": "Hard Shell",
+            "value": "123"
+          },
+          {
+            "count": 5,
+            "label": "Soft Shell",
+            "value": "124"
+          },
+          {
+            "count": 6,
+            "label": "Windbreaker",
+            "value": "125"
+          },
+          {
+            "count": 7,
+            "label": "&frac14; zip",
+            "value": "127"
+          },
+          {
+            "count": 5,
+            "label": "Full Zip",
+            "value": "128"
+          },
+          {
+            "count": 1,
+            "label": "Reversible",
+            "value": "129"
+          },
+          {
+            "count": 12,
+            "label": "Tank",
+            "value": "134"
+          },
+          {
+            "count": 12,
+            "label": "Tee",
+            "value": "135"
+          }
+        ]
+      },
+      {
+        "attribute_code": "pattern",
+        "count": 3,
+        "label": "Pattern",
+        "position": 0,
+        "options": [
+          {
+            "count": 4,
+            "label": "Color-Blocked",
+            "value": "194"
+          },
+          {
+            "count": 43,
+            "label": "Solid",
+            "value": "196"
+          },
+          {
+            "count": 1,
+            "label": "Striped",
+            "value": "198"
+          }
+        ]
+      },
+      {
+        "attribute_code": "climate",
+        "count": 10,
+        "label": "Climate",
+        "position": 0,
+        "options": [
+          {
+            "count": 38,
+            "label": "All-Weather",
+            "value": "201"
+          },
+          {
+            "count": 2,
+            "label": "Cold",
+            "value": "202"
+          },
+          {
+            "count": 22,
+            "label": "Cool",
+            "value": "203"
+          },
+          {
+            "count": 35,
+            "label": "Indoor",
+            "value": "204"
+          },
+          {
+            "count": 4,
+            "label": "Mild",
+            "value": "205"
+          },
+          {
+            "count": 5,
+            "label": "Rainy",
+            "value": "206"
+          },
+          {
+            "count": 21,
+            "label": "Spring",
+            "value": "207"
+          },
+          {
+            "count": 25,
+            "label": "Warm",
+            "value": "208"
+          },
+          {
+            "count": 18,
+            "label": "Windy",
+            "value": "209"
+          },
+          {
+            "count": 3,
+            "label": "Wintry",
+            "value": "210"
+          }
+        ]
+      }
+    ]
+  }
+}

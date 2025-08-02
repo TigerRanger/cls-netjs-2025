@@ -1,0 +1,257 @@
+
+.topbar{
+    background: #083468;
+    color: white;
+    display: flex;
+    padding: 5px 0;
+    min-height: 50px;
+}
+.logo {
+	margin: 5px 0;
+}
+ .btn-top-toogle{
+    display: flex;
+    width: 40px;
+    height: 40px;
+    font-weight: bold;
+    cursor: pointer;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+  }
+ .logo {
+	margin: 5px 0;
+}
+.right-side {
+      display: flex;
+      align-items: center;
+      gap: 20px;
+      justify-content: flex-end;
+        height: 100%;
+    }
+
+  .left-side{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 30px;
+      height: 100%;
+   }
+
+  @media (max-width: 360px) {
+        .right-side {
+          gap: 7px;
+        }
+    .logo img{
+      max-width: 100px;
+      height: auto;
+  }
+
+ }
+
+ @media (max-width: 992px) {
+    .search-bar{
+      display: none;
+    }
+    .top-row{
+      display: flex;
+      justify-content: space-between;
+
+      *{
+        width: auto;
+      }
+    }
+  
+ }
+
+
+ .white-text {
+
+
+    white-space: nowrap;
+    margin-left: 10px;
+    position: relative;
+
+
+    p.big{
+        color: white;
+        font-size: 15px;
+        font-weight: 600;
+        margin: 0;
+    }
+    p.small{
+      color: white;
+      font-size: 12px;
+      font-weight:100;
+      margin: 0;
+      margin-top: -3px;
+  }
+ }
+
+ @media (min-width: 768px){
+    .btn-top-toogle{
+      display: flex;
+      width: auto;
+      height: 40px;
+      font-weight: bold;
+      cursor: pointer;
+      align-items: center;
+      justify-content: center;
+      margin-left: 20px;
+    }
+
+ }
+
+@media  (min-width: 992px){
+ .btn-top-toogle.search-toogle , .btn-top-toogle.menu-toogle{
+  display: none;
+}
+
+}
+
+
+ @media (max-width: 1200px) {
+  .btn-top-toogle .white-text{
+    display: none;
+  }
+
+  .btn-top-toogle.offer-toogle , .btn-top-toogle.hotline-toogle{
+    display: none;
+  }
+
+ }
+
+ .search-bar {
+	margin-right: 20px;
+  width: 100%;
+  max-width: 500px;
+  min-width: 350px;
+  position: relative;
+     input{
+        width: 100%;
+        height: 40px;
+        padding: 0 10px;
+        border-radius: 25px;
+        border: none;
+        background-color: #ffffff;
+        font-size: 14px;
+        color: #333;
+        transition: all 0.3s ease;
+        padding:0 45px 0 215px;
+        
+     }
+}
+
+.s-button{
+  position: absolute;
+  right: 0;  
+}
+
+
+#S_topcat {
+	position: absolute;
+	border-radius: 25px;
+	height: 40px;
+	background: white;
+	border: none;
+	padding: 10px 34px;
+	width: 200px;
+	font-family: arial;
+	margin-left: 3px;
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+  border-right: 2px solid #f2f2f2;
+  color: #464545;
+  font-family: "Sarabun", Arial, Helvetica, sans-serif;
+}
+
+
+.item_highlight {
+  position: absolute;
+  top: -3px;
+  right: 34px;
+  background: #c80a00b3;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  width: 22px;
+  height: 22px;
+}
+
+#login-form {
+	width: 100%;
+	max-width: 350px;
+    .reload_captcha {
+      width: auto;
+      width: 40px;
+      height: 40px;
+    }
+  .flex.captcha_control {
+    display: flex;
+    margin: 14px 0;
+    align-items: center;
+    justify-content: left;
+    gap: 8px;
+  }
+
+#captcha_text {
+	margin-top: -20px;
+}
+  #login_main{
+    width: 100%;
+  }
+
+  .modal-body{
+  	background: #EDEDED;
+  }
+
+  .button-group {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	gap: 10px;
+  margin-top: -10px;
+}
+
+
+  .google.btn.btn-primary.btn-round.btn-block {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      background: #d40f0f;
+      border-color: #a30606;
+      width: 48%;
+      justify-content: center;
+    }
+
+    .fb.btn.btn-primary.btn-round.btn-block {
+      width: 48%;
+      justify-content: center;
+      display: flex;
+      gap: 5px;
+      align-items: center;
+    }
+
+    #login_main {
+	  background: #04406c;
+	  border-color: #023154;
+    }
+
+    .sign_up {
+    	margin-top: 15px;
+	    display: flex;
+	    align-items: center;
+	    gap: 10px;
+	    border: top;
+	    border-top: 1px solid #CCC;
+	    padding-top: 8px;
+    }
+
+    .modal-title.h4 {
+    	color: #04406c;
+    }
+
+}
+

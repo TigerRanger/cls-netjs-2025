@@ -1,0 +1,33 @@
+// Default variable overrides
+$body-bg: #f5f2f2;
+$body-color: #484747;  //text color
+
+$font-size-base: 1rem; // 16px  
+$font-size-lg: 1.25rem; // 20px
+$font-size-sm: 0.875rem; // 14px
+$font-weight-base: 400; // normal   
+
+ $primary: #1061c9;
+ $secondary:#002330;
+
+$border: rgba(255, 255, 255, 0.25);
+$body_font_color:  #d3d3d3;
+$body_background_color:#101010;
+$heading_color : #fff;
+$border_color_default : #fff;
+
+$gray_gradient_background: linear-gradient(180deg,#f0f3f5,#fff);
+$font-family-base:"Sarabun";
+$heading-font-family:"Sarabun";
+ 
+:root {
+    --body-font-family: "Sarabun";
+    --heading-font-family: "Sarabun";
+    --body-color: #d3d3d3;
+    --body-bg-color: #101010;
+    --heading-color: #fff;
+    --border-color: #fff;
+    --white-color: #fff;
+    --black-color: #000000;
+    --primary-color:$primary;
+   }

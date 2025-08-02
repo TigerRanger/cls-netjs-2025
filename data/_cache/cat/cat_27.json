@@ -1,0 +1,750 @@
+{
+  "categoryList": [
+    {
+      "id": 27,
+      "name": "Pants",
+      "description": null,
+      "canonical_url": "women/bottoms-women/pants-women.html",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 13,
+      "display_mode": null,
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": null,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 13,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 15
+    },
+    "items": [
+      {
+        "canonical_url": "portia-capri.html",
+        "id": 1903,
+        "name": "Portia Capri",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "WP13",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/p/wp13-orange_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 49,
+        "discount_percent": 0,
+        "url_key": "portia-capri",
+        "image": {
+          "label": "Portia Capri",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 49
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "deirdre-relaxed-fit-capri.html",
+        "id": 1896,
+        "name": "Deirdre Relaxed-Fit Capri",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "WP12",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/p/wp12-gray_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 63,
+        "discount_percent": 0,
+        "url_key": "deirdre-relaxed-fit-capri",
+        "image": {
+          "label": "Deirdre Relaxed-Fit Capri",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 63
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "sylvia-capri.html",
+        "id": 1889,
+        "name": "Sylvia Capri",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "WP11",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/p/wp11-green_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 42,
+        "discount_percent": 0,
+        "url_key": "sylvia-capri",
+        "image": {
+          "label": "Sylvia Capri",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 42
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "daria-bikram-pant.html",
+        "id": 1882,
+        "name": "Daria Bikram Pant",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "WP10",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/p/wp10-gray_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 51,
+        "discount_percent": 0,
+        "url_key": "daria-bikram-pant",
+        "image": {
+          "label": "Daria Bikram Pant",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 51
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "carina-basic-capri.html",
+        "id": 1875,
+        "name": "Carina Basic Capri",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "WP09",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/p/wp09-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 51,
+        "discount_percent": 0,
+        "url_key": "carina-basic-capri",
+        "image": {
+          "label": "Carina Basic Capri",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 51
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "bardot-capri.html",
+        "id": 1868,
+        "name": "Bardot Capri",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "WP08",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/p/wp08-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 48,
+        "discount_percent": 0,
+        "url_key": "bardot-capri",
+        "image": {
+          "label": "Bardot Capri",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 48
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "aeon-capri.html",
+        "id": 1861,
+        "name": "Aeon Capri",
+        "new": 0,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "WP07",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/p/wp07-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 48,
+        "discount_percent": 0,
+        "url_key": "aeon-capri",
+        "image": {
+          "label": "Aeon Capri",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 48
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "diana-tights.html",
+        "id": 1854,
+        "name": "Diana Tights",
+        "new": 0,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "WP06",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/p/wp06-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 59,
+        "discount_percent": 0,
+        "url_key": "diana-tights",
+        "image": {
+          "label": "Diana Tights",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 59
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "sahara-leggings.html",
+        "id": 1847,
+        "name": "Sahara Leggings",
+        "new": 0,
+        "rating_summary": 60,
+        "review_count": 2,
+        "sku": "WP05",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/p/wp05-gray_main_4.jpg",
+        "product_type": "configurable",
+        "final_price": 75,
+        "discount_percent": 0,
+        "url_key": "sahara-leggings",
+        "image": {
+          "label": "Sahara Leggings",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 75
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "cora-parachute-pant.html",
+        "id": 1840,
+        "name": "Cora Parachute Pant",
+        "new": 0,
+        "rating_summary": 80,
+        "review_count": 4,
+        "sku": "WP04",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/p/wp04-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 75,
+        "discount_percent": 0,
+        "url_key": "cora-parachute-pant",
+        "image": {
+          "label": "Cora Parachute Pant",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 75
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "ida-workout-parachute-pant.html",
+        "id": 1833,
+        "name": "Ida Workout Parachute Pant",
+        "new": 1,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "WP03",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/p/wp03-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 48,
+        "discount_percent": 0,
+        "url_key": "ida-workout-parachute-pant",
+        "image": {
+          "label": "Ida Workout Parachute Pant",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 48
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "emma-leggings.html",
+        "id": 1826,
+        "name": "Emma Leggings",
+        "new": 0,
+        "rating_summary": 93,
+        "review_count": 3,
+        "sku": "WP02",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/p/wp02-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 42,
+        "discount_percent": 0,
+        "url_key": "emma-leggings",
+        "image": {
+          "label": "Emma Leggings",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 42
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "karmen-yoga-pant.html",
+        "id": 1819,
+        "name": "Karmen Yoga Pant",
+        "new": 0,
+        "rating_summary": 80,
+        "review_count": 2,
+        "sku": "WP01",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/p/wp01-gray_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 39,
+        "discount_percent": 0,
+        "url_key": "karmen-yoga-pant",
+        "image": {
+          "label": "Karmen Yoga Pant",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 39
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 4,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 7,
+            "label": "30-40",
+            "value": "30_40"
+          },
+          {
+            "count": 3,
+            "label": "40-50",
+            "value": "40_50"
+          },
+          {
+            "count": 1,
+            "label": "50-60",
+            "value": "50_60"
+          },
+          {
+            "count": 2,
+            "label": "60-70",
+            "value": "60_70"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 7,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 13,
+            "label": "Women Bottoms",
+            "value": "MjI="
+          },
+          {
+            "count": 13,
+            "label": "Pants",
+            "value": "Mjc="
+          },
+          {
+            "count": 13,
+            "label": "Pants",
+            "value": "MzI="
+          },
+          {
+            "count": 3,
+            "label": "Erin Recommends",
+            "value": "MzQ="
+          },
+          {
+            "count": 4,
+            "label": "Performance Fabrics",
+            "value": "MzU="
+          },
+          {
+            "count": 1,
+            "label": "Eco Friendly",
+            "value": "MzY="
+          },
+          {
+            "count": 1,
+            "label": "New Luma Yoga Collection",
+            "value": "OA=="
+          }
+        ]
+      },
+      {
+        "attribute_code": "material",
+        "count": 11,
+        "label": "Material",
+        "position": 0,
+        "options": [
+          {
+            "count": 2,
+            "label": "Cocona&reg; performance fabric",
+            "value": "142"
+          },
+          {
+            "count": 1,
+            "label": "Cotton",
+            "value": "33"
+          },
+          {
+            "count": 3,
+            "label": "LumaTech&trade;",
+            "value": "147"
+          },
+          {
+            "count": 2,
+            "label": "Nylon",
+            "value": "37"
+          },
+          {
+            "count": 1,
+            "label": "Lycra&reg;",
+            "value": "148"
+          },
+          {
+            "count": 2,
+            "label": "Polyester",
+            "value": "38"
+          },
+          {
+            "count": 3,
+            "label": "Microfiber",
+            "value": "149"
+          },
+          {
+            "count": 2,
+            "label": "Rayon",
+            "value": "39"
+          },
+          {
+            "count": 6,
+            "label": "Spandex",
+            "value": "150"
+          },
+          {
+            "count": 8,
+            "label": "Organic Cotton",
+            "value": "153"
+          },
+          {
+            "count": 2,
+            "label": "CoolTech&trade;",
+            "value": "155"
+          }
+        ]
+      },
+      {
+        "attribute_code": "eco_collection",
+        "count": 2,
+        "label": "Eco Collection",
+        "position": 0,
+        "options": [
+          {
+            "count": 9,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 4,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "performance_fabric",
+        "count": 2,
+        "label": "Performance Fabric",
+        "position": 0,
+        "options": [
+          {
+            "count": 9,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 4,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "erin_recommends",
+        "count": 2,
+        "label": "Erin Recommends",
+        "position": 0,
+        "options": [
+          {
+            "count": 10,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 3,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "new",
+        "count": 2,
+        "label": "New",
+        "position": 0,
+        "options": [
+          {
+            "count": 12,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 1,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "sale",
+        "count": 1,
+        "label": "Sale",
+        "position": 0,
+        "options": [
+          {
+            "count": 13,
+            "label": "No",
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "attribute_code": "style_bottom",
+        "count": 6,
+        "label": "Style",
+        "position": 0,
+        "options": [
+          {
+            "count": 8,
+            "label": "Capri",
+            "value": "106"
+          },
+          {
+            "count": 1,
+            "label": "Compression",
+            "value": "107"
+          },
+          {
+            "count": 4,
+            "label": "Leggings",
+            "value": "108"
+          },
+          {
+            "count": 2,
+            "label": "Parachute",
+            "value": "109"
+          },
+          {
+            "count": 3,
+            "label": "Sweatpants",
+            "value": "112"
+          },
+          {
+            "count": 3,
+            "label": "Track Pants",
+            "value": "114"
+          }
+        ]
+      },
+      {
+        "attribute_code": "pattern",
+        "count": 3,
+        "label": "Pattern",
+        "position": 0,
+        "options": [
+          {
+            "count": 5,
+            "label": "Color-Blocked",
+            "value": "194"
+          },
+          {
+            "count": 7,
+            "label": "Solid",
+            "value": "196"
+          },
+          {
+            "count": 1,
+            "label": "Striped",
+            "value": "198"
+          }
+        ]
+      },
+      {
+        "attribute_code": "climate",
+        "count": 7,
+        "label": "Climate",
+        "position": 0,
+        "options": [
+          {
+            "count": 3,
+            "label": "All-Weather",
+            "value": "201"
+          },
+          {
+            "count": 3,
+            "label": "Cool",
+            "value": "203"
+          },
+          {
+            "count": 13,
+            "label": "Indoor",
+            "value": "204"
+          },
+          {
+            "count": 11,
+            "label": "Mild",
+            "value": "205"
+          },
+          {
+            "count": 7,
+            "label": "Spring",
+            "value": "207"
+          },
+          {
+            "count": 6,
+            "label": "Warm",
+            "value": "208"
+          },
+          {
+            "count": 6,
+            "label": "Hot",
+            "value": "211"
+          }
+        ]
+      }
+    ]
+  }
+}

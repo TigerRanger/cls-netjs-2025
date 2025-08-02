@@ -1,0 +1,252 @@
+.nz-menu .MenuHead {
+	width: 100%;
+	position: relative;
+	color: #000000;
+	font-weight: 500;
+	cursor: pointer;
+	min-height: 45px;
+	box-sizing: border-box;
+	font-size: 14px;
+	line-height: 1.428571429;
+	background: linear-gradient(#f3de30 0, #ee891d 100%);
+	font-weight: 700;
+    display: flex;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.Headline {
+	display: flex;
+	align-items: center;
+	justify-content: start;
+	gap: 15px;
+	font-size: 16px;
+  display: flex;
+  align-items: center;
+}
+
+.v-menu{
+    position: relative;
+}
+
+.v-menu .MenuBody {
+    width: 100%;
+    position: absolute;
+    background: white;
+    box-shadow: 1px 1px 2px rgba(50,50,50,.15);
+    top: 60px !important;
+    left: 0;
+    opacity: 0;
+    visibility: hidden;
+    z-index: -1;
+    transition:
+  all .3s ease-in 0s;
+    box-shadow: 1px 1px 2px rgba(50,50,50,.25);
+  }
+
+.v-menu:hover .MenuBody {
+    visibility: visible;
+    z-index: 899;
+    opacity: 1;
+    top: 43px !important;
+  }
+
+
+  .MenuHead .MenuBody > ul {
+    margin:0;
+    padding:0;
+    list-style:none;
+    position: relative;
+  }
+
+  .MenuHead ul, .MenuHead li, .MenuHead a {
+    display: block;
+  }
+
+  .MenuHead .MenuBody > ul > li {
+    text-overflow: ellipsis;
+    margin-bottom: 0;
+    transition:
+  all .2s ease 0s;
+  }
+
+  .MenuBody .iconHolder {
+    position: relative;
+  }
+
+
+  .MenuBody > ul > li{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border-bottom: 1px solid #d8d8d8;
+    background: #fffaf4;
+    padding-left: 5px;
+
+  }
+
+
+  .MenuBody > ul > li > a {
+    overflow:  hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    box-sizing: border-box;
+    text-decoration:  none;
+    display: block;
+    line-height: 35px;
+    text-transform: capitalize;
+    word-wrap:  break-word;
+    color: #444;
+    font-size: 14px;
+    font-weight: 400;
+    position: relative;
+    text-align: left;
+    width: 100%;
+
+
+
+  }
+
+
+  .MenuBody  .openerHolder {
+	position: relative;
+	right: 0;
+	top: 0;
+}
+
+  .MenuBody {
+    position: absolute;
+    left: 0;
+    width: 100%;
+  }
+
+
+.iconHolder svg {
+	width: 27px;
+	height: 27px;
+}
+
+.INC{
+  position: relative;
+}
+
+.INC::after {
+	content: "";
+	border: solid #868484;
+	border-top-width: medium;
+	border-right-width: medium;
+	border-bottom-width: medium;
+	border-left-width: medium;
+	border-width: 0 2px 2px 0;
+	padding: 3px;
+	transform: rotate(315deg);
+	position: absolute;
+  top: -3px;
+  right: 8px;
+}
+
+
+.MenuBody > ul > li > .Mega {
+  position: absolute;
+  left: 100%;
+  min-width: 250px;
+  top: 0;
+  background: gray;
+  z-index: -1;
+  visibility: hidden;
+  opacity: 0;
+  transition: all .3s ease-in 0s;
+}
+
+.MenuBody > ul > li:hover > .Mega {
+  z-index: 899;
+  visibility: visible;
+  opacity: 1;
+}
+
+
+.v-menu .Pong {
+	width: 250px;
+	background: #fff;
+	-webkit-box-shadow: 1px 1px 3px 0px rgba(50,50,50,.6);
+	-moz-box-shadow: 1px 1px 3px 0px rgba(50,50,50,.6);
+	 box-shadow: 1px 1px 3px 0px rgba(50,50,50,.6);
+	 min-height: 390px;
+
+    > li {
+    transition: all .2s ease 0s;
+    a {
+      padding: 7px 20px;
+      font-size: 14px;
+      font-weight: 100;
+      border-bottom: 1px solid #d8d8d8;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      color: #444;
+      width: 100%;
+      display: block;
+      }
+
+        .INC::after {
+          top: -19px;
+        }
+
+    }
+}
+
+
+.v-menu .mg {
+	left: 0;
+	top: 0;
+	position: absolute;
+	background: #fff;
+	margin-left: 250px;
+	opacity: 0;
+	z-index: -1;
+	visibility: hidden;
+	transition: all .3s ease-in 0s;
+	box-shadow: 1px 1px 3px 0px rgba(50,50,50,.6);
+  min-width: 350px;
+  height: 100%;
+  padding: 10px 20px;
+}
+
+.v-menu .Pong > li:hover .mg {
+  opacity: 1;
+  z-index: 899;
+  visibility: visible;
+}
+
+.v-menu .mg strong{
+  color: #083468;
+  font-size: 15px;
+}
+
+.v-menu .mg ul li a {
+  padding: 5px 10px 5px;
+  font-size: 14px;
+  font-weight: 400;
+  border: none;
+}
+
+
+
+  @media (max-width: 992px) {
+    .v-menu .MenuBody {
+       position: static;
+       display: none;
+    }
+     .navbar.nz-menu .col-sm-2p , .navbar.nz-menu .container , .navbar.nz-menu .row{
+      width: 100%;
+      padding: 0;
+      margin: 0;
+      max-width: 100%;
+    }
+
+
+
+
+  }

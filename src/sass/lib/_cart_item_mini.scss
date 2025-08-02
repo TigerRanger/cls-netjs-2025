@@ -1,0 +1,144 @@
+.cart-items-list {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	max-height: 100%;
+	height: calc(100% - 200px);
+}
+
+.cart-item-details{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+
+.cart-item-name {
+	padding: 0 15px;
+	font-size: 14px;
+	font-weight: normal;
+}
+
+.cart-item-decrease, .cart-item-increase {
+	display: flex;
+	width: 25px;
+	height: 25px;
+	text-align: center;
+	line-height: 20px;
+	font-size: 12px;
+	cursor: pointer;
+	background-color: #fff;
+	border-radius: 50%;
+	border: none;
+	box-shadow: 0 0 #0000, 0 0 #0000, 1px 2px 4px 1px #00000026;
+	align-items: center;
+	justify-content: center;
+}
+
+.cart-item-qty-control {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 8px;
+}
+
+.cart-item-increase {
+	padding-top: 10px;
+}
+
+.cart-item-price {
+	color: #052850;
+	font-size: 14px;
+}
+
+.cart-item-remove {
+	background: none;
+	border: none;
+}
+
+.cart-item {
+	padding: 10px 3px;
+	border-top: 1px solid #ECECEC;
+}
+
+.cart-item:last-child {
+   border-bottom: 1px solid #ECECEC;
+}
+
+
+.cart-actions-final{
+    position:fixed;
+    bottom: 0;
+    height: 120px;
+    width: 300px;
+    background: white;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+ 
+}
+
+.subtotal_bar {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background: #f4f4f4;
+	padding: 10px 15px;
+	font-size: 15px;
+}
+
+.subtotal_container {
+	display: flex;
+	align-items: center;
+	width: auto;
+	gap: 10px;
+	color: #0762b5;
+    justify-content: end;
+}
+
+
+.button.button-remove-all {
+	background: #434343;
+	border-radius: 0;
+	border: none;
+	color: #fff;
+	padding: 8px 15px;
+	font-size: 14px;
+	border: 1px solid #000;
+	box-shadow: 0 4px 12px #0000001a;
+	transition: all .3s ease-in-out;
+
+      &:hover{
+        background: black;
+      }
+}
+
+
+
+
+.final_bar {
+	display: flex;
+	justify-content: space-between;
+	padding: 15px;
+	background: #e9e9f8;
+}
+
+
+.button.button-2.button-view-cart , .button.button-2.button-checkout {
+	background: #1061c9;
+	color: white;
+	font-size: 14px;
+	padding: 8px 20px;
+box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+}
+
+
+.loading-spinner.image-type{
+    background-image: url("/images/loading-black.svg");
+   	background-size: 100% 100%;
+  	width: 63px;
+  	height: 63px;
+  	animation: 2s linear infinite spin;
+}
+
+

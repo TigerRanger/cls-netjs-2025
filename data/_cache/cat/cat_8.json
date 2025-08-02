@@ -1,0 +1,1291 @@
+{
+  "categoryList": [
+    {
+      "id": 8,
+      "name": "New Luma Yoga Collection",
+      "description": null,
+      "canonical_url": "collections/yoga-new.html",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 32,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 0,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 32,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 3,
+      "page_size": 15
+    },
+    "items": [
+      {
+        "canonical_url": "echo-fit-compression-short.html",
+        "id": 1997,
+        "name": "Echo Fit Compression Short",
+        "new": 1,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "WSH07",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/s/wsh07-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 24,
+        "discount_percent": 0,
+        "url_key": "echo-fit-compression-short",
+        "image": {
+          "label": "Echo Fit Compression Short",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 24
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "gwen-drawstring-bike-short.html",
+        "id": 1951,
+        "name": "Gwen Drawstring Bike Short",
+        "new": 1,
+        "rating_summary": 90,
+        "review_count": 2,
+        "sku": "WSH03",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/s/wsh03-gray_main_4.jpg",
+        "product_type": "configurable",
+        "final_price": 50,
+        "discount_percent": 0,
+        "url_key": "gwen-drawstring-bike-short",
+        "image": {
+          "label": "Gwen Drawstring Bike Short",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 50
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "fiona-fitness-short.html",
+        "id": 1919,
+        "name": "Fiona Fitness Short",
+        "new": 1,
+        "rating_summary": 60,
+        "review_count": 3,
+        "sku": "WSH01",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/s/wsh01-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 29,
+        "discount_percent": 0,
+        "url_key": "fiona-fitness-short",
+        "image": {
+          "label": "Fiona Fitness Short",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 29
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "ida-workout-parachute-pant.html",
+        "id": 1833,
+        "name": "Ida Workout Parachute Pant",
+        "new": 1,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "WP03",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/p/wp03-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 48,
+        "discount_percent": 0,
+        "url_key": "ida-workout-parachute-pant",
+        "image": {
+          "label": "Ida Workout Parachute Pant",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 48
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "nora-practice-tank.html",
+        "id": 1716,
+        "name": "Nora Practice Tank",
+        "new": 1,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "WT03",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/t/wt03-red_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 39,
+        "discount_percent": 0,
+        "url_key": "nora-practice-tank",
+        "image": {
+          "label": "Nora Practice Tank",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 39
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "celeste-sports-bra.html",
+        "id": 1636,
+        "name": "Celeste Sports Bra",
+        "new": 1,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "WB03",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/b/wb03-green_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 39,
+        "discount_percent": 0,
+        "url_key": "celeste-sports-bra",
+        "image": {
+          "label": "Celeste Sports Bra",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 39
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "juliana-short-sleeve-tee.html",
+        "id": 1476,
+        "name": "Juliana Short-Sleeve Tee",
+        "new": 1,
+        "rating_summary": 60,
+        "review_count": 2,
+        "sku": "WS07",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/s/ws07-black_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 42,
+        "discount_percent": 0,
+        "url_key": "juliana-short-sleeve-tee",
+        "image": {
+          "label": "Juliana Short-Sleeve Tee",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 42
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "elisa-evercool-trade-tee.html",
+        "id": 1460,
+        "name": "Elisa EverCool&trade; Tee",
+        "new": 1,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "WS06",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/s/ws06-purple_main_4.jpg",
+        "product_type": "configurable",
+        "final_price": 29,
+        "discount_percent": 0,
+        "url_key": "elisa-evercool-trade-tee",
+        "image": {
+          "label": "Elisa EverCool&trade; Tee",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 29
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "layla-tee.html",
+        "id": 1444,
+        "name": "Layla Tee",
+        "new": 1,
+        "rating_summary": 60,
+        "review_count": 2,
+        "sku": "WS04",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/s/ws04-green_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 29,
+        "discount_percent": 0,
+        "url_key": "layla-tee",
+        "image": {
+          "label": "Layla Tee",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 29
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "gabrielle-micro-sleeve-top.html",
+        "id": 1412,
+        "name": "Gabrielle Micro Sleeve Top",
+        "new": 1,
+        "rating_summary": 73,
+        "review_count": 3,
+        "sku": "WS02",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/s/ws02-green_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 28,
+        "discount_percent": 0,
+        "url_key": "gabrielle-micro-sleeve-top",
+        "image": {
+          "label": "Gabrielle Micro Sleeve Top",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 28
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "neve-studio-dance-jacket.html",
+        "id": 1364,
+        "name": "Neve Studio Dance Jacket",
+        "new": 1,
+        "rating_summary": 87,
+        "review_count": 3,
+        "sku": "WJ11",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/j/wj11-blue_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 69,
+        "discount_percent": 0,
+        "url_key": "neve-studio-dance-jacket",
+        "image": {
+          "label": "Neve Studio Dance Jacket",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 69
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "nadia-elements-shell.html",
+        "id": 1348,
+        "name": "Nadia Elements Shell",
+        "new": 1,
+        "rating_summary": 60,
+        "review_count": 3,
+        "sku": "WJ10",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/j/wj10-yellow_main_4.jpg",
+        "product_type": "configurable",
+        "final_price": 69,
+        "discount_percent": 0,
+        "url_key": "nadia-elements-shell",
+        "image": {
+          "label": "Nadia Elements Shell",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 69
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "ingrid-running-jacket.html",
+        "id": 1268,
+        "name": "Ingrid Running Jacket",
+        "new": 1,
+        "rating_summary": 90,
+        "review_count": 2,
+        "sku": "WJ04",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/j/wj04-white_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 84,
+        "discount_percent": 0,
+        "url_key": "ingrid-running-jacket",
+        "image": {
+          "label": "Ingrid Running Jacket",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 84
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "stellar-solar-jacket.html",
+        "id": 1220,
+        "name": "Stellar Solar Jacket",
+        "new": 1,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "WJ01",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/j/wj01-red_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 75,
+        "discount_percent": 0,
+        "url_key": "stellar-solar-jacket",
+        "image": {
+          "label": "Stellar Solar Jacket",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 75
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "helena-hooded-fleece.html",
+        "id": 1178,
+        "name": "Helena Hooded Fleece",
+        "new": 1,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "WH10",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/w/h/wh10-gray_main_2.jpg",
+        "product_type": "configurable",
+        "final_price": 55,
+        "discount_percent": 0,
+        "url_key": "helena-hooded-fleece",
+        "image": {
+          "label": "Helena Hooded Fleece",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 55
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 9,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 1,
+            "label": "10-20",
+            "value": "10_20"
+          },
+          {
+            "count": 5,
+            "label": "20-30",
+            "value": "20_30"
+          },
+          {
+            "count": 5,
+            "label": "30-40",
+            "value": "30_40"
+          },
+          {
+            "count": 6,
+            "label": "40-50",
+            "value": "40_50"
+          },
+          {
+            "count": 7,
+            "label": "50-60",
+            "value": "50_60"
+          },
+          {
+            "count": 4,
+            "label": "60-70",
+            "value": "60_70"
+          },
+          {
+            "count": 1,
+            "label": "70-80",
+            "value": "70_80"
+          },
+          {
+            "count": 1,
+            "label": "80-90",
+            "value": "80_90"
+          },
+          {
+            "count": 2,
+            "label": "90-100",
+            "value": "90_100"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 22,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 32,
+            "label": "New Luma Yoga Collection",
+            "value": "OA=="
+          },
+          {
+            "count": 4,
+            "label": "Women Bottoms",
+            "value": "MjI="
+          },
+          {
+            "count": 3,
+            "label": "Shorts",
+            "value": "Mjg="
+          },
+          {
+            "count": 4,
+            "label": "Performance Fabrics",
+            "value": "MzU="
+          },
+          {
+            "count": 3,
+            "label": "Eco Friendly",
+            "value": "MzY="
+          },
+          {
+            "count": 1,
+            "label": "Pants",
+            "value": "Mjc="
+          },
+          {
+            "count": 6,
+            "label": "Pants",
+            "value": "MzI="
+          },
+          {
+            "count": 13,
+            "label": "Women Tops",
+            "value": "MjE="
+          },
+          {
+            "count": 2,
+            "label": "Bras & Tanks",
+            "value": "MjY="
+          },
+          {
+            "count": 6,
+            "label": "Erin Recommends",
+            "value": "MzQ="
+          },
+          {
+            "count": 4,
+            "label": "Tees",
+            "value": "MjU="
+          },
+          {
+            "count": 4,
+            "label": "Tees",
+            "value": "MzM="
+          },
+          {
+            "count": 4,
+            "label": "Jackets",
+            "value": "MjM="
+          },
+          {
+            "count": 3,
+            "label": "Hoodies & Sweatshirts",
+            "value": "MjQ="
+          },
+          {
+            "count": 7,
+            "label": "Bottoms",
+            "value": "MTM="
+          },
+          {
+            "count": 2,
+            "label": "Shorts",
+            "value": "MTk="
+          },
+          {
+            "count": 5,
+            "label": "Pants",
+            "value": "MTg="
+          },
+          {
+            "count": 8,
+            "label": "Gear",
+            "value": "Mw=="
+          },
+          {
+            "count": 4,
+            "label": "Watches",
+            "value": "Ng=="
+          },
+          {
+            "count": 8,
+            "label": "Collections",
+            "value": "Nw=="
+          },
+          {
+            "count": 1,
+            "label": "Fitness Equipment",
+            "value": "NQ=="
+          },
+          {
+            "count": 3,
+            "label": "Bags",
+            "value": "NA=="
+          }
+        ]
+      },
+      {
+        "attribute_code": "activity",
+        "count": 8,
+        "label": "Activity",
+        "position": 0,
+        "options": [
+          {
+            "count": 2,
+            "label": "Outdoor",
+            "value": "5"
+          },
+          {
+            "count": 2,
+            "label": "Recreation",
+            "value": "9"
+          },
+          {
+            "count": 5,
+            "label": "Gym",
+            "value": "11"
+          },
+          {
+            "count": 4,
+            "label": "Athletic",
+            "value": "16"
+          },
+          {
+            "count": 2,
+            "label": "Sports",
+            "value": "17"
+          },
+          {
+            "count": 2,
+            "label": "Overnight",
+            "value": "19"
+          },
+          {
+            "count": 3,
+            "label": "Travel",
+            "value": "22"
+          },
+          {
+            "count": 1,
+            "label": "Urban",
+            "value": "23"
+          }
+        ]
+      },
+      {
+        "attribute_code": "style_bags",
+        "count": 4,
+        "label": "Style",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "Duffel",
+            "value": "26"
+          },
+          {
+            "count": 2,
+            "label": "Messenger",
+            "value": "27"
+          },
+          {
+            "count": 2,
+            "label": "Laptop",
+            "value": "28"
+          },
+          {
+            "count": 1,
+            "label": "Exercise",
+            "value": "29"
+          }
+        ]
+      },
+      {
+        "attribute_code": "material",
+        "count": 21,
+        "label": "Material",
+        "position": 0,
+        "options": [
+          {
+            "count": 4,
+            "label": "Cocona&reg; performance fabric",
+            "value": "142"
+          },
+          {
+            "count": 4,
+            "label": "Cotton",
+            "value": "33"
+          },
+          {
+            "count": 3,
+            "label": "Fleece",
+            "value": "144"
+          },
+          {
+            "count": 1,
+            "label": "Hemp",
+            "value": "145"
+          },
+          {
+            "count": 3,
+            "label": "Leather",
+            "value": "35"
+          },
+          {
+            "count": 1,
+            "label": "Mesh",
+            "value": "36"
+          },
+          {
+            "count": 3,
+            "label": "LumaTech&trade;",
+            "value": "147"
+          },
+          {
+            "count": 8,
+            "label": "Nylon",
+            "value": "37"
+          },
+          {
+            "count": 4,
+            "label": "Lycra&reg;",
+            "value": "148"
+          },
+          {
+            "count": 12,
+            "label": "Polyester",
+            "value": "38"
+          },
+          {
+            "count": 5,
+            "label": "Rayon",
+            "value": "39"
+          },
+          {
+            "count": 8,
+            "label": "Spandex",
+            "value": "150"
+          },
+          {
+            "count": 1,
+            "label": "Suede",
+            "value": "41"
+          },
+          {
+            "count": 1,
+            "label": "EverCool&trade;",
+            "value": "152"
+          },
+          {
+            "count": 6,
+            "label": "Organic Cotton",
+            "value": "153"
+          },
+          {
+            "count": 2,
+            "label": "Metal",
+            "value": "43"
+          },
+          {
+            "count": 5,
+            "label": "CoolTech&trade;",
+            "value": "155"
+          },
+          {
+            "count": 3,
+            "label": "Plastic",
+            "value": "44"
+          },
+          {
+            "count": 3,
+            "label": "Rubber",
+            "value": "45"
+          },
+          {
+            "count": 6,
+            "label": "Wool",
+            "value": "158"
+          },
+          {
+            "count": 2,
+            "label": "Silicone",
+            "value": "48"
+          }
+        ]
+      },
+      {
+        "attribute_code": "strap_bags",
+        "count": 7,
+        "label": "Strap/Handle",
+        "position": 0,
+        "options": [
+          {
+            "count": 2,
+            "label": "Adjustable",
+            "value": "61"
+          },
+          {
+            "count": 1,
+            "label": "Cross Body",
+            "value": "62"
+          },
+          {
+            "count": 1,
+            "label": "Detachable",
+            "value": "63"
+          },
+          {
+            "count": 2,
+            "label": "Double",
+            "value": "64"
+          },
+          {
+            "count": 1,
+            "label": "Padded",
+            "value": "65"
+          },
+          {
+            "count": 2,
+            "label": "Shoulder",
+            "value": "66"
+          },
+          {
+            "count": 1,
+            "label": "Single",
+            "value": "67"
+          }
+        ]
+      },
+      {
+        "attribute_code": "features_bags",
+        "count": 6,
+        "label": "Features",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "Flapover",
+            "value": "73"
+          },
+          {
+            "count": 2,
+            "label": "Waterproof",
+            "value": "74"
+          },
+          {
+            "count": 2,
+            "label": "Lightweight",
+            "value": "75"
+          },
+          {
+            "count": 1,
+            "label": "Reflective",
+            "value": "77"
+          },
+          {
+            "count": 2,
+            "label": "Laptop Sleeve",
+            "value": "78"
+          },
+          {
+            "count": 2,
+            "label": "Lockable",
+            "value": "79"
+          }
+        ]
+      },
+      {
+        "attribute_code": "gender",
+        "count": 4,
+        "label": "Gender",
+        "position": null,
+        "options": [
+          {
+            "count": 0,
+            "label": "Male",
+            "value": "1"
+          },
+          {
+            "count": 4,
+            "label": "Men",
+            "value": "80"
+          },
+          {
+            "count": 3,
+            "label": "Women",
+            "value": "81"
+          },
+          {
+            "count": 2,
+            "label": "Unisex",
+            "value": "84"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_gear",
+        "count": 4,
+        "label": "Category",
+        "position": 0,
+        "options": [
+          {
+            "count": 4,
+            "label": "Electronic",
+            "value": "86"
+          },
+          {
+            "count": 4,
+            "label": "Exercise",
+            "value": "87"
+          },
+          {
+            "count": 1,
+            "label": "Fashion",
+            "value": "88"
+          },
+          {
+            "count": 4,
+            "label": "Timepiece",
+            "value": "90"
+          }
+        ]
+      },
+      {
+        "attribute_code": "eco_collection",
+        "count": 2,
+        "label": "Eco Collection",
+        "position": 0,
+        "options": [
+          {
+            "count": 19,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 5,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "performance_fabric",
+        "count": 2,
+        "label": "Performance Fabric",
+        "position": 0,
+        "options": [
+          {
+            "count": 18,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 6,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "erin_recommends",
+        "count": 2,
+        "label": "Erin Recommends",
+        "position": 0,
+        "options": [
+          {
+            "count": 18,
+            "label": "No",
+            "value": "0"
+          },
+          {
+            "count": 7,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "new",
+        "count": 1,
+        "label": "New",
+        "position": 0,
+        "options": [
+          {
+            "count": 32,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "sale",
+        "count": 1,
+        "label": "Sale",
+        "position": 0,
+        "options": [
+          {
+            "count": 24,
+            "label": "No",
+            "value": "0"
+          }
+        ]
+      },
+      {
+        "attribute_code": "style_bottom",
+        "count": 9,
+        "label": "Style",
+        "position": 0,
+        "options": [
+          {
+            "count": 8,
+            "label": "Base Layer",
+            "value": "104"
+          },
+          {
+            "count": 2,
+            "label": "Basic",
+            "value": "105"
+          },
+          {
+            "count": 3,
+            "label": "Compression",
+            "value": "107"
+          },
+          {
+            "count": 2,
+            "label": "Leggings",
+            "value": "108"
+          },
+          {
+            "count": 1,
+            "label": "Parachute",
+            "value": "109"
+          },
+          {
+            "count": 2,
+            "label": "Snug",
+            "value": "111"
+          },
+          {
+            "count": 4,
+            "label": "Sweatpants",
+            "value": "112"
+          },
+          {
+            "count": 5,
+            "label": "Track Pants",
+            "value": "114"
+          },
+          {
+            "count": 6,
+            "label": "Workout Pants",
+            "value": "115"
+          }
+        ]
+      },
+      {
+        "attribute_code": "style_general",
+        "count": 17,
+        "label": "Style",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "Insulated",
+            "value": "116"
+          },
+          {
+            "count": 4,
+            "label": "Jacket",
+            "value": "117"
+          },
+          {
+            "count": 2,
+            "label": "Lightweight",
+            "value": "119"
+          },
+          {
+            "count": 2,
+            "label": "Hooded",
+            "value": "120"
+          },
+          {
+            "count": 1,
+            "label": "Rain Coat",
+            "value": "122"
+          },
+          {
+            "count": 1,
+            "label": "Hard Shell",
+            "value": "123"
+          },
+          {
+            "count": 2,
+            "label": "Soft Shell",
+            "value": "124"
+          },
+          {
+            "count": 1,
+            "label": "Windbreaker",
+            "value": "125"
+          },
+          {
+            "count": 1,
+            "label": "&frac14; zip",
+            "value": "127"
+          },
+          {
+            "count": 5,
+            "label": "Full Zip",
+            "value": "128"
+          },
+          {
+            "count": 1,
+            "label": "Reversible",
+            "value": "129"
+          },
+          {
+            "count": 1,
+            "label": "Bra",
+            "value": "130"
+          },
+          {
+            "count": 1,
+            "label": "Sweatshirt",
+            "value": "132"
+          },
+          {
+            "count": 1,
+            "label": "Tank",
+            "value": "134"
+          },
+          {
+            "count": 4,
+            "label": "Tee",
+            "value": "135"
+          },
+          {
+            "count": 2,
+            "label": "Pullover",
+            "value": "136"
+          },
+          {
+            "count": 3,
+            "label": "Hoodie",
+            "value": "137"
+          }
+        ]
+      },
+      {
+        "attribute_code": "pattern",
+        "count": 2,
+        "label": "Pattern",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "Color-Blocked",
+            "value": "194"
+          },
+          {
+            "count": 23,
+            "label": "Solid",
+            "value": "196"
+          }
+        ]
+      },
+      {
+        "attribute_code": "climate",
+        "count": 11,
+        "label": "Climate",
+        "position": 0,
+        "options": [
+          {
+            "count": 9,
+            "label": "All-Weather",
+            "value": "201"
+          },
+          {
+            "count": 2,
+            "label": "Cold",
+            "value": "202"
+          },
+          {
+            "count": 9,
+            "label": "Cool",
+            "value": "203"
+          },
+          {
+            "count": 15,
+            "label": "Indoor",
+            "value": "204"
+          },
+          {
+            "count": 8,
+            "label": "Mild",
+            "value": "205"
+          },
+          {
+            "count": 1,
+            "label": "Rainy",
+            "value": "206"
+          },
+          {
+            "count": 10,
+            "label": "Spring",
+            "value": "207"
+          },
+          {
+            "count": 11,
+            "label": "Warm",
+            "value": "208"
+          },
+          {
+            "count": 7,
+            "label": "Windy",
+            "value": "209"
+          },
+          {
+            "count": 6,
+            "label": "Wintry",
+            "value": "210"
+          },
+          {
+            "count": 6,
+            "label": "Hot",
+            "value": "211"
+          }
+        ]
+      }
+    ]
+  }
+}

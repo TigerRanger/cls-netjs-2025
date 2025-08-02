@@ -1,0 +1,107 @@
+
+/* styles/globals.scss */
+
+ .overlay {
+   position: fixed;
+   top: 0;
+   left: 0;
+   width: 100vw;
+   height: 100vh;
+   background-color: rgba(0, 0, 0, 0.4); // semi-transparent dark background
+   z-index: 999; // must be lower than .offCanvasMenu (which should be 1000+)
+   opacity: 0;
+  visibility: hidden;
+   transition: opacity 0.3s ease;
+ }
+
+ .overlay.open {   opacity: 1;
+  visibility: visible;
+ }
+  
+  .offCanvasMenu {
+    position: fixed;
+    top: 0;
+    right: -300px; /* Start off-screen on the right */
+    width: 300px; /* Fixed width */
+    height: 100%; /* Full height */
+    background-color: #fff; /* White background for the menu */
+    color: black; /* Text color */
+    transition: right 0.3s ease; /* Slide effect */
+    z-index: 1000; /* Above overlay */
+    padding-bottom: 10px;
+    box-shadow: 0 4px 12px #0000001a;
+  }
+  
+  .offCanvasMenu.open {
+    right: 0; /* Slide in */
+  }
+  
+ 
+  .cart_headline{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #0762b5;
+    color: #fff;
+    padding: 5px 15px;
+    font-size: 1.2rem;
+    margin-bottom: 0;
+    font-weight: normal;
+  }
+  
+
+  .offCanvasMenu .item_qty_total {
+    color:#0762b5 ;
+    padding: 5px 15px;
+    font-weight: bold;
+    background: #f7f7f7;
+  }
+
+
+.cart_headline .closeButton {
+	background: none;
+	border: none;
+	color: #f7f7f7;
+	font-size: 24px;
+	cursor: pointer;
+	position: relative;
+	width: 30px;
+	height: 30px;
+	transition: all .3s ease-in-out;
+	display: block;
+	overflow: hidden;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+  .cart_headline .closeButton:hover{
+    transform: rotate(90deg);
+  }
+
+  .empty_cart {
+    text-align: center;
+    padding: 50px 10px;
+    color: #686868;
+    margin-top: 10%;
+  }
+
+  .button.button-2.button-continue {
+    width: 256px;
+    display: block;
+    margin: 30px auto;
+    border: 1px solid #000;
+    padding: 5px 20px;
+    cursor: pointer;
+    text-transform: uppercase;
+    color: #000;
+    transition: all ease-in-out 0.3s;
+    
+  }
+
+  
+  .button.button-2.button-continue:hover{
+    background: #333;
+    color: white;
+  }

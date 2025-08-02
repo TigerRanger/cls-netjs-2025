@@ -1,0 +1,579 @@
+{
+  "categoryList": [
+    {
+      "id": 5,
+      "name": "Fitness Equipment",
+      "description": null,
+      "canonical_url": "gear/fitness-equipment.html",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 11,
+      "display_mode": null,
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": null,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 11,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 15
+    },
+    "items": [
+      {
+        "canonical_url": "set-of-sprite-yoga-straps.html",
+        "id": 46,
+        "name": "Set of Sprite Yoga Straps",
+        "new": null,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "24-WG085_Group",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/l/u/luma-yoga-strap-set.jpg",
+        "product_type": "grouped",
+        "final_price": 0,
+        "discount_percent": 0,
+        "url_key": "set-of-sprite-yoga-straps",
+        "image": {
+          "label": "Set of Sprite Yoga Straps",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 0
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "sprite-yoga-companion-kit.html",
+        "id": 45,
+        "name": "Sprite Yoga Companion Kit",
+        "new": null,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "24-WG080",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/l/u/luma-yoga-kit-2.jpg",
+        "product_type": "bundle",
+        "final_price": 0,
+        "discount_percent": 0,
+        "url_key": "sprite-yoga-companion-kit",
+        "image": {
+          "label": "Sprite Yoga Companion Kit",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 61
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "harmony-lumaflex-trade-strength-band-kit.html",
+        "id": 23,
+        "name": "Harmony Lumaflex&trade; Strength Band Kit ",
+        "new": null,
+        "rating_summary": 60,
+        "review_count": 3,
+        "sku": "24-UG03",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/u/g/ug03-bk-0.jpg",
+        "product_type": "simple",
+        "final_price": 22,
+        "discount_percent": 0,
+        "url_key": "harmony-lumaflex-trade-strength-band-kit",
+        "image": {
+          "label": "Harmony Lumaflex&trade; Strength Band Kit ",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 22
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "sprite-foam-roller.html",
+        "id": 22,
+        "name": "Sprite Foam Roller",
+        "new": null,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "24-WG088",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/l/u/luma-foam-roller.jpg",
+        "product_type": "simple",
+        "final_price": 19,
+        "discount_percent": 0,
+        "url_key": "sprite-foam-roller",
+        "image": {
+          "label": "Sprite Foam Roller",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 19
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "sprite-foam-yoga-brick.html",
+        "id": 21,
+        "name": "Sprite Foam Yoga Brick",
+        "new": null,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "24-WG084",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/l/u/luma-yoga-brick.jpg",
+        "product_type": "simple",
+        "final_price": 5,
+        "discount_percent": 0,
+        "url_key": "sprite-foam-yoga-brick",
+        "image": {
+          "label": "Sprite Foam Yoga Brick",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 5
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "quest-lumaflex-trade-band.html",
+        "id": 20,
+        "name": "Quest Lumaflex&trade; Band",
+        "new": null,
+        "rating_summary": 67,
+        "review_count": 3,
+        "sku": "24-UG01",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/u/g/ug01-bk-0.jpg",
+        "product_type": "simple",
+        "final_price": 19,
+        "discount_percent": 0,
+        "url_key": "quest-lumaflex-trade-band",
+        "image": {
+          "label": "Quest Lumaflex&trade; Band",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 19
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "go-get-r-pushup-grips.html",
+        "id": 19,
+        "name": "Go-Get'r Pushup Grips",
+        "new": 1,
+        "rating_summary": 87,
+        "review_count": 3,
+        "sku": "24-UG05",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/u/g/ug05-gr-0.jpg",
+        "product_type": "simple",
+        "final_price": 19,
+        "discount_percent": 0,
+        "url_key": "go-get-r-pushup-grips",
+        "image": {
+          "label": "Go-Get'r Pushup Grips",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 19
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "pursuit-lumaflex-trade-tone-band.html",
+        "id": 18,
+        "name": "Pursuit Lumaflex&trade; Tone Band",
+        "new": null,
+        "rating_summary": 60,
+        "review_count": 2,
+        "sku": "24-UG02",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/u/g/ug02-bk-0.jpg",
+        "product_type": "simple",
+        "final_price": 16,
+        "discount_percent": 0,
+        "url_key": "pursuit-lumaflex-trade-tone-band",
+        "image": {
+          "label": "Pursuit Lumaflex&trade; Tone Band",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 16
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "zing-jump-rope.html",
+        "id": 17,
+        "name": "Zing Jump Rope",
+        "new": null,
+        "rating_summary": 93,
+        "review_count": 3,
+        "sku": "24-UG04",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/u/g/ug04-bk-0.jpg",
+        "product_type": "simple",
+        "final_price": 12,
+        "discount_percent": 0,
+        "url_key": "zing-jump-rope",
+        "image": {
+          "label": "Zing Jump Rope",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 12
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "dual-handle-cardio-ball.html",
+        "id": 16,
+        "name": "Dual Handle Cardio Ball",
+        "new": null,
+        "rating_summary": 100,
+        "review_count": 2,
+        "sku": "24-UG07",
+        "special_price": 12,
+        "custom_image": "http://magento7.nz/media/catalog/product/u/g/ug07-bk-0.jpg",
+        "product_type": "simple",
+        "final_price": 12,
+        "discount_percent": 0,
+        "url_key": "dual-handle-cardio-ball",
+        "image": {
+          "label": "Dual Handle Cardio Ball",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 12
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      },
+      {
+        "canonical_url": "affirm-water-bottle.html",
+        "id": 15,
+        "name": "Affirm Water Bottle ",
+        "new": null,
+        "rating_summary": 60,
+        "review_count": 1,
+        "sku": "24-UG06",
+        "special_price": null,
+        "custom_image": "http://magento7.nz/media/catalog/product/u/g/ug06-lb-0.jpg",
+        "product_type": "simple",
+        "final_price": 7,
+        "discount_percent": 0,
+        "url_key": "affirm-water-bottle",
+        "image": {
+          "label": "Affirm Water Bottle ",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "USD",
+              "value": 7
+            }
+          }
+        },
+        "short_description": {
+          "html": ""
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 4,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 2,
+            "label": "0-10",
+            "value": "0_10"
+          },
+          {
+            "count": 7,
+            "label": "10-20",
+            "value": "10_20"
+          },
+          {
+            "count": 1,
+            "label": "20-30",
+            "value": "20_30"
+          },
+          {
+            "count": 1,
+            "label": "60-70",
+            "value": "60_70"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 4,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 11,
+            "label": "Gear",
+            "value": "Mw=="
+          },
+          {
+            "count": 11,
+            "label": "Fitness Equipment",
+            "value": "NQ=="
+          },
+          {
+            "count": 2,
+            "label": "Collections",
+            "value": "Nw=="
+          },
+          {
+            "count": 1,
+            "label": "New Luma Yoga Collection",
+            "value": "OA=="
+          }
+        ]
+      },
+      {
+        "attribute_code": "activity",
+        "count": 5,
+        "label": "Activity",
+        "position": 0,
+        "options": [
+          {
+            "count": 4,
+            "label": "Yoga",
+            "value": "8"
+          },
+          {
+            "count": 2,
+            "label": "Recreation",
+            "value": "9"
+          },
+          {
+            "count": 9,
+            "label": "Gym",
+            "value": "11"
+          },
+          {
+            "count": 2,
+            "label": "Athletic",
+            "value": "16"
+          },
+          {
+            "count": 3,
+            "label": "Sports",
+            "value": "17"
+          }
+        ]
+      },
+      {
+        "attribute_code": "material",
+        "count": 6,
+        "label": "Material",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "Canvas",
+            "value": "32"
+          },
+          {
+            "count": 3,
+            "label": "Leather",
+            "value": "35"
+          },
+          {
+            "count": 3,
+            "label": "Foam",
+            "value": "42"
+          },
+          {
+            "count": 7,
+            "label": "Plastic",
+            "value": "44"
+          },
+          {
+            "count": 4,
+            "label": "Rubber",
+            "value": "45"
+          },
+          {
+            "count": 1,
+            "label": "Synthetic",
+            "value": "46"
+          }
+        ]
+      },
+      {
+        "attribute_code": "gender",
+        "count": 4,
+        "label": "Gender",
+        "position": null,
+        "options": [
+          {
+            "count": 0,
+            "label": "Male",
+            "value": "1"
+          },
+          {
+            "count": 10,
+            "label": "Men",
+            "value": "80"
+          },
+          {
+            "count": 10,
+            "label": "Women",
+            "value": "81"
+          },
+          {
+            "count": 10,
+            "label": "Unisex",
+            "value": "84"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_gear",
+        "count": 2,
+        "label": "Category",
+        "position": 0,
+        "options": [
+          {
+            "count": 4,
+            "label": "Cardio",
+            "value": "85"
+          },
+          {
+            "count": 10,
+            "label": "Exercise",
+            "value": "87"
+          }
+        ]
+      },
+      {
+        "attribute_code": "erin_recommends",
+        "count": 1,
+        "label": "Erin Recommends",
+        "position": 0,
+        "options": [
+          {
+            "count": 2,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "new",
+        "count": 1,
+        "label": "New",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      },
+      {
+        "attribute_code": "sale",
+        "count": 1,
+        "label": "Sale",
+        "position": 0,
+        "options": [
+          {
+            "count": 1,
+            "label": "Yes",
+            "value": "1"
+          }
+        ]
+      }
+    ]
+  }
+}

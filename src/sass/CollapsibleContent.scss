@@ -1,0 +1,28 @@
+.collapsible-container {
+  max-height: 100px;
+  overflow: hidden;
+  position: relative;
+  transition: max-height 0.3s ease;
+}
+
+.collapsible-container.expanded {
+  max-height: 9999px;
+}
+
+.collapse-toggle {
+	margin-top: 1px;
+	background: none;
+	border: none;
+	color: #6a6a6a;
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 12px;
+}
+
+.fade-out {
+  position: absolute;
+  bottom: 0;
+  height: 50px;
+  width: 100%;
+  background: linear-gradient(to bottom, transparent, white);
+}
