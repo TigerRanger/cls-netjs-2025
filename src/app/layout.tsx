@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
-import { Sarabun } from "next/font/google";
-import "@/sass/global.scss";
+
+import "./sass/style.scss";
 
 import Header from "@/components/header/Header";
 import Footer from "@/components/Footer/Footer";
@@ -15,13 +15,6 @@ import { getMenuData } from "@/lib/loaders/menuLoader";
 import { store } from "@/redux/store";  // Import Redux store
 import { setBaseCurrency } from "@/redux/cartSlice"; 
 
-const sarabun = Sarabun({
-  subsets: ["latin"],
-  style: ["normal", "italic"],
-  weight: ["400", "700"],
-  display: "swap",
-  variable: '--font-sarabun',
-});
 
 export const revalidate = 60;
 
@@ -97,7 +90,7 @@ export default async function RootLayout({
 
         <meta property="fb:app_id" content={storeInfo?.faccbook_app_id ??"no_id"} />
       </head>
-      <body className={sarabun.variable}>
+      <body>
         <ClientProvider>
           <Header MenuItem={categoriList} StoreConfig={storeConfig} StoreInfo={storeInfo} />
           <Preload />

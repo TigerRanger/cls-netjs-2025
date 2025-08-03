@@ -1,0 +1,83 @@
+.bradcrump-master{
+    background: white;
+    display: flex;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 10px 50px;
+    border-bottom: 1px solid #d6d6d6;
+    border-top: 1px solid #d6d6d6;
+}
+
+.breadcramp-box{
+    ul{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+          li.breadcrumbs__item {
+                position: relative;
+             a{
+                background: #fff;
+                color: #333;
+                outline: none;
+                padding: 5px 10px;
+                position: relative;
+                text-decoration: none;
+                transition: background 0.2s linear;
+                display: block;
+                padding-left: 20px;
+                &:hover{
+                    color:$primary;
+                    background: #101922;
+
+                }
+
+
+             }
+
+             span{
+                display: block;
+                color: darken($color: $primary, $amount: 20%);
+                padding: 5px 10px;
+                padding-left: 20px;
+             }
+
+
+          &:first-child{
+            a{
+                padding-left: 10px;
+            }
+          }   
+         }
+
+    }
+
+  }
+  
+  
+  .breadcrumbs__item >  a::before {
+    background: #101922;
+    margin-left: 1px;
+  }
+
+  .breadcrumbs__item >  a::after, .breadcrumbs__item >  a::before {
+	background: white;
+	bottom: 0;
+	-webkit-clip-path: polygon(50% 50%, -50% -50%, 0 100%);
+	clip-path: polygon(50% 50%, -50% -50%, 0 100%);
+	content: "";
+	left: 100%;
+	position: absolute;
+	top: 0;
+	transition: all 0.2s linear;
+	width: 1em;
+	z-index: 1;
+}
+
+.breadcrumbs__item > a:hover::after, .breadcrumbs__item > a:hover {
+    background: #101922;
+  }
+
+  .breadcrumbs__item > a::before {
+    background: #e3e3e3;
+  }

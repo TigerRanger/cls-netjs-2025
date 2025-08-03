@@ -15,6 +15,7 @@ const Error = () => {
           border: 1px solid red;
           border-radius: 8px;
           min-height: 400px;
+          margin:20px;
         }
       `}</style>
       <div className="error-message">

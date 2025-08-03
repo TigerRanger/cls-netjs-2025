@@ -2,6 +2,10 @@ import React from "react";
 import { StoreConfig, StoreInfo } from "@/lib/Interface/MenuInterface";
 import SubscribeForm from '../SubscribeForm';
 
+import Image from 'next/image';
+import Link from "next/link";
+
+
 import FacbookSvg from "../../../public/svg-icon/facebookicon.svg";
 import LinkedInSvg from "../../../public/svg-icon/linkedinicon.svg";
 import TwitterSvg from "../../../public/svg-icon/twittericon.svg";
@@ -9,10 +13,6 @@ import TwitterSvg from "../../../public/svg-icon/twittericon.svg";
 import YouTubeSvg from "../../../public/svg-icon/youtube.svg";
 import PintersetSvg from "../../../public/svg-icon/pinterest.svg";
 import InstagramSvg from "../../../public/svg-icon/insta.svg";
-
-import Image from 'next/image';
-
-import Link from "next/link";
 
 
 interface FooterLink {
@@ -33,12 +33,135 @@ const Footer: React.FC<FooterProps> = ({ Setting :Setting , StoreInfo:StoreInfo 
   return (
     <footer className="page-footer">
         <div className="footer_top">
-            <div className='container'>
+            <div className='container-fluid'>
                 <div className="row"> 
                     <div className="col-md-6">
-                      <SubscribeForm/>
+                        <div className="cs-newsletter__background-wrapper"> 
+                            <Image className="cs-newsletter__discount-background" src="/background/newsletter_bg.jpg" width={1920} height={698} alt="cls computer" />
+                        </div>  
                     </div>
+
                     <div className="col-md-6">
+                      <div className="cs-newsletter__subscribe-wrapper">
+                           <SubscribeForm/>
+                      </div>
+                    </div>
+
+                </div>
+            </div>  
+        </div>
+        <div className="footer_middle"> 
+            <div className="container-fluid">
+              <div className="row"> 
+
+                       <div className="col-sm-6 col-md-4 col-lg-2"> 
+                        {StoreInfo?.footer_first_block_title && (
+                          <div className="introduce-title">  {StoreInfo?.footer_first_block_title}</div>
+                        )}
+                          {firstData && (
+                            <ul className="introduce-list">
+                              {firstData.map((item, index) => (
+                                <li key={index}> <Link    className="text-hover-animaiton menu-item white" href={item?.link}>{item?.link_name}</Link></li>
+                              ))}
+                            </ul> 
+                          )}
+                         </div>
+                          <div className="col-sm-6 col-md-4 col-lg-2"> 
+                          {StoreInfo?.footer_second_block_title && (
+                            <div className="introduce-title">  {StoreInfo?.footer_second_block_title}</div>
+                          )}                            
+                          {secondData && (
+                            <ul className="introduce-list">
+                              {secondData.map((item, index) => (
+                                <li key={index}> <Link    className="text-hover-animaiton menu-item white" href={item?.link}>{item?.link_name}</Link></li>
+                              ))}                          
+                            </ul>
+                          )}
+                          </div>
+
+
+                       <div className="col-sm-6 col-md-4 col-lg-2"> 
+                        {StoreInfo?.footer_first_block_title && (
+                          <div className="introduce-title">  {StoreInfo?.footer_first_block_title}</div>
+                        )}
+                          {firstData && (
+                            <ul className="introduce-list">
+                              {firstData.map((item, index) => (
+                                <li key={index}> <Link    className="text-hover-animaiton menu-item white" href={item?.link}>{item?.link_name}</Link></li>
+                              ))}
+                            </ul> 
+                          )}
+                         </div>
+                          <div className="col-sm-6 col-md-4 col-lg-2"> 
+                          {StoreInfo?.footer_second_block_title && (
+                            <div className="introduce-title">  {StoreInfo?.footer_second_block_title}</div>
+                          )}                            
+                          {secondData && (
+                            <ul className="introduce-list">
+                              {secondData.map((item, index) => (
+                                <li key={index}> <Link    className="text-hover-animaiton menu-item white" href={item?.link}>{item?.link_name}</Link></li>
+                              ))}                          
+                            </ul>
+                          )}
+                          </div>
+
+                          <div className="col-sm-6 col-md-4 col-lg-2"> 
+                          {StoreInfo?.footer_second_block_title && (
+                            <div className="introduce-title">  {StoreInfo?.footer_second_block_title}</div>
+                          )}                            
+                          {secondData && (
+                            <ul className="introduce-list">
+                              {secondData.map((item, index) => (
+                                <li key={index}> <Link    className="text-hover-animaiton menu-item white" href={item?.link}>{item?.link_name}</Link></li>
+                              ))}                          
+                            </ul>
+                          )}
+                          </div>
+
+
+
+                          <div className="col-sm-6 col-md-4 col-lg-2"> 
+                          <div className="introduce-title">CLS Hotline</div> 
+                                                    {StoreInfo?.store_phone && (
+                            <div className='footer-phone'>
+                                    <Link className='foot_phone' href={`tel:${StoreInfo.store_phone.replace(/[\s+\-]/g, "")}`}>
+                                           <span className='p-number'>{StoreInfo.store_phone}</span> 
+                                    </Link>
+                                  
+                            </div>
+                          )}
+                          
+                          {StoreInfo?.company_address && (
+                            <div className="store_address" dangerouslySetInnerHTML={{__html: StoreInfo?.company_address}}></div>
+                          )}
+
+                          {StoreInfo?.store_support_email && (
+                              <p><strong>Email: </strong> {StoreInfo?.store_support_email}</p>
+                          )}
+                           
+                  </div>
+                  </div>
+                </div>  
+              </div>
+
+         <div className="bottom_foot">
+              <div className="container-fluid">
+                  <div className='row'>
+                        <div className='col-md-6'>
+
+                         <p className="cs-page-bottom__text">Zahlungsarten</p>
+
+                         <div className="method_image">
+                            <Image src="/payment/icon-visa.svg" width={60} height={29} alt="visa" />
+                            <Image src="/payment/icon-mastercard.svg" width={60} height={29} alt="mastercard" />
+                            <Image src="/payment/icon-paypal.svg" width={95} height={40} alt="paypal" />
+                            <Image src="/payment/icon-amazon.png" width={120} height={29} alt="AmazonPay" />
+                            <Image src="/payment/icon-ratenkauf.png" width={60} height={29} alt="easycredit" />
+                         </div>
+
+                        </div>
+                        <div className='col-md-6'>
+
                           <div className="social-footer">
                               {StoreInfo?.facebook && (
                                 <Link className='f-social-icon ' href={StoreInfo?.facebook} target="_blank" rel="noopener noreferrer">
@@ -88,116 +211,15 @@ const Footer: React.FC<FooterProps> = ({ Setting :Setting , StoreInfo:StoreInfo 
                               )}  
 
                           </div>
-                    </div>
-                </div>
-            </div>  
-        </div>
-        <div className="footer_middle"> 
-            <div className="container">
-              <div className="row"> 
-                <div className="col-xl-4">
 
 
-                    <div className="Logo-foot">
-                        {Setting?.header_logo_src ? (
-                              <Image
-                                  src={Setting.header_logo_src}
-                                  alt={Setting?.logo_alt || "CLS Computer"}
-                                  width={Setting?.logo_width ? parseInt(Setting.logo_width) : 182}
-                                  height={Setting?.logo_height ? parseInt(Setting.logo_height) : 54}
-                                  loading="lazy"
-                              />
-                          ) : (
-                              <Image src="/images/logo.png" loading="lazy" alt="Gctl Security" width={182} height={54} />
-                          )}
-                    </div>
-               
-                    {StoreInfo?.company_info && (
-                      <p className="desp">{StoreInfo?.company_info}</p>
-                    )}
-
-                    { (StoreInfo?.apple_store_link || StoreInfo?.play_store_link) && (
-                      <div className="app-store">
-                          {StoreInfo?.apple_store_link && (
-                          <Link href={StoreInfo.apple_store_link} target="_blank" rel="noopener noreferrer">
-                              <Image src="/svg-icon/app_store_badge.svg" loading="lazy" width={150} height={44} alt="apple store" />
-                          </Link>
-                          )}
-                          {StoreInfo?.play_store_link && (
-                          <Link href={StoreInfo.play_store_link} target="_blank" rel="noopener noreferrer">
-                              <Image src="/svg-icon/google_play_badge.svg" loading="lazy" width={150} height={44} alt="google store" />
-                          </Link>
-                          )}
-                      </div>
-                    
-                    )}
-                </div>
-                <div className="col-xl-8 foot-last"> 
-                  <div className="row">
-                        <div className="col-sm-6 col-md-4"> 
-                        {StoreInfo?.footer_first_block_title && (
-                          <div className="introduce-title">  {StoreInfo?.footer_first_block_title}</div>
-                        )}
+                           <p className='copy-right'>
 
 
-                          {firstData && (
-                            <ul className="introduce-list">
-                              {firstData.map((item, index) => (
-                                <li key={index}> <Link    className="text-hover-animaiton menu-item white" href={item?.link}>{item?.link_name}</Link></li>
-                              ))}
-                            </ul> 
-                          )}
-
-                          </div>
-                          <div className="col-sm-6 col-md-4"> 
-                          {StoreInfo?.footer_second_block_title && (
-                            <div className="introduce-title">  {StoreInfo?.footer_second_block_title}</div>
-                          )}                            
-                          {secondData && (
-                            <ul className="introduce-list">
-                              {secondData.map((item, index) => (
-                                <li key={index}> <Link    className="text-hover-animaiton menu-item white" href={item?.link}>{item?.link_name}</Link></li>
-                              ))}                          
-                            </ul>
-                          )}
-                          </div>
-                          <div className="col-sm-6 col-md-4"> 
-                          <div className="introduce-title">Contact Us</div> 
-                          
-                          {StoreInfo?.company_address && (
-                            <div className="store_address" dangerouslySetInnerHTML={{__html: StoreInfo?.company_address}}></div>
-                          )}
-
-                          {StoreInfo?.store_support_email && (
-                              <p><strong>Email: </strong> {StoreInfo?.store_support_email}</p>
-                          )}
-
-                   {StoreInfo?.store_phone && (
-                     <div className='footer-phone'>
-                            <Link className='heartbeat-icon phone-icon' href={`tel:${StoreInfo.store_phone.replace(/[\s+\-]/g, "")}`}>
-                            <span className="ak-heartbeat-btn">
-                              <Image alt="CLS Compter Phone" loading="lazy" width={15} height={15} decoding="async" data-nimg="1" src="/svg-icon/phone.svg"/></span>
-                            </Link>
-                            <span className='p-number'>{StoreInfo.store_phone}</span> 
-                     </div>
-                   )}
                             
-                  </div>
-                  </div>
-                </div>  
-              </div>
-            </div>
-         </div> 
-         <div className="bottom_foot">
-              <div className="container">
-                  <div className='row'>
-                        <div className='col-md-6'>
-                          <p className='copy-right'>
-                              Copyright © 2017 gctlsecurity.com. All rights reserved.
+                                 Copyright © 2025 cls-computer.de All rights reserved.
                           </p>
-                        </div>
-                        <div className='col-md-6'>
-                        <div className="design"> <Image src="/images/payment.png" width={164} height={20} alt="gctl payment" /> </div>
+
                         </div>
                   </div>
               </div>

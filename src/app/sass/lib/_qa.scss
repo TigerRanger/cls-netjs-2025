@@ -1,0 +1,78 @@
+.pk-dr {
+    padding: 30px 0;
+}
+.que_and_card {
+    border: 1px solid #e7e7e7;
+    margin: 10px 0;
+    box-shadow: 1px 2px 2px -2px rgba(197,197,197,.75);
+    position: relative;
+    border-radius: 5px;
+    overflow:hidden;
+    background: white;
+}
+
+.que_box {
+      padding: 16px 10px;
+      color: #424242;
+      font-weight: 700;
+      cursor: pointer;
+      position: relative;
+      font-size: 0.9rem;
+      padding-right: 34px;
+}
+
+.que_box::after {
+	content: "+";
+	width: 20px;
+	height: 20px;
+	color: #17a589;
+	position: absolute;
+	top: 13px;
+	right: 12px;
+	font-size: 1.3rem;
+	transition: transform 0.3s ease;
+}
+
+.ans_box {
+          color: #666464;
+          max-height: 0;
+          opacity: 0;
+          height: auto;
+          overflow: hidden;
+          transition: max-height 0.4s ease, opacity 0.4s ease;
+          font-size: 1.3rem;
+          line-height: 2.2rem;
+    transition: max-height 0.4s ease, opacity 0.4s ease; /* Smooth height and opacity transitions */
+}
+
+.que_and_card.active .que_box::after {
+    content: '\e903';
+    width: 20px;
+    height: 20px;
+    font-family:'icomoon';
+    color: #312d2d;
+      top: 28px;
+      font-size: 2.5rem;
+    transform: rotate(180deg); /* Rotates the icon smoothly */
+}
+
+.que_and_card.active .ans_box {
+    max-height: 1000px; /* A large enough value to allow for the height of the content */
+    opacity: 1; /* Fades in the answer */
+}
+
+    .style_box {
+    padding: 0 20px;
+    padding-top: 0;
+    margin-left: 39px;
+    border-left: 2px solid rgb(34, 204, 96);
+    margin-bottom: 20px;
+}
+
+
+    h3.text-center {
+        text-align: center;
+        color: #171717;
+        font-size: 1.5rem;
+    }
+

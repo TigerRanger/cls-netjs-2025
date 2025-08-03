@@ -3,15 +3,9 @@ import { signIn } from "next-auth/react";
 import { showMsg } from "@/lib/jslib/GlobalMsgControl";
 
 import Form from 'react-bootstrap/Form';
-
-import ReloadSVG from '../../../public/svg-icon/reload.svg';
 import Image from 'next/image';
 import Button from 'react-bootstrap/Button';
 
-import fbSvg from "../../../public/images/checkout/fb.svg";
-import gPlusSvg from "../../../public/images/checkout/g_plus.svg";
-
-import Link from "next/link";
 
 export default function Login() {
   const [email, setEmail] = useState("");
@@ -26,6 +20,7 @@ export default function Login() {
     setIsRotated((prev) => !prev); // Toggle rotation state
     const res = await fetch("/api/captcha");
     const data = await res.json();
+    console.log("Fetched CAPTCHA:", data); // Debugging log
     setCaptcha(data);
   };
   const handleSubmit = async (e: React.FormEvent) => {
@@ -42,8 +37,8 @@ export default function Login() {
       showMsg("Invalid CAPTCHA or credentials. Please try again.", "danger");
       fetchCaptcha(); // Refresh CAPTCHA on failure
     } else {
-      //showMsg("Login successful!", "success");
-      //window.location.reload(); // Refresh the page on success
+      showMsg("Login successful!", "success");
+      window.location.reload(); // Refresh the page on success
     }
   };
   return (
@@ -61,16 +56,16 @@ export default function Login() {
         {captcha && (
             <>
             <div className="flex captcha_control">
-            <Form.Label column sm="3">
+            <Form.Label column sm="2">
               CAPTCHA:
             </Form.Label>
-            <Image src={captcha.image} width={140} height={40} alt="CAPTCHA" />
+            <Image src={captcha.image} width={150} height={40} alt="CAPTCHA" />
               <div className="reload_captcha" onClick={fetchCaptcha}>
-                  <Image title="Reload" className={`reloaded_captcha ${isRotated ? 'rotated' : ''}`} src={ReloadSVG} alt="Captcha Reload" width={40} height={40} />
+                  <Image title="Reload" className={`reloaded_captcha ${isRotated ? 'rotated' : ''}`} src="/images/reload.svg" alt="Captcha Reload" width={40} height={40} />
               </div>
             </div>
             <br/>            
-            <Form.Control size="sm" id="captcha_text" 
+            <Form.Control size="sm" 
               type="text"
               placeholder="Enter CAPTCHA"
               value={captchaAnswer}
@@ -80,30 +75,12 @@ export default function Login() {
         </>
         )}
         <br/>
-         <Button id="login_main" variant="primary" type="submit">Login</Button>
+         <Button variant="primary" type="submit">Login</Button>
       </Form>
         <br/>
-
-
-            <div className="button-group">  
-
-                 <button type="button" className="google btn btn-primary btn-round btn-block" onClick={() => signIn("google")}>
-                  <Image src={gPlusSvg} width="20" height="20" alt="google plus" />
-                    Google 
-                </button>
-
-              <button type="button" className="fb btn btn-primary btn-round btn-block" onClick={() => signIn("google")}> 
-                   <Image src={fbSvg} width="25" height="25" alt="facebook" />
-                   Facebook
-              </button>     
-
-              </div>
-             <p className="sign_up">
-                      Don&rsquo;t have an account?
-                            <Link href="/account/signup" passHref>Sign Up </Link>
-                     
-            </p> 
-
+      <Button variant="danger" onClick={() => signIn("google")}>
+        Login With Google
+      </Button>
     </div>
   );
 }

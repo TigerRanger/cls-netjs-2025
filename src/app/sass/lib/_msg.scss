@@ -1,0 +1,75 @@
+
+
+
+#main_MSG_Body button.close.modal-dismiss {
+	position: absolute;
+	top: 0;
+	right: 0;
+	padding: 7px 14px 0;
+	color: inherit;
+	background-color: transparent;
+	border: 0;
+	-webkit-appearance: none;
+	cursor: pointer;
+	margin: 0;
+	font-size: 25px;
+}
+
+#main_MSG_Body .btn-close {
+	background-image: url('/images/close-white.svg'); /* ✅ fixed */
+	background-size: 90% 90%;
+	background-position: center;
+	background-repeat: no-repeat;
+	right: 12px;
+	position: absolute;
+	background-color: transparent;
+	border: none;
+	top: 2px;
+}
+
+
+#main_MSG_Body .alert-danger {
+	background: #a20a0a;
+	padding: 10px 20px;
+	color: #ffe1e1;
+    border-bottom: 2px solid red;
+    position: relative;
+	border-radius: 0;
+}
+
+#main_MSG_Body .alert-success {
+	background: #014609;
+	padding: 10px 20px;
+	color: #9af7d1;
+    border-bottom: 2px solid rgb(15, 158, 42);
+    position: relative;
+	border-radius: 0;
+}
+
+#main_MSG_Body .alert-info {
+	background: #022c5c;
+	padding: 10px 20px;
+	color: #d0dff8;
+    border-bottom: 2px solid rgb(7, 76, 155);
+    position: relative;
+}
+
+
+
+
+#main_MSG_Body .modal-body{
+    padding: 0;
+}
+
+
+#main_MSG_Body.modal-dialog {
+    max-width: 100%;
+    margin: 0;
+    height: 100%; /* Optional: Make modal full-height */
+  }
+  
+  #main_MSG_Body .modal-content {
+    width: 100%;
+    border-radius: 0; /* Remove rounded corners */
+    background: rgba(0,0,0,0.5);
+  }

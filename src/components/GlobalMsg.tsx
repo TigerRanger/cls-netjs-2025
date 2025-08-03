@@ -28,7 +28,7 @@ function GlobalMsg() {
     timeoutRef.current = setTimeout(() => {
       setShow(false);
       setContent("");
-    }, 2000);
+    }, 22222000);
   };
 
   const handleClose = () => {

@@ -1,0 +1,21 @@
+
+@import 'lib/variable';  
+@import 'lib/product';
+@import 'lib/offer';
+@import 'lib/offCanvasCartFilter';
+
+.product-list .product-item  , .product-item.placeholder{
+	min-height: 510px;
+}
+
+.image-placeholder{
+    height: 300px;
+    width: 300px;
+    background: rgb(221, 221, 221);
+}
+
+.product_list_wrapper {
+    min-height: 500px;
+}
+
+

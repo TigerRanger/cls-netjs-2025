@@ -1,0 +1,112 @@
+
+
+/*================================Blog ==============================*/
+
+.blog-card-container {
+	padding: 30px 0;
+}
+
+
+.blog {
+  display: flex;
+  gap: 30px;
+}
+
+.blog-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  background-color: transparent;
+  height: 100%;
+  margin: 30px 0;
+}
+.blog-card .blog-header-info {
+  margin-bottom: 25px;
+  width: 100%;
+  flex-shrink: 0;
+  overflow: hidden;
+}
+.blog-card .blog-header-info img {
+  width: 100%;
+  height: auto;
+  transition: all 0.5s ease-in-out;
+}
+.blog-card .blog-body-info {
+  padding-left: 20px;
+  flex: 1 1 auto;
+  height: 30px;
+  overflow: hidden;
+}
+.blog-card .blog-body-info .blog-text {
+  margin-bottom: 10px;
+  color: #fff;
+}
+.blog-card .blog-body-info .blog-title {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: var(--heading-font-family);
+  color: #fff;
+  line-height: 29px;
+  height: 60px;
+  display: block;
+  overflow: hidden;
+}
+.blog-card .blog-body-info .blog-title:hover {
+  color: $primary;
+}
+.blog-card .blog-footer-info {
+  margin-top: 2px;
+  padding-left: 20px;
+}
+
+.blog-card:hover img {
+  transform: scale(1.2); /* Zoom in the image on hover */
+}
+
+.blog-feature {
+  display: flex;
+  gap: 30px;
+  font-size: 18px;
+}
+.blog-feature .feature-content {
+  max-width: 420px;
+}
+.blog-feature .feature-content .data {
+  margin-bottom: 14px;
+}
+.blog-feature .feature-content .title {
+  margin-bottom: 10px;
+}
+.blog-feature .feature-content .desp {
+  margin-bottom: 35px;
+}
+.blog-feature .feature-img {
+  width: 100%;
+}
+.blog-feature .feature-img img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.blog-pages-section-title {
+  display: flex;
+  gap: 30px;
+}
+.blog-pages-section-title .title {
+  min-width: 420px;
+}
+.blog-pages-section-title .select-subject .title {
+  margin-bottom: 10px;
+}
+
+.single-blog-list .single-blog-title {
+  margin-bottom: 20px;
+  text-transform: uppercase;
+}
+.single-blog-list .single-blog-desp {
+  margin-bottom: 50px;
+}
+

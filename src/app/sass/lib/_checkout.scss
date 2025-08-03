@@ -1,0 +1,318 @@
+.card {
+	border: 1px solid #ebecf0;
+	background: white;
+	box-shadow: 0 0 5px #0000000d;
+	margin: 10px 0;
+  	margin-bottom: 15px;
+	font-size: 0.9rem;
+}
+
+.card-header {
+	background: #000;
+	color: #fff;
+	text-align: center;
+	position: relative;
+	margin: 0;
+	margin-left: -1px;
+	margin-right: -1px;
+	font-size: 1.3rem;
+	padding: 10px;
+}
+
+.card-content {
+    padding: 10px;
+}
+
+.card-content .control label {
+    display: none;
+  }
+
+
+  .card-content .control input {
+	width: 100%;
+	padding: 7px 25px;
+	margin: 7px 0;
+	border: 1px solid #CCC;
+	border-radius: 5px;
+}
+
+.card-content .radio-group label {
+	display: flex;
+	font-size: 0.8rem;
+	align-items: center;
+	gap: 6px;
+	padding: 5px 0;
+}
+
+.passwod_forgot {
+	padding: 0 10px;
+	display: block;
+	color: $primary;
+	text-decoration: underline;
+	font-size: 0.8rem;
+}
+
+.c_button {
+	font-size: 14px;
+	padding: 10px 15px;
+	border-radius: 5px;
+	background-color: #01161b;
+	border: 1px solid #022431;
+	color: #fff;
+	margin-top: 10px;
+	min-width: 120px;
+	transition: all 0.1s linear;
+    cursor: pointer;
+
+    &:hover{
+        background: darken($primary,20%);
+    }
+}
+
+
+.DDL-headline {
+	text-align: center;
+	display: block;
+	margin: 10px 0;
+}
+
+
+.DDL-headline span {
+	display: inline-block;
+	position: relative;
+
+  }
+
+  .DDL-headline span::before, .DDL-headline span::after {
+	content: "";
+	position: absolute;
+	height: 7px;
+	border-bottom: 1px dashed #756e6e;
+	top: 9px;
+	width: 100%;
+	margin-left: 110%;
+	display: block;
+  }
+
+  .DDL-headline span::before {
+	right: 100%;
+	margin-right: 12%;
+	margin-left: 0;
+  }
+
+
+  .button-group {
+	display: flex;
+	align-items: center;
+	gap: 20px;
+}
+
+
+.fb.btn.btn-primary.btn-round.btn-block {
+	background: #0a56cd;
+	border-color: #084da6;
+	width: auto;
+	position: relative;
+	justify-content: center;
+	padding: 7px 5px;
+	font-size: 14px;
+	box-sizing: border-box;
+	color: #fff;
+	margin: 10px 0;
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 0.9rem;
+	display: flex;
+	align-items: center;
+	gap: 3px;
+}
+
+
+.google.btn.btn-primary.btn-round.btn-block {
+	background: #e82f2f;
+	border-color: red;
+	width: auto;
+	position: relative;
+	justify-content: center;
+	padding: 7px 5px;
+	font-size: 14px;
+	box-sizing: border-box;
+	color: #fff;
+	margin: 10px 0;
+	cursor: pointer;
+	font-weight: bold;
+	font-size: 0.9rem;
+	display: flex;
+	align-items: center;
+	gap:5px;
+}
+
+
+.card-content .control select {
+	border: 1px solid #ccc;
+	height: 35px;
+	text-indent: .01em;
+	text-overflow: '';
+	width: 100%;
+	margin: 10px 0;
+	border-radius: 5px;
+	color: #504D4D;
+	padding: 3px 25px;
+	background: white;
+	cursor: pointer;
+}
+
+.delta2 {
+	display: flex;
+	align-items: center;
+	font-size: 14px;
+	color: #504D4D;
+	padding: 10px 5px;
+}
+
+.card-content .control label.delta {
+	display: inline-block;
+}
+
+.delta2 input {
+	width: auto !important;
+	margin-right: 10px !important;
+}
+
+
+.card-content .product-name{
+	border: none;
+  text-align: left;
+  font-size: 1rem;
+}
+
+
+
+.card-content .radio-group img {
+	margin-left: 20px;
+	max-height: 100%;
+	width: auto;
+	height: 25px;
+}
+
+.customer-comment textarea {
+	background: #fff;
+	color: black;
+	width: 100%;
+	height: 150px;
+	border: 1px solid #d3d3d6;
+	padding: 10px 15px;
+	font-size: 16px;
+	margin-bottom: 10px;
+	margin-top: 30px;
+}
+
+.delta2.last{
+	margin-top: -15px;
+}
+
+#final_checkout {
+	font-size: 1rem;
+}
+
+.BankInfo {
+	background: #f2f1f1;
+	padding: 30px 20px;
+
+	h3{
+		font-size: 1.2rem;
+  margin-bottom: 20px;
+	}
+	p{
+		font-size: 0.9rem;
+		line-height: 1.5rem;
+		color: #4e4e4e;
+	}
+}
+
+.Shipping_Method_box.card {
+	min-height: 317px;
+}
+
+.card-content .row.header.hidden-xs.hidden-sm {
+	background: #DDEBF1;
+	padding: 10px;
+	text-align: center;
+	color: #054151;
+	margin: 0;
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.card-content .row.item {
+	display: flex;
+	align-content: center;
+	text-align: center;
+	padding: 10px;
+	border-bottom: 1px solid #E9E7E7;
+	align-items: center;
+}
+
+
+.card-content .row.item:last-child{
+	border: none;
+}
+
+
+#cart_totals {
+	text-align: right;
+	padding: 10px 40px 10px;
+	background: 333;
+}
+
+.alphazero {
+	background: #eee;
+}
+
+
+#c_button {
+	background: black;
+	color: white;
+	padding: 6px 11px;
+	cursor: pointer;
+}
+
+
+@media(min-width:768px){
+
+
+
+	.white-block.checkout-page{
+
+		.row{
+			margin-right: -5px;
+			margin-left: -5px;
+
+		}
+
+		.col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-xs-1, .col-xs-10, .col-xs-11, .col-xs-12, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9 {
+			padding-right: 5px;
+			padding-left: 5px;
+		  }
+
+		  .card {
+			margin: 5px 0;
+			font-size: .9rem;
+		}
+
+
+
+
+
+	}
+
+
+}
+
+
+.link-flex{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 3px 0;
+}

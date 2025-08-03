@@ -1,0 +1,109 @@
+/*12. Button
+----------------------------------------------------------------*/
+.common-btn {
+  padding: 10px 22px;
+  display: inline-block;
+  background-color: darken(#17a589,1%);
+  color: white;
+  font-size: 20px;
+  font-weight: 500;
+  border: none;
+  text-transform: uppercase;
+  transform-style: preserve-3d;
+  transition: background-color 0.4s, transform 0.3s, color 0.3s;
+  transform: translate3d(0, 0px, 0px);
+}
+.common-btn:hover {
+  transition: background-color 0.4s, transform 0.3s, color 0.3s;
+  background-color: white;
+  color: black;
+  transform: translate3d(0px, -7px, 0.01px);
+}
+
+
+.more-btn {
+	position: relative;
+	display: inline-block;
+	color: white;
+	font-size: 1rem;
+	min-width: 100px;
+	text-transform: uppercase;
+	margin-bottom: 5px;
+	background: none;
+	border: none;
+	padding: 0;
+}
+
+
+.more-btn::after {
+	content: "";
+	position: absolute;
+	display: inline;
+	width: 70%;
+	height: 2px;
+	left: 0;
+	bottom: -12px;
+	opacity: 1;
+	transition: all 0.5s;
+	background-color: #17a589;
+}
+
+
+.more-btn:hover::after {
+  width: 100%;
+}
+
+.get-started-btn {
+  padding: 20px 42px;
+  display: inline-block;
+  cursor: pointer;
+  text-align: start;
+  font-weight: 700;
+  border-radius: 150px;
+  border: 1px solid rgba(90, 89, 89, 0.3647058824);
+  background: rgba(255, 255, 255, 0.16);
+  transition: all 0.5s;
+  line-height: normal;
+}
+.get-started-btn:hover {
+  background:#17a589;
+  color: white;
+}
+.get-started-btn span svg {
+  transition: all 0.3s;
+  transform: translateX(0px);
+}
+.get-started-btn:hover > span svg {
+  transform: translateX(15px);
+}
+
+.next-prev-btn {
+  display: flex;
+  gap: 25px;
+}
+.next-prev-btn .button {
+  font-size: 18px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: white;
+  text-transform: uppercase;
+  padding: 7px 15px;
+  border: 1px solid white;
+  background: transparent;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.next-prev-btn .button img {
+  transition: all 0.3s;
+}
+.next-prev-btn .button.next-btn:hover img {
+  transform: translateX(5px);
+}
+.next-prev-btn .button.prev-btn:hover img {
+  transform: translateX(-5px);
+}
+.next-prev-btn .button:hover {
+  background-color: #17a589;
+  border: 1px solid #17a589;
+}

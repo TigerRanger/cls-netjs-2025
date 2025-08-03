@@ -1,0 +1,27 @@
+
+/* Variable Declareation ================================================= */
+
+$primary: #17a589;
+$secondary:#05a182;
+$border: rgba(255, 255, 255, 0.25);
+
+$body_font_color:  #d3d3d3;
+$body_background_color:#101010;
+
+$heading_color : #fff;
+$border_color_default : #fff;
+
+$gray_gradient_background: linear-gradient(180deg,#f0f3f5,#fff);
+
+
+:root {
+    --body-font-family: "Sarabun";
+    --heading-font-family: "Oxanium";
+    --body-color: #d3d3d3;
+    --body-bg-color: #101010;
+    --heading-color: #fff;
+    --border-color: #fff;
+    --white-color: #fff;
+    --black-color: #000000;
+    --primary-color: #48c9b0;
+   }

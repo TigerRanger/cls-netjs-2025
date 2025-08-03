@@ -1,0 +1,297 @@
+.pc-config-page-title{
+    h1{
+        font-size: 2rem;
+        margin-bottom: 20px;
+    }
+    p{
+        font-size:1rem;
+        color:#555;
+        line-height: 1.5rem;
+        text-align: justify;
+        word-wrap: break-word;
+    }
+}
+
+
+.dark.static-cat{
+    background:#ececec;
+    padding: 30px 0;
+}
+
+
+.staic-cat-box a {
+	display: flex;
+	align-items: center;
+	gap: 5px;
+	margin: 5px 0;
+	background: black;
+	padding: 10px 50px;
+    color:white;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+
+.staic-cat-box a:after {
+	background: darken($color: $primary, $amount: 10);
+	width: 100%;
+    height: 100%;
+    z-index: 2;
+    right:100%;
+    top:0;
+    position: absolute;
+    content: "";
+    transition: all 0.4s linear;
+}
+
+.staic-cat-box a:hover:after{
+    right: 0;
+}
+
+.style-context {
+	z-index: 3;
+	display: flex;
+	align-items: center;
+	gap: 24px;
+}
+
+
+.svg_ok_holder {
+	position: absolute;
+	left: 11px;
+	top:12px;
+	color: #fff;
+	fill: #fff;
+	background: #12b506;
+	border-radius: 50%;
+	padding: 1px 2px;
+	display: flex;
+	text-align: center;
+	height: 25px;
+	width: 25px;
+}
+
+
+#side-banner{
+    background: #333;
+    color:white;
+    min-height: 400px;
+}
+
+#side-banner.sticky-box {
+    position: sticky;
+	top: 0;
+	left: auto;
+	width: 300px;
+}
+
+.pc-config-main.white-block{
+    position: relative;
+}
+
+  /* Ensure the body and content take full space and scroll properly */
+ 
+  .holder-sticky {
+    position: relative;
+    margin-top: 30px;
+    width: 100%;
+
+  }
+  
+  .side-sticky {
+    background-color: #0d0505;
+    border: 1px solid #ddd;
+    padding: 10px;
+    transition: top 0.3s;
+    color: white;
+    
+  }
+  
+  .sticky-active {
+    position: fixed;
+    top: 50px;
+    right: 2rem;
+    width: 270px;
+  }
+
+
+  @media (min-width: 768px) {
+  
+    .col-sm-8.sp{
+        width: calc( 100% - 300px);
+    }
+
+    .col-sm-4.sp {
+        width: 300px;
+    }
+
+  }
+
+  .orangered{
+    color:orangered;
+  }
+
+  .pc-config_item .pc-config-action_buttons {
+    font-size: 0.7rem;
+  }
+
+
+  .holder-sticky h3 {
+    font-size: 0.8rem;
+    color: white;
+    text-align: center;
+    border-bottom: 1px solid $primary;
+    padding-bottom: 10px;
+  }
+
+
+  .pc_image_holder{
+    max-width: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+  }
+
+  .PriceBox{
+    background-color: #1f1f1f;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+      .product-price {
+
+          width: 100%;
+      .price{
+        color: lighten($color: $primary, $amount: 10) ;
+        font-size: 1.4rem;
+      }
+
+    }
+      
+  }
+
+  .Delivery-box {
+    background-color: #1f1f1f;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    border-top:1px solid #333;
+    gap: 10px;
+    font-size: 0.7rem;
+    line-height: 1rem;
+    span{
+    color: white;
+    }
+  }
+
+$black: #000;
+$white: #fff;
+$gray: #ccc;
+$smoke: #e2e2e2;
+$disable: #f2f2f2;
+
+.qty-input {
+	color: $black;
+	background: $white;
+	display: flex;
+	align-items: center;
+	overflow: hidden;
+
+	.product-qty,
+	.qty-count {
+		background: transparent;
+		color: inherit;
+		font-weight: bold;
+		font-size: inherit;
+		border: none;
+		display: inline-block;
+		min-width: 0;
+		height: 2.0rem;
+		line-height: 1;
+		
+
+		&:focus {
+			outline: none;
+		}
+	}
+
+	.product-qty {
+		width: 40px;
+		min-width: 0;
+		display: inline-block;
+		text-align: center;
+		appearance: textfield;		
+		
+		&::-webkit-outer-spin-button,
+		&::-webkit-inner-spin-button {
+			appearance: none;
+			margin: 0;
+		}
+	}
+
+	.qty-count {
+		padding: 0;
+		cursor: pointer;
+		width: 2.0rem;
+		font-size: 1.0em;
+		text-indent: -100px;
+		overflow: hidden;
+		position: relative;
+		
+		&:before, 
+		&:after {
+			content: "";
+			height: 2px;
+			width: 10px;
+			position: absolute;
+			display: block;
+			background: $black;
+			top: 0;
+			bottom: 0;
+			left: 0;
+			right: 0;
+			margin: auto;
+		}
+		&--minus {
+			border-right: 1px solid $smoke;
+		}
+		&--add {
+			border-left: 1px solid $smoke;
+			&:after {
+				transform: rotate(90deg);
+			}
+		}
+		
+		&:disabled {
+			color: $gray;
+			background: $disable;
+			cursor: not-allowed;
+			border-color: transparent;
+			
+			&:before,
+			&:after {
+				background: $gray;
+			}
+		}
+	}
+}
+
+
+.qty-input {
+	border-radius: 4px;
+	box-shadow: 0 1em 2em -0.9em rgba(#000, 0.7);
+}
+
+.cart_add-box {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	gap: 10px;
+  background-color: #1f1f1f;
+  padding: 10px 0;
+  border-top:1px solid #333;
+}
+
+

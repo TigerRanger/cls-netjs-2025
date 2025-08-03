@@ -1,0 +1,113 @@
+/*--------------------------------------------------------------
+  14. Hero
+----------------------------------------------------------------*/
+.ak-hero.ak-style1 {
+    min-height: 100vh;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+    color: rgba(255, 255, 255, 0.774);
+  }
+  .ak-hero.ak-style1 .ak-hero-bg {
+    position: absolute;
+    height: calc(100% - 100px);
+    width: 100%;
+    left: 0;
+    top: 0;
+  }
+  .ak-hero.ak-style1 .hero-slider-info {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    margin-top: -100px;
+    max-width: 450px;
+  }
+  .ak-hero.ak-style1 .hero-slider-info .hero-main-title {
+    text-transform: uppercase;
+    color: white;
+  }
+  
+  .ak-hero.ak-style1 .hero-slider-info .mini-title {
+    max-width: 560px;
+    font-size: 18px;
+    line-height: 27px;
+  }
+  
+  .hero-contact-info {
+    position: absolute;
+    top:5px;
+    z-index: 11;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, 50%);
+    display: flex;
+    gap: 113px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .social-hero {
+    position: absolute;
+    z-index: 11;
+    width: 100px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    flex-direction: column;
+    top: 20%;
+  }
+  .social-hero .social-icon1 {
+    width: 16px;
+    height: 16px;
+  }
+  .social-hero .social-icon1 path {
+    transition: fill 0.3s ease;
+  }
+  .social-hero .social-icon1:hover path {
+    fill: $primary !important;
+  }
+  .social-hero .social-horizontal {
+    width: 1px;
+    height: 85px;
+    background: var(--Text-color, #d3d3d3);
+  }
+  .social-hero .social-link {
+    transform: rotate(-90deg);
+    color: #fff;
+    font-family: Oxanium;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 40px;
+  }
+  
+  @media screen and (max-width: 1367px) {
+    .hero-contact-info {
+      display: none;
+    }
+  }
+  @media screen and (max-width: 991px) {
+    .social-hero {
+      display: none;
+    }
+    .hero-pagination {
+      display: none;
+    }
+  }
+ 
+
+  .swiper-pagination-bullet{
+    width: 36px;
+    height: 36px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+
+
+  .swiper-pagination-bullet.swiper-pagination-bullet-active {
+    background: $primary;
+
+    box-shadow: 0 0 10px $primary;
+  }
+

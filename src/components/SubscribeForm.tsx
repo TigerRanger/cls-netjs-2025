@@ -23,32 +23,24 @@ const SubscribeForm: React.FC = () => {
 
   return (
     <div className="my_newsletter">
+
+      <h3>Frische News direkt in dein Postfach</h3>
+      <p>Immer über Neuigkeiten und aktuelle Aktionen informiert bleiben – mit dem Newsletter von CLS Computer.<br/>Sie können den Newsletter jederzeit kostenlos abbestellen.</p>
       
       <form className="email-form" onSubmit={handleSubmit}>
         <input
           type="text"
           name="footer-email"
           id="footer-email"
-          placeholder="Enter your email..."
+          placeholder="Ihre E-Mail Adresse"
           className="email-input"
           value={email}
           onChange={(e) => setEmail(e.target.value)}
           required
         />
-        <button type="submit" className="submit-btn">
+        <button type="submit" className="submit-btn  cs-newsletter__button">
           <span className="send">
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              width="25"
-              height="25"
-              viewBox="0 0 25 25"
-              fill="none"
-            >
-              <path
-                d="M23.0345 3.91676C23.5566 2.42362 22.157 0.976718 20.7126 1.51775L3.06022 8.11754C1.61105 8.65982 1.43579 10.704 2.76894 11.5024L8.40369 14.8748L13.4353 9.67315C13.6633 9.44555 13.9686 9.31961 14.2855 9.32246C14.6024 9.3253 14.9055 9.45671 15.1296 9.68837C15.3537 9.92004 15.4808 10.2334 15.4836 10.561C15.4863 10.8887 15.3645 11.2043 15.1444 11.4399L10.1127 16.6415L13.3761 22.4667C14.1472 23.8448 16.1246 23.6624 16.6491 22.1655L23.0345 3.91676Z"
-                fill="black"
-              />
-            </svg>
+              Abonnieren
           </span>
         </button>
       </form>
