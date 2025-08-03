@@ -15,6 +15,14 @@ import PintersetSvg from "../../../public/svg-icon/pinterest.svg";
 import InstagramSvg from "../../../public/svg-icon/insta.svg";
 
 
+import PhoneSvg from "../../../public/images/phone.svg";
+import MapSvg from "../../../public/images/location.svg";
+import EmailSvg from "../../../public/images/email.svg";
+import CalanerSvg from "../../../public/images/calender.svg";
+
+import MainOffice from "../../../public/images/head-office.svg";
+
+
 interface FooterLink {
   link_name: string;
   link: string;
@@ -54,7 +62,7 @@ const Footer: React.FC<FooterProps> = ({ Setting :Setting , StoreInfo:StoreInfo 
             <div className="container-fluid">
               <div className="row"> 
 
-                       <div className="col-sm-6 col-md-4 col-lg-2"> 
+                       <div className="col-sm-6 col-md-4 col-lg-2p"> 
                         {StoreInfo?.footer_first_block_title && (
                           <div className="introduce-title">  {StoreInfo?.footer_first_block_title}</div>
                         )}
@@ -66,7 +74,7 @@ const Footer: React.FC<FooterProps> = ({ Setting :Setting , StoreInfo:StoreInfo 
                             </ul> 
                           )}
                          </div>
-                          <div className="col-sm-6 col-md-4 col-lg-2"> 
+                          <div className="col-sm-6 col-md-4 col-lg-2p"> 
                           {StoreInfo?.footer_second_block_title && (
                             <div className="introduce-title">  {StoreInfo?.footer_second_block_title}</div>
                           )}                            
@@ -80,7 +88,7 @@ const Footer: React.FC<FooterProps> = ({ Setting :Setting , StoreInfo:StoreInfo 
                           </div>
 
 
-                       <div className="col-sm-6 col-md-4 col-lg-2"> 
+                       <div className="col-sm-6 col-md-4 col-lg-2p"> 
                         {StoreInfo?.footer_first_block_title && (
                           <div className="introduce-title">  {StoreInfo?.footer_first_block_title}</div>
                         )}
@@ -92,7 +100,7 @@ const Footer: React.FC<FooterProps> = ({ Setting :Setting , StoreInfo:StoreInfo 
                             </ul> 
                           )}
                          </div>
-                          <div className="col-sm-6 col-md-4 col-lg-2"> 
+                          <div className="col-sm-6 col-md-4 col-lg-2p"> 
                           {StoreInfo?.footer_second_block_title && (
                             <div className="introduce-title">  {StoreInfo?.footer_second_block_title}</div>
                           )}                            
@@ -105,38 +113,54 @@ const Footer: React.FC<FooterProps> = ({ Setting :Setting , StoreInfo:StoreInfo 
                           )}
                           </div>
 
-                          <div className="col-sm-6 col-md-4 col-lg-2"> 
-                          {StoreInfo?.footer_second_block_title && (
-                            <div className="introduce-title">  {StoreInfo?.footer_second_block_title}</div>
-                          )}                            
-                          {secondData && (
-                            <ul className="introduce-list">
-                              {secondData.map((item, index) => (
-                                <li key={index}> <Link    className="text-hover-animaiton menu-item white" href={item?.link}>{item?.link_name}</Link></li>
-                              ))}                          
-                            </ul>
-                          )}
-                          </div>
-
-
-
-                          <div className="col-sm-6 col-md-4 col-lg-2"> 
+                          <div className="col-sm-6 col-md-4 col-lg-2p"> 
                           <div className="introduce-title">CLS Hotline</div> 
                                                     {StoreInfo?.store_phone && (
                             <div className='footer-phone'>
+                                    <span className="ak-heartbeat-btn">    <Image src={PhoneSvg} alt="CLS Computer Phone" width={12} height={12} />  </span>
                                     <Link className='foot_phone' href={`tel:${StoreInfo.store_phone.replace(/[\s+\-]/g, "")}`}>
-                                           <span className='p-number'>{StoreInfo.store_phone}</span> 
+                                     <span className='p-number'>{StoreInfo.store_phone}</span> 
                                     </Link>
                                   
                             </div>
                           )}
                           
                           {StoreInfo?.company_address && (
+                            <div className="address d-flex">
+                                <span className="me-1">
+                                <Image src={MainOffice} width={20} height={20} alt="CLS map"/>
+                                </span>
                             <div className="store_address" dangerouslySetInnerHTML={{__html: StoreInfo?.company_address}}></div>
+                            </div>
+                          )}
+
+
+                          {StoreInfo?.company_address && (
+                            <div className="address d-flex">
+                                <span className="me-1">
+                                <Image src={MapSvg} width={20} height={20} alt="CLS map"/>
+                                </span>
+                            <div className="store_address" dangerouslySetInnerHTML={{__html: StoreInfo?.company_address}}></div>
+                            </div>
                           )}
 
                           {StoreInfo?.store_support_email && (
-                              <p><strong>Email: </strong> {StoreInfo?.store_support_email}</p>
+                            <div className="eamil-address d-flex">
+                              <span className="me-1">
+                                <Image src={EmailSvg} width={20} height={20} alt="CLS map"/>
+                                </span>
+                                <p>{StoreInfo?.store_support_email}</p>
+                              </div>
+                          )}
+
+
+                          {StoreInfo?.store_hours && (
+                            <div className="store-hour d-flex">
+                              <span className="me-1">
+                                <Image src={CalanerSvg} width={20} height={20} alt="CLS map"/>
+                                </span>
+                                <p> {StoreInfo?.store_hours}</p>
+                              </div>
                           )}
                            
                   </div>
@@ -152,11 +176,11 @@ const Footer: React.FC<FooterProps> = ({ Setting :Setting , StoreInfo:StoreInfo 
                          <p className="cs-page-bottom__text">Zahlungsarten</p>
 
                          <div className="method_image">
-                            <Image src="/payment/icon-visa.svg" width={60} height={29} alt="visa" />
-                            <Image src="/payment/icon-mastercard.svg" width={60} height={29} alt="mastercard" />
-                            <Image src="/payment/icon-paypal.svg" width={95} height={40} alt="paypal" />
-                            <Image src="/payment/icon-amazon.png" width={120} height={29} alt="AmazonPay" />
-                            <Image src="/payment/icon-ratenkauf.png" width={60} height={29} alt="easycredit" />
+                            <Image src="/payment/icon-visa.svg" width={40} height={29} alt="visa" />
+                            <Image src="/payment/icon-mastercard.svg" width={40} height={29} alt="mastercard" />
+                            <Image src="/payment/icon-paypal.svg" width={75} height={40} alt="paypal" />
+                            <Image src="/payment/icon-amazon.png" width={100} height={29} alt="AmazonPay" />
+                            <Image src="/payment/icon-ratenkauf.png" width={40} height={29} alt="easycredit" />
                          </div>
 
                         </div>

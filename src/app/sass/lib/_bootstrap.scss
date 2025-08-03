@@ -19,3 +19,18 @@
 @import "bootstrap/scss/alert";
 @import "bootstrap/scss/button-group";
 
+/* Custom 5-column class */
+@media (min-width: 992px) {
+  .col-lg-2p {
+    width: 20%;
+    float: left;
+  }
+}
+
+
+@media screen and (width >= 1200px) {
+  .container-fluid{
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+}
