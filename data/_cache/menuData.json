@@ -1,254 +1,2550 @@
 [
   {
-    "id": 38,
-    "name": "Feature Products",
-    "url": "what-is-new",
-    "canonical_url": "what-is-new.html",
-    "type": "Drop Down"
-  },
-  {
-    "id": 23,
-    "name": "Jackets",
-    "url": "jackets-women",
-    "canonical_url": "women/tops-women/jackets-women.html",
+    "id": 3823,
+    "name": "Gaming PC Intel Core (15. Gen)",
+    "url": "gaming-pc-intel-core-15-gen",
+    "canonical_url": "pc-systeme/gaming-pc/gaming-pc-intel-core-15-gen",
     "type": "magento"
   },
   {
-    "id": 24,
-    "name": "Hoodies & Sweatshirts",
-    "url": "hoodies-and-sweatshirts-women",
-    "canonical_url": "women/tops-women/hoodies-and-sweatshirts-women.html",
+    "id": 3119,
+    "name": "Gaming PC Intel Core (14. Gen)",
+    "url": "gaming-pc-intel-core-14-gen",
+    "canonical_url": "pc-systeme/gaming-pc/gaming-pc-intel-core-14-gen",
     "type": "magento"
   },
   {
-    "id": 25,
-    "name": "Tees",
-    "url": "tees-women",
-    "canonical_url": "women/tops-women/tees-women.html",
+    "id": 2275,
+    "name": "Gaming PC Intel Core (13. Gen)",
+    "url": "gaming-pc-intel-13th-gen",
+    "canonical_url": "pc-systeme/gaming-pc/gaming-pc-intel-13th-gen",
     "type": "magento"
   },
   {
-    "id": 26,
-    "name": "Bras & Tanks",
-    "url": "tanks-women",
-    "canonical_url": "women/tops-women/tanks-women.html",
+    "id": 1799,
+    "name": "Gaming PC Intel Core (12. Gen)",
+    "url": "intel-12th-gen",
+    "canonical_url": "pc-systeme/gaming-pc/intel-12th-gen",
     "type": "magento"
   },
   {
-    "id": 21,
-    "name": "Women Tops",
-    "url": "tops-women",
-    "canonical_url": "women/tops-women.html",
+    "id": 3733,
+    "name": "Gaming PC AMD Ryzen 9000",
+    "url": "gaming-pc-amd-ryzen-9000",
+    "canonical_url": "pc-systeme/gaming-pc/gaming-pc-amd-ryzen-9000",
     "type": "magento"
   },
   {
-    "id": 27,
-    "name": "Pants",
-    "url": "pants-women",
-    "canonical_url": "women/bottoms-women/pants-women.html",
+    "id": 2209,
+    "name": "Gaming PC AMD Ryzen 7000",
+    "url": "gaming-pc-amd-ryzen-7000",
+    "canonical_url": "pc-systeme/gaming-pc/gaming-pc-amd-ryzen-7000",
     "type": "magento"
   },
   {
-    "id": 28,
-    "name": "Shorts",
-    "url": "shorts-women",
-    "canonical_url": "women/bottoms-women/shorts-women.html",
+    "id": 1918,
+    "name": "Gaming PC AMD Ryzen 5000",
+    "url": "amd-ryzen-5000",
+    "canonical_url": "pc-systeme/gaming-pc/amd-ryzen-5000",
     "type": "magento"
   },
   {
-    "id": 22,
-    "name": "Women Bottoms",
-    "url": "bottoms-women",
-    "canonical_url": "women/bottoms-women.html",
+    "id": 1984,
+    "name": "Silent Gaming PCs ",
+    "url": "silent-gaming-pc",
+    "canonical_url": "pc-systeme/gaming-pc/silent-gaming-pc",
     "type": "magento"
   },
   {
-    "id": 20,
-    "name": "Women Collection",
-    "url": "women",
-    "canonical_url": "women.html",
-    "type": "Mega"
-  },
-  {
-    "id": 41,
-    "name": "Black jacket",
-    "url": "black-jacket",
-    "canonical_url": "men/tops-men/jackets-men/black-jacket.html",
-    "type": "magento"
-  },
-  {
-    "id": 42,
-    "name": "RED Jacket",
-    "url": "red-jacket",
-    "canonical_url": "men/tops-men/jackets-men/red-jacket.html",
-    "type": "magento"
-  },
-  {
-    "id": 14,
-    "name": "Jackets",
-    "url": "jackets-men",
-    "canonical_url": "men/tops-men/jackets-men.html",
-    "type": "magento"
-  },
-  {
-    "id": 15,
-    "name": "Hoodies & Sweatshirts",
-    "url": "hoodies-and-sweatshirts-men",
-    "canonical_url": "men/tops-men/hoodies-and-sweatshirts-men.html",
-    "type": "magento"
-  },
-  {
-    "id": 16,
-    "name": "Tees",
-    "url": "tees-men",
-    "canonical_url": "men/tops-men/tees-men.html",
-    "type": "magento"
-  },
-  {
-    "id": 17,
-    "name": "Tanks",
-    "url": "tanks-men",
-    "canonical_url": "men/tops-men/tanks-men.html",
-    "type": "magento"
-  },
-  {
-    "id": 12,
-    "name": "Tops",
-    "url": "tops-men",
-    "canonical_url": "men/tops-men.html",
-    "type": "magento"
-  },
-  {
-    "id": 18,
-    "name": "Pants",
-    "url": "pants-men",
-    "canonical_url": "men/bottoms-men/pants-men.html",
-    "type": "magento"
-  },
-  {
-    "id": 19,
-    "name": "Shorts",
-    "url": "shorts-men",
-    "canonical_url": "men/bottoms-men/shorts-men.html",
-    "type": "magento"
-  },
-  {
-    "id": 13,
-    "name": "Bottoms",
-    "url": "bottoms-men",
-    "canonical_url": "men/bottoms-men.html",
-    "type": "magento"
-  },
-  {
-    "id": 11,
-    "name": "Men",
-    "url": "men",
-    "canonical_url": "men.html",
-    "type": "Mega"
-  },
-  {
-    "id": 4,
-    "name": "Bags",
-    "url": "bags",
-    "canonical_url": "gear/bags.html",
-    "type": "magento"
-  },
-  {
-    "id": 5,
-    "name": "Fitness Equipment",
-    "url": "fitness-equipment",
-    "canonical_url": "gear/fitness-equipment.html",
-    "type": "magento"
-  },
-  {
-    "id": 6,
-    "name": "Watches",
-    "url": "watches",
-    "canonical_url": "gear/watches.html",
-    "type": "magento"
-  },
-  {
-    "id": 3,
-    "name": "Gear",
-    "url": "gear",
-    "canonical_url": "gear.html",
-    "type": "Drop Down"
-  },
-  {
-    "id": 8,
-    "name": "New Luma Yoga Collection",
-    "url": "yoga-new",
-    "canonical_url": "collections/yoga-new.html",
-    "type": "magento"
-  },
-  {
-    "id": 34,
-    "name": "Erin Recommends",
-    "url": "erin-recommends",
-    "canonical_url": "collections/erin-recommends.html",
-    "type": "magento"
-  },
-  {
-    "id": 35,
-    "name": "Performance Fabrics",
-    "url": "performance-fabrics",
-    "canonical_url": "collections/performance-fabrics.html",
-    "type": "magento"
-  },
-  {
-    "id": 36,
-    "name": "Eco Friendly",
-    "url": "eco-friendly",
-    "canonical_url": "collections/eco-friendly.html",
-    "type": "magento"
-  },
-  {
-    "id": 39,
-    "name": "Performance Sportswear New",
-    "url": "performance-new",
-    "canonical_url": "collections/performance-new.html",
-    "type": "magento"
-  },
-  {
-    "id": 40,
-    "name": "Eco Collection New",
-    "url": "eco-new",
-    "canonical_url": "collections/eco-new.html",
-    "type": "magento"
-  },
-  {
-    "id": 7,
-    "name": "Collections",
-    "url": "collections",
-    "canonical_url": "collections.html",
-    "type": "Mega"
-  },
-  {
-    "id": 10,
-    "name": "Video Download",
-    "url": "training-video",
-    "canonical_url": "training/training-video.html",
+    "id": 4256,
+    "name": "Gaming PC Intel Core Ultra",
+    "url": "gaming-pc-intel-core-ultra",
+    "canonical_url": "pc-systeme/gaming-pc/gaming-pc-intel-core-ultra",
     "type": "magento"
   },
   {
     "id": 9,
-    "name": "Training",
-    "url": "training",
-    "canonical_url": "training.html",
+    "name": "GAMING PC",
+    "url": "gaming-pc",
+    "canonical_url": "pc-systeme/gaming-pc",
+    "type": "magento"
+  },
+  {
+    "id": 544,
+    "name": "High-End Gaming PC Intel Core (14. Gen)",
+    "url": "intel",
+    "canonical_url": "pc-systeme/high-end-gaming-pc/intel",
+    "type": "magento"
+  },
+  {
+    "id": 545,
+    "name": "High-End Gaming PC AMD Ryzen 7000",
+    "url": "amd",
+    "canonical_url": "pc-systeme/high-end-gaming-pc/amd",
+    "type": "magento"
+  },
+  {
+    "id": 119,
+    "name": "HIGH-END GAMING PC",
+    "url": "high-end-gaming-pc",
+    "canonical_url": "pc-systeme/high-end-gaming-pc",
+    "type": "magento"
+  },
+  {
+    "id": 1268,
+    "name": "Powered by ASUS",
+    "url": "asus-edition",
+    "canonical_url": "pc-systeme/powered-by-editions/asus-edition",
+    "type": "magento"
+  },
+  {
+    "id": 3438,
+    "name": "Powered by iCUE",
+    "url": "powered-by-icue",
+    "canonical_url": "pc-systeme/powered-by-editions/powered-by-icue",
+    "type": "magento"
+  },
+  {
+    "id": 1781,
+    "name": "Powered by MSI",
+    "url": "msi-edition",
+    "canonical_url": "pc-systeme/powered-by-editions/msi-edition",
+    "type": "magento"
+  },
+  {
+    "id": 1981,
+    "name": "POWERED BY EDITION",
+    "url": "powered-by-editions",
+    "canonical_url": "pc-systeme/powered-by-editions",
+    "type": "magento"
+  },
+  {
+    "id": 1990,
+    "name": "Office PC Intel Core",
+    "url": "intel-office-pc",
+    "canonical_url": "pc-systeme/office-pc/intel-office-pc",
+    "type": "magento"
+  },
+  {
+    "id": 1993,
+    "name": "Office PC AMD Ryzen",
+    "url": "amd-office-pc",
+    "canonical_url": "pc-systeme/office-pc/amd-office-pc",
+    "type": "magento"
+  },
+  {
+    "id": 4137,
+    "name": "Office All-in-One PC",
+    "url": "office-all-in-one-pc",
+    "canonical_url": "pc-systeme/office-pc/office-all-in-one-pc",
+    "type": "magento"
+  },
+  {
+    "id": 4160,
+    "name": "Office Desktop PC",
+    "url": "office-desktop-pc",
+    "canonical_url": "pc-systeme/office-pc/office-desktop-pc",
+    "type": "magento"
+  },
+  {
+    "id": 4121,
+    "name": "Office Komplettsystem",
+    "url": "office-komplettsystem",
+    "canonical_url": "pc-systeme/office-pc/office-komplettsystem",
+    "type": "magento"
+  },
+  {
+    "id": 4100,
+    "name": "Silent Office PC",
+    "url": "silent-office-pc",
+    "canonical_url": "pc-systeme/office-pc/silent-office-pc",
+    "type": "magento"
+  },
+  {
+    "id": 4059,
+    "name": "Mini Office PC",
+    "url": "mini-office-pc",
+    "canonical_url": "pc-systeme/office-pc/mini-office-pc",
+    "type": "magento"
+  },
+  {
+    "id": 10,
+    "name": "OFFICE PC",
+    "url": "office-pc",
+    "canonical_url": "pc-systeme/office-pc",
+    "type": "magento"
+  },
+  {
+    "id": 136,
+    "name": "Multimedia PC Intel Core",
+    "url": "intel-multimedia-pc",
+    "canonical_url": "pc-systeme/multimedia-pc/intel-multimedia-pc",
+    "type": "magento"
+  },
+  {
+    "id": 135,
+    "name": "Multimedia PC AMD Ryzen",
+    "url": "amd-multimedia-pc",
+    "canonical_url": "pc-systeme/multimedia-pc/amd-multimedia-pc",
+    "type": "magento"
+  },
+  {
+    "id": 4184,
+    "name": "Multimedia Komplettsystem",
+    "url": "multimedia-komplettsystem",
+    "canonical_url": "pc-systeme/multimedia-pc/multimedia-komplettsystem",
+    "type": "magento"
+  },
+  {
+    "id": 4182,
+    "name": "Multimedia All-in-One PC",
+    "url": "multimedia-all-in-one-pc",
+    "canonical_url": "pc-systeme/multimedia-pc/multimedia-all-in-one-pc",
+    "type": "magento"
+  },
+  {
+    "id": 4211,
+    "name": "Multimedia Desktop PC",
+    "url": "multimedia-desktop-pc",
+    "canonical_url": "pc-systeme/multimedia-pc/multimedia-desktop-pc",
+    "type": "magento"
+  },
+  {
+    "id": 4183,
+    "name": "Silent Multimedia PC",
+    "url": "silent-multimedia-pc",
+    "canonical_url": "pc-systeme/multimedia-pc/silent-multimedia-pc",
+    "type": "magento"
+  },
+  {
+    "id": 4185,
+    "name": "Mini Multimedia PC",
+    "url": "mini-multimedia-pc",
+    "canonical_url": "pc-systeme/multimedia-pc/mini-multimedia-pc",
+    "type": "magento"
+  },
+  {
+    "id": 64,
+    "name": "MULTIMEDIA PC",
+    "url": "multimedia-pc",
+    "canonical_url": "pc-systeme/multimedia-pc",
+    "type": "magento"
+  },
+  {
+    "id": 1998,
+    "name": "Desktop PC Intel Core",
+    "url": "intel-desktop-pc",
+    "canonical_url": "pc-systeme/desktop-pc/intel-desktop-pc",
+    "type": "magento"
+  },
+  {
+    "id": 1999,
+    "name": "Desktop PC AMD Ryzen",
+    "url": "amd-desktop-pc",
+    "canonical_url": "pc-systeme/desktop-pc/amd-desktop-pc",
+    "type": "magento"
+  },
+  {
+    "id": 1980,
+    "name": "DESKTOP PC",
+    "url": "desktop-pc",
+    "canonical_url": "pc-systeme/desktop-pc",
+    "type": "magento"
+  },
+  {
+    "id": 304,
+    "name": "Silent PC Intel Core",
+    "url": "intel-silent-pc",
+    "canonical_url": "pc-systeme/silent-pc/intel-silent-pc",
+    "type": "magento"
+  },
+  {
+    "id": 2002,
+    "name": "Silent PC AMD Ryzen",
+    "url": "amd-silent-pc",
+    "canonical_url": "pc-systeme/silent-pc/amd-silent-pc",
+    "type": "magento"
+  },
+  {
+    "id": 65,
+    "name": "SILENT PC",
+    "url": "silent-pc",
+    "canonical_url": "pc-systeme/silent-pc",
+    "type": "magento"
+  },
+  {
+    "id": 2000,
+    "name": "Mini PC Intel Core",
+    "url": "intel-mini-pc",
+    "canonical_url": "pc-systeme/mini-pc/mini-pc-intel-core",
+    "type": "magento"
+  },
+  {
+    "id": 2001,
+    "name": "Mini PC AMD Ryzen",
+    "url": "amd-mini-pc",
+    "canonical_url": "pc-systeme/mini-pc/amd-mini-pc",
+    "type": "magento"
+  },
+  {
+    "id": 67,
+    "name": "MINI PC",
+    "url": "mini-pc",
+    "canonical_url": "pc-systeme/mini-pc",
+    "type": "magento"
+  },
+  {
+    "id": 3835,
+    "name": "Workstation Intel Core (15. Gen)",
+    "url": "workstation-intel-core-15-gen",
+    "canonical_url": "pc-systeme/workstation-pc/workstation-intel-core-15-gen",
+    "type": "magento"
+  },
+  {
+    "id": 3124,
+    "name": "Workstation Intel Core (14. Gen)",
+    "url": "workstation-intel-core-14-gen",
+    "canonical_url": "pc-systeme/workstation-pc/workstation-intel-core-14-gen",
+    "type": "magento"
+  },
+  {
+    "id": 2304,
+    "name": "Workstation Intel Core (13. Gen)",
+    "url": "workstation-intel-core-13-gen",
+    "canonical_url": "pc-systeme/workstation-pc/workstation-intel-core-13-gen",
+    "type": "magento"
+  },
+  {
+    "id": 3187,
+    "name": "Workstation Intel Xeon (W-Serie)",
+    "url": "workstation-intel-xeon-w-serie",
+    "canonical_url": "pc-systeme/workstation-pc/workstation-intel-xeon-w-serie",
+    "type": "magento"
+  },
+  {
+    "id": 3738,
+    "name": "Workstation AMD Ryzen 9000",
+    "url": "workstation-amd-ryzen-9000",
+    "canonical_url": "pc-systeme/workstation-pc/workstation-amd-ryzen-9000",
+    "type": "magento"
+  },
+  {
+    "id": 2245,
+    "name": "Workstation AMD Ryzen 7000",
+    "url": "workstation-amd-ryzen-7000",
+    "canonical_url": "pc-systeme/workstation-pc/workstation-amd-ryzen-7000",
+    "type": "magento"
+  },
+  {
+    "id": 1987,
+    "name": "Workstation AMD Ryzen 5000",
+    "url": "amd-ryzen-5000",
+    "canonical_url": "pc-systeme/workstation-pc/amd-ryzen-5000",
+    "type": "magento"
+  },
+  {
+    "id": 2659,
+    "name": "Workstation AMD Threadripper 5000",
+    "url": "workstation-amd-threadripper-pro",
+    "canonical_url": "pc-systeme/workstation-pc/workstation-amd-threadripper-pro",
+    "type": "magento"
+  },
+  {
+    "id": 3184,
+    "name": "Workstation AMD Threadripper 7000",
+    "url": "workstation-amd-threadripper-7000",
+    "canonical_url": "pc-systeme/workstation-pc/workstation-amd-threadripper-7000",
+    "type": "magento"
+  },
+  {
+    "id": 69,
+    "name": "WORKSTATION",
+    "url": "workstation-pc",
+    "canonical_url": "pc-systeme/workstation-pc",
+    "type": "magento"
+  },
+  {
+    "id": 3836,
+    "name": "CAD PC Intel Core (15. Gen)",
+    "url": "cad-pc-intel-core-15-gen",
+    "canonical_url": "pc-systeme/cad-pc/cad-pc-intel-core-15-gen",
+    "type": "magento"
+  },
+  {
+    "id": 3129,
+    "name": "CAD PC Intel Core (14. Gen)",
+    "url": "cad-pc-intel-core-14-gen",
+    "canonical_url": "pc-systeme/cad-pc/cad-pc-intel-core-14-gen",
+    "type": "magento"
+  },
+  {
+    "id": 2312,
+    "name": "CAD PC Intel Core (13. Gen)",
+    "url": "cad-pc-intel-core-13-gen",
+    "canonical_url": "pc-systeme/cad-pc/cad-pc-intel-core-13-gen",
+    "type": "magento"
+  },
+  {
+    "id": 3186,
+    "name": "CAD PC Intel Xeon (W-Serie)",
+    "url": "cad-pc-intel-xeon-w-serie",
+    "canonical_url": "pc-systeme/cad-pc/cad-pc-intel-xeon-w-serie",
+    "type": "magento"
+  },
+  {
+    "id": 3739,
+    "name": "CAD PC AMD Ryzen 9000",
+    "url": "cad-pc-amd-ryzen-9000",
+    "canonical_url": "pc-systeme/cad-pc/cad-pc-amd-ryzen-9000",
+    "type": "magento"
+  },
+  {
+    "id": 2241,
+    "name": "CAD PC AMD Ryzen 7000",
+    "url": "cad-pc-amd-ryzen-7000",
+    "canonical_url": "pc-systeme/cad-pc/cad-pc-amd-ryzen-7000",
+    "type": "magento"
+  },
+  {
+    "id": 127,
+    "name": "CAD PC AMD Ryzen 5000",
+    "url": "amd-cad-pc-ryzen-5000",
+    "canonical_url": "pc-systeme/cad-pc/amd-cad-pc-ryzen-5000",
+    "type": "magento"
+  },
+  {
+    "id": 2660,
+    "name": "CAD PC AMD Threadripper 5000",
+    "url": "cad-pc-amd-threadripper-pro",
+    "canonical_url": "pc-systeme/cad-pc/cad-pc-amd-threadripper-pro",
+    "type": "magento"
+  },
+  {
+    "id": 3185,
+    "name": "CAD PC AMD Threadripper 7000",
+    "url": "cad-pc-amd-threadripper-7000",
+    "canonical_url": "pc-systeme/cad-pc/cad-pc-amd-threadripper-7000",
+    "type": "magento"
+  },
+  {
+    "id": 4249,
+    "name": "CAD PC Intel Core Ultra",
+    "url": "cad-pc-intel-core-ultra",
+    "canonical_url": "pc-systeme/cad-pc/cad-pc-intel-core-ultra",
+    "type": "magento"
+  },
+  {
+    "id": 71,
+    "name": "CAD PC",
+    "url": "cad-pc",
+    "canonical_url": "pc-systeme/cad-pc",
+    "type": "magento"
+  },
+  {
+    "id": 148,
+    "name": "Videoschnitt PC Intel Core",
+    "url": "intel",
+    "canonical_url": "pc-systeme/videoschnitt-pc/intel",
+    "type": "magento"
+  },
+  {
+    "id": 149,
+    "name": "Videoschnitt PC AMD Ryzen",
+    "url": "amd",
+    "canonical_url": "pc-systeme/videoschnitt-pc/amd",
+    "type": "magento"
+  },
+  {
+    "id": 70,
+    "name": "VIDEOSCHNITT PC",
+    "url": "videoschnitt-pc",
+    "canonical_url": "pc-systeme/videoschnitt-pc",
+    "type": "magento"
+  },
+  {
+    "id": 1166,
+    "name": "Gaming Komplettsystem",
+    "url": "gaming-pc-komplettsystem",
+    "canonical_url": "pc-systeme/pc-komplettsysteme/gaming-pc-komplettsystem",
+    "type": "magento"
+  },
+  {
+    "id": 1167,
+    "name": "Office Komplettsystem",
+    "url": "office-pc-komplettsystem",
+    "canonical_url": "pc-systeme/pc-komplettsysteme/office-pc-komplettsystem",
+    "type": "magento"
+  },
+  {
+    "id": 1165,
+    "name": "KOMPLETTSYSTEM",
+    "url": "pc-komplettsysteme",
+    "canonical_url": "pc-systeme/pc-komplettsysteme",
+    "type": "magento"
+  },
+  {
+    "id": 2003,
+    "name": "Studenten PC Intel Core",
+    "url": "intel",
+    "canonical_url": "pc-systeme/studenten-pc/intel",
+    "type": "magento"
+  },
+  {
+    "id": 2004,
+    "name": "Studenten PC AMD Ryzen",
+    "url": "amd",
+    "canonical_url": "pc-systeme/studenten-pc/amd",
+    "type": "magento"
+  },
+  {
+    "id": 873,
+    "name": "STUDENTEN PC",
+    "url": "studenten-pc",
+    "canonical_url": "pc-systeme/studenten-pc",
+    "type": "magento"
+  },
+  {
+    "id": 3192,
+    "name": "24\" All-in-One PC",
+    "url": "24-all-in-one-pc",
+    "canonical_url": "pc-systeme/all-in-one-pc/24-all-in-one-pc",
+    "type": "magento"
+  },
+  {
+    "id": 3193,
+    "name": "27\" All-in-One PC",
+    "url": "27-all-in-one-pc",
+    "canonical_url": "pc-systeme/all-in-one-pc/27-all-in-one-pc",
+    "type": "magento"
+  },
+  {
+    "id": 3191,
+    "name": "ALL-IN-ONE PC",
+    "url": "all-in-one-pc",
+    "canonical_url": "pc-systeme/all-in-one-pc",
+    "type": "magento"
+  },
+  {
+    "id": 4240,
+    "name": "Workstation AMD Ryzen 5000",
+    "url": "workstation-amd-ryzen-5000",
+    "canonical_url": "pc-systeme/workstation/workstation-amd-ryzen-5000",
+    "type": "magento"
+  },
+  {
+    "id": 4247,
+    "name": "Workstation AMD Ryzen 7000",
+    "url": "workstation-amd-ryzen-7000",
+    "canonical_url": "pc-systeme/workstation/workstation-amd-ryzen-7000",
+    "type": "magento"
+  },
+  {
+    "id": 4248,
+    "name": "Workstation Intel Core (13. Gen)",
+    "url": "workstation-intel-core-13-gen",
+    "canonical_url": "pc-systeme/workstation/workstation-intel-core-13-gen",
+    "type": "magento"
+  },
+  {
+    "id": 4250,
+    "name": "Workstation Intel Core (15. Gen)",
+    "url": "workstation-intel-core-15-gen",
+    "canonical_url": "pc-systeme/workstation/workstation-intel-core-15-gen",
+    "type": "magento"
+  },
+  {
+    "id": 4251,
+    "name": "Workstation Intel Core (14. Gen)",
+    "url": "workstation-intel-core-14-gen",
+    "canonical_url": "pc-systeme/workstation/workstation-intel-core-14-gen",
+    "type": "magento"
+  },
+  {
+    "id": 4252,
+    "name": "Workstation Intel Xeon (W-Serie)",
+    "url": "workstation-intel-xeon-w-serie",
+    "canonical_url": "pc-systeme/workstation/workstation-intel-xeon-w-serie",
+    "type": "magento"
+  },
+  {
+    "id": 4253,
+    "name": "Workstation AMD Threadripper 5000",
+    "url": "workstation-amd-threadripper-5000",
+    "canonical_url": "pc-systeme/workstation/workstation-amd-threadripper-5000",
+    "type": "magento"
+  },
+  {
+    "id": 4254,
+    "name": "Workstation AMD Threadripper 7000",
+    "url": "workstation-amd-threadripper-7000",
+    "canonical_url": "pc-systeme/workstation/workstation-amd-threadripper-7000",
+    "type": "magento"
+  },
+  {
+    "id": 4255,
+    "name": "Workstation AMD Ryzen 9000",
+    "url": "workstation-amd-ryzen-9000",
+    "canonical_url": "pc-systeme/workstation/workstation-amd-ryzen-9000",
+    "type": "magento"
+  },
+  {
+    "id": 4239,
+    "name": "WORKSTATION",
+    "url": "workstation",
+    "canonical_url": "pc-systeme/workstation",
+    "type": "magento"
+  },
+  {
+    "id": 3,
+    "name": "PC-Systeme",
+    "url": "pc-systeme",
+    "canonical_url": "pc-systeme",
+    "type": "Mega"
+  },
+  {
+    "id": 609,
+    "name": "PC Konfigurator",
+    "url": "pc-konfigurator",
+    "canonical_url": "pc-s-konfigurator/pc-konfigurator",
+    "type": "magento"
+  },
+  {
+    "id": 95,
+    "name": "Gaming PC Konfigurator",
+    "url": "gaming-pc-konfigurator",
+    "canonical_url": "pc-s-konfigurator/gaming-pc-konfigurator",
+    "type": "magento"
+  },
+  {
+    "id": 96,
+    "name": "High End PC Konfigurator",
+    "url": "high-end-pc-konfigurator",
+    "canonical_url": "pc-s-konfigurator/high-end-pc-konfigurator",
+    "type": "magento"
+  },
+  {
+    "id": 101,
+    "name": "Office PC Konfigurator",
+    "url": "office-pc-konfigurator",
+    "canonical_url": "pc-s-konfigurator/office-pc-konfigurator",
+    "type": "magento"
+  },
+  {
+    "id": 98,
+    "name": "Multimedia PC Konfigurator",
+    "url": "multimedia-pc-konfigurator",
+    "canonical_url": "pc-s-konfigurator/multimedia-pc-konfigurator",
+    "type": "magento"
+  },
+  {
+    "id": 102,
+    "name": "Silent PC Konfigurator",
+    "url": "silent-pc-konfigurator",
+    "canonical_url": "pc-s-konfigurator/silent-pc-konfigurator",
+    "type": "magento"
+  },
+  {
+    "id": 97,
+    "name": "Workstation Konfigurator",
+    "url": "workstation-konfigurator",
+    "canonical_url": "pc-s-konfigurator/workstation-konfigurator",
+    "type": "magento"
+  },
+  {
+    "id": 100,
+    "name": "CAD PC Konfigurator",
+    "url": "cad-pc-konfigurator",
+    "canonical_url": "pc-s-konfigurator/cad-pc-konfigurator",
+    "type": "magento"
+  },
+  {
+    "id": 94,
+    "name": "Mini PC Konfigurator",
+    "url": "mini-pc-konfigurator",
+    "canonical_url": "pc-s-konfigurator/mini-pc-konfigurator",
+    "type": "magento"
+  },
+  {
+    "id": 103,
+    "name": "Flugsimulator PC-Konfigurator",
+    "url": "flugsimulator-pc-konfigurator",
+    "canonical_url": "pc-s-konfigurator/flugsimulator-pc-konfigurator",
+    "type": "magento"
+  },
+  {
+    "id": 725,
+    "name": "PC Konfigurator",
+    "url": "pc-konfigurator",
+    "canonical_url": "pc-konfigurator",
     "type": "Drop Down"
   },
   {
-    "id": 37,
-    "name": "Sale",
-    "url": "sale",
-    "canonical_url": "sale.html",
+    "id": 1329,
+    "name": "Laptop Konfigurator",
+    "url": "notebooks-konfigurator",
+    "canonical_url": "notebooks/notebooks-konfigurator",
+    "type": "magento"
+  },
+  {
+    "id": 2063,
+    "name": "Laptop 14 Zoll",
+    "url": "laptop-14-zoll",
+    "canonical_url": "notebooks/laptop-14-zoll",
+    "type": "magento"
+  },
+  {
+    "id": 2064,
+    "name": "Laptop 15 Zoll",
+    "url": "laptop-15-zoll",
+    "canonical_url": "notebooks/laptop-15-zoll",
+    "type": "magento"
+  },
+  {
+    "id": 2065,
+    "name": "Laptop 17 Zoll",
+    "url": "laptop-17-zoll",
+    "canonical_url": "notebooks/laptop-17-zoll",
+    "type": "magento"
+  },
+  {
+    "id": 3598,
+    "name": "Gaming Laptop 14 Zoll",
+    "url": "gaming-laptop-14-zoll",
+    "canonical_url": "notebooks/gaming-laptop/gaming-laptop-14-zoll",
+    "type": "magento"
+  },
+  {
+    "id": 1347,
+    "name": "Gaming Laptop 15 Zoll",
+    "url": "gaming-laptop-15-zoll",
+    "canonical_url": "notebooks/gaming-laptop/gaming-laptop-15-zoll",
+    "type": "magento"
+  },
+  {
+    "id": 3599,
+    "name": "Gaming Laptop 16 Zoll ",
+    "url": "gaming-laptop-16-zoll",
+    "canonical_url": "notebooks/gaming-laptop/gaming-laptop-16-zoll",
+    "type": "magento"
+  },
+  {
+    "id": 1348,
+    "name": "Gaming Laptop 17 Zoll ",
+    "url": "gaming-laptop-17-zoll",
+    "canonical_url": "notebooks/gaming-laptop/gaming-laptop-17-zoll",
+    "type": "magento"
+  },
+  {
+    "id": 3998,
+    "name": "Gaming Laptop 18 Zoll",
+    "url": "gaming-laptop-18-zoll",
+    "canonical_url": "notebooks/gaming-laptop/gaming-laptop-18-zoll",
+    "type": "magento"
+  },
+  {
+    "id": 1334,
+    "name": "Gaming Laptop",
+    "url": "gaming-laptop",
+    "canonical_url": "notebooks/gaming-laptop",
+    "type": "magento"
+  },
+  {
+    "id": 1336,
+    "name": "Office Laptop 14 Zoll",
+    "url": "office-laptop-14-zoll",
+    "canonical_url": "notebooks/office-laptop/office-laptop-14-zoll",
+    "type": "magento"
+  },
+  {
+    "id": 1337,
+    "name": "Office Laptop 15 Zoll",
+    "url": "office-laptop-15-zoll",
+    "canonical_url": "notebooks/office-laptop/office-laptop-15-zoll",
+    "type": "magento"
+  },
+  {
+    "id": 1338,
+    "name": "Office Laptop 17 Zoll",
+    "url": "office-laptop-17-zoll",
+    "canonical_url": "notebooks/office-laptop/office-laptop-17-zoll",
+    "type": "magento"
+  },
+  {
+    "id": 1330,
+    "name": "Office Laptop",
+    "url": "office-laptop",
+    "canonical_url": "notebooks/office-laptop",
+    "type": "magento"
+  },
+  {
+    "id": 1339,
+    "name": "Business Laptop 14 Zoll",
+    "url": "business-laptop-14-zoll",
+    "canonical_url": "notebooks/business-laptop/business-laptop-14-zoll",
+    "type": "magento"
+  },
+  {
+    "id": 1340,
+    "name": "Business Laptop 16 Zoll",
+    "url": "business-laptop-16-zoll",
+    "canonical_url": "notebooks/business-laptop/business-laptop-16-zoll",
+    "type": "magento"
+  },
+  {
+    "id": 1341,
+    "name": "Business Laptop 17 Zoll",
+    "url": "business-laptop-17-zoll",
+    "canonical_url": "notebooks/business-laptop/business-laptop-17-zoll",
+    "type": "magento"
+  },
+  {
+    "id": 1331,
+    "name": "Business Laptop",
+    "url": "business-laptop",
+    "canonical_url": "notebooks/business-laptop",
+    "type": "magento"
+  },
+  {
+    "id": 1345,
+    "name": "CAD Laptop 16 Zoll",
+    "url": "cad-laptop-16-zoll",
+    "canonical_url": "notebooks/cad-laptop/cad-laptop-16-zoll",
+    "type": "magento"
+  },
+  {
+    "id": 1333,
+    "name": "CAD Laptop",
+    "url": "cad-laptop",
+    "canonical_url": "notebooks/cad-laptop",
+    "type": "magento"
+  },
+  {
+    "id": 3597,
+    "name": "Dream Machines 14 Zoll",
+    "url": "dream-machines-14-zoll",
+    "canonical_url": "notebooks/dream-machines/dream-machines-14-zoll",
+    "type": "magento"
+  },
+  {
+    "id": 1836,
+    "name": "Dream Machines 15 Zoll",
+    "url": "dream-machines-15-zoll",
+    "canonical_url": "notebooks/dream-machines/dream-machines-15-zoll",
+    "type": "magento"
+  },
+  {
+    "id": 3600,
+    "name": "Dream Machines 16 Zoll",
+    "url": "dream-machines-16-zoll",
+    "canonical_url": "notebooks/dream-machines/dream-machines-16-zoll",
+    "type": "magento"
+  },
+  {
+    "id": 1837,
+    "name": "Dream Machines 17 Zoll",
+    "url": "dream-machines-17-zoll",
+    "canonical_url": "notebooks/dream-machines/dream-machines-17-zoll",
+    "type": "magento"
+  },
+  {
+    "id": 3995,
+    "name": "Dream Machines 18 Zoll",
+    "url": "dream-machines-18-zoll",
+    "canonical_url": "notebooks/dream-machines/dream-machines-18-zoll",
+    "type": "magento"
+  },
+  {
+    "id": 1829,
+    "name": "Dream Machines",
+    "url": "dream-machines",
+    "canonical_url": "notebooks/dream-machines",
+    "type": "magento"
+  },
+  {
+    "id": 985,
+    "name": "ACER Laptop",
+    "url": "acer-laptop",
+    "canonical_url": "notebooks/laptop/acer-laptop",
+    "type": "magento"
+  },
+  {
+    "id": 987,
+    "name": "ASUS Laptop",
+    "url": "asus-laptop",
+    "canonical_url": "notebooks/laptop/asus-laptop",
+    "type": "magento"
+  },
+  {
+    "id": 988,
+    "name": "DELL Laptop",
+    "url": "dell-laptop",
+    "canonical_url": "notebooks/laptop/dell-laptop",
+    "type": "magento"
+  },
+  {
+    "id": 989,
+    "name": "FUJITSU Laptop",
+    "url": "fujitsu-laptop",
+    "canonical_url": "notebooks/laptop/fujitsu-laptop",
+    "type": "magento"
+  },
+  {
+    "id": 991,
+    "name": "HP Laptop",
+    "url": "hp-laptop",
+    "canonical_url": "notebooks/laptop/hp-laptop",
+    "type": "magento"
+  },
+  {
+    "id": 992,
+    "name": "LENOVO Laptop",
+    "url": "lenovo-laptop",
+    "canonical_url": "notebooks/laptop/lenovo-laptop",
+    "type": "magento"
+  },
+  {
+    "id": 993,
+    "name": "MSI Laptop",
+    "url": "msi-laptop",
+    "canonical_url": "notebooks/laptop/msi-laptop",
+    "type": "magento"
+  },
+  {
+    "id": 91,
+    "name": "Laptop",
+    "url": "laptop",
+    "canonical_url": "notebooks/laptop",
+    "type": "magento"
+  },
+  {
+    "id": 2722,
+    "name": "Microsoft Surface Tablets",
+    "url": "microsoft-surface-tablets",
+    "canonical_url": "notebooks/microsoft-surface/microsoft-surface-tablets",
+    "type": "magento"
+  },
+  {
+    "id": 2723,
+    "name": "Microsoft Surface Notebooks",
+    "url": "microsoft-surface-notebooks",
+    "canonical_url": "notebooks/microsoft-surface/microsoft-surface-notebooks",
+    "type": "magento"
+  },
+  {
+    "id": 751,
+    "name": "Microsoft Surface",
+    "url": "microsoft-surface",
+    "canonical_url": "notebooks/microsoft-surface",
+    "type": "magento"
+  },
+  {
+    "id": 92,
+    "name": "2-in-1 / Convertibles",
+    "url": "2-in-1-convertibles",
+    "canonical_url": "notebooks/2-in-1-convertibles",
+    "type": "magento"
+  },
+  {
+    "id": 1014,
+    "name": "Notebook Akku",
+    "url": "akku",
+    "canonical_url": "notebooks/notebook-zubehor/akku",
+    "type": "magento"
+  },
+  {
+    "id": 750,
+    "name": "Notebook Netzteile",
+    "url": "netzteile",
+    "canonical_url": "notebooks/notebook-zubehor/netzteile",
+    "type": "magento"
+  },
+  {
+    "id": 746,
+    "name": "Notebook Taschen",
+    "url": "taschen",
+    "canonical_url": "notebooks/notebook-zubehor/taschen",
+    "type": "magento"
+  },
+  {
+    "id": 748,
+    "name": "Notebook Kühlpads / Ständer",
+    "url": "kuhlpads-und-staender",
+    "canonical_url": "notebooks/notebook-zubehor/kuhlpads-und-staender",
+    "type": "magento"
+  },
+  {
+    "id": 749,
+    "name": "USB-HUB / Verteiler",
+    "url": "notebook-usb-hub-verteiler",
+    "canonical_url": "notebooks/notebook-zubehor/notebook-usb-hub-verteiler",
+    "type": "magento"
+  },
+  {
+    "id": 747,
+    "name": "Sicherheitsschlösser",
+    "url": "sicherheitsschlosser",
+    "canonical_url": "notebooks/notebook-zubehor/sicherheitsschlosser",
+    "type": "magento"
+  },
+  {
+    "id": 93,
+    "name": "Notebook Zubehör",
+    "url": "notebook-zubehor",
+    "canonical_url": "notebooks/notebook-zubehor",
+    "type": "magento"
+  },
+  {
+    "id": 4,
+    "name": "Laptop",
+    "url": "laptop",
+    "canonical_url": "laptop",
+    "type": "Mega"
+  },
+  {
+    "id": 615,
+    "name": "iPhone",
+    "url": "iphone",
+    "canonical_url": "apple/iphone",
+    "type": "magento"
+  },
+  {
+    "id": 616,
+    "name": "iPad",
+    "url": "ipad",
+    "canonical_url": "apple/ipad",
+    "type": "magento"
+  },
+  {
+    "id": 617,
+    "name": "iMac",
+    "url": "imac",
+    "canonical_url": "apple/imac",
+    "type": "magento"
+  },
+  {
+    "id": 2805,
+    "name": "Apple Watch",
+    "url": "apple-watch",
+    "canonical_url": "apple/watch/apple-watch",
+    "type": "magento"
+  },
+  {
+    "id": 2806,
+    "name": "Zubehör",
+    "url": "zubehor",
+    "canonical_url": "apple/watch/zubehor",
+    "type": "magento"
+  },
+  {
+    "id": 2719,
+    "name": "Watch",
+    "url": "watch",
+    "canonical_url": "apple/watch",
+    "type": "magento"
+  },
+  {
+    "id": 740,
+    "name": "Mac Mini",
+    "url": "mac-mini",
+    "canonical_url": "apple/mac-mini",
+    "type": "magento"
+  },
+  {
+    "id": 618,
+    "name": "MacBook",
+    "url": "macbook",
+    "canonical_url": "apple/macbook",
+    "type": "magento"
+  },
+  {
+    "id": 2759,
+    "name": "Apple TV",
+    "url": "apple-tv",
+    "canonical_url": "apple/apple-tv",
+    "type": "magento"
+  },
+  {
+    "id": 2807,
+    "name": "AirTag",
+    "url": "airtag",
+    "canonical_url": "apple/airtag",
+    "type": "magento"
+  },
+  {
+    "id": 1617,
+    "name": "Kabel & Adapter",
+    "url": "kabel-und-adapter",
+    "canonical_url": "apple/zubehor/kabel-und-adapter",
+    "type": "magento"
+  },
+  {
+    "id": 1616,
+    "name": "Zubehör",
+    "url": "zubehor",
+    "canonical_url": "apple/zubehor",
+    "type": "magento"
+  },
+  {
+    "id": 607,
+    "name": "Apple",
+    "url": "apple",
+    "canonical_url": "apple",
     "type": "Drop Down"
+  },
+  {
+    "id": 2740,
+    "name": "Sockel 1150 Prozessoren",
+    "url": "sockel-1150-prozessoren",
+    "canonical_url": "hardware/prozessoren-cpu/intel/sockel-1150-prozessoren",
+    "type": "magento"
+  },
+  {
+    "id": 730,
+    "name": "Sockel 1151 Prozessoren",
+    "url": "sockel-1151",
+    "canonical_url": "hardware/prozessoren-cpu/intel/sockel-1151",
+    "type": "magento"
+  },
+  {
+    "id": 729,
+    "name": "Sockel 1200 Prozessoren",
+    "url": "sockel-1200",
+    "canonical_url": "hardware/prozessoren-cpu/intel/sockel-1200",
+    "type": "magento"
+  },
+  {
+    "id": 2738,
+    "name": "Sockel 1700 Prozessoren",
+    "url": "sockel-1700-prozessoren",
+    "canonical_url": "hardware/prozessoren-cpu/intel/sockel-1700-prozessoren",
+    "type": "magento"
+  },
+  {
+    "id": 1579,
+    "name": "Sockel 2011 Prozessoren",
+    "url": "sockel-2011-prozessoren",
+    "canonical_url": "hardware/prozessoren-cpu/intel/sockel-2011-prozessoren",
+    "type": "magento"
+  },
+  {
+    "id": 731,
+    "name": "Sockel 2066 Prozessoren",
+    "url": "sockel-2066",
+    "canonical_url": "hardware/prozessoren-cpu/intel/sockel-2066",
+    "type": "magento"
+  },
+  {
+    "id": 2739,
+    "name": "Intel Xeon Prozessoren",
+    "url": "intel-xeon-prozessoren",
+    "canonical_url": "hardware/prozessoren-cpu/intel/intel-xeon-prozessoren",
+    "type": "magento"
+  },
+  {
+    "id": 727,
+    "name": "Intel Prozessoren",
+    "url": "intel",
+    "canonical_url": "hardware/prozessoren-cpu/intel",
+    "type": "magento"
+  },
+  {
+    "id": 2741,
+    "name": "Sockel AM5 Prozessoren",
+    "url": "sockel-am5-prozessoren",
+    "canonical_url": "hardware/prozessoren-cpu/amd/sockel-am5-prozessoren",
+    "type": "magento"
+  },
+  {
+    "id": 732,
+    "name": "Sockel AM4 Prozessoren",
+    "url": "sockel-am4",
+    "canonical_url": "hardware/prozessoren-cpu/amd/sockel-am4",
+    "type": "magento"
+  },
+  {
+    "id": 1580,
+    "name": "Sockel SP3 Prozessoren",
+    "url": "sockel-sp3-prozessoren",
+    "canonical_url": "hardware/prozessoren-cpu/amd/sockel-sp3-prozessoren",
+    "type": "magento"
+  },
+  {
+    "id": 2743,
+    "name": "Sockel SP5 Prozessoren",
+    "url": "sockel-sp5-prozessoren",
+    "canonical_url": "hardware/prozessoren-cpu/amd/sockel-sp5-prozessoren",
+    "type": "magento"
+  },
+  {
+    "id": 2742,
+    "name": "Sockel sWRX8 Prozessoren",
+    "url": "sockel-swrx8-prozessoren",
+    "canonical_url": "hardware/prozessoren-cpu/amd/sockel-swrx8-prozessoren",
+    "type": "magento"
+  },
+  {
+    "id": 728,
+    "name": "AMD Prozessoren",
+    "url": "amd",
+    "canonical_url": "hardware/prozessoren-cpu/amd",
+    "type": "magento"
+  },
+  {
+    "id": 74,
+    "name": "Prozessoren (CPU)",
+    "url": "prozessoren-cpu",
+    "canonical_url": "hardware/prozessoren-cpu",
+    "type": "magento"
+  },
+  {
+    "id": 888,
+    "name": "Sockel 1151 Mainboards",
+    "url": "sockel-1151",
+    "canonical_url": "hardware/mainboard/intel/sockel-1151",
+    "type": "magento"
+  },
+  {
+    "id": 887,
+    "name": "Sockel 1200 Mainboards",
+    "url": "sockel-1200",
+    "canonical_url": "hardware/mainboard/intel/sockel-1200",
+    "type": "magento"
+  },
+  {
+    "id": 2734,
+    "name": "Sockel 1700 Mainboards",
+    "url": "sockel-1700-mainboard",
+    "canonical_url": "hardware/mainboard/intel/sockel-1700-mainboard",
+    "type": "magento"
+  },
+  {
+    "id": 1581,
+    "name": "Sockel 2011 Mainboards",
+    "url": "sockel-2011-mainboard",
+    "canonical_url": "hardware/mainboard/intel/sockel-2011-mainboard",
+    "type": "magento"
+  },
+  {
+    "id": 889,
+    "name": "Sockel 2066 Mainboards",
+    "url": "sockel-2066",
+    "canonical_url": "hardware/mainboard/intel/sockel-2066",
+    "type": "magento"
+  },
+  {
+    "id": 2736,
+    "name": "Intel Xeon Mainboards",
+    "url": "xeon-mainboard",
+    "canonical_url": "hardware/mainboard/intel/xeon-mainboard",
+    "type": "magento"
+  },
+  {
+    "id": 885,
+    "name": "Intel Mainboards",
+    "url": "intel",
+    "canonical_url": "hardware/mainboard/intel",
+    "type": "magento"
+  },
+  {
+    "id": 2735,
+    "name": "Sockel AM5 Mainboards",
+    "url": "sockel-am5-mainboard",
+    "canonical_url": "hardware/mainboard/amd/sockel-am5-mainboard",
+    "type": "magento"
+  },
+  {
+    "id": 890,
+    "name": "Sockel AM4 Mainboards",
+    "url": "sockel-am4",
+    "canonical_url": "hardware/mainboard/amd/sockel-am4",
+    "type": "magento"
+  },
+  {
+    "id": 891,
+    "name": "Sockel sWRX8 Mainboards",
+    "url": "sockel-swrx8",
+    "canonical_url": "hardware/mainboard/amd/sockel-swrx8",
+    "type": "magento"
+  },
+  {
+    "id": 1582,
+    "name": "Sockel SP3 Mainboards",
+    "url": "sockel-sp3-mainboard",
+    "canonical_url": "hardware/mainboard/amd/sockel-sp3-mainboard",
+    "type": "magento"
+  },
+  {
+    "id": 886,
+    "name": "AMD Mainboards",
+    "url": "amd",
+    "canonical_url": "hardware/mainboard/amd",
+    "type": "magento"
+  },
+  {
+    "id": 2737,
+    "name": "Zubehör",
+    "url": "mainboard-zubehoer",
+    "canonical_url": "hardware/mainboard/mainboard-zubehoer",
+    "type": "magento"
+  },
+  {
+    "id": 75,
+    "name": "Mainboards",
+    "url": "mainboard",
+    "canonical_url": "hardware/mainboard",
+    "type": "magento"
+  },
+  {
+    "id": 893,
+    "name": "DDR3 RAM",
+    "url": "ddr3-ram",
+    "canonical_url": "hardware/arbeitsspeicher/desktop-arbeitsspeicher/ddr3-ram",
+    "type": "magento"
+  },
+  {
+    "id": 892,
+    "name": "DDR4 RAM",
+    "url": "ddr4-ram",
+    "canonical_url": "hardware/arbeitsspeicher/desktop-arbeitsspeicher/ddr4-ram",
+    "type": "magento"
+  },
+  {
+    "id": 2080,
+    "name": "DDR5 RAM",
+    "url": "ddr5-ram",
+    "canonical_url": "hardware/arbeitsspeicher/desktop-arbeitsspeicher/ddr5-ram",
+    "type": "magento"
+  },
+  {
+    "id": 1583,
+    "name": "Desktop Arbeitsspeicher / RAM",
+    "url": "desktop-arbeitsspeicher",
+    "canonical_url": "hardware/arbeitsspeicher/desktop-arbeitsspeicher",
+    "type": "magento"
+  },
+  {
+    "id": 895,
+    "name": "DDR3 SO-DIMM",
+    "url": "soddr3",
+    "canonical_url": "hardware/arbeitsspeicher/notebook-arbeitsspeicher/soddr3",
+    "type": "magento"
+  },
+  {
+    "id": 894,
+    "name": "DDR4 SO-DIMM",
+    "url": "soddr4",
+    "canonical_url": "hardware/arbeitsspeicher/notebook-arbeitsspeicher/soddr4",
+    "type": "magento"
+  },
+  {
+    "id": 2081,
+    "name": "DDR5 SO-DIMM",
+    "url": "so-dimm-ddr5",
+    "canonical_url": "hardware/arbeitsspeicher/notebook-arbeitsspeicher/so-dimm-ddr5",
+    "type": "magento"
+  },
+  {
+    "id": 1584,
+    "name": "Notebook Arbeitsspeicher / RAM",
+    "url": "notebook-arbeitsspeicher",
+    "canonical_url": "hardware/arbeitsspeicher/notebook-arbeitsspeicher",
+    "type": "magento"
+  },
+  {
+    "id": 2082,
+    "name": "Sonstige Arbeitsspeicher / RAM",
+    "url": "sonstige-ram",
+    "canonical_url": "hardware/arbeitsspeicher/sonstige-ram",
+    "type": "magento"
+  },
+  {
+    "id": 76,
+    "name": "Arbeitsspeicher / RAM",
+    "url": "arbeitsspeicher",
+    "canonical_url": "hardware/arbeitsspeicher",
+    "type": "magento"
+  },
+  {
+    "id": 2889,
+    "name": "Solid State Drives (SSD)",
+    "url": "solid-state-drives",
+    "canonical_url": "hardware/festplatten/solid-state-drives",
+    "type": "magento"
+  },
+  {
+    "id": 2891,
+    "name": "Hard Disk Drives (HDD)",
+    "url": "hard-disk-drives-hdd",
+    "canonical_url": "hardware/festplatten/hard-disk-drives-hdd",
+    "type": "magento"
+  },
+  {
+    "id": 2886,
+    "name": "SCSI & SAS Festplatten",
+    "url": "scsi-sas-festplatten",
+    "canonical_url": "hardware/festplatten/scsi-sas-festplatten",
+    "type": "magento"
+  },
+  {
+    "id": 2887,
+    "name": "externe Festplatten",
+    "url": "externe-festplatten",
+    "canonical_url": "hardware/festplatten/externe-festplatten",
+    "type": "magento"
+  },
+  {
+    "id": 2892,
+    "name": "Zubehör",
+    "url": "zubehor",
+    "canonical_url": "hardware/festplatten/zubehor",
+    "type": "magento"
+  },
+  {
+    "id": 77,
+    "name": "Festplatten",
+    "url": "festplatten",
+    "canonical_url": "hardware/festplatten",
+    "type": "magento"
+  },
+  {
+    "id": 2733,
+    "name": "PCIe Grafikkarten",
+    "url": "pcie-grafikkarten",
+    "canonical_url": "hardware/grafikkarten/pcie-grafikkarten",
+    "type": "magento"
+  },
+  {
+    "id": 2732,
+    "name": "Grafikkarten Zubehör",
+    "url": "grafikkarten-zubehor",
+    "canonical_url": "hardware/grafikkarten/grafikkarten-zubehor",
+    "type": "magento"
+  },
+  {
+    "id": 78,
+    "name": "Grafikkarten",
+    "url": "grafikkarten",
+    "canonical_url": "hardware/grafikkarten",
+    "type": "magento"
+  },
+  {
+    "id": 2857,
+    "name": "PC-Gehäuse",
+    "url": "pc-gehause",
+    "canonical_url": "hardware/gehause/pc-gehause",
+    "type": "magento"
+  },
+  {
+    "id": 2858,
+    "name": "Server-Gehäuse",
+    "url": "server-gehause",
+    "canonical_url": "hardware/gehause/server-gehause",
+    "type": "magento"
+  },
+  {
+    "id": 2860,
+    "name": "Festplatten-Gehäuse",
+    "url": "festplatten-gehause",
+    "canonical_url": "hardware/gehause/festplatten-gehause/festplatten-gehause",
+    "type": "magento"
+  },
+  {
+    "id": 2861,
+    "name": "Zubehör",
+    "url": "zubehor",
+    "canonical_url": "hardware/gehause/festplatten-gehause/zubehor",
+    "type": "magento"
+  },
+  {
+    "id": 2859,
+    "name": "Festplatten-Gehäuse",
+    "url": "festplatten-gehause",
+    "canonical_url": "hardware/gehause/festplatten-gehause",
+    "type": "magento"
+  },
+  {
+    "id": 2872,
+    "name": "Wechselrahmen",
+    "url": "wechselrahmen",
+    "canonical_url": "hardware/gehause/wechselrahmen",
+    "type": "magento"
+  },
+  {
+    "id": 79,
+    "name": "Gehäuse",
+    "url": "gehause",
+    "canonical_url": "hardware/gehause",
+    "type": "magento"
+  },
+  {
+    "id": 1015,
+    "name": "PC Netzteile",
+    "url": "pc",
+    "canonical_url": "hardware/netzteile/pc",
+    "type": "magento"
+  },
+  {
+    "id": 2874,
+    "name": "Server Netzteile",
+    "url": "server-netzteile",
+    "canonical_url": "hardware/netzteile/server-netzteile",
+    "type": "magento"
+  },
+  {
+    "id": 2875,
+    "name": "externe Netzteile",
+    "url": "externe-netzteile",
+    "canonical_url": "hardware/netzteile/externe-netzteile",
+    "type": "magento"
+  },
+  {
+    "id": 80,
+    "name": "Netzteile",
+    "url": "netzteile",
+    "canonical_url": "hardware/netzteile",
+    "type": "magento"
+  },
+  {
+    "id": 2815,
+    "name": "Luftkühlung",
+    "url": "luftkuhlung",
+    "canonical_url": "hardware/kuhler-lufter/prozessor/luftkuhlung",
+    "type": "magento"
+  },
+  {
+    "id": 920,
+    "name": "Wasserkühlung",
+    "url": "wasserkuhler",
+    "canonical_url": "hardware/kuhler-lufter/prozessor/wasserkuhler",
+    "type": "magento"
+  },
+  {
+    "id": 2819,
+    "name": "Zubehör",
+    "url": "zubehor",
+    "canonical_url": "hardware/kuhler-lufter/prozessor/zubehor",
+    "type": "magento"
+  },
+  {
+    "id": 918,
+    "name": "CPU-Kühler",
+    "url": "prozessor",
+    "canonical_url": "hardware/kuhler-lufter/prozessor",
+    "type": "magento"
+  },
+  {
+    "id": 2818,
+    "name": "Festplatten-Kühler",
+    "url": "festplatten-kuhler",
+    "canonical_url": "hardware/kuhler-lufter/festplatten-kuhler",
+    "type": "magento"
+  },
+  {
+    "id": 917,
+    "name": "Gehäuselüfter",
+    "url": "gehause",
+    "canonical_url": "hardware/kuhler-lufter/gehause",
+    "type": "magento"
+  },
+  {
+    "id": 919,
+    "name": "Grafikkarten-Kühler",
+    "url": "grafikkarten",
+    "canonical_url": "hardware/kuhler-lufter/grafikkarten",
+    "type": "magento"
+  },
+  {
+    "id": 2816,
+    "name": "Wärmeleitpaste & Pads",
+    "url": "warmeleitpaste-pads",
+    "canonical_url": "hardware/kuhler-lufter/warmeleitpaste-pads",
+    "type": "magento"
+  },
+  {
+    "id": 2817,
+    "name": "Zubehör",
+    "url": "zubehor",
+    "canonical_url": "hardware/kuhler-lufter/zubehor",
+    "type": "magento"
+  },
+  {
+    "id": 81,
+    "name": "Kühler & Lüfter",
+    "url": "kuhler-lufter",
+    "canonical_url": "hardware/kuhler-lufter",
+    "type": "magento"
+  },
+  {
+    "id": 922,
+    "name": "Mäuse",
+    "url": "mause",
+    "canonical_url": "hardware/eingabegerate/mause",
+    "type": "magento"
+  },
+  {
+    "id": 2832,
+    "name": "Keypads",
+    "url": "keypads",
+    "canonical_url": "hardware/eingabegerate/keypads",
+    "type": "magento"
+  },
+  {
+    "id": 2838,
+    "name": "Mauspads",
+    "url": "mauspads",
+    "canonical_url": "hardware/eingabegerate/mauspads",
+    "type": "magento"
+  },
+  {
+    "id": 2831,
+    "name": "Tastaturen",
+    "url": "tastaturen",
+    "canonical_url": "hardware/eingabegerate/tastaturen",
+    "type": "magento"
+  },
+  {
+    "id": 2836,
+    "name": "Lenkräder & Pedale",
+    "url": "lenkrader-pedale",
+    "canonical_url": "hardware/eingabegerate/lenkrader-pedale",
+    "type": "magento"
+  },
+  {
+    "id": 2834,
+    "name": "Joysticks & Gamepads",
+    "url": "joysticks-gamepads",
+    "canonical_url": "hardware/eingabegerate/joysticks-gamepads",
+    "type": "magento"
+  },
+  {
+    "id": 2837,
+    "name": "Steuerhorn & Gasregler",
+    "url": "steuerhorn-gasregler",
+    "canonical_url": "hardware/eingabegerate/steuerhorn-gasregler",
+    "type": "magento"
+  },
+  {
+    "id": 2833,
+    "name": "Eingabestifte & Zubehör",
+    "url": "eingabestifte-zubehoer",
+    "canonical_url": "hardware/eingabegerate/eingabestifte-zubehoer",
+    "type": "magento"
+  },
+  {
+    "id": 82,
+    "name": "Eingabegeräte",
+    "url": "eingabegerate",
+    "canonical_url": "hardware/eingabegerate",
+    "type": "magento"
+  },
+  {
+    "id": 921,
+    "name": "Externe Laufwerke",
+    "url": "external",
+    "canonical_url": "hardware/laufwerke-rohlinge/external",
+    "type": "magento"
+  },
+  {
+    "id": 2883,
+    "name": "Interne Laufwerke",
+    "url": "interne-laufwerke",
+    "canonical_url": "hardware/laufwerke-rohlinge/interne-laufwerke",
+    "type": "magento"
+  },
+  {
+    "id": 83,
+    "name": "Laufwerke",
+    "url": "laufwerke-rohlinge",
+    "canonical_url": "hardware/laufwerke-rohlinge",
+    "type": "magento"
+  },
+  {
+    "id": 2884,
+    "name": "interne Card-Reader",
+    "url": "interne-card-reader",
+    "canonical_url": "hardware/flash-speichermedien/card-reader/interne-card-reader",
+    "type": "magento"
+  },
+  {
+    "id": 2885,
+    "name": "externe Card-Reader",
+    "url": "externe-card-reader",
+    "canonical_url": "hardware/flash-speichermedien/card-reader/externe-card-reader",
+    "type": "magento"
+  },
+  {
+    "id": 927,
+    "name": "Card Reader",
+    "url": "card-reader",
+    "canonical_url": "hardware/flash-speichermedien/card-reader",
+    "type": "magento"
+  },
+  {
+    "id": 926,
+    "name": "Speicherkarten",
+    "url": "speicher-karten",
+    "canonical_url": "hardware/flash-speichermedien/speicher-karten",
+    "type": "magento"
+  },
+  {
+    "id": 925,
+    "name": "USB Sticks",
+    "url": "usb-sticks",
+    "canonical_url": "hardware/flash-speichermedien/usb-sticks",
+    "type": "magento"
+  },
+  {
+    "id": 2881,
+    "name": "Blu-Ray",
+    "url": "blu-ray",
+    "canonical_url": "hardware/flash-speichermedien/rohlinge/blu-ray",
+    "type": "magento"
+  },
+  {
+    "id": 2882,
+    "name": "CD & DVD",
+    "url": "cd-dvd",
+    "canonical_url": "hardware/flash-speichermedien/rohlinge/cd-dvd",
+    "type": "magento"
+  },
+  {
+    "id": 2880,
+    "name": "Rohlinge",
+    "url": "rohlinge",
+    "canonical_url": "hardware/flash-speichermedien/rohlinge",
+    "type": "magento"
+  },
+  {
+    "id": 84,
+    "name": "Speichermedien",
+    "url": "flash-speichermedien",
+    "canonical_url": "hardware/flash-speichermedien",
+    "type": "magento"
+  },
+  {
+    "id": 928,
+    "name": "PCIe Soundkarten",
+    "url": "pcie",
+    "canonical_url": "hardware/soundkarten/pcie",
+    "type": "magento"
+  },
+  {
+    "id": 929,
+    "name": "USB Soundkarten",
+    "url": "usb",
+    "canonical_url": "hardware/soundkarten/usb",
+    "type": "magento"
+  },
+  {
+    "id": 85,
+    "name": "Soundkarten",
+    "url": "soundkarten",
+    "canonical_url": "hardware/soundkarten",
+    "type": "magento"
+  },
+  {
+    "id": 938,
+    "name": "Monitore",
+    "url": "monitore",
+    "canonical_url": "hardware/monitore/monitore",
+    "type": "magento"
+  },
+  {
+    "id": 2893,
+    "name": "Info Displays",
+    "url": "info-displays",
+    "canonical_url": "hardware/monitore/info-displays",
+    "type": "magento"
+  },
+  {
+    "id": 939,
+    "name": "Touchscreens",
+    "url": "touchscreens",
+    "canonical_url": "hardware/monitore/touchscreens",
+    "type": "magento"
+  },
+  {
+    "id": 2894,
+    "name": "Digitale Bilderrahmen",
+    "url": "digitale-bilderrahmen",
+    "canonical_url": "hardware/monitore/digitale-bilderrahmen",
+    "type": "magento"
+  },
+  {
+    "id": 2963,
+    "name": "Blickschutzfolien",
+    "url": "blickschutzfolien",
+    "canonical_url": "hardware/monitore/zubehor/blickschutzfolien",
+    "type": "magento"
+  },
+  {
+    "id": 2961,
+    "name": "KVM Switch",
+    "url": "kvm-switch",
+    "canonical_url": "hardware/monitore/zubehor/kvm-switch",
+    "type": "magento"
+  },
+  {
+    "id": 2962,
+    "name": "Reinigungssets",
+    "url": "reinigungssets",
+    "canonical_url": "hardware/monitore/zubehor/reinigungssets",
+    "type": "magento"
+  },
+  {
+    "id": 2960,
+    "name": "Rollwagen",
+    "url": "rollwagen",
+    "canonical_url": "hardware/monitore/zubehor/rollwagen",
+    "type": "magento"
+  },
+  {
+    "id": 2959,
+    "name": "Wandhalterungen",
+    "url": "wandhalterungen",
+    "canonical_url": "hardware/monitore/zubehor/wandhalterungen",
+    "type": "magento"
+  },
+  {
+    "id": 2895,
+    "name": "Zubehör",
+    "url": "zubehor",
+    "canonical_url": "hardware/monitore/zubehor",
+    "type": "magento"
+  },
+  {
+    "id": 104,
+    "name": "Monitore",
+    "url": "monitore",
+    "canonical_url": "hardware/monitore",
+    "type": "magento"
+  },
+  {
+    "id": 943,
+    "name": "All-in-One / Multifunktion",
+    "url": "all-in-one-multifunktion",
+    "canonical_url": "hardware/drucker-scanner-fax/all-in-one-multifunktion",
+    "type": "magento"
+  },
+  {
+    "id": 2824,
+    "name": "Beschriftungsgeräte",
+    "url": "beschriftungsgerate",
+    "canonical_url": "hardware/drucker-scanner-fax/beschriftungsgerate",
+    "type": "magento"
+  },
+  {
+    "id": 2826,
+    "name": "3D-Drucker",
+    "url": "3d-drucker",
+    "canonical_url": "hardware/drucker-scanner-fax/drucker/3d-drucker",
+    "type": "magento"
+  },
+  {
+    "id": 2825,
+    "name": "Bondrucker",
+    "url": "bondrucker",
+    "canonical_url": "hardware/drucker-scanner-fax/drucker/bondrucker",
+    "type": "magento"
+  },
+  {
+    "id": 931,
+    "name": "Etikettendrucker",
+    "url": "etikettendrucker",
+    "canonical_url": "hardware/drucker-scanner-fax/drucker/etikettendrucker",
+    "type": "magento"
+  },
+  {
+    "id": 932,
+    "name": "Laserdrucker",
+    "url": "laserdrucker",
+    "canonical_url": "hardware/drucker-scanner-fax/drucker/laserdrucker",
+    "type": "magento"
+  },
+  {
+    "id": 933,
+    "name": "Nadeldrucker",
+    "url": "nadeldrucker",
+    "canonical_url": "hardware/drucker-scanner-fax/drucker/nadeldrucker",
+    "type": "magento"
+  },
+  {
+    "id": 935,
+    "name": "Tintenstrahldrucker",
+    "url": "tintenstrahldrucker",
+    "canonical_url": "hardware/drucker-scanner-fax/drucker/tintenstrahldrucker",
+    "type": "magento"
+  },
+  {
+    "id": 930,
+    "name": "Drucker",
+    "url": "drucker",
+    "canonical_url": "hardware/drucker-scanner-fax/drucker",
+    "type": "magento"
+  },
+  {
+    "id": 2828,
+    "name": "Barcode-Scanner",
+    "url": "barcode-scanner",
+    "canonical_url": "hardware/drucker-scanner-fax/scanner/barcode-scanner",
+    "type": "magento"
+  },
+  {
+    "id": 2829,
+    "name": "Flachbettscanner",
+    "url": "flachbettscanner",
+    "canonical_url": "hardware/drucker-scanner-fax/scanner/flachbettscanner",
+    "type": "magento"
+  },
+  {
+    "id": 2830,
+    "name": "Dokumentenscanner",
+    "url": "dokumentenscanner",
+    "canonical_url": "hardware/drucker-scanner-fax/scanner/dokumentenscanner",
+    "type": "magento"
+  },
+  {
+    "id": 937,
+    "name": "Scanner",
+    "url": "scanner",
+    "canonical_url": "hardware/drucker-scanner-fax/scanner",
+    "type": "magento"
+  },
+  {
+    "id": 2820,
+    "name": "Faxgeräte",
+    "url": "faxgerate",
+    "canonical_url": "hardware/drucker-scanner-fax/faxgerate",
+    "type": "magento"
+  },
+  {
+    "id": 2827,
+    "name": "Sonstige",
+    "url": "sonstige",
+    "canonical_url": "hardware/drucker-scanner-fax/sonstige",
+    "type": "magento"
+  },
+  {
+    "id": 2822,
+    "name": "Farbband",
+    "url": "farbband",
+    "canonical_url": "hardware/drucker-scanner-fax/zubehor/farbband",
+    "type": "magento"
+  },
+  {
+    "id": 941,
+    "name": "Tinte / Köpfe",
+    "url": "tinte-kopfe",
+    "canonical_url": "hardware/drucker-scanner-fax/zubehor/tinte-kopfe",
+    "type": "magento"
+  },
+  {
+    "id": 942,
+    "name": "Toner / Trommel",
+    "url": "toner-trommel",
+    "canonical_url": "hardware/drucker-scanner-fax/zubehor/toner-trommel",
+    "type": "magento"
+  },
+  {
+    "id": 2821,
+    "name": "Garantien / Services",
+    "url": "garantien-services",
+    "canonical_url": "hardware/drucker-scanner-fax/zubehor/garantien-services",
+    "type": "magento"
+  },
+  {
+    "id": 2823,
+    "name": "Sonstiges",
+    "url": "sonstiges",
+    "canonical_url": "hardware/drucker-scanner-fax/zubehor/sonstiges",
+    "type": "magento"
+  },
+  {
+    "id": 940,
+    "name": "Zubehör",
+    "url": "zubehor",
+    "canonical_url": "hardware/drucker-scanner-fax/zubehor",
+    "type": "magento"
+  },
+  {
+    "id": 105,
+    "name": "Drucker / Scanner / Fax",
+    "url": "drucker-scanner-fax",
+    "canonical_url": "hardware/drucker-scanner-fax",
+    "type": "magento"
+  },
+  {
+    "id": 2188,
+    "name": "Tablets & PDA's",
+    "url": "tablets-und-pda",
+    "canonical_url": "hardware/tablets-und-zubehoer/tablets-und-pda",
+    "type": "magento"
+  },
+  {
+    "id": 2725,
+    "name": "Kabel & Adapter",
+    "url": "tablets-zubehoer-kabel-adapter",
+    "canonical_url": "hardware/tablets-und-zubehoer/tablets-zubehoer/tablets-zubehoer-kabel-adapter",
+    "type": "magento"
+  },
+  {
+    "id": 2724,
+    "name": "Zubehör",
+    "url": "tablets-zubehoer",
+    "canonical_url": "hardware/tablets-und-zubehoer/tablets-zubehoer",
+    "type": "magento"
+  },
+  {
+    "id": 2721,
+    "name": "Tablets & Zubehör",
+    "url": "tablets-und-zubehoer",
+    "canonical_url": "hardware/tablets-und-zubehoer",
+    "type": "magento"
+  },
+  {
+    "id": 741,
+    "name": "Handy & Smartphone",
+    "url": "smartphones",
+    "canonical_url": "hardware/smartphones-und-zubehoer/smartphones",
+    "type": "magento"
+  },
+  {
+    "id": 2767,
+    "name": "Audio- und Video-Konferenzsysteme",
+    "url": "audio-und-video-konferenzsysteme",
+    "canonical_url": "hardware/telefonie/audio-und-video-konferenzsysteme",
+    "type": "magento"
+  },
+  {
+    "id": 2768,
+    "name": "Festnetztelefone und Telefonanlagen",
+    "url": "festnetztelefone-und-telefonanlagen",
+    "canonical_url": "hardware/telefonie/festnetztelefone-und-telefonanlagen",
+    "type": "magento"
+  },
+  {
+    "id": 2769,
+    "name": "Funkgeräte",
+    "url": "funkgerate",
+    "canonical_url": "hardware/telefonie/funkgerate",
+    "type": "magento"
+  },
+  {
+    "id": 2770,
+    "name": "VOIP-Telefone",
+    "url": "voip-telefone-zubehor",
+    "canonical_url": "hardware/telefonie/voip-telefone-zubehor",
+    "type": "magento"
+  },
+  {
+    "id": 2803,
+    "name": "Daten- und Labekabel",
+    "url": "daten-und-labekabel",
+    "canonical_url": "hardware/telefonie/zubehor/daten-und-labekabel",
+    "type": "magento"
+  },
+  {
+    "id": 2804,
+    "name": "Halterungen & Adapter",
+    "url": "halterungen-adapter",
+    "canonical_url": "hardware/telefonie/zubehor/halterungen-adapter",
+    "type": "magento"
+  },
+  {
+    "id": 2802,
+    "name": "Panzergläser & Schutzfolien",
+    "url": "panzerglaser-schutzfolien",
+    "canonical_url": "hardware/telefonie/zubehor/panzerglaser-schutzfolien",
+    "type": "magento"
+  },
+  {
+    "id": 2801,
+    "name": "Taschen & Hüllen",
+    "url": "taschen-hullen",
+    "canonical_url": "hardware/telefonie/zubehor/taschen-hullen",
+    "type": "magento"
+  },
+  {
+    "id": 2800,
+    "name": "Zubehör",
+    "url": "zubehor",
+    "canonical_url": "hardware/telefonie/zubehor",
+    "type": "magento"
+  },
+  {
+    "id": 2808,
+    "name": "Sonstiges",
+    "url": "sonstiges",
+    "canonical_url": "hardware/telefonie/sonstiges",
+    "type": "magento"
+  },
+  {
+    "id": 2766,
+    "name": "Telefonie",
+    "url": "telefonie",
+    "canonical_url": "hardware/telefonie",
+    "type": "magento"
+  },
+  {
+    "id": 2746,
+    "name": "Beamer & Projektoren",
+    "url": "beamer-projektoren",
+    "canonical_url": "hardware/tv-audio/beamer-projektoren/beamer-projektoren",
+    "type": "magento"
+  },
+  {
+    "id": 2747,
+    "name": "Leinwände",
+    "url": "leinwande",
+    "canonical_url": "hardware/tv-audio/beamer-projektoren/leinwande",
+    "type": "magento"
+  },
+  {
+    "id": 2748,
+    "name": "Zubehör",
+    "url": "beamer-projektoren-zubehor",
+    "canonical_url": "hardware/tv-audio/beamer-projektoren/beamer-projektoren-zubehor",
+    "type": "magento"
+  },
+  {
+    "id": 2745,
+    "name": "Beamer & Projektoren",
+    "url": "beamer-projektoren",
+    "canonical_url": "hardware/tv-audio/beamer-projektoren",
+    "type": "magento"
+  },
+  {
+    "id": 2749,
+    "name": "Car Multimedia",
+    "url": "car-multimedia",
+    "canonical_url": "hardware/tv-audio/car-multimedia",
+    "type": "magento"
+  },
+  {
+    "id": 2750,
+    "name": "DVB Receiver",
+    "url": "dvb-receiver",
+    "canonical_url": "hardware/tv-audio/dvb-receiver",
+    "type": "magento"
+  },
+  {
+    "id": 2751,
+    "name": "DVD-Player & Rekorder",
+    "url": "dvd-player-dvd-rekorder",
+    "canonical_url": "hardware/tv-audio/dvd-player-dvd-rekorder",
+    "type": "magento"
+  },
+  {
+    "id": 2752,
+    "name": "Fernbedienungen",
+    "url": "fernbedienungen",
+    "canonical_url": "hardware/tv-audio/fernbedienungen",
+    "type": "magento"
+  },
+  {
+    "id": 2753,
+    "name": "TV / Fernseher",
+    "url": "tv-fernseher",
+    "canonical_url": "hardware/tv-audio/tv-fernseher",
+    "type": "magento"
+  },
+  {
+    "id": 2754,
+    "name": "Kopfhörer & Mikrofone",
+    "url": "kopfhorer-mikrofone",
+    "canonical_url": "hardware/tv-audio/kopfhorer-mikrofone",
+    "type": "magento"
+  },
+  {
+    "id": 2755,
+    "name": "Heimkinosysteme",
+    "url": "heimkinosysteme",
+    "canonical_url": "hardware/tv-audio/heimkinosysteme",
+    "type": "magento"
+  },
+  {
+    "id": 2756,
+    "name": "HiFi",
+    "url": "hifi",
+    "canonical_url": "hardware/tv-audio/hifi",
+    "type": "magento"
+  },
+  {
+    "id": 2757,
+    "name": "Lautsprecher",
+    "url": "lautsprecher",
+    "canonical_url": "hardware/tv-audio/lautsprecher",
+    "type": "magento"
+  },
+  {
+    "id": 2758,
+    "name": "Mediaplayer",
+    "url": "mediaplayer",
+    "canonical_url": "hardware/tv-audio/mediaplayer",
+    "type": "magento"
+  },
+  {
+    "id": 2760,
+    "name": "Radio & Wecker",
+    "url": "radio-und-wecker",
+    "canonical_url": "hardware/tv-audio/radio-und-wecker",
+    "type": "magento"
+  },
+  {
+    "id": 2762,
+    "name": "Spielkonsolen",
+    "url": "spielkonsolen",
+    "canonical_url": "hardware/tv-audio/spielkonsolen/spielkonsolen",
+    "type": "magento"
+  },
+  {
+    "id": 2763,
+    "name": "Zubehör",
+    "url": "zubehor",
+    "canonical_url": "hardware/tv-audio/spielkonsolen/zubehor",
+    "type": "magento"
+  },
+  {
+    "id": 2761,
+    "name": "Spielkonsolen",
+    "url": "spielkonsolen",
+    "canonical_url": "hardware/tv-audio/spielkonsolen",
+    "type": "magento"
+  },
+  {
+    "id": 2764,
+    "name": "Zubehör",
+    "url": "zubehor",
+    "canonical_url": "hardware/tv-audio/zubehor",
+    "type": "magento"
+  },
+  {
+    "id": 2744,
+    "name": "TV & Audio",
+    "url": "tv-audio",
+    "canonical_url": "hardware/tv-audio",
+    "type": "magento"
+  },
+  {
+    "id": 2765,
+    "name": "USB Hub",
+    "url": "usb-hub",
+    "canonical_url": "hardware/usb-hub",
+    "type": "magento"
+  },
+  {
+    "id": 2811,
+    "name": "Kabel & Zubehör",
+    "url": "kabel-adapter",
+    "canonical_url": "hardware/controller-io/kabel-adapter",
+    "type": "magento"
+  },
+  {
+    "id": 2813,
+    "name": "Netzwerkkarten",
+    "url": "netzwerkkarten",
+    "canonical_url": "hardware/controller-io/netzwerkkarten",
+    "type": "magento"
+  },
+  {
+    "id": 2810,
+    "name": "Speicher-Controller",
+    "url": "raid-controller",
+    "canonical_url": "hardware/controller-io/raid-controller",
+    "type": "magento"
+  },
+  {
+    "id": 2814,
+    "name": "Parallel- & Seriell-Karten",
+    "url": "parallel-seriell-karten",
+    "canonical_url": "hardware/controller-io/parallel-seriell-karten",
+    "type": "magento"
+  },
+  {
+    "id": 2812,
+    "name": "USB-Erweiterungskarten",
+    "url": "usb-erweiterungskarten",
+    "canonical_url": "hardware/controller-io/usb-erweiterungskarten",
+    "type": "magento"
+  },
+  {
+    "id": 2809,
+    "name": "Controller / IO",
+    "url": "controller-io",
+    "canonical_url": "hardware/controller-io",
+    "type": "magento"
+  },
+  {
+    "id": 2842,
+    "name": "Server Barebone",
+    "url": "server-barebone",
+    "canonical_url": "hardware/barebone-systeme/server-barebone",
+    "type": "magento"
+  },
+  {
+    "id": 2843,
+    "name": "PC Barebone",
+    "url": "pc-barebone",
+    "canonical_url": "hardware/barebone-systeme/pc-barebone",
+    "type": "magento"
+  },
+  {
+    "id": 2844,
+    "name": "Zubehör",
+    "url": "barebone-zubehoer",
+    "canonical_url": "hardware/barebone-systeme/barebone-zubehoer",
+    "type": "magento"
+  },
+  {
+    "id": 2841,
+    "name": "Barebone-Systeme",
+    "url": "barebone-systeme",
+    "canonical_url": "hardware/barebone-systeme",
+    "type": "magento"
+  },
+  {
+    "id": 2846,
+    "name": "Camcorder",
+    "url": "camcorder",
+    "canonical_url": "hardware/foto-video/camcorder",
+    "type": "magento"
+  },
+  {
+    "id": 2849,
+    "name": "Digital",
+    "url": "digital",
+    "canonical_url": "hardware/foto-video/kameras/digital",
+    "type": "magento"
+  },
+  {
+    "id": 2851,
+    "name": "Zubehör",
+    "url": "zubehor",
+    "canonical_url": "hardware/foto-video/kameras/zubehor",
+    "type": "magento"
+  },
+  {
+    "id": 2847,
+    "name": "Kameras",
+    "url": "kameras",
+    "canonical_url": "hardware/foto-video/kameras",
+    "type": "magento"
+  },
+  {
+    "id": 2855,
+    "name": "Webcams",
+    "url": "webcams",
+    "canonical_url": "hardware/foto-video/webcams",
+    "type": "magento"
+  },
+  {
+    "id": 2856,
+    "name": "Zubehör",
+    "url": "zubehor",
+    "canonical_url": "hardware/foto-video/zubehor",
+    "type": "magento"
+  },
+  {
+    "id": 2845,
+    "name": "Foto & Video",
+    "url": "foto-video",
+    "canonical_url": "hardware/foto-video",
+    "type": "magento"
+  },
+  {
+    "id": 2877,
+    "name": "Libraries & Streamer",
+    "url": "libraries-streamer",
+    "canonical_url": "hardware/datensicherungssysteme/libraries-streamer",
+    "type": "magento"
+  },
+  {
+    "id": 2878,
+    "name": "Medien & Cartridges",
+    "url": "medien-cartridges",
+    "canonical_url": "hardware/datensicherungssysteme/medien-cartridges",
+    "type": "magento"
+  },
+  {
+    "id": 2888,
+    "name": "NAS / SAN / NDAS",
+    "url": "nas-san-ndas",
+    "canonical_url": "hardware/nas-san-ndas",
+    "type": "magento"
+  },
+  {
+    "id": 2879,
+    "name": "Zubehör",
+    "url": "zubehor",
+    "canonical_url": "hardware/datensicherungssysteme/zubehor",
+    "type": "magento"
+  },
+  {
+    "id": 2876,
+    "name": "Datensicherungssysteme",
+    "url": "datensicherungssysteme",
+    "canonical_url": "hardware/datensicherungssysteme",
+    "type": "magento"
+  },
+  {
+    "id": 3741,
+    "name": "Access Points",
+    "url": "access-points",
+    "canonical_url": "hardware/netzwerkprodukte/access-points",
+    "type": "magento"
+  },
+  {
+    "id": 3742,
+    "name": "Modem",
+    "url": "modem",
+    "canonical_url": "hardware/netzwerkprodukte/modem",
+    "type": "magento"
+  },
+  {
+    "id": 3743,
+    "name": "Router",
+    "url": "router",
+    "canonical_url": "hardware/netzwerkprodukte/router",
+    "type": "magento"
+  },
+  {
+    "id": 3740,
+    "name": "Netzwerkprodukte",
+    "url": "netzwerkprodukte",
+    "canonical_url": "hardware/netzwerkprodukte",
+    "type": "magento"
+  },
+  {
+    "id": 5,
+    "name": "Hardware",
+    "url": "hardware",
+    "canonical_url": "hardware",
+    "type": "Drop Down"
+  },
+  {
+    "id": 608,
+    "name": "Top-Angebote",
+    "url": "top-angebote",
+    "canonical_url": "top-angebote",
+    "type": "Drop Down"
+  },
+  {
+    "id": 3601,
+    "name": "Restposten",
+    "url": "restposten",
+    "canonical_url": "restposten",
+    "type": "Drop Down"
+  },
+  {
+    "id": 2083,
+    "name": "PC Reparatur",
+    "url": "pc-reparatur",
+    "canonical_url": "reparaturen/pc-reparatur",
+    "type": "magento"
+  },
+  {
+    "id": 2084,
+    "name": "Laptop Reparatur",
+    "url": "laptop-reparatur",
+    "canonical_url": "reparaturen/laptop-reparatur",
+    "type": "magento"
+  },
+  {
+    "id": 2085,
+    "name": "Drucker Reparatur",
+    "url": "drucker-reparatur",
+    "canonical_url": "reparaturen/drucker-reparatur",
+    "type": "magento"
+  },
+  {
+    "id": 1633,
+    "name": "MacBook Reparatur",
+    "url": "macbook-reparatur",
+    "canonical_url": "reparaturen/macbook-reparatur",
+    "type": "magento"
+  },
+  {
+    "id": 2086,
+    "name": "Smartphone Reparatur",
+    "url": "smartphone-reparatur",
+    "canonical_url": "reparaturen/smartphone-reparatur",
+    "type": "magento"
+  },
+  {
+    "id": 1683,
+    "name": "iPhone Reparatur",
+    "url": "iphone-reparatur",
+    "canonical_url": "reparaturen/iphone-reparatur",
+    "type": "magento"
+  },
+  {
+    "id": 2087,
+    "name": "Tablet Reparatur",
+    "url": "tablet-reparatur",
+    "canonical_url": "reparaturen/tablet-reparatur",
+    "type": "magento"
+  },
+  {
+    "id": 1704,
+    "name": "iPad Reparatur",
+    "url": "ipad-reparatur",
+    "canonical_url": "reparaturen/ipad-reparatur",
+    "type": "magento"
+  },
+  {
+    "id": 2088,
+    "name": "Surface Reparatur",
+    "url": "microsoft-surface-reparatur",
+    "canonical_url": "reparaturen/microsoft-surface-reparatur",
+    "type": "magento"
+  },
+  {
+    "id": 1622,
+    "name": "iMac Reparatur",
+    "url": "imac-reparatur",
+    "canonical_url": "reparaturen/imac-reparatur",
+    "type": "magento"
+  },
+  {
+    "id": 1680,
+    "name": "Mac mini Reparatur",
+    "url": "apple-mac-mini-reparatur",
+    "canonical_url": "reparaturen/apple-mac-mini-reparatur",
+    "type": "magento"
+  },
+  {
+    "id": 1736,
+    "name": "Apple Watch Reparatur",
+    "url": "apple-watch-reparatur",
+    "canonical_url": "reparaturen/apple-watch-reparatur",
+    "type": "magento"
+  },
+  {
+    "id": 2089,
+    "name": "Konsolen Reparatur",
+    "url": "konsolen-reparatur",
+    "canonical_url": "reparaturen/konsolen-reparatur",
+    "type": "magento"
+  },
+  {
+    "id": 2090,
+    "name": "Vor-Ort-Service",
+    "url": "vor-ort-service",
+    "canonical_url": "reparaturen/vor-ort-service",
+    "type": "magento"
+  },
+  {
+    "id": 8,
+    "name": "Reparaturen",
+    "url": "reparaturen",
+    "canonical_url": "reparaturen",
+    "type": "Mega"
   },
   {
     "id": 2,
-    "name": "Default Category",
-    "url": "default-category",
-    "canonical_url": "catalog/category/view/s/default-category/id/2/",
+    "name": "CLS Computer",
+    "url": "cls-computer",
+    "canonical_url": "catalog/category/view/s/cls-computer/id/2/",
     "type": "magento"
   }
 ]

@@ -15,32 +15,26 @@ interface HeaderProps{
 }
 const Header: React.FC<HeaderProps> = ({MenuItem, StoreConfig , StoreInfo}) => {
 
+  
 
-
-  let FinalMenu: MenuItem | null = MenuItem?.find(
+   const  FinalMenu =  MenuItem?.find(
     (items: MenuItem) => items.id === Number(StoreInfo?.top_mega_menu)
-  ) || null;
+  ) ;
 
-  if(!FinalMenu) {
-    FinalMenu = MenuItem?.find( (items: MenuItem) => items.id === StoreConfig?.root_category_id) || null;
-  }
   
   const [isOpen, setIsOpen] = useState(false);
-
   const toggleDrawer = () => setIsOpen(!isOpen);
 
 const openDrawer = () => {
     if (!isOpen) setIsOpen(true);
 };
-
-
   return (
     <>
     <header className="ak-site_header ak-style1 ak-sticky_header ak-gescout_sticky ak-gescout_show">
       <div className="ak-main_header">
         <div className="container-fluid">
           <div className="ak-main_header_in">
-              <Menu StoreConfig={StoreConfig} StoreInfo={StoreInfo} MenuItem={FinalMenu || []}    />
+              <Menu StoreConfig={StoreConfig} StoreInfo={StoreInfo} MenuItem={ FinalMenu?.children || []}    />
           </div>
         </div>
         <div className="nav-bar-border"></div>

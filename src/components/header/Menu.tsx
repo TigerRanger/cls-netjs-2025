@@ -8,7 +8,7 @@ import { usePathname } from 'next/navigation';
 
 import Login from './Login';
 
-
+import OffCanvasMenuCart from './OffCanvasMenuCart'; 
 import MegaMenu from './MegaMenu';
 
 //import OffCanvasMenuCart from '@/components/global/OffCanvasMenuCart';
@@ -17,7 +17,7 @@ import MegaMenu from './MegaMenu';
 interface MenuProps {
   StoreConfig: StoreConfig | undefined;
   StoreInfo:StoreInfo | undefined;
-  MenuItem: MenuItem | [];
+  MenuItem: MenuItem [] | [];
 }
 
 const Menu: React.FC<MenuProps> = ({ StoreConfig, StoreInfo, MenuItem }) => {
@@ -57,7 +57,7 @@ const Menu: React.FC<MenuProps> = ({ StoreConfig, StoreInfo, MenuItem }) => {
       <div className="ak-main-header-center">
         <div className="ak-nav ak-medium">
          <ul id="ak-nav_list" className={`ak-nav_list ${navlist}`}>
-            {/* <MegaMenu Items={MenuItem} path = {currentPath} lavel = {1} />  */}
+             <MegaMenu Items={MenuItem} path = {currentPath} lavel = {1} /> 
           </ul>
           <div  onClick={() => navBarShow()}
                 id="navBar"
@@ -77,7 +77,7 @@ const Menu: React.FC<MenuProps> = ({ StoreConfig, StoreInfo, MenuItem }) => {
           <div className="icon-container cart-box" onClick={toggleMenu}>
             <Image src="/images/cart-main.svg" alt="cls Cart" width={40} height={40} />
           </div> 
-          {/* { <OffCanvasMenuCart isOpen={isMenuOpen} onClose={toggleMenu} /> } */}
+            <OffCanvasMenuCart isOpen={isMenuOpen} onClose={toggleMenu} /> 
   
         </div>
       </div>

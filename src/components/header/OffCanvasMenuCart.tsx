@@ -121,11 +121,6 @@ const OffCanvasMenuCart: React.FC<OffCanvasMenuProps> = ({ isOpen, onClose }) =>
         </div>
       )}
 
-      <div className="white-text">
-        <p className="big">Cart</p>
-        <p className="small">{items.length} {items.length === 1 ? "item" : "items"}</p>
-      </div>
-
       <div
         className={`overlay ${isOpen ? "open" : ""}`}
         onClick={onClose}
