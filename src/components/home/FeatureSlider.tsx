@@ -33,11 +33,11 @@ const FeatureSlider :React.FC<FeatureSlider> = ({  title , paragaph , banner, sh
     }
   return (
         <>
-          <section className="featureProduct-section gray-block">
+          <section className="product-slider gray-block">
               <div className="container">
                 <BannerItem title={title} paragraph={paragaph} banner={banner ?? ''}
                 show_banner={show_banner} banner_before_title={banner_before_title} />
-                  <div className='product_slider_f'>
+                  <div className='product_slider'>
                        <ProductSlider products={slider_products} autoplay={autoplay} 
                        breakpoints={breakpoints} magento={magento} phone={phone}
                        /> 

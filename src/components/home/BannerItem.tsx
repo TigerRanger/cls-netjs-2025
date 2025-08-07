@@ -45,10 +45,10 @@ const BannerItem: React.FC<BannerItemProps> = ({
         </div>
       )}
 
-      {title && <h2 className="feature_heading">{title}</h2>}
+      {title && <h2 className="feature_heading" dangerouslySetInnerHTML={{ __html: title }} />}
 
-      {paragraph && <p>{paragraph}</p>}
-
+        {paragraph && <p>{paragraph}</p>}
+        
       {banner_before_title !== '1' && show_banner === '1' && banner && (
         <div className="Banner_section_sp">
           <div dangerouslySetInnerHTML={{ __html: banner }} />

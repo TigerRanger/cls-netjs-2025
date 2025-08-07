@@ -34,12 +34,8 @@ const OffCanvasMenuCart: React.FC<OffCanvasMenuProps> = ({ isOpen, onClose }) =>
   const items = useSelector((state: RootState) => state.cart.items);
 
   const cart = useSelector((state: RootState) => state.cart);
-
-  console.log(cart);
-
   const baseCurrency = useSelector((state: RootState) => state.cart.base_currency);
   // const baseCurrency) || getBaseCurrency();
-
   const [ productID , setProductID] = useState<string | null>(null);
 
 

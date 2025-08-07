@@ -64,7 +64,7 @@ function Login() {
   return (
     <>
       <div className="icon-container" onClick={() => setShow(true)}>
-        <Image src="/images/user-key.svg" alt="cls User" width={35} height={35} />
+        <Image src="/images/user-key.svg" alt="cls User" width={30} height={35} />
       </div>
 
       <Modal show={show} onHide={() => setShow(false)}>

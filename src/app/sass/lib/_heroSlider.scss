@@ -1,6 +1,8 @@
 /*--------------------------------------------------------------
   14. Hero
 ----------------------------------------------------------------*/
+
+
 .ak-hero.ak-style1 {
     min-height: 100vh;
     width: 100%;
@@ -75,8 +77,7 @@
   .social-hero .social-link {
     transform: rotate(-90deg);
     color: #fff;
-    font-family: Oxanium;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 400;
     margin-top: 40px;
   }
@@ -111,3 +112,17 @@
     box-shadow: 0 0 10px $primary;
   }
 
+
+  .heartbeat-icon.blueglow {
+	  background: rgba(0, 116, 200, 0.7);
+	  padding: 7px;
+    position: relative;
+    z-index: 2;
+    margin-right: 10px;
+  }
+
+
+
+.hero-contact-info .d-flex{
+  gap:5px;
+}

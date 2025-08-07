@@ -117,12 +117,13 @@ const dispatch = useDispatch<AppDispatch>();
         breakpoints={breakpoints}
         navigation
         modules={[Navigation , Autoplay]}
+        className="swiper-container-daily"
       >
         {loading
           ? renderPlaceholders()
           : products.map((product) => (
               <SwiperSlide key={product.id}>
-                <div className="product-item product-box">
+                <div className="product-item">
 
                   
                  {( product.price.regularPrice?.amount.value !== product.price.final_price?.value &&
@@ -138,6 +139,7 @@ const dispatch = useDispatch<AppDispatch>();
                       alt={product?.image?.label ?? product.name}
                       width={250}
                       height={250}
+                      class_name="product-image"
                     />
                   </div>
                   <a href={`/${product.canonical_url}`} className="product-name" >

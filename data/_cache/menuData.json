@@ -358,7 +358,7 @@
   },
   {
     "id": 69,
-    "name": "WORKSTATION",
+    "name": "WORKSTATION PC",
     "url": "workstation-pc",
     "canonical_url": "pc-systeme/workstation-pc",
     "type": "magento"
@@ -2423,14 +2423,14 @@
   },
   {
     "id": 608,
-    "name": "Top-Angebote",
+    "name": "Sale",
     "url": "top-angebote",
     "canonical_url": "top-angebote",
     "type": "Drop Down"
   },
   {
     "id": 3601,
-    "name": "Restposten",
+    "name": "Aktionen",
     "url": "restposten",
     "canonical_url": "restposten",
     "type": "Drop Down"

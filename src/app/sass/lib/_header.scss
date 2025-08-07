@@ -197,6 +197,10 @@
   }
   
   @media screen and (min-width: 1200px) {
+
+
+
+
     .ak-nav_list.ak-color_1 {
       color: #fff;
     }
@@ -249,6 +253,7 @@
       align-items: center;
       font-size: 14px;
       font-weight: bold;
+      text-transform: capitalize;
     }
 
 
@@ -270,12 +275,17 @@
   }
 
 
+
+   .ak-nav .ak-nav_list > li > a::after{
+  display: none;
+ }
+
     .ak-nav .ak-nav_list > li > ul {
       left: 0;
       top: calc(100% + 30px);
     }
     .ak-nav .ak-nav_list > li:hover > ul {
-      top: calc(100% + 4px);
+      top: calc(100% + 3px);
       opacity: 1;
       visibility: visible;
       transition: all 0.4s ease;
@@ -318,11 +328,11 @@
  .ak-nav .ak-nav_list ul a {
     line-height: inherit;
     color: #404040;
-    padding: 8px 16px;
+    padding: 7px 15px;
     display: block;
     position: relative;
     text-transform: capitalize;
-    font-size: 14px;
+    font-size: 13px;
   }
     .ak-nav .ak-nav_list ul ul {
       top: 15px;

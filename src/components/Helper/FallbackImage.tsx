@@ -7,9 +7,10 @@ interface FallbackImageProps {
   fallbackSrc: string;
   width: number;
   height: number;
+  class_name: string;
 }
 
-const FallbackImage: React.FC<FallbackImageProps> = ({ src, alt, fallbackSrc, width, height }) => {
+const FallbackImage: React.FC<FallbackImageProps> = ({ src, alt, fallbackSrc, width, height , class_name='' }) => {
   const [imgSrc, setImgSrc] = useState(src);
 
   return (
@@ -20,6 +21,7 @@ const FallbackImage: React.FC<FallbackImageProps> = ({ src, alt, fallbackSrc, wi
       height={height}
       loading='lazy'
       onError={() => setImgSrc(fallbackSrc)} // Fallback to default image
+      className={class_name}
     />
   );
 };

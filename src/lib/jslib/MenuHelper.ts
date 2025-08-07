@@ -42,7 +42,8 @@ export default class MenuHelper {
   }
   
   public static getTrow(col: number): string {
-    if (col > 4) col = 4;
+
+    if(col > 5) col = 5;
     if (col < 1) col = 1;
     switch (col) {
       case 1:
@@ -53,6 +54,8 @@ export default class MenuHelper {
         return 'col-sm-6 col-md-4';
       case 4:
         return 'col-sm-6 col-md-3';
+      case 5:
+        return 'col-sm-6 col-lg-2p';
       default:
         return 'col-sm-12 col-md-6 col-lg-4';
     }

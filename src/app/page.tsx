@@ -3,7 +3,9 @@ import { getDeviceType } from '@/lib/jslib/deviceDetection';
 
 import type { Metadata } from "next";
 import React from 'react';
-import '@/sass/home_basic.scss';
+
+
+import "@/app/sass/home.scss";
 
 import SliderSection from '@/components/home/SliderSection';
 import HomeH1 from '@/components/home/HomeH1';
@@ -28,6 +30,7 @@ import { HomeSlider as HomeSliderInterfce } from '@/lib/Interface/HomeInterface'
 
 import ProfessionalService from '@/components/home/ProfessionalService';
 import PageBuilder from "@/lib/jslib/PageBuilder";
+import { getMenuData } from '@/lib/loaders/menuLoader';
 
 export const revalidate = 60;
 
@@ -44,6 +47,8 @@ interface MetaItem {
 // ✅ Async Metadata generator
 export async function generateMetadata(): Promise<Metadata> {
   const homeData = await getHomeData();
+
+
   const parsedJsonString = PageBuilder.fromatMetaData(homeData?.cmsPage.meta_extra ?? '');
   const parsedData: MetaItem[] = JSON.parse(parsedJsonString);
 
@@ -69,6 +74,8 @@ const page = async () => {
   
   const homeData = await getHomeData();
   const homePost = await getHomePost();
+  const MenuData = await getMenuData();
+  const StoreInfo = MenuData?.getStoreInfo;
 
   const sliderItems = homeData?.sliderItems ?? undefined;
   const HomePageData = homeData?.HomePageData ?? undefined;
@@ -76,6 +83,10 @@ const page = async () => {
   const DailyDeals = homeData?.DailyOffer ?? undefined;
   const OtherSides = homeData?.OtherSiteItems ?? undefined;
   const postsData: PostsData = homePost ?? { posts: { edges: [] } };
+
+
+
+  console.log(homeData);
 
   const Home_sliders: HomeSliderInterfce[] = Array.isArray(homeData?.HomeSlider)
     ? homeData.HomeSlider
@@ -92,6 +103,8 @@ const page = async () => {
   const isMobile = deviceType === 'mobile';
   const sort_orders: string[] | null = HomePageData?.short_map ?? null;
   const site = process.env.MAGENTO_ENDPOINT_SITE;
+
+  console.log(sort_orders);
 
   return (
     <>
@@ -115,10 +128,7 @@ const page = async () => {
         ) : (
           <SliderSection
             SliderItems={Array.isArray(sliderItems) ? sliderItems : []}
-            SideBanner={HomePageData?.home_slider_banner_enable ?? ''}
-            BannerBlock={HomePageData?.home_slider_banner_block ?? ''}
-            showVmenu={HomePageData?.enable_secondary_menu ?? ''}
-            site = {site ?? ""}
+            StoreInfo = {StoreInfo ?? undefined }
           />
         )}
 

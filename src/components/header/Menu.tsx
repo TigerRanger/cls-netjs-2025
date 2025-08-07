@@ -70,12 +70,12 @@ const Menu: React.FC<MenuProps> = ({ StoreConfig, StoreInfo, MenuItem }) => {
       <div className="ak-main-header-right">
         <div className="top-button-box">
            <div className="icon-container">
-            <Image src="/images/search-icon.svg" alt="cls search" width={30} height={30} />
+            <Image src="/images/search-icon.svg" alt="cls search" width={25} height={30} />
           </div>
            <Login/> 
 
           <div className="icon-container cart-box" onClick={toggleMenu}>
-            <Image src="/images/cart-main.svg" alt="cls Cart" width={40} height={40} />
+            <Image src="/images/cart-main.svg" alt="cls Cart" width={25} height={40} />
           </div> 
             <OffCanvasMenuCart isOpen={isMenuOpen} onClose={toggleMenu} /> 
   

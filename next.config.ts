@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
     return [
       {
         source: '/magento-graphql/:path*', // Your Next.js proxy endpoint
-        destination: 'http://magento7.nz/graphql/:path*', // Magento GraphQL endpoint
+        destination: 'http://cls-computer-admin.nz/graphql/:path*', // Magento GraphQL endpoint
       },
     ];
   },
@@ -38,7 +38,7 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: "http",
-        hostname: "magento7.nz",
+        hostname: "cls-computer-admin.nz",
         pathname: "/**",
       },
       {

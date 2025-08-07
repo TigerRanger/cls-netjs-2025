@@ -11,15 +11,344 @@
     "url_key": "home",
     "content_heading": "Home Page"
   },
-  "sliderItems": [],
-  "HomePageData": null,
+  "sliderItems": [
+    {
+      "active": true,
+      "alt": "CLS",
+      "caption": " Our skilled team of certified technicians is here to provide top-notch car repair and auto services to ensure your vehicle performs at its best. Our skilled team of certified technicians.",
+      "id": "1",
+      "image": "1/slider1.jpg",
+      "mobile_image": null,
+      "sort": 0,
+      "title": "Computer Repair & Auto",
+      "url": "#"
+    },
+    {
+      "active": true,
+      "alt": "CLS",
+      "caption": " Our skilled team of certified technicians is here to provide top-notch car repair and auto services to ensure your vehicle performs at its best. Our skilled team of certified technicians.",
+      "id": "2",
+      "image": "2/slider2.jpg",
+      "mobile_image": null,
+      "sort": 1,
+      "title": "Car Perking Guidence Solutions",
+      "url": "#"
+    },
+    {
+      "active": true,
+      "alt": "CLS",
+      "caption": " Our skilled team of certified technicians is here to provide top-notch car repair and auto services to ensure your vehicle performs at its best. Our skilled team of certified technicians.",
+      "id": "3",
+      "image": "3/slider3.jpg",
+      "mobile_image": null,
+      "sort": 2,
+      "title": "Car Barrier Gate Solutions",
+      "url": null
+    }
+  ],
+  "HomePageData": {
+    "enable_secondary_menu": "0",
+    "store_phone": "6217163591",
+    "blog_p": null,
+    "blog_sort_order": null,
+    "blog_title": null,
+    "brand_images": [
+      "/pub/media/wysiwyg//iCUE_ 01.webp",
+      "/pub/media/wysiwyg//TOP-ANGIBOT-2025.webp",
+      "/pub/media/wysiwyg//TOP-ANGIBOT-F-2025.webp",
+      "/pub/media/wysiwyg//TOP-ANGIBOT-March-2025.jpg",
+      "/pub/media/wysiwyg//TOP-ANGIBOT2-2025.webp",
+      "/pub/media/wysiwyg//TOP-ANGIBOT3-2025.webp"
+    ],
+    "brand_sort_order": null,
+    "brand_title": null,
+    "category_list_sort": null,
+    "category_p": null,
+    "category_title": null,
+    "home_h1": "<span>CLS-Computer </span> – Der ultimative PC Shop",
+    "home_h1_sort": "1",
+    "home_p": "Der CLS Shop bietet dir auch im Jahr 2025 die aktuellsten PC-Systeme zu attraktiven Preisen bei bester Qualität.\r\nAls Spezialist für PCs haben wir für jeden Zweck und jedes Game das passende Angebot.\r\nNutze die Möglichkeiten beim PC Kauf!",
+    "home_slider_banner_block": "",
+    "home_slider_banner_enable": "0",
+    "map_content": null,
+    "map_sort_order": null,
+    "other_site_auto_slide": null,
+    "other_site_p": null,
+    "other_site_slide_grid": "0",
+    "other_site_sort": null,
+    "other_site_title": null,
+    "promo_block": "",
+    "promo_sort_order": null,
+    "short_map": [
+      "HomeH1",
+      "HomeSlider1",
+      "CategoryBlock",
+      "WeeklyDeals",
+      "DailyDeals",
+      "PromoBlock",
+      "HomeSlider2",
+      "HomeSlider3",
+      "HomeSlider4",
+      "HomeSlider5",
+      "OtherSite",
+      "HiddenContent",
+      "Blog",
+      "GoogleMap",
+      "BrandBlock"
+    ],
+    "show_blog": "0",
+    "show_brand": "0",
+    "show_category_list": "0",
+    "show_home_h1": "1",
+    "show_map": "0",
+    "show_other_site": "0",
+    "show_promo_block": "0",
+    "show_visible_content": "0",
+    "visible_content": null,
+    "visible_title": null,
+    "category_list": []
+  },
   "HomeSlider": [
     {
       "Banner_block": "",
-      "auto_slide": null,
+      "auto_slide": "0",
       "banner_before_title": null,
-      "show_banner": null,
-      "slider_enable": null,
+      "show_banner": "0",
+      "slider_enable": "1",
+      "slider_p": "Finde deinen Traum PC!",
+      "slider_title": "<span>Beliebteste</span> Gaming PCs",
+      "sort_order": "2",
+      "slider_products": [
+        {
+          "canonical_url": "gaming-pc-intel-core-i5-14400f-geforce-rtx-3050",
+          "id": 12805,
+          "name": "Gaming PC - Intel Core i5-14400F - GeForce RTX 3050",
+          "new": null,
+          "rating_summary": null,
+          "review_count": null,
+          "sku": "CLS61100",
+          "special_price": null,
+          "type": "simple",
+          "url_key": "gaming-pc-intel-core-i5-14400f-geforce-rtx-3050",
+          "image": {
+            "label": "Gaming PC - Intel Core i5-14400F - GeForce RTX 3050",
+            "url": "/c/l/cls61100-600.jpg"
+          },
+          "price": {
+            "regularPrice": {
+              "amount": {
+                "currency": "EUR",
+                "symbol": "€",
+                "value": 835
+              }
+            },
+            "final_price": {
+              "currency": "EUR",
+              "value": 835
+            },
+            "discount": {
+              "amount_off": 0,
+              "percent_off": 0
+            }
+          },
+          "short_description": {
+            "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i5-14400F</strong>, 10x 2.50 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 3050</strong>, 6GB GDDR6</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+          },
+          "price_html": null
+        },
+        {
+          "canonical_url": "gaming-pc-intel-core-i7-12700kf-geforce-rtx-5060",
+          "id": 842,
+          "name": "Gaming PC - Intel Core i7-12700KF - GeForce RTX 5060",
+          "new": null,
+          "rating_summary": null,
+          "review_count": null,
+          "sku": "CLS61003",
+          "special_price": null,
+          "type": "simple",
+          "url_key": "gaming-pc-intel-core-i7-12700kf-geforce-rtx-5060",
+          "image": {
+            "label": "Gaming PC - Intel Core i7-12700KF - GeForce RTX 5060",
+            "url": "/c/l/cls61003-300.jpg"
+          },
+          "price": {
+            "regularPrice": {
+              "amount": {
+                "currency": "EUR",
+                "symbol": "€",
+                "value": 1086
+              }
+            },
+            "final_price": {
+              "currency": "EUR",
+              "value": 1086
+            },
+            "discount": {
+              "amount_off": 0,
+              "percent_off": 0
+            }
+          },
+          "short_description": {
+            "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i7-12700KF</strong>, 12x 3.60 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5060</strong>, 8GB GDDR7</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+          },
+          "price_html": null
+        },
+        {
+          "canonical_url": "gaming-pc-intel-core-i7-12700kf-radeon-rx-9060-xt",
+          "id": 23695,
+          "name": "Gaming PC - Intel Core i7-12700KF - Radeon RX 9060 XT",
+          "new": null,
+          "rating_summary": null,
+          "review_count": null,
+          "sku": "CLS61013",
+          "special_price": null,
+          "type": "simple",
+          "url_key": "gaming-pc-intel-core-i7-12700kf-radeon-rx-9060-xt",
+          "image": {
+            "label": "Gaming PC - Intel Core i7-12700KF - Radeon RX 9060 XT",
+            "url": "/c/l/cls61013-600.jpg"
+          },
+          "price": {
+            "regularPrice": {
+              "amount": {
+                "currency": "EUR",
+                "symbol": "€",
+                "value": 1187
+              }
+            },
+            "final_price": {
+              "currency": "EUR",
+              "value": 1187
+            },
+            "discount": {
+              "amount_off": 0,
+              "percent_off": 0
+            }
+          },
+          "short_description": {
+            "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i7-12700KF</strong>, 12x 3.60 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>AMD <strong>Radeon RX 9060 XT</strong>, 16GB GDDR6</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+          },
+          "price_html": null
+        },
+        {
+          "canonical_url": "asus-gaming-pc-intel-core-i5-14600kf-rtx-5060-ti",
+          "id": 3549,
+          "name": "ASUS Gaming PC - Intel Core i5-14600KF - RTX 5060 Ti",
+          "new": null,
+          "rating_summary": null,
+          "review_count": null,
+          "sku": "CLS171001",
+          "special_price": null,
+          "type": "simple",
+          "url_key": "asus-gaming-pc-intel-core-i5-14600kf-rtx-5060-ti",
+          "image": {
+            "label": "ASUS Gaming PC - Intel Core i5-14600KF - RTX 5060 Ti",
+            "url": "/e/s/es-pcs1877244_1.jpg"
+          },
+          "price": {
+            "regularPrice": {
+              "amount": {
+                "currency": "EUR",
+                "symbol": "€",
+                "value": 1854
+              }
+            },
+            "final_price": {
+              "currency": "EUR",
+              "value": 1854
+            },
+            "discount": {
+              "amount_off": 0,
+              "percent_off": 0
+            }
+          },
+          "short_description": {
+            "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i5-14600KF</strong>, 14x 3.50 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Kingston, <strong>5200 MHz</strong></li>\r\n<li><strong>ASUS</strong> TUF Gaming <strong>RTX 5060 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+          },
+          "price_html": null
+        },
+        {
+          "canonical_url": "gaming-pc-intel-core-i7-14700k-radeon-rx-9070-xt",
+          "id": 23715,
+          "name": "Gaming PC - Intel Core i7-14700K - Radeon RX 9070 XT",
+          "new": null,
+          "rating_summary": null,
+          "review_count": null,
+          "sku": "CLS61028",
+          "special_price": null,
+          "type": "simple",
+          "url_key": "gaming-pc-intel-core-i7-14700k-radeon-rx-9070-xt",
+          "image": {
+            "label": "Gaming PC - Intel Core i7-14700K - Radeon RX 9070 XT",
+            "url": "/c/l/cls61028-600.jpg"
+          },
+          "price": {
+            "regularPrice": {
+              "amount": {
+                "currency": "EUR",
+                "symbol": "€",
+                "value": 2198
+              }
+            },
+            "final_price": {
+              "currency": "EUR",
+              "value": 2198
+            },
+            "discount": {
+              "amount_off": 0,
+              "percent_off": 0
+            }
+          },
+          "short_description": {
+            "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i7-14700K</strong>, 20x 3.40 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>AMD <strong>Radeon RX 9070 XT</strong>, 16GB GDDR6</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+          },
+          "price_html": null
+        },
+        {
+          "canonical_url": "gaming-pc-amd-ryzen-9-9900x3d-radeon-rx-9070-xt",
+          "id": 23756,
+          "name": "Gaming PC - AMD Ryzen 9 9900X3D - Radeon RX 9070 XT",
+          "new": null,
+          "rating_summary": null,
+          "review_count": null,
+          "sku": "CLS62023",
+          "special_price": null,
+          "type": "simple",
+          "url_key": "gaming-pc-amd-ryzen-9-9900x3d-radeon-rx-9070-xt",
+          "image": {
+            "label": "Gaming PC - AMD Ryzen 9 9900X3D - Radeon RX 9070 XT",
+            "url": "/c/l/cls62023-6000.jpg"
+          },
+          "price": {
+            "regularPrice": {
+              "amount": {
+                "currency": "EUR",
+                "symbol": "€",
+                "value": 2494
+              }
+            },
+            "final_price": {
+              "currency": "EUR",
+              "value": 2494
+            },
+            "discount": {
+              "amount_off": 0,
+              "percent_off": 0
+            }
+          },
+          "short_description": {
+            "html": "<ul>\r\n<li><strong>AMD Ryzen 9 9900X3D</strong>, 12x 4.40 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>AMD <strong>Radeon RX 9070 XT,</strong> 16GB GDDR6</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+          },
+          "price_html": null
+        }
+      ]
+    },
+    {
+      "Banner_block": "",
+      "auto_slide": "0",
+      "banner_before_title": null,
+      "show_banner": "0",
+      "slider_enable": "0",
       "slider_p": null,
       "slider_title": null,
       "sort_order": null,
@@ -27,10 +356,10 @@
     },
     {
       "Banner_block": "",
-      "auto_slide": null,
+      "auto_slide": "0",
       "banner_before_title": null,
-      "show_banner": null,
-      "slider_enable": null,
+      "show_banner": "0",
+      "slider_enable": "0",
       "slider_p": null,
       "slider_title": null,
       "sort_order": null,
@@ -38,10 +367,10 @@
     },
     {
       "Banner_block": "",
-      "auto_slide": null,
+      "auto_slide": "0",
       "banner_before_title": null,
-      "show_banner": null,
-      "slider_enable": null,
+      "show_banner": "0",
+      "slider_enable": "0",
       "slider_p": null,
       "slider_title": null,
       "sort_order": null,
@@ -49,21 +378,10 @@
     },
     {
       "Banner_block": "",
-      "auto_slide": null,
+      "auto_slide": "0",
       "banner_before_title": null,
-      "show_banner": null,
-      "slider_enable": null,
-      "slider_p": null,
-      "slider_title": null,
-      "sort_order": null,
-      "slider_products": []
-    },
-    {
-      "Banner_block": "",
-      "auto_slide": null,
-      "banner_before_title": null,
-      "show_banner": null,
-      "slider_enable": null,
+      "show_banner": "0",
+      "slider_enable": "0",
       "slider_p": null,
       "slider_title": null,
       "sort_order": null,
@@ -75,7 +393,7 @@
     "daily_end_time": null,
     "daily_offer_content": null,
     "daily_offer_title": null,
-    "daily_show": null,
+    "daily_show": "0",
     "sort_order": null,
     "daily_offer_products": []
   },
