@@ -42,7 +42,7 @@ const MegaMenu: React.FC<MegaProps> = ({ Items, path, lavel }) => {
             key={item.canonical_url}
             className={`lvl-${lavel} nav-item ${
               item.children && item.children.length > 0 ? `dropdown ` : ""
-            } ${item.menutype === "Mega" ? "ak-mega_menu" : ""}`}
+            } ${item.menutype === "Mega" ? "ak-mega_menu" : ""} ${item.name === "Sale" || item.name === "sale" ? "sale" : ""}`   }
           >
             <a
               href={`/${item.canonical_url}`}

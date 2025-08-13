@@ -1,23 +1,41 @@
 /*12. Button
 ----------------------------------------------------------------*/
 .common-btn {
-  padding: 10px 22px;
-  display: inline-block;
-  background-color: #0cabd3;
-  color: white;
-  font-size: 16px;
-  font-weight: 500;
-  border: none;
-  text-transform: uppercase;
-  transform-style: preserve-3d;
-  transition: background-color 0.4s, transform 0.3s, color 0.3s;
-  transform: translate3d(0, 0px, 0px);
+	color: #fff;
+	text-transform: capitalize;
+	transform-style: preserve-3d;
+	background-color: #37a4a9;
+	border: none;
+	padding: 10px 27px 10px 23px;
+	font-size: 16px;
+	font-weight: 500;
+	transition: all .4s, transform .3s, color .3s;
+	display: inline-block;
+	transform: translate3d(0, 0, 0);
+	clip-path: polygon(0 0, 100% 0, calc(100% - 10px) 100%, 0 100%);
+  position: relative;
 }
+
+.common-btn::before {
+	content: "";
+	transform-origin: 0;
+	z-index: -1;
+	background: #ffffff;
+	transition: transform .25s ease-out;
+	position: absolute;
+	inset: 0;
+	transform: scaleX(0);
+}
+
+
+.common-btn:hover::before {
+  transform: scaleX(1);
+}
+
 .common-btn:hover {
   transition: background-color 0.4s, transform 0.3s, color 0.3s;
-  background-color: white;
   color: black;
-  transform: translate3d(0px, -7px, 0.01px);
+
 }
 
 
@@ -45,7 +63,7 @@
 	bottom: -12px;
 	opacity: 1;
 	transition: all 0.5s;
-	background-color: #17a589;
+	background-color: #37a4a9;
 }
 
 

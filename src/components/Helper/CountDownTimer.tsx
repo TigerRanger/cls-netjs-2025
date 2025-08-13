@@ -65,9 +65,6 @@ interface CountdownTimerProps {
               <strong className="seconds_ref label-ref">Seconds</strong>
             </li>
 
-            <li className="count_last">
-                Left
-            </li>
           </ul>
         )}
       </div>

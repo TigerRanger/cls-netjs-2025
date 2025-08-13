@@ -2,14 +2,11 @@ import React from 'react';
 
 import CountDownTimer from "../Helper/CountDownTimer";
 
-
 import ProductSlider from '../ProductSlider';
 
 import { WeeklyOffer as Weekly } from '@/lib/Interface/HomeInterface';
 
 import style from "@/sass/weekly.module.scss";
-import WeeklyBanner from './WeeklyBanner';
-
 
 
  const autoplay = {
@@ -44,21 +41,19 @@ const WeeklyOffer : React.FC<WeeklyPops> = ({weeklyData , mobile , site , phone 
 
   return (
     <>
-    <section className={ style['weekly-offer-section']}>
+  <section className={style['weekly-offer-section'] + " weekly-offer-section offer-block"}>
       
-    <div className='container'>
-        <div className='row'>
-            <div className={ mobile && weeklyData.show_weekly_banner ?  `col-lg-12 ${style['weekly-block']}` : `col-lg-9 ${style['weekly-block']}`}>
+    <div className='container-fluid'>
                 <div className={style['weekly-offer']}>
                     <div className={style['weekly-offer-head']}>
-                        <div className='headline'>
+                        
                            {( weeklyData?.weekly_offer_title &&
-                            <h2 className="category_heading">Weekday Deals!!</h2>
-                           )}
-                            {( weeklyData?.weekly_offer_content &&
-                            <p>Get your desired product from featured category</p>
+                            <h2 className="feature_heading" dangerouslySetInnerHTML={{ __html: weeklyData.weekly_offer_title }} />
                             )}
-                        </div>
+                           
+                            {( weeklyData?.weekly_offer_content &&
+                            <p className= "feature_para" dangerouslySetInnerHTML={{ __html: weeklyData.weekly_offer_content }} />)}
+                       
                         <CountDownTimer endTime={weeklyData.weekly_end_time} eday={true} />
                     </div>
 
@@ -77,16 +72,8 @@ const WeeklyOffer : React.FC<WeeklyPops> = ({weeklyData , mobile , site , phone 
                     </div>
                 </div>
             </div>    
-            {( !mobile && weeklyData.show_weekly_banner &&
-             <div className={`col-lg-3 ${style['banner-block']}`}>
-                    <div className={style['banner-image']}>
-                        <WeeklyBanner content={weeklyData?.weekly_banner_block} />
-                        {/* <img src="/banner/special.png" width={250} height={550} alt="Weekly Offer Banner" loading='lazy' /> */}
-                    </div> 
-             </div>    
-            )}
-        </div>
-    </div>
+      
+
     </section>  
 
     </>

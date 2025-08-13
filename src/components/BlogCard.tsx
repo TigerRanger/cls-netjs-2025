@@ -1,5 +1,4 @@
 import React from "react";
-import Link from "next/link";
 import Image from "next/image";
 
 import { PostEdge } from "@/lib/Interface/HomeInterface";
@@ -13,12 +12,14 @@ interface BlogCardProps {
 }
 
 const BlogCard: React.FC<BlogCardProps> = ({ PostEdge }) => {
+
+  console.log("PostEdge", PostEdge);
   
   return (
-    <div className={`col-lg-3 col-md-4 col-sm-6 ${style["blog-col"]}`}>
+    <div className={`col-lg-4 col-md-4 col-sm-6 ${style["blog-col"]}`}>
       <div className={style["blog-card"]}>
         <div className={style["blog-content"]}>
-        <Link href={`/blog/${PostEdge.node.slug}`} aria-label={`Read more about ${PostEdge.node.title}`}>
+        <a href={`/blog/${PostEdge.node.slug}`} aria-label={`Read more about ${PostEdge.node.title}`}>
           <div className={style["blog-header-info"]}>
             <Image
               className={style["blog-image"]}
@@ -28,22 +29,26 @@ const BlogCard: React.FC<BlogCardProps> = ({ PostEdge }) => {
               height={200} // Define appropriate height
             />
           </div>
-        </Link>
+        </a>
         <div className={style["blog-body-info"]}>
-          <div className={style["blog-text"]}>
-            <div className={style["a-text"]}>by <strong>Nazmul Alam </strong></div>
-            <span className={style["date-text"]}>
-              <Image className={style["blog-icon"]} src={"/svg-icon/calender_b.svg"} width={20} height={20} alt="calender"/>{EcommercePrice.format_date(PostEdge.node.date)}</span>
-          </div>
-            <Link href={`/blog/${PostEdge.node.slug}`} className={style["blog-title"]}>
-              {PostEdge.node.title}
-            </Link>
-
+             <h3 className={style["blog-h3"]}> {PostEdge.node.title}</h3>
+    
+          <p className={style["blog-p"]}>
+                              {PostEdge.node.excerpt 
+                    ? PostEdge.node.excerpt
+                        .replace(/<[^>]+>/g, "") // remove HTML tags
+                        .replace(/Read more/gi, "") // remove "Read more" (case-insensitive)
+                        .trim()
+                    : "No description available."
+                  }
+          </p>
             
-        </div>
+            <a className={style['category-button']} href=""> Mehr </a>
+        
       </div>
       </div>
-    </div>
+   </div> 
+   </div>
   );
 };
 

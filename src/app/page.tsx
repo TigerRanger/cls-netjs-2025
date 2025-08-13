@@ -84,10 +84,6 @@ const page = async () => {
   const OtherSides = homeData?.OtherSiteItems ?? undefined;
   const postsData: PostsData = homePost ?? { posts: { edges: [] } };
 
-
-
-  console.log(homeData);
-
   const Home_sliders: HomeSliderInterfce[] = Array.isArray(homeData?.HomeSlider)
     ? homeData.HomeSlider
     : homeData?.HomeSlider
@@ -104,7 +100,6 @@ const page = async () => {
   const sort_orders: string[] | null = HomePageData?.short_map ?? null;
   const site = process.env.MAGENTO_ENDPOINT_SITE;
 
-  console.log(sort_orders);
 
   return (
     <>

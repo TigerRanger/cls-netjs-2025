@@ -11,12 +11,12 @@ interface HiddenInterface {
 
 const HomeHidden: React.FC<HiddenInterface> = ({visible_title,visible_content,hidden_content}) => {
   return (
-    <section className="white-block hidden-block">
-      <div className='container '>
+    <section className="offer-block hidden-block">
+      <div className='container-fluid'>
         <div className='h-d-r'>
         <h2 className="visible-title" dangerouslySetInnerHTML={{ __html: visible_title }} />
         <div className="visible-container" dangerouslySetInnerHTML={{ __html: visible_content }} />
-        <HiddenContent content={hidden_content} />
+                <HiddenContent content={hidden_content} />
       </div>
       </div>
     </section>

@@ -33,24 +33,23 @@ const BrandSlider: React.FC<BrandSliderProps> = ({ images, site }) => {
   };
 
   return (
-    <section className="breand-slider gray-block">
-      <div className="container">
-        <h2 className="breand-slider-title">Shop by Brand</h2>
+    <section className="breand-slider brand-block">
+      <div className="container-fluid">
 
         <Swiper
           className="breand-slider-swiper"
           modules={[Navigation, Autoplay]}
           navigation
           autoplay={{ delay: 3000 }}
-          spaceBetween={10}
+          spaceBetween={35}
           slidesPerView={3}
           loop={true}
           breakpoints={{
             400: { slidesPerView: 2 },
             640: { slidesPerView: 4 },
-            768: { slidesPerView: 6 },
-            1024: { slidesPerView: 8 },
-            1200: { slidesPerView: 10 },
+            768: { slidesPerView: 5 },
+            1024: { slidesPerView: 6 },
+            1200: { slidesPerView: 8 },
           }}
         >
           {loading

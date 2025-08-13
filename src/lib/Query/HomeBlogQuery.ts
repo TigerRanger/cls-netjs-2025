@@ -1,6 +1,6 @@
 const HomeBlogQuery = `
 query HomeBlogQuery {
-  posts(first: 4) {
+  posts(first: 3) {
     edges {
       node {
         ... on Post {   # Ensures we get Post-specific fields

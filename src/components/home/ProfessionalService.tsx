@@ -19,14 +19,19 @@ const ProfessionalService: React.FC<PostInterface> = ({ siteTitle ,site_p , type
  // Check if Posts is defined and is an array
  
  if (!PostsData || !PostsData.length) {
-    return <div>No blog posts available.</div>;
+    return <div className="container-fluid offer-block">No Service available.</div>;
  }
 
  return (
-   <section className="blog-block gray-block">
-     <div className="container">
-       <h2 className="service-title">{siteTitle}</h2>
-       <p className="service-p">{site_p}</p>
+   <section className="blog-block offer-block professional-service">
+     <div className="container-fluid">
+
+        {( siteTitle &&
+         <h2 className="feature_heading" dangerouslySetInnerHTML={{ __html: siteTitle }} />
+        )}
+        {( site_p &&
+        <p className="feature_para" dangerouslySetInnerHTML={{ __html: site_p }} />
+        )}
        <div className="service-card-container">
 
         {type === "1" ? (

@@ -1,5 +1,56 @@
 {
-  "OtherSiteItems": [],
+  "OtherSiteItems": [
+    {
+      "active": true,
+      "alt": "CLS",
+      "caption": "Nutzen Sie den professionellen, zuverlässigen und schnellen Express-Reparaturdienst von Macbook Repaircenter.",
+      "id": "1",
+      "image": "1/CLS-MacBook.jpg",
+      "sort": 1,
+      "title": "CLS Macbook",
+      "url": "https://cls-reparatur.de/"
+    },
+    {
+      "active": true,
+      "alt": "CLS",
+      "caption": "Bietet praktischen Service wie Tablet-Reparatur, iPhone-Reparatur, iWatch-Reparatur, Handytaschen, Zubehör, Ersatzteile, mehr.",
+      "id": "2",
+      "image": "2/CLS-Smartphone.jpg",
+      "sort": 2,
+      "title": "CLS Smartphone",
+      "url": "#"
+    },
+    {
+      "active": true,
+      "alt": "CLS",
+      "caption": "Professionelle Reparaturwerkstatt für Laptop, Notebook, computer, smartphone, konsolen und ist seit über 26 Jahren ihr Partner.",
+      "id": "3",
+      "image": "3/CLS-NoteBook.jpg",
+      "sort": 3,
+      "title": "CLS Notebook",
+      "url": "#"
+    },
+    {
+      "active": true,
+      "alt": "CLS",
+      "caption": "Bitte besuchen Sie unsere Sicherheit und kaufen Sie Sicherheitsprodukte für zu Hause und im Büro zum besten Preis",
+      "id": "4",
+      "image": "4/CLS-Security.jpg",
+      "sort": 4,
+      "title": "CLS Security",
+      "url": "#"
+    },
+    {
+      "active": true,
+      "alt": "CLS",
+      "caption": "Unser Team aus hochqualifizierten Software-Ingenieuren und Testern hat Erfahrung darin, mit vorhandenen Teams zusammenzuarbeiten oder die Führung Ihrer Software zu übernehmen.",
+      "id": "5",
+      "image": "5/CLS-Software.jpg",
+      "sort": 5,
+      "title": "CLS Software",
+      "url": "#"
+    }
+  ],
   "cmsPage": {
     "identifier": "home",
     "title": "Home page",
@@ -49,64 +100,99 @@
   "HomePageData": {
     "enable_secondary_menu": "0",
     "store_phone": "6217163591",
-    "blog_p": null,
-    "blog_sort_order": null,
-    "blog_title": null,
+    "blog_p": "News from our Blog",
+    "blog_sort_order": "12",
+    "blog_title": "<span>Latest </span>  Blog",
     "brand_images": [
-      "/pub/media/wysiwyg//iCUE_ 01.webp",
-      "/pub/media/wysiwyg//TOP-ANGIBOT-2025.webp",
-      "/pub/media/wysiwyg//TOP-ANGIBOT-F-2025.webp",
-      "/pub/media/wysiwyg//TOP-ANGIBOT-March-2025.jpg",
-      "/pub/media/wysiwyg//TOP-ANGIBOT2-2025.webp",
-      "/pub/media/wysiwyg//TOP-ANGIBOT3-2025.webp"
+      "/pub/media/wysiwyg/brand/aerocool.png",
+      "/pub/media/wysiwyg/brand/amd.png",
+      "/pub/media/wysiwyg/brand/asus.png",
+      "/pub/media/wysiwyg/brand/coolermaster_1.png",
+      "/pub/media/wysiwyg/brand/corsair.png",
+      "/pub/media/wysiwyg/brand/gainward.png",
+      "/pub/media/wysiwyg/brand/gigabyte.png",
+      "/pub/media/wysiwyg/brand/intel.png",
+      "/pub/media/wysiwyg/brand/kingston_1.png",
+      "/pub/media/wysiwyg/brand/msi.png",
+      "/pub/media/wysiwyg/brand/nvidia_1.png",
+      "/pub/media/wysiwyg/brand/palit.png"
     ],
-    "brand_sort_order": null,
+    "brand_sort_order": "16",
     "brand_title": null,
-    "category_list_sort": null,
-    "category_p": null,
-    "category_title": null,
+    "category_list_sort": "5",
+    "category_p": "Get your desired product from featured category",
+    "category_title": "<span>Beliebte</span> Kategorien",
     "home_h1": "<span>CLS-Computer </span> – Der ultimative PC Shop",
     "home_h1_sort": "1",
     "home_p": "Der CLS Shop bietet dir auch im Jahr 2025 die aktuellsten PC-Systeme zu attraktiven Preisen bei bester Qualität.\r\nAls Spezialist für PCs haben wir für jeden Zweck und jedes Game das passende Angebot.\r\nNutze die Möglichkeiten beim PC Kauf!",
     "home_slider_banner_block": "",
     "home_slider_banner_enable": "0",
-    "map_content": null,
-    "map_sort_order": null,
-    "other_site_auto_slide": null,
-    "other_site_p": null,
-    "other_site_slide_grid": "0",
-    "other_site_sort": null,
-    "other_site_title": null,
-    "promo_block": "",
-    "promo_sort_order": null,
+    "map_content": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2590.424595227065!2d8.50678437650239!3d49.514259271428514!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4797ce69b7efffff%3A0xec39d3d8d9109427!2sCLS%20Computer!5e0!3m2!1sen!2sbd!4v1754834382782!5m2!1sen!2sbd",
+    "map_sort_order": "13",
+    "other_site_auto_slide": "0",
+    "other_site_p": "Finde deinen Traum PC!",
+    "other_site_slide_grid": "1",
+    "other_site_sort": "9",
+    "other_site_title": "Professional Services",
+    "promo_block": "<div data-content-type=\"html\" data-appearance=\"default\" data-element=\"main\"><div class='container'>\r\n                    <div class='row'>\r\n                        <div class='col-lg-3 col-md-4 col-sm-6 '>\r\n                            <div class='service-box first'>\r\n                                <div class='icon-holder'>\r\n                                    <Image src=\"/service/service.svg\" alt=\"Lebenslanger Service\"  width={50} height={50} />\r\n                                </div>\r\n                                <p>Lebenslanger Service</p>\r\n                            </div>\r\n                        </div>\r\n                        <div class='col-lg-3 col-md-4 col-sm-6 '>\r\n                        <div class='service-box'>\r\n                                <div class='icon-holder'>\r\n                                    <Image src=\"/service/Partner.svg\" alt=\"CLS - Ihr Partner seit 1993 \"  width={50} height={50} />\r\n                                </div>\r\n                                <p>CLS - Ihr Partner seit 1993 </p>\r\n                            </div>\r\n                        </div>\r\n                        <div class='col-lg-3 col-md-4 col-sm-6 '>\r\n                        <div class='service-box'>\r\n                                <div class='icon-holder'>\r\n                                    <Image src=\"/service/Contact.svg\" alt=\"Persönlicher Ansprechpartner\"  width={50} height={50} />\r\n                                </div>\r\n                                <p>Persönlicher Ansprechpartner</p>\r\n                            </div>\r\n                        </div>\r\n                        <div class='col-lg-3 col-md-4 col-sm-6 '>\r\n                        <div class='service-box'>\r\n                                <div class='icon-holder'>\r\n                                    <Image src=\"/service/QualityComponent.svg\" alt=\"Hochwertige Komponenten\"  width={50} height={50} />\r\n                                </div>\r\n                                <p>Hochwertige Komponenten</p>\r\n                            </div>\r\n                        </div>\r\n                    </div>\r\n                </div></div>",
+    "promo_sort_order": "8",
     "short_map": [
       "HomeH1",
       "HomeSlider1",
-      "CategoryBlock",
       "WeeklyDeals",
+      "CategoryBlock",
       "DailyDeals",
       "PromoBlock",
       "HomeSlider2",
-      "HomeSlider3",
-      "HomeSlider4",
-      "HomeSlider5",
       "OtherSite",
       "HiddenContent",
       "Blog",
       "GoogleMap",
-      "BrandBlock"
+      "BrandBlock",
+      "HomeSlider3",
+      "HomeSlider4",
+      "HomeSlider5"
     ],
-    "show_blog": "0",
-    "show_brand": "0",
-    "show_category_list": "0",
+    "show_blog": "1",
+    "show_brand": "1",
+    "show_category_list": "1",
     "show_home_h1": "1",
-    "show_map": "0",
-    "show_other_site": "0",
-    "show_promo_block": "0",
-    "show_visible_content": "0",
-    "visible_content": null,
-    "visible_title": null,
-    "category_list": []
+    "show_map": "1",
+    "show_other_site": "1",
+    "show_promo_block": "1",
+    "show_visible_content": "1",
+    "visible_content": "CLS-Computer hat 32 Jahre Erfahrung im Zusammenbau von Gaming PC, High-End Gaming-PC, Office PC, Multimedia PC, Desktop PC, Silent PC, Workstation PC, Videoschnitt PC, CAD PC, Medical PC, Mini PC, Custom PC und All in One PCs. CLS-Computer bietet nicht nur PCs, sondern auch Gaming, Business, Student, Streaming, Office und Gebrauchte Notebooks für unsere Kunden. Kaufe günstige PC and Laptops online von CLS-Computer in Deutschland.",
+    "visible_title": "Shop für Gaming PC, Office PC, Desktop PC, Laptop & Workstations PC bei CLS Computer",
+    "category_list": [
+      {
+        "id": 3,
+        "image": "/media/catalog/category/Gaming-PC.jpg",
+        "name": "PC Systeme",
+        "url_key": "pc-systeme",
+        "canonical_url": "pc-systeme"
+      },
+      {
+        "id": 725,
+        "image": "/media/catalog/category/CPU-Configaration_1.jpg",
+        "name": "PC Konfigurator",
+        "url_key": "pc-konfigurator",
+        "canonical_url": "pc-konfigurator"
+      },
+      {
+        "id": 608,
+        "image": "/media/catalog/category/Sale.jpg",
+        "name": "Sale",
+        "url_key": "top-angebote",
+        "canonical_url": "top-angebote"
+      },
+      {
+        "id": 4,
+        "image": "/media/catalog/category/Laptop.jpg",
+        "name": "Laptop",
+        "url_key": "laptop",
+        "canonical_url": "laptop"
+      }
+    ]
   },
   "HomeSlider": [
     {
@@ -127,12 +213,12 @@
           "rating_summary": null,
           "review_count": null,
           "sku": "CLS61100",
-          "special_price": null,
+          "special_price": 800,
           "type": "simple",
           "url_key": "gaming-pc-intel-core-i5-14400f-geforce-rtx-3050",
           "image": {
             "label": "Gaming PC - Intel Core i5-14400F - GeForce RTX 3050",
-            "url": "/c/l/cls61100-600.jpg"
+            "url": "//g/a/gamdias-athena-m3-case.jpg"
           },
           "price": {
             "regularPrice": {
@@ -144,11 +230,11 @@
             },
             "final_price": {
               "currency": "EUR",
-              "value": 835
+              "value": 800
             },
             "discount": {
-              "amount_off": 0,
-              "percent_off": 0
+              "amount_off": 35,
+              "percent_off": 4
             }
           },
           "short_description": {
@@ -169,7 +255,7 @@
           "url_key": "gaming-pc-intel-core-i7-12700kf-geforce-rtx-5060",
           "image": {
             "label": "Gaming PC - Intel Core i7-12700KF - GeForce RTX 5060",
-            "url": "/c/l/cls61003-300.jpg"
+            "url": "//g/a/gamdias-talos-e3-mesh-elite-v2-white.jpg"
           },
           "price": {
             "regularPrice": {
@@ -206,7 +292,7 @@
           "url_key": "gaming-pc-intel-core-i7-12700kf-radeon-rx-9060-xt",
           "image": {
             "label": "Gaming PC - Intel Core i7-12700KF - Radeon RX 9060 XT",
-            "url": "/c/l/cls61013-600.jpg"
+            "url": "//n/z/nzxt-h9-flow-white.jpg"
           },
           "price": {
             "regularPrice": {
@@ -243,7 +329,7 @@
           "url_key": "asus-gaming-pc-intel-core-i5-14600kf-rtx-5060-ti",
           "image": {
             "label": "ASUS Gaming PC - Intel Core i5-14600KF - RTX 5060 Ti",
-            "url": "/e/s/es-pcs1877244_1.jpg"
+            "url": "//a/s/asus-tuf-gaming-gt502.jpg"
           },
           "price": {
             "regularPrice": {
@@ -280,7 +366,7 @@
           "url_key": "gaming-pc-intel-core-i7-14700k-radeon-rx-9070-xt",
           "image": {
             "label": "Gaming PC - Intel Core i7-14700K - Radeon RX 9070 XT",
-            "url": "/c/l/cls61028-600.jpg"
+            "url": "//g/a/gamdias-talos-m3-mesh-elite-v2-case.jpg"
           },
           "price": {
             "regularPrice": {
@@ -317,7 +403,7 @@
           "url_key": "gaming-pc-amd-ryzen-9-9900x3d-radeon-rx-9070-xt",
           "image": {
             "label": "Gaming PC - AMD Ryzen 9 9900X3D - Radeon RX 9070 XT",
-            "url": "/c/l/cls62023-6000.jpg"
+            "url": "//g/a/gamdias-talos-e3-mesh-elite-v2-white_1.jpg"
           },
           "price": {
             "regularPrice": {
@@ -338,6 +424,240 @@
           },
           "short_description": {
             "html": "<ul>\r\n<li><strong>AMD Ryzen 9 9900X3D</strong>, 12x 4.40 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>AMD <strong>Radeon RX 9070 XT,</strong> 16GB GDDR6</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+          },
+          "price_html": null
+        }
+      ]
+    },
+    {
+      "Banner_block": "",
+      "auto_slide": "0",
+      "banner_before_title": null,
+      "show_banner": "0",
+      "slider_enable": "1",
+      "slider_p": "Finde deinen Traum PC!",
+      "slider_title": "<span>Beliebteste</span> Laptop",
+      "sort_order": "8",
+      "slider_products": [
+        {
+          "canonical_url": "gaming-laptop-15-6-intel-core-i5-12450h-rtx-3050",
+          "id": 13541,
+          "name": "Gaming Laptop - 15.6\" - Intel Core i5-12450H - RTX 3050",
+          "new": null,
+          "rating_summary": null,
+          "review_count": null,
+          "sku": "CLS113112",
+          "special_price": null,
+          "type": "simple",
+          "url_key": "gaming-laptop-15-6-intel-core-i5-12450h-rtx-3050",
+          "image": {
+            "label": "Gaming Laptop - 15.6\" - Intel Core i5-12450H - RTX 3050",
+            "url": "//m/s/msi.jpg"
+          },
+          "price": {
+            "regularPrice": {
+              "amount": {
+                "currency": "EUR",
+                "symbol": "€",
+                "value": 832
+              }
+            },
+            "final_price": {
+              "currency": "EUR",
+              "value": 832
+            },
+            "discount": {
+              "amount_off": 0,
+              "percent_off": 0
+            }
+          },
+          "short_description": {
+            "html": "<ul>\r\n<li><strong>15.6\" MSI </strong>Thin 15 Cosmos Gray</li>\r\n<li><strong>Intel Core i5-12450H</strong>, 8x 1.50 GHz</li>\r\n<li><strong>16GB</strong> DDR4-SDRAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 3050</strong>, 4GB</li>\r\n<li><strong>512GB</strong> M.2 Solid State Drive</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+          },
+          "price_html": null
+        },
+        {
+          "canonical_url": "gaming-laptop-15-6-amd-ryzen-7-7435hs-rtx-4070",
+          "id": 5109,
+          "name": "Gaming Laptop - 15.6\" - AMD Ryzen 7 7435HS - RTX 4070",
+          "new": null,
+          "rating_summary": null,
+          "review_count": null,
+          "sku": "CLS113114",
+          "special_price": null,
+          "type": "simple",
+          "url_key": "gaming-laptop-15-6-amd-ryzen-7-7435hs-rtx-4070",
+          "image": {
+            "label": "Gaming Laptop - 15.6\" - AMD Ryzen 7 7435HS - RTX 4070",
+            "url": "//a/s/asus.jpg"
+          },
+          "price": {
+            "regularPrice": {
+              "amount": {
+                "currency": "EUR",
+                "symbol": "€",
+                "value": 1392
+              }
+            },
+            "final_price": {
+              "currency": "EUR",
+              "value": 1392
+            },
+            "discount": {
+              "amount_off": 0,
+              "percent_off": 0
+            }
+          },
+          "short_description": {
+            "html": "<ul>\r\n<li><strong>15.6\" Lenovo </strong>LOQ 15 Luna Grey</li>\r\n<li><strong>AMD Ryzen 7 7435HS</strong>, 8x 3.10 GHz</li>\r\n<li><strong>16GB</strong> DDR5-SDRAM, <strong>4800 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 4070</strong>, 8GB</li>\r\n<li><strong>1TB</strong> M.2 Solid State Drive</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+          },
+          "price_html": null
+        },
+        {
+          "canonical_url": "gaming-laptop-17-3-intel-core-i7-13620h-rtx-4060",
+          "id": 13245,
+          "name": "Gaming Laptop - 17.3\" - Intel Core i7-13620H - RTX 4060",
+          "new": null,
+          "rating_summary": null,
+          "review_count": null,
+          "sku": "CLS251003",
+          "special_price": null,
+          "type": "simple",
+          "url_key": "gaming-laptop-17-3-intel-core-i7-13620h-rtx-4060",
+          "image": {
+            "label": "Gaming Laptop - 17.3\" - Intel Core i7-13620H - RTX 4060",
+            "url": "//a/l/alienware.jpg"
+          },
+          "price": {
+            "regularPrice": {
+              "amount": {
+                "currency": "EUR",
+                "symbol": "€",
+                "value": 1607
+              }
+            },
+            "final_price": {
+              "currency": "EUR",
+              "value": 1607
+            },
+            "discount": {
+              "amount_off": 0,
+              "percent_off": 0
+            }
+          },
+          "short_description": {
+            "html": "<ul>\r\n<li><strong>17.3\", </strong>1920x1080 Pixel, <strong>144 Hz</strong></li>\r\n<li><strong>Intel Core i7-13620H</strong>, 10x 2.40 GHz</li>\r\n<li><strong>32GB</strong> DDR5-SDRAM, <strong>4800 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 4060</strong>, 8GB</li>\r\n<li><strong>1TB </strong>M.2 Solid State Drive<strong> (SSD)</strong></li>\r\n<li>Windows 11 <strong>Home</strong>, 64-Bit</li>\r\n</ul>"
+          },
+          "price_html": null
+        },
+        {
+          "canonical_url": "gaming-laptop-17-3-amd-ryzen-7-8845hs-rtx-4070",
+          "id": 5121,
+          "name": "Gaming Laptop - 17.3\" - AMD Ryzen 7 8845HS - RTX 4070",
+          "new": null,
+          "rating_summary": null,
+          "review_count": null,
+          "sku": "CLS113120",
+          "special_price": null,
+          "type": "simple",
+          "url_key": "gaming-laptop-17-3-amd-ryzen-7-8845hs-rtx-4070",
+          "image": {
+            "label": "Gaming Laptop - 17.3\" - AMD Ryzen 7 8845HS - RTX 4070",
+            "url": "//m/r/mream-machines.jpg"
+          },
+          "price": {
+            "regularPrice": {
+              "amount": {
+                "currency": "EUR",
+                "symbol": "€",
+                "value": 1952
+              }
+            },
+            "final_price": {
+              "currency": "EUR",
+              "value": 1952
+            },
+            "discount": {
+              "amount_off": 0,
+              "percent_off": 0
+            }
+          },
+          "short_description": {
+            "html": "<ul>\r\n<li><strong>17.3\" HP </strong>Omen 17-db0176ng Black</li>\r\n<li><strong>AMD Ryzen 7 8845HS</strong>, 8x 3.80 GHz</li>\r\n<li><strong>32GB</strong> DDR5-SDRAM, <strong>4800 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 4070</strong>, 8GB</li>\r\n<li><strong>1TB</strong> M.2 Solid State Drive</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+          },
+          "price_html": null
+        },
+        {
+          "canonical_url": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5070-ti-1",
+          "id": 21816,
+          "name": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5070 Ti",
+          "new": null,
+          "rating_summary": null,
+          "review_count": null,
+          "sku": "CLS251004",
+          "special_price": null,
+          "type": "simple",
+          "url_key": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5070-ti",
+          "image": {
+            "label": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5070 Ti",
+            "url": "/c/l/cls251004-1.jpg"
+          },
+          "price": {
+            "regularPrice": {
+              "amount": {
+                "currency": "EUR",
+                "symbol": "€",
+                "value": 2993
+              }
+            },
+            "final_price": {
+              "currency": "EUR",
+              "value": 2993
+            },
+            "discount": {
+              "amount_off": 0,
+              "percent_off": 0
+            }
+          },
+          "short_description": {
+            "html": "<ul>\r\n<li><strong>18\", </strong>3840x2160 Pixel (UHD+), <strong>200Hz</strong></li>\r\n<li><strong>Intel Core Ultra 9 275HX</strong>, 24x 2.10 GHz</li>\r\n<li><strong>32GB</strong> DDR5-SDRAM, <strong>5600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5070 Ti</strong>, 12GB</li>\r\n<li><strong>1TB </strong>Samsung 990 Evo, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+          },
+          "price_html": null
+        },
+        {
+          "canonical_url": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5080",
+          "id": 21817,
+          "name": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5080",
+          "new": null,
+          "rating_summary": null,
+          "review_count": null,
+          "sku": "CLS251010",
+          "special_price": null,
+          "type": "simple",
+          "url_key": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5080",
+          "image": {
+            "label": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5080",
+            "url": "//d/e/dell-laptop.jpg"
+          },
+          "price": {
+            "regularPrice": {
+              "amount": {
+                "currency": "EUR",
+                "symbol": "€",
+                "value": 3273
+              }
+            },
+            "final_price": {
+              "currency": "EUR",
+              "value": 3273
+            },
+            "discount": {
+              "amount_off": 0,
+              "percent_off": 0
+            }
+          },
+          "short_description": {
+            "html": "<ul>\r\n<li><strong>18\", </strong>2560x1600 Pixel (QHD+), <strong>240Hz</strong></li>\r\n<li><strong>Intel Core Ultra 9 275HX</strong>, 24x 2.10 GHz</li>\r\n<li><strong>32GB</strong> DDR5-SDRAM, <strong>5600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5080</strong>, 16GB</li>\r\n<li><strong>1TB </strong>Samsung 990 Evo, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
           },
           "price_html": null
         }
@@ -375,27 +695,398 @@
       "slider_title": null,
       "sort_order": null,
       "slider_products": []
-    },
-    {
-      "Banner_block": "",
-      "auto_slide": "0",
-      "banner_before_title": null,
-      "show_banner": "0",
-      "slider_enable": "0",
-      "slider_p": null,
-      "slider_title": null,
-      "sort_order": null,
-      "slider_products": []
     }
   ],
   "DailyOffer": {
-    "auto_slide": null,
-    "daily_end_time": null,
-    "daily_offer_content": null,
-    "daily_offer_title": null,
-    "daily_show": "0",
-    "sort_order": null,
-    "daily_offer_products": []
+    "auto_slide": "0",
+    "daily_end_time": "2025-08-14 05:09:56",
+    "daily_offer_content": "Get your desired product from featured category",
+    "daily_offer_title": "<span>ANGEBOT </span> DES TAGES",
+    "daily_show": "1",
+    "sort_order": "7",
+    "daily_offer_products": [
+      {
+        "canonical_url": "gaming-pc-intel-core-i5-14400f-geforce-rtx-3050",
+        "id": 12805,
+        "name": "Gaming PC - Intel Core i5-14400F - GeForce RTX 3050",
+        "new": null,
+        "rating_summary": null,
+        "review_count": null,
+        "sku": "CLS61100",
+        "special_price": 800,
+        "type": "simple",
+        "url_key": "gaming-pc-intel-core-i5-14400f-geforce-rtx-3050",
+        "image": {
+          "label": "Gaming PC - Intel Core i5-14400F - GeForce RTX 3050",
+          "url": "//g/a/gamdias-athena-m3-case.jpg"
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "symbol": "€",
+              "value": 835
+            }
+          },
+          "final_price": {
+            "currency": "EUR",
+            "value": 800
+          },
+          "discount": {
+            "amount_off": 35,
+            "percent_off": 4
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i5-14400F</strong>, 10x 2.50 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 3050</strong>, 6GB GDDR6</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        },
+        "price_html": null
+      },
+      {
+        "canonical_url": "gaming-pc-intel-core-i7-12700kf-radeon-rx-9060-xt",
+        "id": 23695,
+        "name": "Gaming PC - Intel Core i7-12700KF - Radeon RX 9060 XT",
+        "new": null,
+        "rating_summary": null,
+        "review_count": null,
+        "sku": "CLS61013",
+        "special_price": null,
+        "type": "simple",
+        "url_key": "gaming-pc-intel-core-i7-12700kf-radeon-rx-9060-xt",
+        "image": {
+          "label": "Gaming PC - Intel Core i7-12700KF - Radeon RX 9060 XT",
+          "url": "//n/z/nzxt-h9-flow-white.jpg"
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "symbol": "€",
+              "value": 1187
+            }
+          },
+          "final_price": {
+            "currency": "EUR",
+            "value": 1187
+          },
+          "discount": {
+            "amount_off": 0,
+            "percent_off": 0
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i7-12700KF</strong>, 12x 3.60 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>AMD <strong>Radeon RX 9060 XT</strong>, 16GB GDDR6</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        },
+        "price_html": null
+      },
+      {
+        "canonical_url": "asus-gaming-pc-intel-core-i5-14600kf-rtx-5060-ti",
+        "id": 3549,
+        "name": "ASUS Gaming PC - Intel Core i5-14600KF - RTX 5060 Ti",
+        "new": null,
+        "rating_summary": null,
+        "review_count": null,
+        "sku": "CLS171001",
+        "special_price": null,
+        "type": "simple",
+        "url_key": "asus-gaming-pc-intel-core-i5-14600kf-rtx-5060-ti",
+        "image": {
+          "label": "ASUS Gaming PC - Intel Core i5-14600KF - RTX 5060 Ti",
+          "url": "//a/s/asus-tuf-gaming-gt502.jpg"
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "symbol": "€",
+              "value": 1854
+            }
+          },
+          "final_price": {
+            "currency": "EUR",
+            "value": 1854
+          },
+          "discount": {
+            "amount_off": 0,
+            "percent_off": 0
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i5-14600KF</strong>, 14x 3.50 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Kingston, <strong>5200 MHz</strong></li>\r\n<li><strong>ASUS</strong> TUF Gaming <strong>RTX 5060 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        },
+        "price_html": null
+      },
+      {
+        "canonical_url": "gaming-pc-intel-core-i7-14700k-radeon-rx-9070-xt",
+        "id": 23715,
+        "name": "Gaming PC - Intel Core i7-14700K - Radeon RX 9070 XT",
+        "new": null,
+        "rating_summary": null,
+        "review_count": null,
+        "sku": "CLS61028",
+        "special_price": null,
+        "type": "simple",
+        "url_key": "gaming-pc-intel-core-i7-14700k-radeon-rx-9070-xt",
+        "image": {
+          "label": "Gaming PC - Intel Core i7-14700K - Radeon RX 9070 XT",
+          "url": "//g/a/gamdias-talos-m3-mesh-elite-v2-case.jpg"
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "symbol": "€",
+              "value": 2198
+            }
+          },
+          "final_price": {
+            "currency": "EUR",
+            "value": 2198
+          },
+          "discount": {
+            "amount_off": 0,
+            "percent_off": 0
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i7-14700K</strong>, 20x 3.40 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>AMD <strong>Radeon RX 9070 XT</strong>, 16GB GDDR6</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        },
+        "price_html": null
+      },
+      {
+        "canonical_url": "gaming-pc-amd-ryzen-9-9900x3d-radeon-rx-9070-xt",
+        "id": 23756,
+        "name": "Gaming PC - AMD Ryzen 9 9900X3D - Radeon RX 9070 XT",
+        "new": null,
+        "rating_summary": null,
+        "review_count": null,
+        "sku": "CLS62023",
+        "special_price": null,
+        "type": "simple",
+        "url_key": "gaming-pc-amd-ryzen-9-9900x3d-radeon-rx-9070-xt",
+        "image": {
+          "label": "Gaming PC - AMD Ryzen 9 9900X3D - Radeon RX 9070 XT",
+          "url": "//g/a/gamdias-talos-e3-mesh-elite-v2-white_1.jpg"
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "symbol": "€",
+              "value": 2494
+            }
+          },
+          "final_price": {
+            "currency": "EUR",
+            "value": 2494
+          },
+          "discount": {
+            "amount_off": 0,
+            "percent_off": 0
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 9 9900X3D</strong>, 12x 4.40 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>AMD <strong>Radeon RX 9070 XT,</strong> 16GB GDDR6</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        },
+        "price_html": null
+      }
+    ]
   },
-  "WeeklyOffer": null
+  "WeeklyOffer": {
+    "auto_slide": "1",
+    "show_weekly_banner": "0",
+    "sort_order": "4",
+    "weekly_banner_block": "",
+    "weekly_end_time": "2025-08-15",
+    "weekly_offer_content": "Get your desired product from featured category",
+    "weekly_offer_title": "<span>WOCHEN </span>  ANGEBOT",
+    "weekly_show": "1",
+    "weekly_offer_products": [
+      {
+        "canonical_url": "gaming-pc-intel-core-i5-14400f-geforce-rtx-3050",
+        "id": 12805,
+        "name": "Gaming PC - Intel Core i5-14400F - GeForce RTX 3050",
+        "new": false,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS61100",
+        "special_price": 800,
+        "type": "simple",
+        "url_key": "gaming-pc-intel-core-i5-14400f-geforce-rtx-3050",
+        "image": {
+          "label": "Gaming PC - Intel Core i5-14400F - GeForce RTX 3050",
+          "url": "//g/a/gamdias-athena-m3-case.jpg"
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "symbol": "€",
+              "value": 835
+            }
+          },
+          "final_price": {
+            "currency": "EUR",
+            "value": 800
+          },
+          "discount": {
+            "amount_off": 35,
+            "percent_off": 4
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i5-14400F</strong>, 10x 2.50 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 3050</strong>, 6GB GDDR6</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        },
+        "price_html": "800,00 €"
+      },
+      {
+        "canonical_url": "gaming-pc-intel-core-i7-12700kf-radeon-rx-9060-xt",
+        "id": 23695,
+        "name": "Gaming PC - Intel Core i7-12700KF - Radeon RX 9060 XT",
+        "new": false,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS61013",
+        "special_price": null,
+        "type": "simple",
+        "url_key": "gaming-pc-intel-core-i7-12700kf-radeon-rx-9060-xt",
+        "image": {
+          "label": "Gaming PC - Intel Core i7-12700KF - Radeon RX 9060 XT",
+          "url": "//n/z/nzxt-h9-flow-white.jpg"
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "symbol": "€",
+              "value": 1187
+            }
+          },
+          "final_price": {
+            "currency": "EUR",
+            "value": 1187
+          },
+          "discount": {
+            "amount_off": 0,
+            "percent_off": 0
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i7-12700KF</strong>, 12x 3.60 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>AMD <strong>Radeon RX 9060 XT</strong>, 16GB GDDR6</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        },
+        "price_html": "1.187,00 €"
+      },
+      {
+        "canonical_url": "asus-gaming-pc-intel-core-i5-14600kf-rtx-5060-ti",
+        "id": 3549,
+        "name": "ASUS Gaming PC - Intel Core i5-14600KF - RTX 5060 Ti",
+        "new": false,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS171001",
+        "special_price": null,
+        "type": "simple",
+        "url_key": "asus-gaming-pc-intel-core-i5-14600kf-rtx-5060-ti",
+        "image": {
+          "label": "ASUS Gaming PC - Intel Core i5-14600KF - RTX 5060 Ti",
+          "url": "//a/s/asus-tuf-gaming-gt502.jpg"
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "symbol": "€",
+              "value": 1854
+            }
+          },
+          "final_price": {
+            "currency": "EUR",
+            "value": 1854
+          },
+          "discount": {
+            "amount_off": 0,
+            "percent_off": 0
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i5-14600KF</strong>, 14x 3.50 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Kingston, <strong>5200 MHz</strong></li>\r\n<li><strong>ASUS</strong> TUF Gaming <strong>RTX 5060 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        },
+        "price_html": "1.854,00 €"
+      },
+      {
+        "canonical_url": "gaming-pc-intel-core-i7-14700k-radeon-rx-9070-xt",
+        "id": 23715,
+        "name": "Gaming PC - Intel Core i7-14700K - Radeon RX 9070 XT",
+        "new": false,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS61028",
+        "special_price": null,
+        "type": "simple",
+        "url_key": "gaming-pc-intel-core-i7-14700k-radeon-rx-9070-xt",
+        "image": {
+          "label": "Gaming PC - Intel Core i7-14700K - Radeon RX 9070 XT",
+          "url": "//g/a/gamdias-talos-m3-mesh-elite-v2-case.jpg"
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "symbol": "€",
+              "value": 2198
+            }
+          },
+          "final_price": {
+            "currency": "EUR",
+            "value": 2198
+          },
+          "discount": {
+            "amount_off": 0,
+            "percent_off": 0
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i7-14700K</strong>, 20x 3.40 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>AMD <strong>Radeon RX 9070 XT</strong>, 16GB GDDR6</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        },
+        "price_html": "2.198,00 €"
+      },
+      {
+        "canonical_url": "gaming-pc-amd-ryzen-9-9900x3d-radeon-rx-9070-xt",
+        "id": 23756,
+        "name": "Gaming PC - AMD Ryzen 9 9900X3D - Radeon RX 9070 XT",
+        "new": false,
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS62023",
+        "special_price": null,
+        "type": "simple",
+        "url_key": "gaming-pc-amd-ryzen-9-9900x3d-radeon-rx-9070-xt",
+        "image": {
+          "label": "Gaming PC - AMD Ryzen 9 9900X3D - Radeon RX 9070 XT",
+          "url": "//g/a/gamdias-talos-e3-mesh-elite-v2-white_1.jpg"
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "symbol": "€",
+              "value": 2494
+            }
+          },
+          "final_price": {
+            "currency": "EUR",
+            "value": 2494
+          },
+          "discount": {
+            "amount_off": 0,
+            "percent_off": 0
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 9 9900X3D</strong>, 12x 4.40 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>AMD <strong>Radeon RX 9070 XT,</strong> 16GB GDDR6</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        },
+        "price_html": "2.494,00 €"
+      }
+    ]
+  }
 }

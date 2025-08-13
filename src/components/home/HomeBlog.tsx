@@ -20,10 +20,10 @@ const HomeBlog: React.FC<PostInterface> = ({BlogTitle, BlogParagraph , PostsData
   }
 
   return (
-    <section className={`${style["blog-block"]} white-block`}>
-      <div className="container">
+    <section className={`${style["blog-block"]} offer-block`}>
+      <div className="container-fluid">
         {(BlogTitle &&
-        <h2 className={style["blog-title"]}>{BlogTitle}</h2>
+            <h2 className="feature_heading" dangerouslySetInnerHTML={{ __html: BlogTitle }} />
         )}
         {(BlogParagraph &&
         <p className={style["blog-p"]}>{BlogParagraph}</p>

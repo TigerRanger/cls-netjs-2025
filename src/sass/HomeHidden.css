@@ -1,7 +1,5 @@
 .hidden-block {
     padding: 30px 0;
-    background: #f0f0f0;
-
     .visible-title{
         margin-bottom: 0;
     }
@@ -18,8 +16,10 @@
 }
 
 .hidden-block h2 {
-    font-size: 1.5rem;
-    color: #1661a3;
+    font-size: 1.7rem;
+    span{
+    color: #37a4a9;
+    }
 }
 
 .hidden-block h3 {
@@ -46,7 +46,7 @@
 }
 
 .hidden-block a:hover {
-    color: #1661a3;
+    color: #37a4a9;
 }
 
 .hidden-block ul {
@@ -64,12 +64,12 @@
 .hidden-block ul li::before {
     content: "";
     position: absolute;
-    border: 1px solid #1661a3;
+    border: 1px solid #37a4a9;
     width: 8px;
     height: 8px;
     left: 0;
     top: 12px;
-    background: #1661a3;
+    background: #37a4a9;
 }
 
 .hidden-block ol {
@@ -93,7 +93,7 @@
     top: 9px;
     width: 25px;
     height: 25px;
-    background-color:#1661a3;
+    background-color:#37a4a9;
     color: white;
     display: flex;
     justify-content: center;
@@ -124,14 +124,15 @@
   
  
  .common-btn.hidden-btn {
-	color: #0859a1;
+	color: #37a4a9;
+    text-transform: capitalize;
 	cursor: pointer;
     border:none;
     background: none;
     padding: 0;
 
     &:hover {
-        color: #1661a3;
+        color: #2d8287;
         text-decoration: underline;
     }
 }
@@ -143,8 +144,8 @@
 }
  
 .visible-container {
-	font-size: 15px;
+	font-size: 14px;
 	line-height: 30px;
-	color: #464545;
+	color: #5f5e5e;
 	margin: 10px 0;
 }

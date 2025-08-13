@@ -10,10 +10,10 @@ import FallbackImage from "@/components/Helper/FallbackImage";
 import Image from "next/image";
 import EcommercePrice from "@/lib/jslib/Price";
 
-
-const plusSvg =  "/svg-icon/cart-main.svg";
 const  PhoneSvg = "/svg-icon/phone.svg";
 const ConfigSvg = "/svg-icon/config.svg";
+const ClockSvg = "/images/clock.svg";
+const CartPlus = "/images/cart_plus.svg";
 
 
 
@@ -111,7 +111,7 @@ const dispatch = useDispatch<AppDispatch>();
   return (
     <div className="product-slider-container">
       <Swiper
-        spaceBetween={6}
+        spaceBetween={0}
         slidesPerView={1}
         autoplay={autoplay}
         breakpoints={breakpoints}
@@ -128,7 +128,7 @@ const dispatch = useDispatch<AppDispatch>();
                   
                  {( product.price.regularPrice?.amount.value !== product.price.final_price?.value &&
                   <>
-                  <div className="ribbon">{product?.price?.discount?.percent_off}% OFF</div>
+                  <div className="ribbon">% SALE</div>
                   </>
                  )}
 
@@ -142,19 +142,45 @@ const dispatch = useDispatch<AppDispatch>();
                       class_name="product-image"
                     />
                   </div>
-                  <a href={`/${product.canonical_url}`} className="product-name" >
-                    {product.name}
-                  </a>
+
                   <div className="sku-review">
                     <div className="rating-stars">
                       {EcommercePrice.generateStars(
-                       product?.rating_summary ?? 0
+                       product?.rating_summary ?? 4
                       ).map((star, index) => (
-                        <span key={index} className={`star ${star}`}>★</span>
+                        <span key={index} className={`star ${star}`}>
+                          {(star === "fill") ?
+                            (<Image src="/images/review-fill.svg" alt="Star" width={16
+                             } height={16} />
+                            ):(
+                              <Image src="/images/review-empty.svg" alt="Star" width={16} height={16} />
+                            )
+                            }
+                        </span>
                       ))}
                     </div>
                     <div className="sku-main">{product.sku}</div>
                   </div>
+
+
+
+                  <a href={`/${product.canonical_url}`} className="product-name" >
+                    {product.name}
+                  </a>
+
+
+                      {typeof product?.short_description?.html === 'string' && product.short_description.html.length > 0 && (
+                        <div className="product-desc" dangerouslySetInnerHTML={{ __html: product.short_description.html }} />
+                      )}
+
+
+
+                  <div className="cs-delivery-info">
+                      <Image src={ClockSvg} width={17} height={20} alt="CLS Computer" />
+                      <span>Lieferzeit 6-8 Werktage</span>
+                  </div>
+
+                 
                   <div className="button-wrapper">
 
                 {product.price.final_price?.value !== undefined && product.price.final_price.value > 0 ? (
@@ -190,10 +216,12 @@ const dispatch = useDispatch<AppDispatch>();
                             <Image src={ConfigSvg} width={27} height={27} alt="Add to product" /> Configure
                           </a>
                         ) : (
+                          <div className="att-to-group">
                           <button className="addto-btn" onClick={handleAddToCart(product, 1)}>
                              {productID !== String(product.id) ? (
                               <>
-                                <Image src={plusSvg} width={25} height={25} alt="Add to product" /> Add to Cart
+                                <Image src={CartPlus} width={37} height={35} alt="Add to product" />
+                                
                               </>
                             ) : (
                               <>
@@ -201,6 +229,12 @@ const dispatch = useDispatch<AppDispatch>();
                               </>
                             )}
                           </button>
+
+                              <div className="cs-product-tile__main-bottom">
+                                <span className="cs-product-tile__details-link-span">Mehr</span>
+                              </div>
+
+                          </div>
                         )
                       ) : (
                         <a href={`tel:${phone ?? ''}`} className="call-price" title="addto-product">

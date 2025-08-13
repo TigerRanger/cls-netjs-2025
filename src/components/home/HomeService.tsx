@@ -19,11 +19,11 @@ const HomeService: React.FC<PromoInf> = ({ Promo }) => {
   }, [Promo])
 
   return (
-    <section className="service-section">
+    <section className="service-section ">
       {content ? (
         <div dangerouslySetInnerHTML={{ __html: content }} />
       ) : (
-        <div className="container">
+        <div className="container-fluid">
 
                 <div className='row'>
                     {[...Array(4)].map((_, i) => (

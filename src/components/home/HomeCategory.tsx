@@ -21,9 +21,9 @@ const HomeCategory: React.FC<HCategoryPops> = ({ CatTitle, CatP, CatData , SiteU
 
   return (
     <section className={style['featureCategory-section']}>
-      <div className='container'>
-        {CatTitle && <h2 className={style.category_heading}>{CatTitle}</h2>}
-        {CatP && <p>{CatP}</p>}
+      <div className='container-fluid'>
+        {CatTitle && <h2 className={style.category_heading} dangerouslySetInnerHTML={{ __html: CatTitle }} />}
+        {CatP && <p className={style.category_para}>{CatP}</p>}
 
         <div className='row'>
           {isLoading ? (
@@ -39,9 +39,9 @@ const HomeCategory: React.FC<HCategoryPops> = ({ CatTitle, CatP, CatData , SiteU
           ) : (
             CatData.map((item, index) => (
               <div className={`col-sm-6 col-md-4 col-lg-3 ${style['cat-box']}`} key={index}>
-                <a
+                <div
                   className={style['category-box']}
-                  href={"/"+item?.canonical_url || "/" + item.url_key}
+                 
                 >
                   <Image
                     title={item.name}
@@ -52,7 +52,11 @@ const HomeCategory: React.FC<HCategoryPops> = ({ CatTitle, CatP, CatData , SiteU
                     loading='lazy'
                   />
                   <div className={style['category-name']}>{item.name}</div>
-                </a>
+
+                  <a className={style['category-button']}  href={"/"+item?.canonical_url || "/" + item.url_key}>
+                   Mehr </a>
+
+                </div>
               </div>
             ))
           )}

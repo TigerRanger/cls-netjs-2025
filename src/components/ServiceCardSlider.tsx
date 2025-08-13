@@ -69,7 +69,7 @@ const ServiceCardSlider: React.FC<ServiceCardSliderProps> = ({
         breakpoints={{
           640: { slidesPerView: 1 },
           768: { slidesPerView: 2 },
-          1024: { slidesPerView: 4 },
+          1024: { slidesPerView: 3 },
         }}
         navigation
         modules={[Navigation , Autoplay]}
@@ -96,8 +96,9 @@ const ServiceCardSlider: React.FC<ServiceCardSliderProps> = ({
                         />
                       </div>
                       <div className="service-body-info">
-                        <h3>{item.title}</h3>
-                        <p>{item.caption}</p>
+                        <h3 className="service-h3">{item.title}</h3>
+                        <p className="service-p">{item.caption}</p>
+                        <a className="category-button" href={item.url??''}> Mehr </a>
                       </div>
                     </div>
                   </div>

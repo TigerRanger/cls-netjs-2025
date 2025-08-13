@@ -13,7 +13,7 @@ const breakpoints = {
     640: { slidesPerView: 2 },
     768: { slidesPerView: 3 },
     1024: { slidesPerView: 4 },
-    1280: { slidesPerView: 5 },
+    1280: { slidesPerView: 4 },
   };  
 
 
@@ -49,17 +49,20 @@ const DailyOffer: React.FC<DailyPops> = ({dailyData , site , phone , auto}) => {
         
   return (
     <>
-    <section className="daily-offer-section gray-block">
+    <section className="daily-offer-section offer-block">
     <div className='container'>
 
                 <div className={style['daily-offer']}>
-                    <div className={style['daily-offer-head']}>
-                        <div className={style.headline}>
-                            <h2 className="category_heading">Daily Deals!!</h2>
-                            <p>Grab the best deals of the day with our limited-time offers! These unbeatable discounts are only available for a short time.</p>
-                        </div>
+                  
+                 
+                             {( dailyData?.daily_offer_title &&
+                            <h2 className="feature_heading" dangerouslySetInnerHTML={{ __html: dailyData?.daily_offer_title  }} />
+                            )}
+                         {( dailyData?.daily_offer_content &&
+                            <p className= "feature_para" dangerouslySetInnerHTML={{ __html: dailyData.daily_offer_content }} />)}
+                  
                         <CountDownTimer endTime={dateOnly} eday={false} />
-                    </div>
+                  
 
                     <div className={show ? style['daily-offer-body'] : 'hidden_block'}>
                          {show ?

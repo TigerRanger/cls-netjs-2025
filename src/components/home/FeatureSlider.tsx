@@ -6,7 +6,7 @@ const breakpoints = {
     640: { slidesPerView: 2 },
     768: { slidesPerView: 3 },
     1024: { slidesPerView: 4 },
-    1280: { slidesPerView: 5 },
+    1280: { slidesPerView: 4 },
   };  
 interface FeatureSlider {
     title:string;
@@ -33,8 +33,8 @@ const FeatureSlider :React.FC<FeatureSlider> = ({  title , paragaph , banner, sh
     }
   return (
         <>
-          <section className="product-slider gray-block">
-              <div className="container">
+          <section className="product-slider offer-block">
+              <div className="container-fluid">
                 <BannerItem title={title} paragraph={paragaph} banner={banner ?? ''}
                 show_banner={show_banner} banner_before_title={banner_before_title} />
                   <div className='product_slider'>

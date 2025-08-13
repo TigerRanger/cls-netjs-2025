@@ -47,7 +47,7 @@ const BannerItem: React.FC<BannerItemProps> = ({
 
       {title && <h2 className="feature_heading" dangerouslySetInnerHTML={{ __html: title }} />}
 
-        {paragraph && <p>{paragraph}</p>}
+        {paragraph && <p className='feature_para'>{paragraph}</p>}
         
       {banner_before_title !== '1' && show_banner === '1' && banner && (
         <div className="Banner_section_sp">

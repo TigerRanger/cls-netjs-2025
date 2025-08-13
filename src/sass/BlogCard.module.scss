@@ -1,5 +1,6 @@
   .blog-card{
-    background: white;
+    background: #101922;
+    color: white;
     overflow: hidden;
     margin: 10px 0;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
@@ -13,6 +14,12 @@
     }
   }
 
+
+.blog-header-info{
+  height: 300px;
+  overflow: hidden;
+}
+
   .blog-body-info {
     padding: 10px 12px;
   }
@@ -21,63 +28,69 @@
     transform: scale(1.1);
   }
 
-
-  .blog-card:hover  .blog-header-info::after{
-    background: rgba(0,0,0,0);
-  }
-
-  .blog-header-info{
-    height: 200px;
-    overflow: hidden;
-    position: relative;
-    background: white;
-  }
-
-  .blog-header-info::after{
-    position: absolute;
-    background: rgba(0,0,0,0.3);
-    content: '';
-    width: 100%;
-    height: 100%;
-    left: 0;
-  }
-
-
-  .blog-card img.blog-icon{
-  width: 20px;
-  height: 20px;
-  
+.blog-h3{
+  text-align: center;
+  padding: 10px;
+  margin: 20px 0;
+  font-size: 22px;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-decoration: none;;
+  height: 84px;
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 
-  .blog-title {
-    color: #1661a3;
-    display: flex;
-    padding: 10px 0;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    height: 62px;
-    display: -webkit-box;
-    text-decoration: none;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-  }
-
-
-
-
-.blog-card .date-text{
-  display: flex;
-  gap: 5px;
-  align-items: center;
-}
-
-.blog-text{
-  display: flex;
-  align-items: center;
-  gap:5px;
-  flex-wrap: wrap;
-  justify-content: space-between;
+.blog-p{
+  font-weight: 100;
+  font-family: "Popins Light";
+  color: #CCC;
+  padding: 10px;
   font-size: 14px;
+  padding-top: 0;
+  margin-top: 5px;;
 }
 
+
+
+   .category-button{
+	color: #101922;
+	letter-spacing: 1.2px;
+	clip-path: polygon(0 0, 100% 0, calc(100% - 10px) 100%, 0 100%);
+	background-color: #fff;
+	border: 0 solid #0000;
+  padding: 7px 8px 7px 38px;
+	font-size: 14px;
+	margin: 20px auto;
+	display: block;
+	width: 130px;
+	text-transform: uppercase;
+	font-weight: bold;
+  position: relative;
+
+    }
+
+ .category-button::before {
+  background: #37a4a9;
+  bottom: 0;
+  content: "";
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transform: scaleX(0);
+  transform-origin: 0 50%;
+  transition: transform .25s ease-out;
+  z-index: -1;
+}
+
+.category-button:hover{
+  color: white;
+}
+
+.category-button:hover::before {
+  transform: scaleX(1);
+}
