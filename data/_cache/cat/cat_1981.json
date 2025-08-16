@@ -1,0 +1,717 @@
+{
+  "categoryList": [
+    {
+      "id": 1981,
+      "name": "POWERED BY EDITION",
+      "description": null,
+      "canonical_url": "pc-systeme/powered-by-editions",
+      "children_count": "3",
+      "image": "http://cls-computer-admin.nz/media/catalog/category/POWERED-BY-EDITION.jpg",
+      "is_anchor": 1,
+      "meta_description": "Gaming PCs POWERED BY EDITIONS - Beste Gaming pc bei CLS Computer ✓ Beste Qualität ✓ 5-Jahre Service ✓ Gratis Versand !",
+      "meta_keywords": "powered by editions",
+      "meta_title": "Gaming PCs POWERED BY EDITIONS | CLS Computer",
+      "product_count": 20,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "Gaming PCs POWERED BY EDITION - Cls Computer",
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "pc-systeme/powered-by-editions/asus-edition",
+          "name": "Powered by ASUS",
+          "position": 2,
+          "url_key": "asus-edition"
+        },
+        {
+          "canonical_url": "pc-systeme/powered-by-editions/powered-by-icue",
+          "name": "Powered by iCUE",
+          "position": 3,
+          "url_key": "powered-by-icue"
+        },
+        {
+          "canonical_url": "pc-systeme/powered-by-editions/msi-edition",
+          "name": "Powered by MSI",
+          "position": 4,
+          "url_key": "msi-edition"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 20,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 20
+    },
+    "items": [
+      {
+        "canonical_url": "msi-gaming-pc-intel-core-i5-14600kf-rtx-4060",
+        "id": 6792,
+        "name": "MSI Gaming PC - Intel Core i5-14600KF - RTX 4060",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS221001",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs6110371_6.jpg",
+        "product_type": "simple",
+        "final_price": 1300,
+        "discount_percent": 0,
+        "url_key": "msi-gaming-pc-intel-core-i5-14600kf-rtx-4060",
+        "image": {
+          "label": "MSI GAMING EDITION 221001",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1300
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i5-14600KF</strong>, 14x 3.50 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Kingston, <strong>5200 MHz</strong></li>\r\n<li>MSI Ventus 2X GeForce <strong>RTX 4060</strong>, 8GB</li>\r\n<li><strong>1TB</strong> Samsung 980,<strong> 3500/3000</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "msi-gaming-pc-amd-ryzen-5-7600x-rtx-4060",
+        "id": 6795,
+        "name": "MSI Gaming PC - AMD Ryzen 5 7600X - RTX 4060",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS221004",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls221004-5009.jpg",
+        "product_type": "simple",
+        "final_price": 1346,
+        "discount_percent": 0,
+        "url_key": "msi-gaming-pc-amd-ryzen-5-7600x-rtx-4060",
+        "image": {
+          "label": "MSI Gaming PC - AMD Ryzen 5 7600X - RTX 4060",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1346
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 7600X</strong>, 6x 4.70 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Kingston, <strong>5200 MHz</strong></li>\r\n<li>MSI Ventus GeForce <strong>RTX 4060</strong>, 8GB GDDR6</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "powered-by-icue-intel-core-i5-14600kf-rtx-4060",
+        "id": 14736,
+        "name": "Powered by iCUE - Intel Core i5-14600KF - RTX 4060",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS33101",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1040455_1.jpg",
+        "product_type": "simple",
+        "final_price": 1551,
+        "discount_percent": 0,
+        "url_key": "powered-by-icue-intel-core-i5-14600kf-rtx-4060",
+        "image": {
+          "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1551
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i5-14600KF</strong>, 14x 3.50 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair RGB, <strong>6000 MHz</strong></li>\r\n<li>MSI Ventus GeForce<strong> RTX 4060</strong>, 8GB GDDR6</li>\r\n<li><strong>1TB</strong> Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "powered-by-icue-amd-ryzen-5-7600x-rx-7600-xt",
+        "id": 14830,
+        "name": "Powered by iCUE - AMD Ryzen 5 7600X - RX 7600 XT",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS33201",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1040446_1.jpg",
+        "product_type": "simple",
+        "final_price": 1629,
+        "discount_percent": 0,
+        "url_key": "powered-by-icue-amd-ryzen-5-7600x-rx-7600-xt",
+        "image": {
+          "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1629
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 7600X</strong>, 6x 4.70 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair RGB, <strong>6000 MHz</strong></li>\r\n<li>GIGABYTE Radeon<strong> RX 7600 XT</strong>, 16GB GDDR6</li>\r\n<li><strong>1TB</strong> Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "asus-gaming-pc-amd-ryzen-5-7600x-rtx-4060-ti",
+        "id": 3559,
+        "name": "ASUS Gaming PC - AMD Ryzen 5 7600X - RTX 4060 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS172001",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1902938_1.jpg",
+        "product_type": "simple",
+        "final_price": 1830,
+        "discount_percent": 0,
+        "url_key": "asus-gaming-pc-amd-ryzen-5-7600x-rtx-4060-ti",
+        "image": {
+          "label": "ASUS Edition Gaming PC 171003",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1830
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 7600X</strong>, 6x 4.70 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Kingston, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 5060 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "asus-gaming-pc-intel-core-i5-14600kf-rtx-5060-ti",
+        "id": 3549,
+        "name": "ASUS Gaming PC - Intel Core i5-14600KF - RTX 5060 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS171001",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product//a/s/asus-tuf-gaming-gt502.jpg",
+        "product_type": "simple",
+        "final_price": 1854,
+        "discount_percent": 0,
+        "url_key": "asus-gaming-pc-intel-core-i5-14600kf-rtx-5060-ti",
+        "image": {
+          "label": "Intel Basic Gaming PC 61013",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1854
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i5-14600KF</strong>, 14x 3.50 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Kingston, <strong>5200 MHz</strong></li>\r\n<li><strong>ASUS</strong> TUF Gaming <strong>RTX 5060 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "asus-gaming-pc-amd-ryzen-7-7800x3d-rtx-5070",
+        "id": 12302,
+        "name": "ASUS Gaming PC - AMD Ryzen 7 7800X3D - RTX 5070",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS172003",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1877244_2.jpg",
+        "product_type": "simple",
+        "final_price": 2143,
+        "discount_percent": 0,
+        "url_key": "asus-gaming-pc-amd-ryzen-7-7800x3d-rtx-5070",
+        "image": {
+          "label": "ASUS Edition Gaming PC 172001",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2143
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 7 7800X3D</strong>, 8x 4.20 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5070</strong>, 12GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "msi-gaming-pc-intel-core-i7-14700kf-rtx-5070-ti",
+        "id": 6793,
+        "name": "MSI Gaming PC - Intel Core i7-14700KF - RTX 5070 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS221002",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls221002_1.jpg",
+        "product_type": "simple",
+        "final_price": 2260,
+        "discount_percent": 0,
+        "url_key": "msi-gaming-pc-intel-core-i7-14700kf-rtx-5070-ti",
+        "image": {
+          "label": "MSI Gaming PC - Intel Core i7-14700KF - RTX 5070 Ti",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2260
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i7-14700KF</strong>, 20x 3.40 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 5070 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB</strong> Samsung 990 Pro,<strong> 7450/6900 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "msi-gaming-pc-amd-ryzen-7-7800x3d-rtx-5070-ti",
+        "id": 6796,
+        "name": "MSI Gaming PC - AMD Ryzen 7 7800X3D - RTX 5070 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS221005",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/m/s/msi-mpg-sekira-500g.jpg",
+        "product_type": "simple",
+        "final_price": 2356,
+        "discount_percent": 0,
+        "url_key": "msi-gaming-pc-amd-ryzen-7-7800x3d-rtx-5070-ti",
+        "image": {
+          "label": "MSI GAMING EDITION 221004",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2356
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 7 7800X3D</strong>, 8x 4.20 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 5070 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB</strong> Samsung 990 Pro, <strong>7450/6900 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "powered-by-icue-amd-ryzen-7-7800x3d-rtx-5070-ti",
+        "id": 14854,
+        "name": "Powered by iCUE - AMD Ryzen 7 7800X3D - RTX 5070 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS33202",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls33202.jpg",
+        "product_type": "simple",
+        "final_price": 2508,
+        "discount_percent": 0,
+        "url_key": "powered-by-icue-amd-ryzen-7-7800x3d-rtx-5070-ti",
+        "image": {
+          "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2508
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 7 7800X3D</strong>, 8x 4.20 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair RGB, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA GeForce<strong> RTX 5070 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB</strong> Corsair MP600 Pro, <strong>7000/5700</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "powered-by-icue-intel-core-i7-14700kf-rtx-5070-ti",
+        "id": 14848,
+        "name": "Powered by iCUE - Intel Core i7-14700KF - RTX 5070 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS33102",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1040452_1.jpg",
+        "product_type": "simple",
+        "final_price": 2591,
+        "discount_percent": 0,
+        "url_key": "powered-by-icue-intel-core-i7-14700kf-rtx-5070-ti",
+        "image": {
+          "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2591
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i7-14700KF</strong>, 20x 3.40 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair RGB, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA GeForce<strong> RTX 5070 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB</strong> Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "asus-gaming-pc-intel-core-i7-14700kf-rtx-5070-ti",
+        "id": 3555,
+        "name": "ASUS Gaming PC - Intel Core i7-14700KF - RTX 5070 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS171002",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1902938_2.jpg",
+        "product_type": "simple",
+        "final_price": 2641,
+        "discount_percent": 0,
+        "url_key": "asus-gaming-pc-intel-core-i7-14700kf-rtx-5070-ti",
+        "image": {
+          "label": "ASUS Edition Gaming PC 171001",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2641
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core</strong> <strong>i7-14700KF</strong>, 20x 3.40 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair RGB, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA<strong> GeForce</strong> <strong>RTX 5070 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "powered-by-icue-intel-core-i9-14900kf-rtx-5080",
+        "id": 14849,
+        "name": "Powered by iCUE - Intel Core i9-14900KF - RTX 5080",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS33103",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1040425_1.jpg",
+        "product_type": "simple",
+        "final_price": 3349,
+        "discount_percent": 0,
+        "url_key": "powered-by-icue-intel-core-i9-14900kf-rtx-5080",
+        "image": {
+          "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 3349
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i9-14900KF</strong>, 24x 3.20 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, Corsair RGB, <strong>6400 MHz</strong></li>\r\n<li>NVIDIA GeForce<strong> RTX 5080</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB</strong> Corsair MP600 Pro, <strong>7000/5700</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "powered-by-icue-amd-ryzen-9-7900x3d-rx-7900-xt",
+        "id": 14855,
+        "name": "Powered by iCUE - AMD Ryzen 9 7900X3D - RX 7900 XT",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS33203",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1040408_1.jpg",
+        "product_type": "simple",
+        "final_price": 3400,
+        "discount_percent": 0,
+        "url_key": "powered-by-icue-amd-ryzen-9-7900x3d-rx-7900-xt",
+        "image": {
+          "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 3400
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 9 7900X3D</strong>, 12x 4.40 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, Corsair RGB, <strong>6400 MHz</strong></li>\r\n<li>ASUS TUF Radeon<strong> RX 7900 XT</strong>, 20GB GDDR6</li>\r\n<li><strong>1TB</strong> Corsair MP600 Pro, <strong>7000/5700</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "asus-gaming-pc-amd-ryzen-9-7900x3d-rx-7900-xt",
+        "id": 3560,
+        "name": "ASUS Gaming PC - AMD Ryzen 9 7900X3D - RX 7900 XT",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS172002",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/a/s/asus-rog-strix-helios_2.jpg",
+        "product_type": "simple",
+        "final_price": 3531,
+        "discount_percent": 0,
+        "url_key": "asus-gaming-pc-amd-ryzen-9-7900x3d-rx-7900-xt",
+        "image": {
+          "label": "ASUS Edition Gaming PC 172001",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 3531
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 9 7900X3D</strong>, 12x 4.40 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li><strong>ASUS</strong> TUF Gaming <strong>RX 7900 XT OC</strong>, 20GB</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "msi-gaming-pc-intel-core-i9-14900kf-rtx-5090",
+        "id": 6794,
+        "name": "MSI Gaming PC - Intel Core i9-14900KF - RTX 5090",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS221003",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/m/s/msi-mpg-sekira-500g_1.jpg",
+        "product_type": "simple",
+        "final_price": 4340,
+        "discount_percent": 0,
+        "url_key": "msi-gaming-pc-intel-core-i9-14900kf-rtx-5090",
+        "image": {
+          "label": "MSI GAMING EDITION 221002",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 4340
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i9-14900KF</strong>, 24x 3.20 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, Corsair,<strong> 6000 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5090</strong>, 32GB GDDR7</li>\r\n<li><strong>1TB</strong> Samsung 990 Pro,<strong> 7450/6900 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "asus-gaming-pc-intel-core-i9-14900kf-rtx-5090",
+        "id": 3556,
+        "name": "ASUS Gaming PC - Intel Core i9-14900KF - RTX 5090",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS171003",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/a/s/asus-rog-strix-helios-black.jpg",
+        "product_type": "simple",
+        "final_price": 4960,
+        "discount_percent": 0,
+        "url_key": "asus-gaming-pc-intel-core-i9-14900kf-rtx-5090",
+        "image": {
+          "label": "ASUS Edition Gaming PC 171002",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 4960
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i9-14900KF</strong>, 24x 3.20 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5090</strong>, 32GB GDDR7</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "msi-gaming-pc-amd-ryzen-9-7950x3d-rtx-5090",
+        "id": 12305,
+        "name": "MSI Gaming PC - AMD Ryzen 9 7950X3D - RTX 5090",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS221006",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls221006.jpg",
+        "product_type": "simple",
+        "final_price": 5454,
+        "discount_percent": 0,
+        "url_key": "msi-gaming-pc-amd-ryzen-9-7950x3d-rtx-5090",
+        "image": {
+          "label": "MSI GAMING EDITION 221004",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 5454
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 9 7950X3D</strong>, 16x 4.20 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, Corsair RGB, <strong>6400 MHz</strong></li>\r\n<li>NVIDIA G<strong>eForce</strong> <strong>RTX 5090</strong>, 32GB GDDR7</li>\r\n<li><strong>2TB</strong> Samsung 990 Pro,<strong> 7450/6900 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "powered-by-icue-intel-core-i9-14900ks-rtx-5090",
+        "id": 14850,
+        "name": "Powered by iCUE - Intel Core i9-14900KS - RTX 5090",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS33104",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls33104.jpg",
+        "product_type": "simple",
+        "final_price": 5584,
+        "discount_percent": 0,
+        "url_key": "powered-by-icue-intel-core-i9-14900ks-rtx-5090",
+        "image": {
+          "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 5584
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i9-14900KS</strong>, 24x 3.20 GHz</li>\r\n<li><strong>96GB</strong> DDR5-RAM, Corsair RGB, <strong>6400 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5090</strong>, 32GB GDDR7</li>\r\n<li><strong>2TB</strong> Corsair MP600 Pro, <strong>7000/5700</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "powered-by-icue-amd-ryzen-9-7950x3d-rtx-5090",
+        "id": 14856,
+        "name": "Powered by iCUE - AMD Ryzen 9 7950X3D - RTX 5090",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS33204",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls33204.jpg",
+        "product_type": "simple",
+        "final_price": 5733,
+        "discount_percent": 0,
+        "url_key": "powered-by-icue-amd-ryzen-9-7950x3d-rtx-5090",
+        "image": {
+          "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 5733
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 9 7950X3D</strong>, 16x 4.20 GHz</li>\r\n<li><strong>96GB</strong> DDR5-RAM, Corsair RGB, <strong>6400 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5090</strong>, 32GB GDDR7</li>\r\n<li><strong>1TB</strong> Corsair MP700 Pro, <strong>11700/9600</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 5,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 6,
+            "label": "1000-2000",
+            "value": "1000_2000"
+          },
+          {
+            "count": 6,
+            "label": "2000-3000",
+            "value": "2000_3000"
+          },
+          {
+            "count": 3,
+            "label": "3000-4000",
+            "value": "3000_4000"
+          },
+          {
+            "count": 2,
+            "label": "4000-5000",
+            "value": "4000_5000"
+          },
+          {
+            "count": 3,
+            "label": "5000-6000",
+            "value": "5000_6000"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 8,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 20,
+            "label": "PC Systeme",
+            "value": "Mw=="
+          },
+          {
+            "count": 20,
+            "label": "GAMING PC",
+            "value": "OQ=="
+          },
+          {
+            "count": 20,
+            "label": "POWERED BY EDITION",
+            "value": "MTk4MQ=="
+          },
+          {
+            "count": 4,
+            "label": "Gaming PC AMD Ryzen 7000",
+            "value": "MjIwOQ=="
+          },
+          {
+            "count": 8,
+            "label": "Powered by iCUE",
+            "value": "MzQzOA=="
+          },
+          {
+            "count": 4,
+            "label": "Gaming PC Intel Core (14. Gen)",
+            "value": "MzExOQ=="
+          },
+          {
+            "count": 6,
+            "label": "Powered by MSI",
+            "value": "MTc4MQ=="
+          },
+          {
+            "count": 6,
+            "label": "Powered by ASUS",
+            "value": "MTI2OA=="
+          }
+        ]
+      }
+    ]
+  }
+}

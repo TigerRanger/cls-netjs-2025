@@ -1,0 +1,48 @@
+{
+  "categoryList": [
+    {
+      "id": 1616,
+      "name": "Zubehör",
+      "description": null,
+      "canonical_url": "apple/zubehor",
+      "children_count": "2",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 0,
+      "display_mode": "PAGE",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 0,
+      "custom_title": null,
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "apple/airtag",
+          "name": "AirTag",
+          "position": 1,
+          "url_key": "airtag"
+        },
+        {
+          "canonical_url": "apple/zubehor/kabel-und-adapter",
+          "name": "Kabel & Adapter",
+          "position": 2,
+          "url_key": "kabel-und-adapter"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

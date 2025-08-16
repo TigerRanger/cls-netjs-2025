@@ -1,0 +1,441 @@
+{
+  "categoryList": [
+    {
+      "id": 4211,
+      "name": "Multimedia Desktop PC",
+      "description": null,
+      "canonical_url": "pc-systeme/multimedia-pc/multimedia-desktop-pc",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 12,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 0,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 12,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 20
+    },
+    "items": [
+      {
+        "canonical_url": "desktop-pc-amd-ryzen-5-5500-geforce-gt-1030",
+        "id": 22689,
+        "name": "Desktop PC - AMD Ryzen 5 5500 - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS22026",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/2/1/21392193-1.jpg",
+        "product_type": "simple",
+        "final_price": 552,
+        "discount_percent": 0,
+        "url_key": "desktop-pc-amd-ryzen-5-5500-geforce-gt-1030",
+        "image": {
+          "label": "AMD Basic Multimedia PC 22001",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 552
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 5500</strong>, 6x 3.60 GHz</li>\r\n<li><strong>8GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "desktop-pc-intel-core-i3-13100f-geforce-gt-1030",
+        "id": 22684,
+        "name": "Desktop PC - Intel Core i3-13100F - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS21030",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/2/1/21392193-1_1.jpg",
+        "product_type": "simple",
+        "final_price": 562,
+        "discount_percent": 0,
+        "url_key": "desktop-pc-intel-core-i3-13100f-geforce-gt-1030",
+        "image": {
+          "label": "Desktop PC - Intel Core i3-13100F - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 562
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i3-13100F</strong>, 4x 3.40 GHz</li>\r\n<li><strong>8GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "desktop-pc-amd-ryzen-5-5600x-geforce-gt-1030",
+        "id": 22690,
+        "name": "Desktop PC - AMD Ryzen 5 5600X - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS22027",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/3/2/324324-1.jpg",
+        "product_type": "simple",
+        "final_price": 588,
+        "discount_percent": 0,
+        "url_key": "desktop-pc-amd-ryzen-5-5600x-geforce-gt-1030",
+        "image": {
+          "label": "AMD Basic Multimedia PC 22001",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 588
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 5600X</strong>, 6x 3.70 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "desktop-pc-intel-core-i3-12100f-geforce-gt-1030",
+        "id": 22682,
+        "name": "Desktop PC - Intel Core i3-12100F - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS21029",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/1/2/123123-1.jpg",
+        "product_type": "simple",
+        "final_price": 599,
+        "discount_percent": 0,
+        "url_key": "desktop-pc-intel-core-i3-12100f-geforce-gt-1030",
+        "image": {
+          "label": "Desktop PC - Intel Core i3-12100F - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 599
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i3-12100F</strong>, 4x 3.30 GHz</li>\r\n<li><strong>8GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "desktop-pc-intel-core-i5-14400f-geforce-gt-1030",
+        "id": 22685,
+        "name": "Desktop PC - Intel Core i5-14400F - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS21031",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/3/2/324324-1_1.jpg",
+        "product_type": "simple",
+        "final_price": 649,
+        "discount_percent": 0,
+        "url_key": "desktop-pc-intel-core-i5-14400f-geforce-gt-1030",
+        "image": {
+          "label": "Desktop PC - Intel Core i5-14400F - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 649
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i5-14400F</strong>, 10x 2.50 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "desktop-pc-amd-ryzen-5-7600-geforce-gt-1030",
+        "id": 22692,
+        "name": "Desktop PC - AMD Ryzen 5 7600 - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS22029",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls22029-600.jpg",
+        "product_type": "simple",
+        "final_price": 743,
+        "discount_percent": 0,
+        "url_key": "desktop-pc-amd-ryzen-5-7600-geforce-gt-1030",
+        "image": {
+          "label": "Desktop PC - AMD Ryzen 5 7600 - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 743
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 7600</strong>, 6x 3.80 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "desktop-pc-amd-ryzen-5-8500g-geforce-gt-1030",
+        "id": 22693,
+        "name": "Desktop PC - AMD Ryzen 5 8500G - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS22030",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls22030-600.jpg",
+        "product_type": "simple",
+        "final_price": 744,
+        "discount_percent": 0,
+        "url_key": "desktop-pc-amd-ryzen-5-8500g-geforce-gt-1030",
+        "image": {
+          "label": "Desktop PC - AMD Ryzen 5 8500G - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 744
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 8500G</strong>, 6x 3.50 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "desktop-pc-amd-ryzen-5-9600-geforce-gt-1030",
+        "id": 22694,
+        "name": "Desktop PC - AMD Ryzen 5 9600 - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS22031",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/5/5/555-1.jpg",
+        "product_type": "simple",
+        "final_price": 813,
+        "discount_percent": 0,
+        "url_key": "desktop-pc-amd-ryzen-5-9600-geforce-gt-1030",
+        "image": {
+          "label": "Desktop PC - AMD Ryzen 5 9600 - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 813
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 9600</strong>, 6x 3.80 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "desktop-pc-amd-ryzen-7-5700x-geforce-rtx-3050",
+        "id": 22691,
+        "name": "Desktop PC - AMD Ryzen 7 5700X - GeForce RTX 3050",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS22028",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/6/6/666-1.jpg",
+        "product_type": "simple",
+        "final_price": 815,
+        "discount_percent": 0,
+        "url_key": "desktop-pc-amd-ryzen-7-5700x-geforce-rtx-3050",
+        "image": {
+          "label": "AMD Advanced Multimedia PC 22002",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 815
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 7 5700X</strong>, 8x 3.40 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 3050</strong>, 6GB GDDR6</li>\r\n<li><strong>1TB </strong>Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "desktop-pc-intel-core-ultra-5-225f-geforce-gt-1030",
+        "id": 22686,
+        "name": "Desktop PC - Intel Core Ultra 5 225F - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS21032",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/6/6/666-1_1.jpg",
+        "product_type": "simple",
+        "final_price": 845,
+        "discount_percent": 0,
+        "url_key": "desktop-pc-intel-core-ultra-5-225f-geforce-gt-1030",
+        "image": {
+          "label": "Desktop PC - Intel Core Ultra 5 225F - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 845
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 225F</strong>, 10 Kerne, 2.70 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "desktop-pc-intel-core-ultra-5-245-geforce-gt-1030",
+        "id": 22687,
+        "name": "Desktop PC - Intel Core Ultra 5 245 - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS21033",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/6/6/666-1_2.jpg",
+        "product_type": "simple",
+        "final_price": 929,
+        "discount_percent": 0,
+        "url_key": "desktop-pc-intel-core-ultra-5-245-geforce-gt-1030",
+        "image": {
+          "label": "Desktop PC - Intel Core Ultra 5 245 - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 929
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 245</strong>, 14 Kerne, 3.00 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "desktop-pc-intel-core-ultra-7-265f-geforce-rtx-3050",
+        "id": 22688,
+        "name": "Desktop PC - Intel Core Ultra 7 265F - GeForce RTX 3050",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS21034",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/5/5/555-1_1.jpg",
+        "product_type": "simple",
+        "final_price": 1107,
+        "discount_percent": 0,
+        "url_key": "desktop-pc-intel-core-ultra-7-265f-geforce-rtx-3050",
+        "image": {
+          "label": "Desktop PC - Intel Core Ultra 7 265F - GeForce RTX 3050",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1107
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 7 265F</strong>, 20 Kerne, 1.80 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 3050</strong>, 6GB GDDR6</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 2,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 11,
+            "label": "0-1000",
+            "value": "0_1000"
+          },
+          {
+            "count": 1,
+            "label": "1000-2000",
+            "value": "1000_2000"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 6,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 12,
+            "label": "PC Systeme",
+            "value": "Mw=="
+          },
+          {
+            "count": 12,
+            "label": "MULTIMEDIA PC",
+            "value": "NjQ="
+          },
+          {
+            "count": 12,
+            "label": "DESKTOP PC",
+            "value": "MTk4MA=="
+          },
+          {
+            "count": 6,
+            "label": "Desktop PC AMD Ryzen",
+            "value": "MTk5OQ=="
+          },
+          {
+            "count": 12,
+            "label": "Multimedia Desktop PC",
+            "value": "NDIxMQ=="
+          },
+          {
+            "count": 6,
+            "label": "Desktop PC Intel Core",
+            "value": "MTk5OA=="
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "categoryList": [
+    {
+      "id": 2961,
+      "name": "KVM Switch",
+      "description": null,
+      "canonical_url": "hardware/monitore/zubehor/kvm-switch",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": "KVM-Switches günstig kaufen um zwei oder mehr Computer zu verbinden von CLS Computer ✓ Top Preise ✓ Große Auswahl ✓ Beste Qualität ✓5 Jahre Service.",
+      "meta_keywords": "KVM-Switches günstig kaufen",
+      "meta_title": "KVM-Switches günstig Online kaufen von CLS Computer",
+      "product_count": 0,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "KVM-Switches günstig Online kaufen| CLS Computer",
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

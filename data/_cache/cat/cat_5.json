@@ -1,0 +1,174 @@
+{
+  "categoryList": [
+    {
+      "id": 5,
+      "name": "Hardware",
+      "description": null,
+      "canonical_url": "hardware",
+      "children_count": "23",
+      "image": "http://cls-computer-admin.nz/media/catalog/category/PC_Hardware_G_nstig_Online_Kaufen.webp",
+      "is_anchor": 1,
+      "meta_description": "PC hardware günstig online Kaufen: Hardwarekonfiguration - pc hardware zusammenstellen von cls computer ✓ Top Preise ✓ Schneller Versand !",
+      "meta_keywords": "hardware",
+      "meta_title": "PC Hardware Günstig Online Kaufen - PC Hardware Zusammenstellen",
+      "product_count": 0,
+      "display_mode": "PAGE",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "PC Hardware Günstig Online Kaufen",
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "hardware/prozessoren-cpu",
+          "name": "Prozessoren (CPU)",
+          "position": 1,
+          "url_key": "prozessoren-cpu"
+        },
+        {
+          "canonical_url": "hardware/mainboard",
+          "name": "Mainboards",
+          "position": 2,
+          "url_key": "mainboard"
+        },
+        {
+          "canonical_url": "hardware/arbeitsspeicher",
+          "name": "Arbeitsspeicher / RAM",
+          "position": 3,
+          "url_key": "arbeitsspeicher"
+        },
+        {
+          "canonical_url": "hardware/festplatten",
+          "name": "Festplatten",
+          "position": 4,
+          "url_key": "festplatten"
+        },
+        {
+          "canonical_url": "hardware/grafikkarten",
+          "name": "Grafikkarten",
+          "position": 5,
+          "url_key": "grafikkarten"
+        },
+        {
+          "canonical_url": "hardware/gehause",
+          "name": "Gehäuse",
+          "position": 6,
+          "url_key": "gehause"
+        },
+        {
+          "canonical_url": "hardware/netzteile",
+          "name": "Netzteile",
+          "position": 7,
+          "url_key": "netzteile"
+        },
+        {
+          "canonical_url": "hardware/kuhler-lufter",
+          "name": "Kühler & Lüfter",
+          "position": 8,
+          "url_key": "kuhler-lufter"
+        },
+        {
+          "canonical_url": "hardware/eingabegerate",
+          "name": "Eingabegeräte",
+          "position": 9,
+          "url_key": "eingabegerate"
+        },
+        {
+          "canonical_url": "hardware/laufwerke-rohlinge",
+          "name": "Laufwerke",
+          "position": 10,
+          "url_key": "laufwerke-rohlinge"
+        },
+        {
+          "canonical_url": "hardware/flash-speichermedien",
+          "name": "Speichermedien",
+          "position": 11,
+          "url_key": "flash-speichermedien"
+        },
+        {
+          "canonical_url": "hardware/soundkarten",
+          "name": "Soundkarten",
+          "position": 12,
+          "url_key": "soundkarten"
+        },
+        {
+          "canonical_url": "hardware/monitore",
+          "name": "Monitore",
+          "position": 13,
+          "url_key": "monitore"
+        },
+        {
+          "canonical_url": "hardware/drucker-scanner-fax",
+          "name": "Drucker / Scanner / Fax",
+          "position": 14,
+          "url_key": "drucker-scanner-fax"
+        },
+        {
+          "canonical_url": "hardware/tablets-und-zubehoer",
+          "name": "Tablets & Zubehör",
+          "position": 17,
+          "url_key": "tablets-und-zubehoer"
+        },
+        {
+          "canonical_url": "hardware/telefonie",
+          "name": "Telefonie",
+          "position": 18,
+          "url_key": "telefonie"
+        },
+        {
+          "canonical_url": "hardware/tv-audio",
+          "name": "TV & Audio",
+          "position": 19,
+          "url_key": "tv-audio"
+        },
+        {
+          "canonical_url": "hardware/usb-hub",
+          "name": "USB Hub",
+          "position": 20,
+          "url_key": "usb-hub"
+        },
+        {
+          "canonical_url": "hardware/controller-io",
+          "name": "Controller / IO",
+          "position": 21,
+          "url_key": "controller-io"
+        },
+        {
+          "canonical_url": "hardware/barebone-systeme",
+          "name": "Barebone-Systeme",
+          "position": 22,
+          "url_key": "barebone-systeme"
+        },
+        {
+          "canonical_url": "hardware/foto-video",
+          "name": "Foto & Video",
+          "position": 23,
+          "url_key": "foto-video"
+        },
+        {
+          "canonical_url": "hardware/datensicherungssysteme",
+          "name": "Datensicherungssysteme",
+          "position": 24,
+          "url_key": "datensicherungssysteme"
+        },
+        {
+          "canonical_url": "hardware/netzwerkprodukte",
+          "name": "Netzwerkprodukte",
+          "position": 25,
+          "url_key": "netzwerkprodukte"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

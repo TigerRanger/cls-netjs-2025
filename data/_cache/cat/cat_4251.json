@@ -1,0 +1,209 @@
+{
+  "categoryList": [
+    {
+      "id": 4251,
+      "name": "Workstation Intel Core (14. Gen)",
+      "description": null,
+      "canonical_url": "pc-systeme/workstation/workstation-intel-core-14-gen",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 4,
+      "display_mode": null,
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": null,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 4,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 20
+    },
+    "items": [
+      {
+        "canonical_url": "workstation-intel-core-i5-14600k-rtx-5060-ti",
+        "id": 12810,
+        "name": "Workstation - Intel Core i5-14600K - RTX 5060 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51010",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls51010-5000_1.jpg",
+        "product_type": "simple",
+        "final_price": 1408,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-i5-14600k-rtx-5060-ti",
+        "image": {
+          "label": "Workstation - Intel Core i5-14600K - RTX 5060 Ti",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1408
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i5-14600K</strong>, 14x 3.50 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5060 Ti</strong>, 8GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-i7-14700k-rtx-5070-ti",
+        "id": 12811,
+        "name": "Workstation - Intel Core i7-14700K - RTX 5070 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51011",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls51011-5000_1.jpg",
+        "product_type": "simple",
+        "final_price": 2313,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-i7-14700k-rtx-5070-ti",
+        "image": {
+          "label": "Workstation - Intel Core i7-14700K - RTX 5070 Ti",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2313
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i7-14700K</strong>, 20x 3.40 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5070 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-i9-14900k-rtx-5080",
+        "id": 12812,
+        "name": "Workstation - Intel Core i9-14900K - RTX 5080",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51012",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls51012-5000_1.jpg",
+        "product_type": "simple",
+        "final_price": 2976,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-i9-14900k-rtx-5080",
+        "image": {
+          "label": "Workstation - Intel Core i9-14900K - RTX 5080",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2976
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i9-14900K</strong>, 24x 3.20 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5080</strong>, 16GB GDDR7</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-i9-14900k-rtx-5090",
+        "id": 12813,
+        "name": "Workstation - Intel Core i9-14900K - RTX 5090",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51025",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls51025-5000.jpg",
+        "product_type": "simple",
+        "final_price": 4763,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-i9-14900k-rtx-5090",
+        "image": {
+          "label": "Workstation - Intel Core i9-14900K - RTX 5090",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 4763
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i9-14900K</strong>, 24x 3.20 GHz</li>\r\n<li><strong>96GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5090</strong>, 32GB GDDR7</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 3,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 1,
+            "label": "1000-2000",
+            "value": "1000_2000"
+          },
+          {
+            "count": 2,
+            "label": "2000-3000",
+            "value": "2000_3000"
+          },
+          {
+            "count": 1,
+            "label": "4000-5000",
+            "value": "4000_5000"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 5,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 4,
+            "label": "PC Systeme",
+            "value": "Mw=="
+          },
+          {
+            "count": 4,
+            "label": "WORKSTATION PC",
+            "value": "Njk="
+          },
+          {
+            "count": 4,
+            "label": "Workstation Intel Core (14. Gen)",
+            "value": "MzEyNA=="
+          },
+          {
+            "count": 4,
+            "label": "WORKSTATION",
+            "value": "NDIzOQ=="
+          },
+          {
+            "count": 4,
+            "label": "Workstation Intel Core (14. Gen)",
+            "value": "NDI1MQ=="
+          }
+        ]
+      }
+    ]
+  }
+}

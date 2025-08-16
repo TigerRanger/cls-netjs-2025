@@ -1,0 +1,616 @@
+{
+  "categoryList": [
+    {
+      "id": 608,
+      "name": "Sale",
+      "description": null,
+      "canonical_url": "top-angebote",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 0,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 49,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 0,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 49,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 3,
+      "page_size": 20
+    },
+    "items": [
+      {
+        "canonical_url": "8-in-1-usb-c-adapter",
+        "id": 14928,
+        "name": "8 in 1 USB-C Adapter",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLSA10049",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/clsa10049-1_1.jpg",
+        "product_type": "simple",
+        "final_price": 18,
+        "discount_percent": 0,
+        "url_key": "8-in-1-usb-c-adapter",
+        "image": {
+          "label": "8 in 1 USB-C Adapter",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 18
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\n<li>1x HDMI (bis zu 4K @60Hz)</li>\n<li>SD/microSD Card Reader</li>\n<li>2x USB-C 3.1, 2x USB-A 3.0</li>\n<li>1x RJ-45 (10/100Mbit)</li>\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "lenovo-thinkpad-usb-c-dock-gen2-usb-c-3-1",
+        "id": 23646,
+        "name": "Lenovo ThinkPad USB-C Dock Gen2, USB-C 3.1",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS5684227",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/p/c/pcs5684227-1.jpg",
+        "product_type": "simple",
+        "final_price": 135,
+        "discount_percent": 0,
+        "url_key": "lenovo-thinkpad-usb-c-dock-gen2-usb-c-3-1",
+        "image": {
+          "label": "Lenovo ThinkPad USB-C Dock Gen2, USB-C 3.1",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 135
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p><strong>Lenovo ThinkPad USB-C Dock Gen2, USB-C 3.1</strong></p>"
+        }
+      },
+      {
+        "canonical_url": "office-pc-amd-ryzen-3-3200g-radeon-graphics",
+        "id": 19996,
+        "name": "Office PC - AMD Ryzen 3 3200G - Radeon Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLSA10095",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/clsa10095-50001.jpg",
+        "product_type": "simple",
+        "final_price": 381,
+        "discount_percent": 0,
+        "url_key": "office-pc-amd-ryzen-3-3200g-radeon-graphics",
+        "image": {
+          "label": "Office PC - AMD Ryzen 3 3200G - Radeon Graphics",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 381
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 3 3200G</strong>, 4x 3.60 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>AMD Radeon Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB </strong>M.2 Solid State Drive</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-pc-intel-core-i3-12100-uhd-graphics-1",
+        "id": 20042,
+        "name": "Office PC - Intel Core i3-12100 - UHD Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLSA10098",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/clsa10098-5000.jpg",
+        "product_type": "simple",
+        "final_price": 400,
+        "discount_percent": 0,
+        "url_key": "office-pc-intel-core-i3-12100-uhd-graphics",
+        "image": {
+          "label": "Office PC - Intel Core i3-12100 - UHD Graphics",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 400
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i3-12100</strong>, 4x 3.30 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>Intel UHD Graphics 730 <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> M.2 Solid State Drive</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-pc-intel-core-i5-14400-uhd-graphics-1",
+        "id": 20422,
+        "name": "Office PC - Intel Core i5-14400 - UHD Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLSA10115",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/clsa10115-50020.jpg",
+        "product_type": "simple",
+        "final_price": 490,
+        "discount_percent": 0,
+        "url_key": "office-pc-intel-core-i5-14400-uhd-graphics",
+        "image": {
+          "label": "Intel Office Desktop PC 11005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 490
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i5-14400</strong>, 10x 2.50 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, Corsair, <strong>3600 MHz</strong></li>\r\n<li>Intel UHD Graphics 730 <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> WD Green SN3000, <strong>5000/4200</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-laptop-17-3-amd-ryzen-7-7520u-radeon-graphics",
+        "id": 19642,
+        "name": "Office Laptop - 17.3\" - AMD Ryzen 7 7520U - Radeon Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLSA10079",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/clsa10079-1.webp",
+        "product_type": "simple",
+        "final_price": 499,
+        "discount_percent": 0,
+        "url_key": "office-laptop-17-3-amd-ryzen-7-7520u-radeon-graphics",
+        "image": {
+          "label": "office laptop HP 17-cp2460ng",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 499
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>17.3\" HP </strong>17-cp2460ng Jet Black</li>\r\n<li><strong>AMD Ryzen 5 7520U</strong>, 4x 2.80 GHz</li>\r\n<li><strong>8GB</strong> LPDDR5-SDRAM, <strong>5500 MHz</strong></li>\r\n<li>AMD Radeon 610M Graphics <strong>(IGP)</strong></li>\r\n<li><strong>256GB</strong> M.2 Solid State Drive</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-laptop-15-6-intel-core-i5-13420h-uhd-graphics",
+        "id": 19675,
+        "name": "Office Laptop - 15.6\" - Intel Core i5-13420H - UHD Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLSA10090",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/clsa10090-1.webp",
+        "product_type": "simple",
+        "final_price": 529,
+        "discount_percent": 0,
+        "url_key": "office-laptop-15-6-intel-core-i5-13420h-uhd-graphics",
+        "image": {
+          "label": "Office Laptop - 15.6\" - Intel Core i5-13420H - UHD Graphics",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 529
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>15.6\" Lenovo </strong>V15 G4 IRU Iron Gray</li>\r\n<li><strong>Intel Core i5-13420H</strong>, 8x 2.10 GHz</li>\r\n<li><strong>8GB</strong> DDR4-SDRAM, <strong>3200 MHz</strong></li>\r\n<li>Intel UHD Graphics <strong>(IGP)</strong></li>\r\n<li><strong>512GB</strong> M.2 Solid State Drive</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-laptop-15-6-amd-ryzen-5-7530u-radeon-graphics",
+        "id": 19989,
+        "name": "Office Laptop - 15.6\" - AMD Ryzen 5 7530U - Radeon Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLSA10091",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/o/f/office_laptop_msi_modern_15.webp",
+        "product_type": "simple",
+        "final_price": 529,
+        "discount_percent": 0,
+        "url_key": "office-laptop-15-6-amd-ryzen-5-7530u-radeon-graphics",
+        "image": {
+          "label": "Office laptop MSI Modern 15",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 529
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>15.6\" MSI </strong>Modern 15 Classic Black</li>\r\n<li><strong>AMD Ryzen 5 7530U</strong>, 6x 2.00 GHz</li>\r\n<li><strong>16GB</strong> DDR4-SDRAM, <strong>3200 MHz</strong></li>\r\n<li>AMD Radeon Graphics <strong>(IGP)</strong></li>\r\n<li><strong>512GB</strong> M.2 Solid State Drive</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-laptop-17-3-amd-ryzen-7-7520u-radeon-graphics-1",
+        "id": 19643,
+        "name": "Office Laptop - 17.3\" - AMD Ryzen 7 7520U - Radeon Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLSA10080",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/clsa10079-1_1.webp",
+        "product_type": "simple",
+        "final_price": 569,
+        "discount_percent": 0,
+        "url_key": "office-laptop-17-3-amd-ryzen-7-7520u-radeon-graphics",
+        "image": {
+          "label": "office pc HP 17-cp2460ng",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 569
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>17.3\" HP </strong>17-cp2460ng Jet Black</li>\r\n<li><strong>AMD Ryzen 5 7520U</strong>, 4x 2.80 GHz</li>\r\n<li><strong>8GB</strong> LPDDR5-SDRAM, <strong>5500 MHz</strong></li>\r\n<li>AMD Radeon 610M Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> M.2 Solid State Drive</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-laptop-15-6-amd-ryzen-5-7530u-radeon-graphics-1",
+        "id": 19990,
+        "name": "Office Laptop - 15.6\" - AMD Ryzen 5 7530U - Radeon Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLSA10092",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/o/f/office_laptop_msi_modern_15_1.webp",
+        "product_type": "simple",
+        "final_price": 579,
+        "discount_percent": 0,
+        "url_key": "office-laptop-15-6-amd-ryzen-5-7530u-radeon-graphics",
+        "image": {
+          "label": "Office laptop MSI Modern 15",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 579
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>15.6\" MSI </strong>Modern 15 Classic Black</li>\r\n<li><strong>AMD Ryzen 5 7530U</strong>, 6x 2.00 GHz</li>\r\n<li><strong>16GB</strong> DDR4-SDRAM, <strong>3200 MHz</strong></li>\r\n<li>AMD Radeon Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> M.2 Solid State Drive</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-laptop-15-6-intel-core-i5-13420h-uhd-graphics-1",
+        "id": 20215,
+        "name": "Office Laptop - 15.6\" - Intel Core i5-13420H - UHD Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLSA10101",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/clsa10101-10000.webp",
+        "product_type": "simple",
+        "final_price": 629,
+        "discount_percent": 0,
+        "url_key": "office-laptop-15-6-intel-core-i5-13420h-uhd-graphics",
+        "image": {
+          "label": "Office Laptop - 15.6\" - Intel Core i5-13420H - UHD Graphics",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 629
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>15.6\" Lenovo </strong>V15 G4 IRU Iron Gray</li>\r\n<li><strong>Intel Core i5-13420H</strong>, 8x 2.10 GHz</li>\r\n<li><strong>16GB</strong> DDR4-SDRAM, <strong>3200 MHz</strong></li>\r\n<li>Intel UHD Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> M.2 Solid State Drive</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-pc-amd-ryzen-5-4500-rtx-3050",
+        "id": 20001,
+        "name": "Gaming PC - AMD Ryzen 5 4500 - RTX 3050",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLSA10096",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/f/s/fsp-cmt192.webp",
+        "product_type": "simple",
+        "final_price": 631,
+        "discount_percent": 0,
+        "url_key": "gaming-pc-amd-ryzen-5-4500-rtx-3050",
+        "image": {
+          "label": "gaming pc",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 631
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 4500</strong>, 6x 3.60 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 3050</strong>, 6GB</li>\r\n<li><strong>1TB </strong>M.2 Solid State Drive</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-laptop-17-3-amd-ryzen-7-7730u-radeon-graphics",
+        "id": 19639,
+        "name": "Office Laptop - 17.3\" - AMD Ryzen 7 7730U - Radeon Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLSA10077",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/clsa10077-1.webp",
+        "product_type": "simple",
+        "final_price": 659,
+        "discount_percent": 0,
+        "url_key": "office-laptop-17-3-amd-ryzen-7-7730u-radeon-graphics",
+        "image": {
+          "label": "office pc HP 17-cp3473ng",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 659
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>17.3\" HP </strong>17-cp3473ng Jet Black</li>\r\n<li><strong>AMD Ryzen 7 7730U</strong>, 8x 2.00 GHz</li>\r\n<li><strong>16GB</strong> DDR4-SDRAM, <strong>3200 MHz</strong></li>\r\n<li>AMD Radeon Graphics <strong>(IGP)</strong></li>\r\n<li><strong>512GB</strong> M.2 Solid State Drive</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gigabyte-geforce-rtx-5070-gaming-oc-12g-12gb-gddr7-hdmi-3x-dp-1",
+        "id": 21602,
+        "name": "GIGABYTE GeForce RTX 5070 Gaming OC 12G, 12GB GDDR7, HDMI, 3x DP",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS9253592",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls9253592.webp",
+        "product_type": "simple",
+        "final_price": 669,
+        "discount_percent": 0,
+        "url_key": "gigabyte-geforce-rtx-5070-gaming-oc-12g-12gb-gddr7-hdmi-3x-dp",
+        "image": {
+          "label": "GIGABYTE GeForce RTX 5070 Gaming OC 12G, 12GB GDDR7, HDMI, 3x DP",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 669
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p><strong>GIGABYTE GeForce RTX 5070 Gaming OC 12G, 12GB GDDR7, HDMI, 3x DP</strong></p>"
+        }
+      },
+      {
+        "canonical_url": "gaming-pc-intel-core-i3-14100f-rtx-3050",
+        "id": 20043,
+        "name": "Gaming PC - Intel Core i3-14100F - RTX 3050",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLSA10099",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/f/s/fsp-cmt192_1.webp",
+        "product_type": "simple",
+        "final_price": 681,
+        "discount_percent": 0,
+        "url_key": "gaming-pc-intel-core-i3-14100f-rtx-3050",
+        "image": {
+          "label": "gaming pc",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 681
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i3-14100F</strong>, 4x 3.50 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 3050</strong>, 6GB</li>\r\n<li><strong>1TB</strong> Kingston NV3, <strong>6000/4000</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "asrock-radeon-rx-9070-challenger-16gb-16gb-gddr6-hdmi-3x-dp-1",
+        "id": 21150,
+        "name": "ASRock Radeon RX 9070 Challenger 16GB, 16GB GDDR6, HDMI, 3x DP",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS2632551",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls2632551.webp",
+        "product_type": "simple",
+        "final_price": 682,
+        "discount_percent": 0,
+        "url_key": "asrock-radeon-rx-9070-challenger-16gb-16gb-gddr6-hdmi-3x-dp",
+        "image": {
+          "label": "ASRock Radeon RX 9070 Challenger 16GB, 16GB GDDR6, HDMI, 3x DP",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 682
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p><strong>ASRock Radeon RX 9070 Challenger 16GB, 16GB GDDR6, HDMI, 3x DP</strong></p>"
+        }
+      },
+      {
+        "canonical_url": "all-in-one-pc-intel-core-i3-1315u-uhd-graphics-27",
+        "id": 19653,
+        "name": "All-in-One PC - Intel Core i3-1315U - UHD Graphics (27\")",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLSA10084",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/h/p/hp_all-in-one_27-cr0107ng.webp",
+        "product_type": "simple",
+        "final_price": 699,
+        "discount_percent": 0,
+        "url_key": "all-in-one-pc-intel-core-i3-1315u-uhd-graphics-27",
+        "image": {
+          "label": "all in one pc",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 699
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>27\"</strong> <strong>HP</strong> All-in-One 27-cr0107ng Weiß</li>\r\n<li><strong>Intel Core i3-1315U</strong>, 6x 1.20 GHz</li>\r\n<li><strong>8GB</strong> DDR4-SDRAM, <strong>3200 MHz</strong></li>\r\n<li>Intel UHD Graphics <strong>(IGP)</strong></li>\r\n<li><strong>512GB</strong> M.2 Solid State Drive</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-laptop-17-3-amd-ryzen-7-7730u-radeon-graphics-1",
+        "id": 19641,
+        "name": "Office Laptop - 17.3\" - AMD Ryzen 7 7730U - Radeon Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLSA10078",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/clsa10077-1_2.webp",
+        "product_type": "simple",
+        "final_price": 729,
+        "discount_percent": 0,
+        "url_key": "office-laptop-17-3-amd-ryzen-7-7730u-radeon-graphics",
+        "image": {
+          "label": "office notebook HP 17-cp3473ng",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 729
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>17.3\" HP </strong>17-cp3473ng Jet Black</li>\r\n<li><strong>AMD Ryzen 7 7730U</strong>, 8x 2.00 GHz</li>\r\n<li><strong>16GB</strong> DDR4-SDRAM, <strong>3200 MHz</strong></li>\r\n<li>AMD Radeon Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> M.2 Solid State Drive</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "powercolor-hellhound-radeon-rx-9070-xt-16gb-gddr6-hdmi-3x-dp-1",
+        "id": 20998,
+        "name": "PowerColor Hellhound Radeon RX 9070 XT, 16GB GDDR6, HDMI, 3x DP",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS1400094",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/3/2/324234.webp",
+        "product_type": "simple",
+        "final_price": 739,
+        "discount_percent": 0,
+        "url_key": "powercolor-hellhound-radeon-rx-9070-xt-16gb-gddr6-hdmi-3x-dp",
+        "image": {
+          "label": "PowerColor Hellhound Radeon RX 9070 XT, 16GB GDDR6, HDMI, 3x DP",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 739
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p><strong>PowerColor Hellhound Radeon RX 9070 XT, 16GB GDDR6, HDMI, 3x DP</strong></p>"
+        }
+      },
+      {
+        "canonical_url": "xfx-swift-radeon-rx-9070-xt-triple-fan-gaming-edition-16gb-gddr6-hdmi-3x-dp",
+        "id": 21355,
+        "name": "XFX Swift Radeon RX 9070 XT Triple Fan Gaming Edition, 16GB GDDR6, HDMI, 3x DP",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS9253653",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls9253653.jpg",
+        "product_type": "simple",
+        "final_price": 765,
+        "discount_percent": 0,
+        "url_key": "xfx-swift-radeon-rx-9070-xt-triple-fan-gaming-edition-16gb-gddr6-hdmi-3x-dp",
+        "image": {
+          "label": "XFX Swift Radeon RX 9070 XT Triple Fan Gaming Edition, 16GB GDDR6, HDMI, 3x DP",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 765
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p><strong>XFX Swift Radeon RX 9070 XT Triple Fan Gaming Edition, 16GB GDDR6, HDMI, 3x DP</strong></p>"
+        }
+      }
+    ],
+    "aggregations": null
+  }
+}

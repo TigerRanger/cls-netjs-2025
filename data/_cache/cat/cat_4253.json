@@ -1,0 +1,330 @@
+{
+  "categoryList": [
+    {
+      "id": 4253,
+      "name": "Workstation AMD Threadripper 5000",
+      "description": null,
+      "canonical_url": "pc-systeme/workstation/workstation-amd-threadripper-5000",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 8,
+      "display_mode": null,
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": null,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 8,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 20
+    },
+    "items": [
+      {
+        "canonical_url": "workstation-amd-threadripper-pro-5955wx-rtx-5060-ti",
+        "id": 11062,
+        "name": "Workstation - AMD Threadripper Pro 5955WX - RTX 5060 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS52013",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs7041301_1.jpg",
+        "product_type": "simple",
+        "final_price": 3701,
+        "discount_percent": 0,
+        "url_key": "workstation-amd-threadripper-pro-5955wx-rtx-5060-ti",
+        "image": {
+          "label": "AMD Professional Workstation 52006",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 3701
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Threadripper Pro 5955WX</strong>, 16x 4.00 GHz</li>\r\n<li><strong>64GB</strong> DDR4-RAM, Samsung, ECC, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 5060 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-amd-threadripper-pro-5955wx-rtx-a4000",
+        "id": 11063,
+        "name": "Workstation - AMD Threadripper Pro 5955WX - RTX A4000",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS52014",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs6241086_1.jpg",
+        "product_type": "simple",
+        "final_price": 4516,
+        "discount_percent": 0,
+        "url_key": "workstation-amd-threadripper-pro-5955wx-rtx-a4000",
+        "image": {
+          "label": "AMD Professional Workstation 52006",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 4516
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Threadripper Pro 5955WX</strong>, 16x 4.00 GHz</li>\r\n<li><strong>64GB</strong> DDR4-RAM, Samsung, ECC, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA Quadro <strong>RTX A4000</strong>, 16GB GDDR6</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-amd-threadripper-pro-5965wx-rtx-5070-ti",
+        "id": 11064,
+        "name": "Workstation - AMD Threadripper Pro 5965WX - RTX 5070 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS52015",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs7041301_2.jpg",
+        "product_type": "simple",
+        "final_price": 4704,
+        "discount_percent": 0,
+        "url_key": "workstation-amd-threadripper-pro-5965wx-rtx-5070-ti",
+        "image": {
+          "label": "AMD Professional Workstation 52006",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 4704
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Threadripper Pro 5965WX</strong>, 24x 3.80 GHz</li>\r\n<li><strong>64GB</strong> DDR4-RAM, Samsung, ECC, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 5070 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-amd-threadripper-pro-5965wx-rtx-5080",
+        "id": 11065,
+        "name": "Workstation - AMD Threadripper Pro 5965WX - RTX 5080",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS52016",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs6241086_2.jpg",
+        "product_type": "simple",
+        "final_price": 5000,
+        "discount_percent": 0,
+        "url_key": "workstation-amd-threadripper-pro-5965wx-rtx-5080",
+        "image": {
+          "label": "AMD Professional Workstation 52006",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 5000
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Threadripper Pro 5965WX</strong>, 24x 3.80 GHz</li>\r\n<li><strong>64GB</strong> DDR4-RAM, Samsung, ECC, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 5080</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-amd-threadripper-pro-5975wx-rtx-5090",
+        "id": 11066,
+        "name": "Workstation - AMD Threadripper Pro 5975WX - RTX 5090",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS52017",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs7041301_3.jpg",
+        "product_type": "simple",
+        "final_price": 7093,
+        "discount_percent": 0,
+        "url_key": "workstation-amd-threadripper-pro-5975wx-rtx-5090",
+        "image": {
+          "label": "Workstation - AMD Threadripper Pro 5975WX - RTX 5090",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 7093
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Threadripper Pro 5975WX</strong>, 32x 3.60 GHz</li>\r\n<li><strong>64GB</strong> DDR4-RAM, Samsung, ECC, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 5090</strong>, 32GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-amd-threadripper-pro-5975wx-rtx-a6000",
+        "id": 11067,
+        "name": "Workstation - AMD Threadripper Pro 5975WX - RTX A6000",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS52018",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs6241086_3.jpg",
+        "product_type": "simple",
+        "final_price": 11058,
+        "discount_percent": 0,
+        "url_key": "workstation-amd-threadripper-pro-5975wx-rtx-a6000",
+        "image": {
+          "label": "Workstation - AMD Threadripper Pro 5975WX - RTX A6000",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 11058
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Threadripper Pro 5975WX</strong>, 32x 3.60 GHz</li>\r\n<li><strong>128GB</strong> DDR4-RAM, Samsung, ECC, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA Quadro <strong>RTX A6000</strong>, 48GB GDDR6</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-amd-threadripper-pro-5995wx-2x-rtx-a6000",
+        "id": 11068,
+        "name": "Workstation - AMD Threadripper Pro 5995WX - 2x RTX A6000",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS52019",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs7041301_4.jpg",
+        "product_type": "simple",
+        "final_price": 20176,
+        "discount_percent": 0,
+        "url_key": "workstation-amd-threadripper-pro-5995wx-2x-rtx-a6000",
+        "image": {
+          "label": "Workstation - AMD Threadripper Pro 5995WX - 2x RTX A6000",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 20176
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Threadripper Pro 5995WX</strong>, 64x 2.70 GHz</li>\r\n<li><strong>128GB</strong> DDR4-RAM, Samsung, ECC, <strong>3200 MHz</strong></li>\r\n<li><strong>2x</strong> NVIDIA Quadro <strong>RTX A6000</strong>, 48GB GDDR6</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-amd-threadripper-pro-5995wx-4x-rtx-a6000",
+        "id": 11069,
+        "name": "Workstation - AMD Threadripper Pro 5995WX - 4x RTX A6000",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS52020",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs6241086_4.jpg",
+        "product_type": "simple",
+        "final_price": 33303,
+        "discount_percent": 0,
+        "url_key": "workstation-amd-threadripper-pro-5995wx-4x-rtx-a6000",
+        "image": {
+          "label": "Workstation - AMD Threadripper Pro 5995WX - 4x RTX A6000",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 33303
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Threadripper Pro 5995WX</strong>, 64x 2.70 GHz</li>\r\n<li><strong>256GB</strong> DDR4-RAM, Samsung, ECC, <strong>3200 MHz</strong></li>\r\n<li><strong>4x</strong> NVIDIA Quadro <strong>RTX A6000</strong>, 48GB GDDR6</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 4,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 5,
+            "label": "0-10000",
+            "value": "0_10000"
+          },
+          {
+            "count": 1,
+            "label": "10000-20000",
+            "value": "10000_20000"
+          },
+          {
+            "count": 1,
+            "label": "20000-30000",
+            "value": "20000_30000"
+          },
+          {
+            "count": 1,
+            "label": "30000-40000",
+            "value": "30000_40000"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 5,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 8,
+            "label": "PC Systeme",
+            "value": "Mw=="
+          },
+          {
+            "count": 8,
+            "label": "WORKSTATION PC",
+            "value": "Njk="
+          },
+          {
+            "count": 8,
+            "label": "Workstation AMD Threadripper 5000",
+            "value": "MjY1OQ=="
+          },
+          {
+            "count": 8,
+            "label": "WORKSTATION",
+            "value": "NDIzOQ=="
+          },
+          {
+            "count": 8,
+            "label": "Workstation AMD Threadripper 5000",
+            "value": "NDI1Mw=="
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -8,7 +8,7 @@
       "children": [
         {
           "id": 3,
-          "name": "PC-Systeme",
+          "name": "PC Systeme",
           "url_key": "pc-systeme",
           "mega_icon": null,
           "canonical_url": "pc-systeme",
@@ -17,7 +17,7 @@
           "include_in_menu": 1,
           "menutype": "Mega",
           "menutypecol": "17,16,19,17,20",
-          "display_mode": "PRODUCTS",
+          "display_mode": "PRODUCTS_AND_PAGE",
           "is_anchor": 0,
           "children": [
             {
@@ -4737,9 +4737,9 @@
     "top_mega_menu": "2",
     "twitter_X": "#",
     "youtube": "#",
-    "grid_per_page_values": "25,50,75",
-    "grid_per_page": "25",
+    "grid_per_page_values": "20,40,60",
+    "grid_per_page": "20",
     "default_sort_by": "price",
-    "default_sort_direction": null
+    "default_sort_direction": "ASC"
   }
 }

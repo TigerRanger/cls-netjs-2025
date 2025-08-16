@@ -1,0 +1,35 @@
+{
+  "categoryList": [
+    {
+      "id": 92,
+      "name": "2-in-1 / Convertibles",
+      "description": null,
+      "canonical_url": "notebooks/2-in-1-convertibles",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 0,
+      "meta_description": "2 in 1 Convertibles - 2 in 1 Laptop und 2 in 1 Tablet günstig online kaufen mit großer Auswahl ✓Gratis Versand ✓5 Jahre Service ✓Beste Qualität !",
+      "meta_keywords": "2 in 1 Convertibles Laptop",
+      "meta_title": "2 in 1 Convertibles Laptop und Tablet günstig kaufen | CLS",
+      "product_count": 0,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "2 in 1 Laptop und 2 in 1 Tablet günstig online kaufen bei CLS",
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

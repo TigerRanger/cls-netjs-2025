@@ -1,0 +1,35 @@
+{
+  "categoryList": [
+    {
+      "id": 2833,
+      "name": "Eingabestifte & Zubehör",
+      "description": null,
+      "canonical_url": "hardware/eingabegerate/eingabestifte-zubehoer",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": "Entdecke Zubehör für Eingabestifte und erlebe präzise Bedienung und vielseitige Funktionen. Optimiere deine Schreib und Zeichenerfahrung und nutze dein Gerät noch effektiver.",
+      "meta_keywords": "Eingabestifte Zubehör",
+      "meta_title": "Eingabestifte Zubehör - Präzise Bedienung und vielseitige Funktionen",
+      "product_count": 0,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "Eingabestifte Zubehör - Präzise Bedienung und vielseitige Funktionen | CLS Computer",
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

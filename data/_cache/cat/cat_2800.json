@@ -1,0 +1,60 @@
+{
+  "categoryList": [
+    {
+      "id": 2800,
+      "name": "Zubehör",
+      "description": null,
+      "canonical_url": "hardware/telefonie/zubehor",
+      "children_count": "4",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": "Eintauchen in die Welt des Telefonie Zubehörs! Maximieren Sie Ihre Produktivität und Kommunikationsqualität mit unseren innovativen Lösungen.",
+      "meta_keywords": "Telefonie Zubehör",
+      "meta_title": "Telefonie Zubehör: Verbessern Sie Ihre Kommunikationserfahrung",
+      "product_count": 0,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "Telefonie Zubehör: Verbessern Sie Ihre Kommunikationserfahrung",
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "hardware/telefonie/zubehor/daten-und-labekabel",
+          "name": "Daten- und Labekabel",
+          "position": 1,
+          "url_key": "daten-und-labekabel"
+        },
+        {
+          "canonical_url": "hardware/telefonie/zubehor/halterungen-adapter",
+          "name": "Halterungen & Adapter",
+          "position": 2,
+          "url_key": "halterungen-adapter"
+        },
+        {
+          "canonical_url": "hardware/telefonie/zubehor/panzerglaser-schutzfolien",
+          "name": "Panzergläser & Schutzfolien",
+          "position": 3,
+          "url_key": "panzerglaser-schutzfolien"
+        },
+        {
+          "canonical_url": "hardware/telefonie/zubehor/taschen-hullen",
+          "name": "Taschen & Hüllen",
+          "position": 4,
+          "url_key": "taschen-hullen"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

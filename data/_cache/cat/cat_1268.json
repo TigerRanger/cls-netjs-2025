@@ -1,0 +1,267 @@
+{
+  "categoryList": [
+    {
+      "id": 1268,
+      "name": "Powered by ASUS",
+      "description": null,
+      "canonical_url": "pc-systeme/powered-by-editions/asus-edition",
+      "children_count": "0",
+      "image": "http://cls-computer-admin.nz/media/catalog/category/ASUS-EDITION4.jpg",
+      "is_anchor": 1,
+      "meta_description": "Exklusive Editions kaufen: ✓ Special Editions PCs ✓ Gaming Edition PCs ✓ angepasste Systeme für Deine Ansprüche | Jetzt konfigurieren & bestellen!",
+      "meta_keywords": "asus edition, asus pc kaufen",
+      "meta_title": "CLS ASUS Editions: Exklusive Special & Gaming Edition PC",
+      "product_count": 6,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "CLS ASUS Editions: Exklusive Special & Gaming Edition PC",
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 6,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 20
+    },
+    "items": [
+      {
+        "canonical_url": "asus-gaming-pc-amd-ryzen-5-7600x-rtx-4060-ti",
+        "id": 3559,
+        "name": "ASUS Gaming PC - AMD Ryzen 5 7600X - RTX 4060 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS172001",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1902938_1.jpg",
+        "product_type": "simple",
+        "final_price": 1830,
+        "discount_percent": 0,
+        "url_key": "asus-gaming-pc-amd-ryzen-5-7600x-rtx-4060-ti",
+        "image": {
+          "label": "ASUS Edition Gaming PC 171003",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1830
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 7600X</strong>, 6x 4.70 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Kingston, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 5060 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "asus-gaming-pc-intel-core-i5-14600kf-rtx-5060-ti",
+        "id": 3549,
+        "name": "ASUS Gaming PC - Intel Core i5-14600KF - RTX 5060 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS171001",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product//a/s/asus-tuf-gaming-gt502.jpg",
+        "product_type": "simple",
+        "final_price": 1854,
+        "discount_percent": 0,
+        "url_key": "asus-gaming-pc-intel-core-i5-14600kf-rtx-5060-ti",
+        "image": {
+          "label": "Intel Basic Gaming PC 61013",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1854
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i5-14600KF</strong>, 14x 3.50 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Kingston, <strong>5200 MHz</strong></li>\r\n<li><strong>ASUS</strong> TUF Gaming <strong>RTX 5060 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "asus-gaming-pc-amd-ryzen-7-7800x3d-rtx-5070",
+        "id": 12302,
+        "name": "ASUS Gaming PC - AMD Ryzen 7 7800X3D - RTX 5070",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS172003",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1877244_2.jpg",
+        "product_type": "simple",
+        "final_price": 2143,
+        "discount_percent": 0,
+        "url_key": "asus-gaming-pc-amd-ryzen-7-7800x3d-rtx-5070",
+        "image": {
+          "label": "ASUS Edition Gaming PC 172001",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2143
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 7 7800X3D</strong>, 8x 4.20 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5070</strong>, 12GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "asus-gaming-pc-intel-core-i7-14700kf-rtx-5070-ti",
+        "id": 3555,
+        "name": "ASUS Gaming PC - Intel Core i7-14700KF - RTX 5070 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS171002",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1902938_2.jpg",
+        "product_type": "simple",
+        "final_price": 2641,
+        "discount_percent": 0,
+        "url_key": "asus-gaming-pc-intel-core-i7-14700kf-rtx-5070-ti",
+        "image": {
+          "label": "ASUS Edition Gaming PC 171001",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2641
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core</strong> <strong>i7-14700KF</strong>, 20x 3.40 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair RGB, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA<strong> GeForce</strong> <strong>RTX 5070 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "asus-gaming-pc-amd-ryzen-9-7900x3d-rx-7900-xt",
+        "id": 3560,
+        "name": "ASUS Gaming PC - AMD Ryzen 9 7900X3D - RX 7900 XT",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS172002",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/a/s/asus-rog-strix-helios_2.jpg",
+        "product_type": "simple",
+        "final_price": 3531,
+        "discount_percent": 0,
+        "url_key": "asus-gaming-pc-amd-ryzen-9-7900x3d-rx-7900-xt",
+        "image": {
+          "label": "ASUS Edition Gaming PC 172001",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 3531
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 9 7900X3D</strong>, 12x 4.40 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li><strong>ASUS</strong> TUF Gaming <strong>RX 7900 XT OC</strong>, 20GB</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "asus-gaming-pc-intel-core-i9-14900kf-rtx-5090",
+        "id": 3556,
+        "name": "ASUS Gaming PC - Intel Core i9-14900KF - RTX 5090",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS171003",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/a/s/asus-rog-strix-helios-black.jpg",
+        "product_type": "simple",
+        "final_price": 4960,
+        "discount_percent": 0,
+        "url_key": "asus-gaming-pc-intel-core-i9-14900kf-rtx-5090",
+        "image": {
+          "label": "ASUS Edition Gaming PC 171002",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 4960
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i9-14900KF</strong>, 24x 3.20 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5090</strong>, 32GB GDDR7</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 4,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 2,
+            "label": "1000-2000",
+            "value": "1000_2000"
+          },
+          {
+            "count": 2,
+            "label": "2000-3000",
+            "value": "2000_3000"
+          },
+          {
+            "count": 1,
+            "label": "3000-4000",
+            "value": "3000_4000"
+          },
+          {
+            "count": 1,
+            "label": "4000-5000",
+            "value": "4000_5000"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 4,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 6,
+            "label": "PC Systeme",
+            "value": "Mw=="
+          },
+          {
+            "count": 6,
+            "label": "GAMING PC",
+            "value": "OQ=="
+          },
+          {
+            "count": 6,
+            "label": "Powered by ASUS",
+            "value": "MTI2OA=="
+          },
+          {
+            "count": 6,
+            "label": "POWERED BY EDITION",
+            "value": "MTk4MQ=="
+          }
+        ]
+      }
+    ]
+  }
+}

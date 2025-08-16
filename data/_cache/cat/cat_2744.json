@@ -1,0 +1,120 @@
+{
+  "categoryList": [
+    {
+      "id": 2744,
+      "name": "TV & Audio",
+      "description": null,
+      "canonical_url": "hardware/tv-audio",
+      "children_count": "14",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": "Tauchen Sie ein in eine Klangwelt der Extraklasse. Entdecken Sie unsere bahnbrechende TV-Audio-Lösungen für ein unvergleichliches Entertainment-Erlebnis.",
+      "meta_keywords": "TV & Audio",
+      "meta_title": "Erleben Sie immersiven Klang mit unserer hochmodernen TV-Audio-Technologie!",
+      "product_count": 0,
+      "display_mode": "PAGE",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "Erleben Sie immersiven Klang mit unserer hochmodernen TV-Audio-Technologie!",
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "hardware/tv-audio/beamer-projektoren",
+          "name": "Beamer & Projektoren",
+          "position": 1,
+          "url_key": "beamer-projektoren"
+        },
+        {
+          "canonical_url": "hardware/tv-audio/car-multimedia",
+          "name": "Car Multimedia",
+          "position": 2,
+          "url_key": "car-multimedia"
+        },
+        {
+          "canonical_url": "hardware/tv-audio/dvb-receiver",
+          "name": "DVB Receiver",
+          "position": 3,
+          "url_key": "dvb-receiver"
+        },
+        {
+          "canonical_url": "hardware/tv-audio/dvd-player-dvd-rekorder",
+          "name": "DVD-Player & Rekorder",
+          "position": 4,
+          "url_key": "dvd-player-dvd-rekorder"
+        },
+        {
+          "canonical_url": "hardware/tv-audio/fernbedienungen",
+          "name": "Fernbedienungen",
+          "position": 5,
+          "url_key": "fernbedienungen"
+        },
+        {
+          "canonical_url": "hardware/tv-audio/tv-fernseher",
+          "name": "TV / Fernseher",
+          "position": 6,
+          "url_key": "tv-fernseher"
+        },
+        {
+          "canonical_url": "hardware/tv-audio/kopfhorer-mikrofone",
+          "name": "Kopfhörer & Mikrofone",
+          "position": 7,
+          "url_key": "kopfhorer-mikrofone"
+        },
+        {
+          "canonical_url": "hardware/tv-audio/heimkinosysteme",
+          "name": "Heimkinosysteme",
+          "position": 8,
+          "url_key": "heimkinosysteme"
+        },
+        {
+          "canonical_url": "hardware/tv-audio/hifi",
+          "name": "HiFi",
+          "position": 9,
+          "url_key": "hifi"
+        },
+        {
+          "canonical_url": "hardware/tv-audio/lautsprecher",
+          "name": "Lautsprecher",
+          "position": 10,
+          "url_key": "lautsprecher"
+        },
+        {
+          "canonical_url": "hardware/tv-audio/mediaplayer",
+          "name": "Mediaplayer",
+          "position": 11,
+          "url_key": "mediaplayer"
+        },
+        {
+          "canonical_url": "hardware/tv-audio/radio-und-wecker",
+          "name": "Radio & Wecker",
+          "position": 12,
+          "url_key": "radio-und-wecker"
+        },
+        {
+          "canonical_url": "hardware/tv-audio/spielkonsolen",
+          "name": "Spielkonsolen",
+          "position": 13,
+          "url_key": "spielkonsolen"
+        },
+        {
+          "canonical_url": "hardware/tv-audio/zubehor",
+          "name": "Zubehör",
+          "position": 14,
+          "url_key": "zubehor"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

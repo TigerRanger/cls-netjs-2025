@@ -1,0 +1,436 @@
+{
+  "categoryList": [
+    {
+      "id": 3835,
+      "name": "Workstation Intel Core (15. Gen)",
+      "description": null,
+      "canonical_url": "pc-systeme/workstation-pc/workstation-intel-core-15-gen",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 12,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 0,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 12,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 20
+    },
+    "items": [
+      {
+        "canonical_url": "workstation-intel-core-ultra-5-245k-rtx-4060",
+        "id": 18348,
+        "name": "Workstation - Intel Core Ultra 5 245K - RTX 4060",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51001",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs4040074_1_5.jpg",
+        "product_type": "simple",
+        "final_price": 1368,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-ultra-5-245k-rtx-4060",
+        "image": {
+          "label": "Workstation - Intel Core Ultra 5 245K - RTX 4060",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1368
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 245K</strong>, 14 Kerne, 3.60 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Kingston, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 4060</strong>, 8GB GDDR6</li>\r\n<li><strong>1TB </strong>Kingston NV3, <strong>6000/4000</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-ultra-5-245k-rtx-5060-ti",
+        "id": 18351,
+        "name": "Workstation - Intel Core Ultra 5 245K - RTX 5060 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51002",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs4040074_9.jpg",
+        "product_type": "simple",
+        "final_price": 1575,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-ultra-5-245k-rtx-5060-ti",
+        "image": {
+          "label": "Workstation - Intel Core Ultra 5 245K - RTX 5060 Ti",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1575
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 245K</strong>, 14 Kerne, 3.60 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Kingston, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5060 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Kingston NV3, <strong>6000/4000</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-ultra-5-245k-rtx-5070",
+        "id": 18352,
+        "name": "Workstation - Intel Core Ultra 5 245K - RTX 5070",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51003",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs8310872_7.jpg",
+        "product_type": "simple",
+        "final_price": 1818,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-ultra-5-245k-rtx-5070",
+        "image": {
+          "label": "Workstation - Intel Core Ultra 5 245K - RTX 5070",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1818
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 245K</strong>, 14 Kerne, 3.60 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5070</strong>, 12GB GDDR7</li>\r\n<li><strong>1TB </strong>Kingston KC3000, <strong>7000/6000</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-ultra-7-265k-rtx-5070",
+        "id": 18358,
+        "name": "Workstation - Intel Core Ultra 7 265K - RTX 5070",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51005",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs7569278_2.jpg",
+        "product_type": "simple",
+        "final_price": 1935,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-ultra-7-265k-rtx-5070",
+        "image": {
+          "label": "Workstation - Intel Core Ultra 7 265K - RTX 5070",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1935
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 7 265K</strong>, 20 Kerne, 3.90 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5070</strong>, 12GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-ultra-5-245k-rtx-2000-ada",
+        "id": 18357,
+        "name": "Workstation - Intel Core Ultra 5 245K - RTX 2000 ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51004",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1058552_1.jpg",
+        "product_type": "simple",
+        "final_price": 1942,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-ultra-5-245k-rtx-2000-ada",
+        "image": {
+          "label": "Workstation - Intel Core Ultra 5 245K - RTX 2000 ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1942
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 245K</strong>, 14 Kerne, 3.60 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>PNY NVIDIA <strong>RTX 2000 ADA</strong>, 16GB GDDR6</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-ultra-7-265k-rtx-5070-ti",
+        "id": 18359,
+        "name": "Workstation - Intel Core Ultra 7 265K - RTX 5070 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51006",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1074436_1.jpg",
+        "product_type": "simple",
+        "final_price": 2242,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-ultra-7-265k-rtx-5070-ti",
+        "image": {
+          "label": "Workstation - Intel Core Ultra 7 265K - RTX 5070 Ti",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2242
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 7 265K</strong>, 20 Kerne, 3.90 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5070 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-ultra-7-265k-rtx-5080",
+        "id": 18360,
+        "name": "Workstation - Intel Core Ultra 7 265K - RTX 5080",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51013",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs6728965_1.jpg",
+        "product_type": "simple",
+        "final_price": 2736,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-ultra-7-265k-rtx-5080",
+        "image": {
+          "label": "Workstation - Intel Core Ultra 7 265K - RTX 5080",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2736
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 7 265K</strong>, 20 Kerne, 3.90 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5080</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-ultra-7-265k-rtx-4000-ada",
+        "id": 18361,
+        "name": "Workstation - Intel Core Ultra 7 265K - RTX 4000 ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51016",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs7813245_1.jpg",
+        "product_type": "simple",
+        "final_price": 2895,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-ultra-7-265k-rtx-4000-ada",
+        "image": {
+          "label": "Workstation - Intel Core Ultra 7 265K - RTX 4000 ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2895
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 7 265K</strong>, 20 Kerne, 3.90 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>PNY NVIDIA <strong>RTX 4000 ADA</strong>, 20GB GDDR6</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-ultra-9-285k-rtx-5080",
+        "id": 18362,
+        "name": "Workstation - Intel Core Ultra 9 285K - RTX 5080",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51019",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs9385334_1.jpg",
+        "product_type": "simple",
+        "final_price": 3021,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-ultra-9-285k-rtx-5080",
+        "image": {
+          "label": "Workstation - Intel Core Ultra 9 285K - RTX 5080",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 3021
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 9 285K</strong>, 24 Kerne, 3.70 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5080</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-ultra-9-285k-rtx-5090",
+        "id": 18363,
+        "name": "Workstation - Intel Core Ultra 9 285K - RTX 5090",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51020",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs6924812.jpg",
+        "product_type": "simple",
+        "final_price": 4667,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-ultra-9-285k-rtx-5090",
+        "image": {
+          "label": "Workstation - Intel Core Ultra 9 285K - RTX 5090",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 4667
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 9 285K</strong>, 24 Kerne, 3.70 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5090</strong>, 32GB GDDR7</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-ultra-9-285k-rtx-5000-ada",
+        "id": 18364,
+        "name": "Workstation - Intel Core Ultra 9 285K - RTX 5000 ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51021",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs6728965_2.jpg",
+        "product_type": "simple",
+        "final_price": 6659,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-ultra-9-285k-rtx-5000-ada",
+        "image": {
+          "label": "Workstation - Intel Core Ultra 9 285K - RTX 5000 ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 6659
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 9 285K</strong>, 24 Kerne, 3.70 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>PNY NVIDIA <strong>RTX 5000 ADA</strong>, 32GB GDDR6</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-ultra-9-285k-rtx-6000-ada",
+        "id": 18365,
+        "name": "Workstation - Intel Core Ultra 9 285K - RTX 6000 ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51022",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs6924810.jpg",
+        "product_type": "simple",
+        "final_price": 10425,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-ultra-9-285k-rtx-6000-ada",
+        "image": {
+          "label": "Workstation - Intel Core Ultra 9 285K - RTX 6000 ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 10425
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 9 285K</strong>, 24 Kerne, 3.70 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>PNY NVIDIA <strong>RTX 6000 ADA</strong>, 48GB GDDR6</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 2,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 11,
+            "label": "0-10000",
+            "value": "0_10000"
+          },
+          {
+            "count": 1,
+            "label": "10000-20000",
+            "value": "10000_20000"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 5,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 12,
+            "label": "PC Systeme",
+            "value": "Mw=="
+          },
+          {
+            "count": 12,
+            "label": "WORKSTATION PC",
+            "value": "Njk="
+          },
+          {
+            "count": 12,
+            "label": "Workstation Intel Core (15. Gen)",
+            "value": "MzgzNQ=="
+          },
+          {
+            "count": 12,
+            "label": "WORKSTATION",
+            "value": "NDIzOQ=="
+          },
+          {
+            "count": 12,
+            "label": "Workstation Intel Core (15. Gen)",
+            "value": "NDI1MA=="
+          }
+        ]
+      }
+    ]
+  }
+}

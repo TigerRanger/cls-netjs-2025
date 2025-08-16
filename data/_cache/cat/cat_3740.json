@@ -1,0 +1,54 @@
+{
+  "categoryList": [
+    {
+      "id": 3740,
+      "name": "Netzwerkprodukte",
+      "description": null,
+      "canonical_url": "hardware/netzwerkprodukte",
+      "children_count": "3",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 0,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 0,
+      "custom_title": null,
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "hardware/netzwerkprodukte/access-points",
+          "name": "Access Points",
+          "position": 1,
+          "url_key": "access-points"
+        },
+        {
+          "canonical_url": "hardware/netzwerkprodukte/modem",
+          "name": "Modem",
+          "position": 2,
+          "url_key": "modem"
+        },
+        {
+          "canonical_url": "hardware/netzwerkprodukte/router",
+          "name": "Router",
+          "position": 3,
+          "url_key": "router"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

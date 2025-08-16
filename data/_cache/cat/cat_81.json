@@ -1,0 +1,72 @@
+{
+  "categoryList": [
+    {
+      "id": 81,
+      "name": "Kühler & Lüfter",
+      "description": null,
+      "canonical_url": "hardware/kuhler-lufter",
+      "children_count": "6",
+      "image": "http://cls-computer-admin.nz/media/catalog/category/PC_K_hler_und_PC_L_fter_g_nstig_Kaufen.webp",
+      "is_anchor": 0,
+      "meta_description": "PC Kühler und PC Lüfter günstig Online Kaufen: Lüfter Gaming PC bei CLS Computer ✓Attraktive Preise ✓Beste Qualität ✓ Gratis Versand !",
+      "meta_keywords": "kuhler-lufter",
+      "meta_title": "PC Kühler : PC Lüfter günstig kaufen - Lüfter gaming pc | CLS Computer",
+      "product_count": 0,
+      "display_mode": "PAGE",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "PC Kühler und PC Lüfter günstig Kaufen: Marken Lüfter für Gaming PC bei CLS Computer",
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "hardware/kuhler-lufter/prozessor",
+          "name": "CPU-Kühler",
+          "position": 1,
+          "url_key": "prozessor"
+        },
+        {
+          "canonical_url": "hardware/kuhler-lufter/festplatten-kuhler",
+          "name": "Festplatten-Kühler",
+          "position": 2,
+          "url_key": "festplatten-kuhler"
+        },
+        {
+          "canonical_url": "hardware/kuhler-lufter/gehause",
+          "name": "Gehäuselüfter",
+          "position": 3,
+          "url_key": "gehause"
+        },
+        {
+          "canonical_url": "hardware/kuhler-lufter/grafikkarten",
+          "name": "Grafikkarten-Kühler",
+          "position": 4,
+          "url_key": "grafikkarten"
+        },
+        {
+          "canonical_url": "hardware/kuhler-lufter/warmeleitpaste-pads",
+          "name": "Wärmeleitpaste & Pads",
+          "position": 5,
+          "url_key": "warmeleitpaste-pads"
+        },
+        {
+          "canonical_url": "hardware/kuhler-lufter/zubehor",
+          "name": "Zubehör",
+          "position": 6,
+          "url_key": "zubehor"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

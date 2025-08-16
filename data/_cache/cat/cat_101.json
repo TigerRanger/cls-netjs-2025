@@ -1,0 +1,35 @@
+{
+  "categoryList": [
+    {
+      "id": 101,
+      "name": "Office PC Konfigurator",
+      "description": null,
+      "canonical_url": "pc-s-konfigurator/office-pc-konfigurator",
+      "children_count": "0",
+      "image": "http://cls-computer-admin.nz/media/catalog/category/Office-pc-konfiguration.webp",
+      "is_anchor": 1,
+      "meta_description": "Office PC Konfigurator individuell PC zusammenstellen - pc konfigurieren mit großer auswahl ✓online günstig kaufen ✓Kostenloser Versand ✓5 Jahre Service !",
+      "meta_keywords": "Office PC Konfigurator günstig PC zusammenstellen",
+      "meta_title": "Office PC Konfigurator günstig PC zusammenstellen | CLS Computer",
+      "product_count": 0,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "Office PC Konfigurator - konfigurieren Deinen den Beste Büro PC zusammenstellen und Online günstig kaufen",
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

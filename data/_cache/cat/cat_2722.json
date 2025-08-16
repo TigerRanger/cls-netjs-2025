@@ -1,0 +1,35 @@
+{
+  "categoryList": [
+    {
+      "id": 2722,
+      "name": "Microsoft Surface Tablets",
+      "description": null,
+      "canonical_url": "notebooks/microsoft-surface/microsoft-surface-tablets",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": "Microsoft Surface Tablets und Ultrabook günstig kaufen bei CLS Computer ✓ Bester Preis ✓ 5-Jahre Service ✓ Große Auswahl.",
+      "meta_keywords": "Microsoft Surface Tablets",
+      "meta_title": "Microsoft Surface Tablets - Ultrabook günstig kaufen | CLS",
+      "product_count": 0,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "Microsoft Surface Tablets Günstig Kaufen online bei CLS Computer",
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

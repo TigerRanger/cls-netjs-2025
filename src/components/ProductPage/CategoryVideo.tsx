@@ -24,9 +24,9 @@ const CategoryVideo = ({ video_code , name }: CategoryVideoProps) => {
       <div className='category_video'>
         <Image 
           className='cat_video' 
-          src="/images/youtube-icon.svg" 
-          width={50} 
-          height={50} 
+          src="/images/youtube-icon2.svg" 
+          width={100} 
+          height={100} 
           alt={`${name} video`} 
           onClick={playVideoModal}
         />

@@ -1,0 +1,84 @@
+{
+  "categoryList": [
+    {
+      "id": 607,
+      "name": "Apple",
+      "description": null,
+      "canonical_url": "apple",
+      "children_count": "8",
+      "image": null,
+      "is_anchor": 0,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 0,
+      "display_mode": "PAGE",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 0,
+      "custom_title": null,
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "apple/iphone",
+          "name": "iPhone",
+          "position": 1,
+          "url_key": "iphone"
+        },
+        {
+          "canonical_url": "apple/ipad",
+          "name": "iPad",
+          "position": 2,
+          "url_key": "ipad"
+        },
+        {
+          "canonical_url": "apple/imac",
+          "name": "iMac",
+          "position": 3,
+          "url_key": "imac"
+        },
+        {
+          "canonical_url": "apple/watch",
+          "name": "Watch",
+          "position": 4,
+          "url_key": "watch"
+        },
+        {
+          "canonical_url": "apple/mac-mini",
+          "name": "Mac Mini",
+          "position": 5,
+          "url_key": "mac-mini"
+        },
+        {
+          "canonical_url": "apple/macbook",
+          "name": "MacBook",
+          "position": 6,
+          "url_key": "macbook"
+        },
+        {
+          "canonical_url": "apple/apple-tv",
+          "name": "Apple TV",
+          "position": 7,
+          "url_key": "apple-tv"
+        },
+        {
+          "canonical_url": "apple/zubehor",
+          "name": "Zubehör",
+          "position": 9,
+          "url_key": "zubehor"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

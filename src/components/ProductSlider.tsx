@@ -124,8 +124,6 @@ const dispatch = useDispatch<AppDispatch>();
           : products.map((product) => (
               <SwiperSlide key={product.id}>
                 <div className="product-item">
-
-                  
                  {( product.price.regularPrice?.amount.value !== product.price.final_price?.value &&
                   <>
                   <div className="ribbon">% SALE</div>

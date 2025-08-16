@@ -1,0 +1,204 @@
+{
+  "categoryList": [
+    {
+      "id": 4240,
+      "name": "Workstation AMD Ryzen 5000",
+      "description": null,
+      "canonical_url": "pc-systeme/workstation/workstation-amd-ryzen-5000",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 4,
+      "display_mode": null,
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": null,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 4,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 20
+    },
+    "items": [
+      {
+        "canonical_url": "workstation-amd-ryzen-5-5600x-rtx-4060",
+        "id": 9517,
+        "name": "Workstation - AMD Ryzen 5 5600X - RTX 4060",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS52001",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls52001_1.jpg",
+        "product_type": "simple",
+        "final_price": 1047,
+        "discount_percent": 0,
+        "url_key": "workstation-amd-ryzen-5-5600x-rtx-4060",
+        "image": {
+          "label": "AMD Advanced Workstation 52002",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1047
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 5600X</strong>, 6x 3.70 GHz</li>\r\n<li><strong>32GB</strong> DDR4-RAM, Corsair, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 4060</strong>, 8GB GDDR6</li>\r\n<li><strong>500GB </strong>Samsung 980, <strong>3500/3000 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-amd-ryzen-7-5800x-rtx-5070",
+        "id": 920,
+        "name": "Workstation - AMD Ryzen 7 5800X - RTX 5070",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS52002",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1074436_11.jpg",
+        "product_type": "simple",
+        "final_price": 1518,
+        "discount_percent": 0,
+        "url_key": "workstation-amd-ryzen-7-5800x-rtx-5070",
+        "image": {
+          "label": "AMD Advanced Workstation 52002",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1518
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 7 5800X</strong>, 8x 3.80 GHz</li>\r\n<li><strong>32GB</strong> DDR4-RAM, Corsair, <strong>3600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5070</strong>, 12GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 980, <strong>3500/3000 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-amd-ryzen-9-5900x-rtx-5080",
+        "id": 9518,
+        "name": "Workstation - AMD Ryzen 9 5900X - RTX 5080",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS52003",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs9385334_1_1.jpg",
+        "product_type": "simple",
+        "final_price": 2421,
+        "discount_percent": 0,
+        "url_key": "workstation-amd-ryzen-9-5900x-rtx-5080",
+        "image": {
+          "label": "AMD Advanced Workstation 52002",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2421
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 9 5900X</strong>, 12x 3.70 GHz</li>\r\n<li><strong>64GB</strong> DDR4-RAM, Corsair, <strong>3600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5080</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro,<strong> 7450/6900 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-amd-ryzen-9-5950x-rtx-5080",
+        "id": 9519,
+        "name": "Workstation - AMD Ryzen 9 5950X - RTX 5080",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS52008",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls52008.jpg",
+        "product_type": "simple",
+        "final_price": 2696,
+        "discount_percent": 0,
+        "url_key": "workstation-amd-ryzen-9-5950x-rtx-5080",
+        "image": {
+          "label": "AMD Advanced Workstation 52002",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2696
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 9 5950X</strong>, 16x 3.40 GHz</li>\r\n<li><strong>64GB</strong> DDR4-RAM, Corsair, <strong>3600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5080</strong>, 16GB GDDR7</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 2,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 2,
+            "label": "1000-2000",
+            "value": "1000_2000"
+          },
+          {
+            "count": 2,
+            "label": "2000-3000",
+            "value": "2000_3000"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 5,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 4,
+            "label": "PC Systeme",
+            "value": "Mw=="
+          },
+          {
+            "count": 4,
+            "label": "WORKSTATION PC",
+            "value": "Njk="
+          },
+          {
+            "count": 4,
+            "label": "Workstation AMD Ryzen 5000",
+            "value": "MTk4Nw=="
+          },
+          {
+            "count": 4,
+            "label": "WORKSTATION",
+            "value": "NDIzOQ=="
+          },
+          {
+            "count": 4,
+            "label": "Workstation AMD Ryzen 5000",
+            "value": "NDI0MA=="
+          }
+        ]
+      }
+    ]
+  }
+}

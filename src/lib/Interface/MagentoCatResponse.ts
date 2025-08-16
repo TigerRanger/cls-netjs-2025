@@ -62,7 +62,6 @@ export interface Product {
   canonical_url?: string;
   id: number;
   name: string;
-  new?: boolean;
   rating_summary?: number;
   review_count?: number;
   sku: string;

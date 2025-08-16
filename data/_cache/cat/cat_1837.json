@@ -1,0 +1,117 @@
+{
+  "categoryList": [
+    {
+      "id": 1837,
+      "name": "Dream Machines 17 Zoll",
+      "description": null,
+      "canonical_url": "notebooks/dream-machines/dream-machines-17-zoll",
+      "children_count": "0",
+      "image": "http://cls-computer-admin.nz/media/catalog/category/1920x300_3.png",
+      "is_anchor": 1,
+      "meta_description": "Dream Machines 17 Zoll Günstig Online Kaufen bei CLS Computer  ✓ Günstige Preise ✓ Top Marken ✓ 5 Jahre Service ✓ Große Auswahl",
+      "meta_keywords": "Dream Machines 17 Zoll ",
+      "meta_title": "Dream Machines 17 Zoll Günstig Online Kaufen | CLS Computer",
+      "product_count": 1,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "Dream Machines 17 Zoll Günstig Online Kaufen bei CLS Computer",
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 1,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 20
+    },
+    "items": [
+      {
+        "canonical_url": "gaming-laptop-17-3-intel-core-i7-13620h-rtx-4060",
+        "id": 13245,
+        "name": "Gaming Laptop - 17.3\" - Intel Core i7-13620H - RTX 4060",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS251003",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product//a/l/alienware.jpg",
+        "product_type": "simple",
+        "final_price": 1607,
+        "discount_percent": 0,
+        "url_key": "gaming-laptop-17-3-intel-core-i7-13620h-rtx-4060",
+        "image": {
+          "label": "Gaming Laptop - 17.3\" - Intel Core i7-13620H - RTX 4060",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1607
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>17.3\", </strong>1920x1080 Pixel, <strong>144 Hz</strong></li>\r\n<li><strong>Intel Core i7-13620H</strong>, 10x 2.40 GHz</li>\r\n<li><strong>32GB</strong> DDR5-SDRAM, <strong>4800 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 4060</strong>, 8GB</li>\r\n<li><strong>1TB </strong>M.2 Solid State Drive<strong> (SSD)</strong></li>\r\n<li>Windows 11 <strong>Home</strong>, 64-Bit</li>\r\n</ul>"
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 1,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 1,
+            "label": "1600-1610",
+            "value": "1600_1610"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 6,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 1,
+            "label": "Laptop",
+            "value": "NA=="
+          },
+          {
+            "count": 1,
+            "label": "Laptop Konfigurator",
+            "value": "MTMyOQ=="
+          },
+          {
+            "count": 1,
+            "label": "Gaming Laptop",
+            "value": "MTMzNA=="
+          },
+          {
+            "count": 1,
+            "label": "Gaming Laptop 17 Zoll ",
+            "value": "MTM0OA=="
+          },
+          {
+            "count": 1,
+            "label": "Dream Machines",
+            "value": "MTgyOQ=="
+          },
+          {
+            "count": 1,
+            "label": "Dream Machines 17 Zoll",
+            "value": "MTgzNw=="
+          }
+        ]
+      }
+    ]
+  }
+}

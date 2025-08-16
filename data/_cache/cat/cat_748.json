@@ -1,0 +1,35 @@
+{
+  "categoryList": [
+    {
+      "id": 748,
+      "name": "Notebook Kühlpads / Ständer",
+      "description": null,
+      "canonical_url": "notebooks/notebook-zubehor/kuhlpads-und-staender",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": "Notebook Kühlpads günstig kaufen online bei cls-computer.de ✓ Bester Preis ✓ 5-Jahre Service ✓ Große Auswahl ✓ Gratis Versand.",
+      "meta_keywords": "Notebook Kühlpads",
+      "meta_title": "Notebook Kühlpads günstig kaufen bei - CLS Computer",
+      "product_count": 0,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "Notebook Kühlpads günstig kaufen online und finden Sie eine große Auswahl günstiger LaptopKühlpads.",
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

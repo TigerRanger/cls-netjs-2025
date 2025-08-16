@@ -1,0 +1,72 @@
+{
+  "categoryList": [
+    {
+      "id": 93,
+      "name": "Notebook Zubehör",
+      "description": null,
+      "canonical_url": "notebooks/notebook-zubehor",
+      "children_count": "6",
+      "image": null,
+      "is_anchor": 0,
+      "meta_description": "Notebook Zubehör - Laptop Zubehör günstig online kaufen mit großer Auswahl ✓Gratis Versand ✓Beste Qualität ✓5 Jahre Service ✓Jetzt bestellen !",
+      "meta_keywords": "Notebook Zubehör",
+      "meta_title": "Notebook Zubehör - Laptop Zubehör günstig kaufen | CLS Computer",
+      "product_count": 0,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "Notebook Zubehör günstig online kaufen - laptop gadgets, Coolers , Tasche ",
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "notebooks/notebook-zubehor/akku",
+          "name": "Notebook Akku",
+          "position": 1,
+          "url_key": "akku"
+        },
+        {
+          "canonical_url": "notebooks/notebook-zubehor/netzteile",
+          "name": "Notebook Netzteile",
+          "position": 2,
+          "url_key": "netzteile"
+        },
+        {
+          "canonical_url": "notebooks/notebook-zubehor/taschen",
+          "name": "Notebook Taschen",
+          "position": 3,
+          "url_key": "taschen"
+        },
+        {
+          "canonical_url": "notebooks/notebook-zubehor/kuhlpads-und-staender",
+          "name": "Notebook Kühlpads / Ständer",
+          "position": 4,
+          "url_key": "kuhlpads-und-staender"
+        },
+        {
+          "canonical_url": "notebooks/notebook-zubehor/notebook-usb-hub-verteiler",
+          "name": "USB-HUB / Verteiler",
+          "position": 5,
+          "url_key": "notebook-usb-hub-verteiler"
+        },
+        {
+          "canonical_url": "notebooks/notebook-zubehor/sicherheitsschlosser",
+          "name": "Sicherheitsschlösser",
+          "position": 6,
+          "url_key": "sicherheitsschlosser"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

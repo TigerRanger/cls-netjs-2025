@@ -1,0 +1,542 @@
+{
+  "categoryList": [
+    {
+      "id": 4184,
+      "name": "Multimedia Komplettsystem",
+      "description": null,
+      "canonical_url": "pc-systeme/multimedia-pc/multimedia-komplettsystem",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 16,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 0,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 16,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 20
+    },
+    "items": [
+      {
+        "canonical_url": "multimedia-komplettsystem-amd-ryzen-5-5500-geforce-gt-1030",
+        "id": 22650,
+        "name": "Multimedia Komplettsystem - AMD Ryzen 5 5500 - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS22018",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls22018-600.jpg",
+        "product_type": "simple",
+        "final_price": 597,
+        "discount_percent": 0,
+        "url_key": "multimedia-komplettsystem-amd-ryzen-5-5500-geforce-gt-1030",
+        "image": {
+          "label": "AMD Basic Multimedia PC 22001",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 597
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>23.8\" V7</strong> L238V0-E FullHD Monitor</li>\r\n<li><strong>Logitech MK120</strong>, Maus u. Tastatur</li>\r\n<li><strong>AMD Ryzen 5 5500</strong>, 6x 3.60 GHz</li>\r\n<li><strong>8GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "multimedia-komplettsystem-intel-core-i3-12100f-geforce-gt-1030",
+        "id": 22642,
+        "name": "Multimedia Komplettsystem - Intel Core i3-12100F - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS21021",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls21021-600.webp",
+        "product_type": "simple",
+        "final_price": 601,
+        "discount_percent": 0,
+        "url_key": "multimedia-komplettsystem-intel-core-i3-12100f-geforce-gt-1030",
+        "image": {
+          "label": "Multimedia Komplettsystem - Intel Core i3-12100F - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 601
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>23.8\" V7</strong> L238V0-E FullHD Monitor</li>\r\n<li><strong>Logitech MK120</strong>, Maus u. Tastatur</li>\r\n<li><strong>Intel Core i3-12100F</strong>, 4x 3.30 GHz</li>\r\n<li><strong>8GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "multimedia-komplettsystem-intel-core-i3-13100f-geforce-gt-1030",
+        "id": 22643,
+        "name": "Multimedia Komplettsystem - Intel Core i3-13100F - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS21022",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls21022-600.webp",
+        "product_type": "simple",
+        "final_price": 649,
+        "discount_percent": 0,
+        "url_key": "multimedia-komplettsystem-intel-core-i3-13100f-geforce-gt-1030",
+        "image": {
+          "label": "Multimedia Komplettsystem - Intel Core i3-13100F - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 649
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>27\" V7 </strong>L270V1-HAS-E Monitor</li>\r\n<li><strong>Logitech MK120</strong>, Maus u. Tastatur</li>\r\n<li><strong>Intel Core i3-13100F</strong>, 4x 3.40 GHz</li>\r\n<li><strong>8GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "multimedia-komplettsystem-amd-ryzen-5-5600x-geforce-gt-1030",
+        "id": 22651,
+        "name": "Multimedia Komplettsystem - AMD Ryzen 5 5600X - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS22019",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls22019-600.webp",
+        "product_type": "simple",
+        "final_price": 682,
+        "discount_percent": 0,
+        "url_key": "multimedia-komplettsystem-amd-ryzen-5-5600x-geforce-gt-1030",
+        "image": {
+          "label": "AMD Basic Multimedia PC 22001",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 682
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>27\" V7 </strong>L270V1-HAS-E Monitor</li>\r\n<li><strong>Logitech MK120</strong>, Maus u. Tastatur</li>\r\n<li><strong>AMD Ryzen 5 5600X</strong>, 6x 3.70 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "multimedia-komplettsystem-intel-core-i5-13600kf-geforce-gt-1030",
+        "id": 22644,
+        "name": "Multimedia Komplettsystem - Intel Core i5-13600KF - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS21023",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls21023-600.webp",
+        "product_type": "simple",
+        "final_price": 848,
+        "discount_percent": 0,
+        "url_key": "multimedia-komplettsystem-intel-core-i5-13600kf-geforce-gt-1030",
+        "image": {
+          "label": "Multimedia Komplettsystem - Intel Core i5-13600KF - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 848
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>27\" V7 </strong>L270V1-HAS-E Monitor</li>\r\n<li><strong>Logitech MK120</strong>, Maus u. Tastatur</li>\r\n<li><strong>Intel Core i5-13600KF</strong>, 14x 3.50 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "multimedia-komplettsystem-amd-ryzen-5-7600-geforce-gt-1030",
+        "id": 22653,
+        "name": "Multimedia Komplettsystem - AMD Ryzen 5 7600 - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS22021",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls22021-600.webp",
+        "product_type": "simple",
+        "final_price": 851,
+        "discount_percent": 0,
+        "url_key": "multimedia-komplettsystem-amd-ryzen-5-7600-geforce-gt-1030",
+        "image": {
+          "label": "Multimedia Komplettsystem - AMD Ryzen 5 7600 - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 851
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>27\" V7 </strong>L270V1-HAS-E Monitor</li>\r\n<li><strong>Logitech MK120</strong>, Maus u. Tastatur</li>\r\n<li><strong>AMD Ryzen 5 7600</strong>, 6x 3.80 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "multimedia-komplettsystem-intel-core-i5-14400f-geforce-gt-1030",
+        "id": 22645,
+        "name": "Multimedia Komplettsystem - Intel Core i5-14400F - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS21024",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls21024-600.webp",
+        "product_type": "simple",
+        "final_price": 853,
+        "discount_percent": 0,
+        "url_key": "multimedia-komplettsystem-intel-core-i5-14400f-geforce-gt-1030",
+        "image": {
+          "label": "Multimedia Komplettsystem - Intel Core i5-14400F - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 853
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>27\" ASUS </strong>VY279HE-W Monitor</li>\r\n<li><strong>Cherry DW3000</strong>, Maus u. Tastatur</li>\r\n<li><strong>Intel Core i5-14400F</strong>, 10x 2.50 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "multimedia-komplettsystem-amd-ryzen-7-5700x-geforce-rtx-3050",
+        "id": 22652,
+        "name": "Multimedia Komplettsystem - AMD Ryzen 7 5700X - GeForce RTX 3050",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS22020",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls22020-600.webp",
+        "product_type": "simple",
+        "final_price": 874,
+        "discount_percent": 0,
+        "url_key": "multimedia-komplettsystem-amd-ryzen-7-5700x-geforce-rtx-3050",
+        "image": {
+          "label": "AMD Advanced Multimedia PC 22002",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 874
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>27\" V7 </strong>L270V1-HAS-E Monitor</li>\r\n<li><strong>Logitech MK120</strong>, Maus u. Tastatur</li>\r\n<li><strong>AMD Ryzen 7 5700X</strong>, 8x 3.40 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 3050</strong>, 6GB GDDR6</li>\r\n<li><strong>1TB </strong>Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "multimedia-komplettsystem-amd-ryzen-5-8500g-geforce-gt-1030",
+        "id": 22655,
+        "name": "Multimedia Komplettsystem - AMD Ryzen 5 8500G - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS22023",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls22023-600.webp",
+        "product_type": "simple",
+        "final_price": 908,
+        "discount_percent": 0,
+        "url_key": "multimedia-komplettsystem-amd-ryzen-5-8500g-geforce-gt-1030",
+        "image": {
+          "label": "Multimedia Komplettsystem - AMD Ryzen 5 8500G - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 908
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>27\" ASUS </strong>VY279HE-W Monitor</li>\r\n<li><strong>Cherry DW3000</strong>, Maus u. Tastatur</li>\r\n<li><strong>AMD Ryzen 5 8500G</strong>, 6x 3.50 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "multimedia-komplettsystem-intel-core-ultra-5-225f-geforce-gt-1030",
+        "id": 22647,
+        "name": "Multimedia Komplettsystem - Intel Core Ultra 5 225F - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS21026",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls21026-600.webp",
+        "product_type": "simple",
+        "final_price": 956,
+        "discount_percent": 0,
+        "url_key": "multimedia-komplettsystem-intel-core-ultra-5-225f-geforce-gt-1030",
+        "image": {
+          "label": "Multimedia Komplettsystem - Intel Core Ultra 5 225F - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 956
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>27\" V7 </strong>L270V1-HAS-E Monitor</li>\r\n<li><strong>Logitech MK120</strong>, Maus u. Tastatur</li>\r\n<li><strong>Intel Core Ultra 5 225F</strong>, 10 Kerne, 2.70 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "multimedia-komplettsystem-amd-ryzen-5-9600-geforce-gt-1030",
+        "id": 22656,
+        "name": "Multimedia Komplettsystem - AMD Ryzen 5 9600 - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS22024",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls22024-600.webp",
+        "product_type": "simple",
+        "final_price": 970,
+        "discount_percent": 0,
+        "url_key": "multimedia-komplettsystem-amd-ryzen-5-9600-geforce-gt-1030",
+        "image": {
+          "label": "Multimedia Komplettsystem - AMD Ryzen 5 9600 - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 970
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>27\" V7 </strong>L270V1-HAS-E Monitor</li>\r\n<li><strong>Logitech MK120</strong>, Maus u. Tastatur</li>\r\n<li><strong>AMD Ryzen 5 9600</strong>, 6x 3.80 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "multimedia-komplettsystem-amd-ryzen-7-7700-geforce-rtx-3050",
+        "id": 22654,
+        "name": "Multimedia Komplettsystem - AMD Ryzen 7 7700 - GeForce RTX 3050",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS22022",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls22022-600.webp",
+        "product_type": "simple",
+        "final_price": 1008,
+        "discount_percent": 0,
+        "url_key": "multimedia-komplettsystem-amd-ryzen-7-7700-geforce-rtx-3050",
+        "image": {
+          "label": "Multimedia Komplettsystem - AMD Ryzen 7 7700 - GeForce RTX 3050",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1008
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>27\" V7 </strong>L270V1-HAS-E Monitor</li>\r\n<li><strong>Logitech MK120</strong>, Maus u. Tastatur</li>\r\n<li><strong>AMD Ryzen 7 7700</strong>, 8x 3.80 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 3050</strong>, 6GB GDDR6</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "multimedia-komplettsystem-intel-core-ultra-5-245-geforce-gt-1030",
+        "id": 22648,
+        "name": "Multimedia Komplettsystem - Intel Core Ultra 5 245 - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS21027",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls21027-600.webp",
+        "product_type": "simple",
+        "final_price": 1058,
+        "discount_percent": 0,
+        "url_key": "multimedia-komplettsystem-intel-core-ultra-5-245-geforce-gt-1030",
+        "image": {
+          "label": "Multimedia Komplettsystem - Intel Core Ultra 5 245 - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1058
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>27\" V7 </strong>L270V1-HAS-E Monitor</li>\r\n<li><strong>Logitech MK120</strong>, Maus u. Tastatur</li>\r\n<li><strong>Intel Core Ultra 5 245</strong>, 14 Kerne, 3.00 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "multimedia-komplettsystem-intel-core-i7-12700kf-geforce-rtx-3050",
+        "id": 22646,
+        "name": "Multimedia Komplettsystem - Intel Core i7-12700KF - GeForce RTX 3050",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS21025",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls11026-600.webp",
+        "product_type": "simple",
+        "final_price": 1106,
+        "discount_percent": 0,
+        "url_key": "multimedia-komplettsystem-intel-core-i7-12700kf-geforce-rtx-3050",
+        "image": {
+          "label": "Multimedia Komplettsystem - Intel Core i7-12700KF - GeForce RTX 3050",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1106
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong><strong>27\" </strong>ASUS</strong> VY279HE-W Monitor</li>\r\n<li><strong>Cherry DW3000</strong>, Maus u. Tastatur</li>\r\n<li><strong>Intel Core i7-12700KF</strong>, 12x 3.60 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 3050</strong>, 6GB GDDR6</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "multimedia-komplettsystem-amd-ryzen-7-9700x-geforce-rtx-3050",
+        "id": 22657,
+        "name": "Multimedia Komplettsystem - AMD Ryzen 7 9700X - GeForce RTX 3050",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS22025",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls22025-600.webp",
+        "product_type": "simple",
+        "final_price": 1217,
+        "discount_percent": 0,
+        "url_key": "multimedia-komplettsystem-amd-ryzen-7-9700x-geforce-rtx-3050",
+        "image": {
+          "label": "Multimedia Komplettsystem - AMD Ryzen 7 9700X - GeForce RTX 3050",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1217
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>27\" V7 </strong>L270V1-HAS-E Monitor</li>\r\n<li><strong>Logitech MK120</strong>, Maus u. Tastatur</li>\r\n<li><strong>AMD Ryzen 7 9700X</strong>, 8x 3.80 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 3050</strong>, 6GB GDDR6</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "multimedia-komplettsystem-intel-core-ultra-7-265f-geforce-rtx-3050",
+        "id": 22649,
+        "name": "Multimedia Komplettsystem - Intel Core Ultra 7 265F - GeForce RTX 3050",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS21028",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls21028-600.webp",
+        "product_type": "simple",
+        "final_price": 1284,
+        "discount_percent": 0,
+        "url_key": "multimedia-komplettsystem-intel-core-ultra-7-265f-geforce-rtx-3050",
+        "image": {
+          "label": "Multimedia Komplettsystem - Intel Core Ultra 7 265F - GeForce RTX 3050",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1284
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>27\" V7 </strong>L270V1-HAS-E Monitor</li>\r\n<li><strong>Logitech MK120</strong>, Maus u. Tastatur</li>\r\n<li><strong>Intel Core Ultra 7 265F</strong>, 20 Kerne, 1.80 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 3050</strong>, 6GB GDDR6</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 2,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 11,
+            "label": "0-1000",
+            "value": "0_1000"
+          },
+          {
+            "count": 5,
+            "label": "1000-2000",
+            "value": "1000_2000"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 3,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 16,
+            "label": "PC Systeme",
+            "value": "Mw=="
+          },
+          {
+            "count": 16,
+            "label": "MULTIMEDIA PC",
+            "value": "NjQ="
+          },
+          {
+            "count": 16,
+            "label": "Multimedia Komplettsystem",
+            "value": "NDE4NA=="
+          }
+        ]
+      }
+    ]
+  }
+}

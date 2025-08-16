@@ -1,0 +1,48 @@
+{
+  "categoryList": [
+    {
+      "id": 2721,
+      "name": "Tablets & Zubehör",
+      "description": null,
+      "canonical_url": "hardware/tablets-und-zubehoer",
+      "children_count": "2",
+      "image": "http://cls-computer-admin.nz/media/catalog/category/Tablets-und-Zubeh_r.jpg",
+      "is_anchor": 1,
+      "meta_description": "Tabletzubehör günstig kaufen online bei CLS Computer ✓ Große Auswahl ✓ Beste Qualität ✓ Tablets und Zubehör kaufen ✓ Top Preise ✓5 Jahre Service.",
+      "meta_keywords": "Tablets und Zubehör",
+      "meta_title": "Tabletzubehör günstig kaufen online bei CLS Computer",
+      "product_count": 0,
+      "display_mode": "PAGE",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "Tablets und Zubehör/ Tabletzubehör günstig online kaufen | CLS Computer",
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "hardware/tablets-und-zubehoer/tablets-und-pda",
+          "name": "Tablets & PDA's",
+          "position": 1,
+          "url_key": "tablets-und-pda"
+        },
+        {
+          "canonical_url": "hardware/tablets-und-zubehoer/tablets-zubehoer",
+          "name": "Zubehör",
+          "position": 2,
+          "url_key": "tablets-zubehoer"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

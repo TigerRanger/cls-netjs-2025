@@ -1,0 +1,272 @@
+{
+  "categoryList": [
+    {
+      "id": 3998,
+      "name": "Gaming Laptop 18 Zoll",
+      "description": null,
+      "canonical_url": "notebooks/gaming-laptop/gaming-laptop-18-zoll",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 6,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 0,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 6,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 20
+    },
+    "items": [
+      {
+        "canonical_url": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5070-ti",
+        "id": 21813,
+        "name": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5070 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS251002",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/x/5/x580wnr-g-001.jpg",
+        "product_type": "simple",
+        "final_price": 2708,
+        "discount_percent": 0,
+        "url_key": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5070-ti",
+        "image": {
+          "label": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5070 Ti",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2708
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>18\", </strong>2560x1600 Pixel (QHD+), <strong>240Hz</strong></li>\r\n<li><strong>Intel Core Ultra 9 275HX</strong>, 24x 2.10 GHz</li>\r\n<li><strong>32GB</strong> DDR5-SDRAM, <strong>5600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5070 Ti</strong>, 12GB</li>\r\n<li><strong>1TB </strong>Samsung 990 Evo, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5070-ti-1",
+        "id": 21816,
+        "name": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5070 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS251004",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls251004-1.jpg",
+        "product_type": "simple",
+        "final_price": 2993,
+        "discount_percent": 0,
+        "url_key": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5070-ti",
+        "image": {
+          "label": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5070 Ti",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2993
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>18\", </strong>3840x2160 Pixel (UHD+), <strong>200Hz</strong></li>\r\n<li><strong>Intel Core Ultra 9 275HX</strong>, 24x 2.10 GHz</li>\r\n<li><strong>32GB</strong> DDR5-SDRAM, <strong>5600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5070 Ti</strong>, 12GB</li>\r\n<li><strong>1TB </strong>Samsung 990 Evo, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5080",
+        "id": 21817,
+        "name": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5080",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS251010",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product//d/e/dell-laptop.jpg",
+        "product_type": "simple",
+        "final_price": 3273,
+        "discount_percent": 0,
+        "url_key": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5080",
+        "image": {
+          "label": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5080",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 3273
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>18\", </strong>2560x1600 Pixel (QHD+), <strong>240Hz</strong></li>\r\n<li><strong>Intel Core Ultra 9 275HX</strong>, 24x 2.10 GHz</li>\r\n<li><strong>32GB</strong> DDR5-SDRAM, <strong>5600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5080</strong>, 16GB</li>\r\n<li><strong>1TB </strong>Samsung 990 Evo, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5080-1",
+        "id": 21818,
+        "name": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5080",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS251014",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls251014-1.jpg",
+        "product_type": "simple",
+        "final_price": 3585,
+        "discount_percent": 0,
+        "url_key": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5080",
+        "image": {
+          "label": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5080",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 3585
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>18\", </strong>3840x2160 Pixel (UHD+), <strong>200 Hz</strong></li>\r\n<li><strong>Intel Core Ultra 9 275HX</strong>, 24x 2.10 GHz</li>\r\n<li><strong>64GB</strong> DDR5-SDRAM, <strong>5600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5080</strong>, 16GB</li>\r\n<li><strong>1TB </strong>Samsung 990 Evo, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5090",
+        "id": 21819,
+        "name": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5090",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS251016",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls251016-1.jpg",
+        "product_type": "simple",
+        "final_price": 4087,
+        "discount_percent": 0,
+        "url_key": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5090",
+        "image": {
+          "label": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5090",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 4087
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>18\", </strong>2560x1600 Pixel (QHD+), <strong>240Hz</strong></li>\r\n<li><strong>Intel Core Ultra 9 275HX</strong>, 24x 2.10 GHz</li>\r\n<li><strong>64GB</strong> DDR5-SDRAM, <strong>5600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5090</strong>, 24GB</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro,<strong> 7450/6900 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5090-1",
+        "id": 21820,
+        "name": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5090",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS251017",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls251017-1.jpg",
+        "product_type": "simple",
+        "final_price": 4304,
+        "discount_percent": 0,
+        "url_key": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5090",
+        "image": {
+          "label": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5090",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 4304
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>18\", </strong>3840x2160 Pixel (UHD+), <strong>200 Hz</strong></li>\r\n<li><strong>Intel Core Ultra 9 275HX</strong>, 24x 2.10 GHz</li>\r\n<li><strong>64GB</strong> DDR5-SDRAM, <strong>5600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5090</strong>, 24GB</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro,<strong> 7450/6900 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 3,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 2,
+            "label": "2000-3000",
+            "value": "2000_3000"
+          },
+          {
+            "count": 2,
+            "label": "3000-4000",
+            "value": "3000_4000"
+          },
+          {
+            "count": 2,
+            "label": "4000-5000",
+            "value": "4000_5000"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 6,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 6,
+            "label": "Laptop",
+            "value": "NA=="
+          },
+          {
+            "count": 6,
+            "label": "Laptop Konfigurator",
+            "value": "MTMyOQ=="
+          },
+          {
+            "count": 6,
+            "label": "Gaming Laptop",
+            "value": "MTMzNA=="
+          },
+          {
+            "count": 6,
+            "label": "Dream Machines",
+            "value": "MTgyOQ=="
+          },
+          {
+            "count": 6,
+            "label": "Dream Machines 18 Zoll",
+            "value": "Mzk5NQ=="
+          },
+          {
+            "count": 6,
+            "label": "Gaming Laptop 18 Zoll",
+            "value": "Mzk5OA=="
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "categoryList": [
+    {
+      "id": 609,
+      "name": "PC Konfigurator",
+      "description": null,
+      "canonical_url": "pc-s-konfigurator/pc-konfigurator",
+      "children_count": "0",
+      "image": "http://cls-computer-admin.nz/media/catalog/category/pc-konfigurator-.webp",
+      "is_anchor": 1,
+      "meta_description": "Individuell zusammenstellen PC Konfigurator - pc konfigurieren mit top auswahl ✓kostenloser versand ✓online günstig kaufen ✓5 Jahre service ✓Jetzt bestellen!",
+      "meta_keywords": "PC zusammenstellen, PC Konfigurator",
+      "meta_title": "Individuell PC zusammenstellen - PC Konfigurator | CLS Computer",
+      "product_count": 0,
+      "display_mode": "PAGE",
+      "video_code": null,
+      "ans_set": "sdwedwewew",
+      "que_set": "aadfdsfdfdf ",
+      "enable_custom_title": 1,
+      "custom_title": "PC Konfigurator - PC konfigurieren, Günstig PC zusammenstellen für Gaming, Mini,  High-End, Workstation, Multimedia, CAD, Flugsimulator, Silent und  Office PCs Online  kaufen",
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

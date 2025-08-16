@@ -1,0 +1,813 @@
+{
+  "categoryList": [
+    {
+      "id": 4239,
+      "name": "WORKSTATION",
+      "description": null,
+      "canonical_url": "pc-systeme/workstation",
+      "children_count": "9",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 68,
+      "display_mode": null,
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": null,
+      "custom_title": null,
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "pc-systeme/workstation/workstation-amd-ryzen-5000",
+          "name": "Workstation AMD Ryzen 5000",
+          "position": 1,
+          "url_key": "workstation-amd-ryzen-5000"
+        },
+        {
+          "canonical_url": "pc-systeme/workstation/workstation-amd-ryzen-7000",
+          "name": "Workstation AMD Ryzen 7000",
+          "position": 2,
+          "url_key": "workstation-amd-ryzen-7000"
+        },
+        {
+          "canonical_url": "pc-systeme/workstation/workstation-intel-core-13-gen",
+          "name": "Workstation Intel Core (13. Gen)",
+          "position": 3,
+          "url_key": "workstation-intel-core-13-gen"
+        },
+        {
+          "canonical_url": "pc-systeme/workstation/workstation-intel-core-15-gen",
+          "name": "Workstation Intel Core (15. Gen)",
+          "position": 4,
+          "url_key": "workstation-intel-core-15-gen"
+        },
+        {
+          "canonical_url": "pc-systeme/workstation/workstation-intel-core-14-gen",
+          "name": "Workstation Intel Core (14. Gen)",
+          "position": 5,
+          "url_key": "workstation-intel-core-14-gen"
+        },
+        {
+          "canonical_url": "pc-systeme/workstation/workstation-intel-xeon-w-serie",
+          "name": "Workstation Intel Xeon (W-Serie)",
+          "position": 6,
+          "url_key": "workstation-intel-xeon-w-serie"
+        },
+        {
+          "canonical_url": "pc-systeme/workstation/workstation-amd-threadripper-5000",
+          "name": "Workstation AMD Threadripper 5000",
+          "position": 7,
+          "url_key": "workstation-amd-threadripper-5000"
+        },
+        {
+          "canonical_url": "pc-systeme/workstation/workstation-amd-threadripper-7000",
+          "name": "Workstation AMD Threadripper 7000",
+          "position": 8,
+          "url_key": "workstation-amd-threadripper-7000"
+        },
+        {
+          "canonical_url": "pc-systeme/workstation/workstation-amd-ryzen-9000",
+          "name": "Workstation AMD Ryzen 9000",
+          "position": 9,
+          "url_key": "workstation-amd-ryzen-9000"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 68,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 4,
+      "page_size": 20
+    },
+    "items": [
+      {
+        "canonical_url": "workstation-amd-ryzen-5-5600x-rtx-4060",
+        "id": 9517,
+        "name": "Workstation - AMD Ryzen 5 5600X - RTX 4060",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS52001",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls52001_1.jpg",
+        "product_type": "simple",
+        "final_price": 1047,
+        "discount_percent": 0,
+        "url_key": "workstation-amd-ryzen-5-5600x-rtx-4060",
+        "image": {
+          "label": "AMD Advanced Workstation 52002",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1047
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 5600X</strong>, 6x 3.70 GHz</li>\r\n<li><strong>32GB</strong> DDR4-RAM, Corsair, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 4060</strong>, 8GB GDDR6</li>\r\n<li><strong>500GB </strong>Samsung 980, <strong>3500/3000 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-i5-13600k-rtx-4060",
+        "id": 10088,
+        "name": "Workstation - Intel Core i5-13600K - RTX 4060",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51007",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs8310872_4.jpg",
+        "product_type": "simple",
+        "final_price": 1247,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-i5-13600k-rtx-4060",
+        "image": {
+          "label": "Workstation - Intel Core i5-13600K - RTX 4060",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1247
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i5-13600K</strong>, 14x 3.50 GHz</li>\r\n<li><strong>32GB</strong> DDR4-RAM, Corsair, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 4060</strong>, 8GB GDDR6</li>\r\n<li><strong>1TB </strong>Samsung 980, <strong>3500/3000</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-amd-ryzen-5-7600x-rtx-5060-ti",
+        "id": 9715,
+        "name": "Workstation - AMD Ryzen 5 7600X - RTX 5060 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS52009",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs8310872_5.jpg",
+        "product_type": "simple",
+        "final_price": 1341,
+        "discount_percent": 0,
+        "url_key": "workstation-amd-ryzen-5-7600x-rtx-5060-ti",
+        "image": {
+          "label": "AMD Advanced Workstation 52002",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1341
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 7600X</strong>, 6x 4.70 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5060 Ti</strong>, 8GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 980, <strong>3500/3000</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-i5-13600k-rtx-5060-ti",
+        "id": 10102,
+        "name": "Workstation - Intel Core i5-13600K - RTX 5060 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51015",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1074436_10.jpg",
+        "product_type": "simple",
+        "final_price": 1362,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-i5-13600k-rtx-5060-ti",
+        "image": {
+          "label": "Workstation - Intel Core i5-13600K - RTX 5060 Ti",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1362
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i5-13600K</strong>, 14x 3.50 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5060 Ti</strong>, 8GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 980, <strong>3500/3000</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-amd-ryzen-5-9600x-rtx-5060-ti",
+        "id": 16410,
+        "name": "Workstation - AMD Ryzen 5 9600X - RTX 5060 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS52033",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs4040074_1_4.jpg",
+        "product_type": "simple",
+        "final_price": 1368,
+        "discount_percent": 0,
+        "url_key": "workstation-amd-ryzen-5-9600x-rtx-5060-ti",
+        "image": {
+          "label": "AMD Advanced Workstation 52002",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1368
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 9600X</strong>, 6x 3.90 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5060 Ti</strong>, 8GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 980, <strong>3500/3000</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-ultra-5-245k-rtx-4060",
+        "id": 18348,
+        "name": "Workstation - Intel Core Ultra 5 245K - RTX 4060",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51001",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs4040074_1_5.jpg",
+        "product_type": "simple",
+        "final_price": 1368,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-ultra-5-245k-rtx-4060",
+        "image": {
+          "label": "Workstation - Intel Core Ultra 5 245K - RTX 4060",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1368
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 245K</strong>, 14 Kerne, 3.60 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Kingston, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 4060</strong>, 8GB GDDR6</li>\r\n<li><strong>1TB </strong>Kingston NV3, <strong>6000/4000</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-i5-14600k-rtx-5060-ti",
+        "id": 12810,
+        "name": "Workstation - Intel Core i5-14600K - RTX 5060 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51010",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls51010-5000_1.jpg",
+        "product_type": "simple",
+        "final_price": 1408,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-i5-14600k-rtx-5060-ti",
+        "image": {
+          "label": "Workstation - Intel Core i5-14600K - RTX 5060 Ti",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1408
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i5-14600K</strong>, 14x 3.50 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5060 Ti</strong>, 8GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-amd-ryzen-7-5800x-rtx-5070",
+        "id": 920,
+        "name": "Workstation - AMD Ryzen 7 5800X - RTX 5070",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS52002",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1074436_11.jpg",
+        "product_type": "simple",
+        "final_price": 1518,
+        "discount_percent": 0,
+        "url_key": "workstation-amd-ryzen-7-5800x-rtx-5070",
+        "image": {
+          "label": "AMD Advanced Workstation 52002",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1518
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 7 5800X</strong>, 8x 3.80 GHz</li>\r\n<li><strong>32GB</strong> DDR4-RAM, Corsair, <strong>3600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5070</strong>, 12GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 980, <strong>3500/3000 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-ultra-5-245k-rtx-5060-ti",
+        "id": 18351,
+        "name": "Workstation - Intel Core Ultra 5 245K - RTX 5060 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51002",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs4040074_9.jpg",
+        "product_type": "simple",
+        "final_price": 1575,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-ultra-5-245k-rtx-5060-ti",
+        "image": {
+          "label": "Workstation - Intel Core Ultra 5 245K - RTX 5060 Ti",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1575
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 245K</strong>, 14 Kerne, 3.60 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Kingston, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5060 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Kingston NV3, <strong>6000/4000</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-amd-ryzen-7-7700x-rtx-5070",
+        "id": 9716,
+        "name": "Workstation - AMD Ryzen 7 7700X - RTX 5070",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS52010",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1074436_12.jpg",
+        "product_type": "simple",
+        "final_price": 1723,
+        "discount_percent": 0,
+        "url_key": "workstation-amd-ryzen-7-7700x-rtx-5070",
+        "image": {
+          "label": "AMD Advanced Workstation 52002",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1723
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 7 7700X</strong>, 8x 4.50 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5070</strong>, 12GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-amd-ryzen-7-9700x-rtx-5070",
+        "id": 16411,
+        "name": "Workstation - AMD Ryzen 7 9700X - RTX 5070",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS52034",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls52034.jpg",
+        "product_type": "simple",
+        "final_price": 1782,
+        "discount_percent": 0,
+        "url_key": "workstation-amd-ryzen-7-9700x-rtx-5070",
+        "image": {
+          "label": "AMD Advanced Workstation 52002",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1782
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 7 9700X</strong>, 8x 3.80 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5070</strong>, 12GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-ultra-5-245k-rtx-5070",
+        "id": 18352,
+        "name": "Workstation - Intel Core Ultra 5 245K - RTX 5070",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51003",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs8310872_7.jpg",
+        "product_type": "simple",
+        "final_price": 1818,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-ultra-5-245k-rtx-5070",
+        "image": {
+          "label": "Workstation - Intel Core Ultra 5 245K - RTX 5070",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1818
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 245K</strong>, 14 Kerne, 3.60 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5070</strong>, 12GB GDDR7</li>\r\n<li><strong>1TB </strong>Kingston KC3000, <strong>7000/6000</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-i7-13700k-rtx-5070",
+        "id": 10090,
+        "name": "Workstation - Intel Core i7-13700K - RTX 5070",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51008",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls51008-5000_1.jpg",
+        "product_type": "simple",
+        "final_price": 1914,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-i7-13700k-rtx-5070",
+        "image": {
+          "label": "Workstation - Intel Core i7-13700K - RTX 5070",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1914
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i7-13700K</strong>, 16x 3.40 GHz</li>\r\n<li><strong>32GB</strong> DDR4-RAM, Corsair, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5070</strong>, 12GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-ultra-7-265k-rtx-5070",
+        "id": 18358,
+        "name": "Workstation - Intel Core Ultra 7 265K - RTX 5070",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51005",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs7569278_2.jpg",
+        "product_type": "simple",
+        "final_price": 1935,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-ultra-7-265k-rtx-5070",
+        "image": {
+          "label": "Workstation - Intel Core Ultra 7 265K - RTX 5070",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1935
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 7 265K</strong>, 20 Kerne, 3.90 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5070</strong>, 12GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-ultra-5-245k-rtx-2000-ada",
+        "id": 18357,
+        "name": "Workstation - Intel Core Ultra 5 245K - RTX 2000 ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51004",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1058552_1.jpg",
+        "product_type": "simple",
+        "final_price": 1942,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-ultra-5-245k-rtx-2000-ada",
+        "image": {
+          "label": "Workstation - Intel Core Ultra 5 245K - RTX 2000 ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1942
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 245K</strong>, 14 Kerne, 3.60 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>PNY NVIDIA <strong>RTX 2000 ADA</strong>, 16GB GDDR6</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-i7-13700k-rtx-5070-ti",
+        "id": 10103,
+        "name": "Workstation - Intel Core i7-13700K - RTX 5070 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51017",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs3971356_4.jpg",
+        "product_type": "simple",
+        "final_price": 2178,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-i7-13700k-rtx-5070-ti",
+        "image": {
+          "label": "Workstation - Intel Core i7-13700K - RTX 5070 Ti",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2178
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i7-13700K</strong>, 16x 3.40 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5070 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-ultra-7-265k-rtx-5070-ti",
+        "id": 18359,
+        "name": "Workstation - Intel Core Ultra 7 265K - RTX 5070 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51006",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1074436_1.jpg",
+        "product_type": "simple",
+        "final_price": 2242,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-ultra-7-265k-rtx-5070-ti",
+        "image": {
+          "label": "Workstation - Intel Core Ultra 7 265K - RTX 5070 Ti",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2242
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 7 265K</strong>, 20 Kerne, 3.90 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5070 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-i7-14700k-rtx-5070-ti",
+        "id": 12811,
+        "name": "Workstation - Intel Core i7-14700K - RTX 5070 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51011",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls51011-5000_1.jpg",
+        "product_type": "simple",
+        "final_price": 2313,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-i7-14700k-rtx-5070-ti",
+        "image": {
+          "label": "Workstation - Intel Core i7-14700K - RTX 5070 Ti",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2313
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i7-14700K</strong>, 20x 3.40 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5070 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-amd-ryzen-9-5900x-rtx-5080",
+        "id": 9518,
+        "name": "Workstation - AMD Ryzen 9 5900X - RTX 5080",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS52003",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs9385334_1_1.jpg",
+        "product_type": "simple",
+        "final_price": 2421,
+        "discount_percent": 0,
+        "url_key": "workstation-amd-ryzen-9-5900x-rtx-5080",
+        "image": {
+          "label": "AMD Advanced Workstation 52002",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2421
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 9 5900X</strong>, 12x 3.70 GHz</li>\r\n<li><strong>64GB</strong> DDR4-RAM, Corsair, <strong>3600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5080</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro,<strong> 7450/6900 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-amd-ryzen-9-5950x-rtx-5080",
+        "id": 9519,
+        "name": "Workstation - AMD Ryzen 9 5950X - RTX 5080",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS52008",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls52008.jpg",
+        "product_type": "simple",
+        "final_price": 2696,
+        "discount_percent": 0,
+        "url_key": "workstation-amd-ryzen-9-5950x-rtx-5080",
+        "image": {
+          "label": "AMD Advanced Workstation 52002",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2696
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 9 5950X</strong>, 16x 3.40 GHz</li>\r\n<li><strong>64GB</strong> DDR4-RAM, Corsair, <strong>3600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5080</strong>, 16GB GDDR7</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 4,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 55,
+            "label": "0-10000",
+            "value": "0_10000"
+          },
+          {
+            "count": 7,
+            "label": "10000-20000",
+            "value": "10000_20000"
+          },
+          {
+            "count": 4,
+            "label": "20000-30000",
+            "value": "20000_30000"
+          },
+          {
+            "count": 2,
+            "label": "30000-40000",
+            "value": "30000_40000"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 21,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 68,
+            "label": "PC Systeme",
+            "value": "Mw=="
+          },
+          {
+            "count": 68,
+            "label": "WORKSTATION PC",
+            "value": "Njk="
+          },
+          {
+            "count": 12,
+            "label": "Workstation Intel Core (15. Gen)",
+            "value": "MzgzNQ=="
+          },
+          {
+            "count": 68,
+            "label": "WORKSTATION",
+            "value": "NDIzOQ=="
+          },
+          {
+            "count": 12,
+            "label": "Workstation Intel Core (15. Gen)",
+            "value": "NDI1MA=="
+          },
+          {
+            "count": 4,
+            "label": "Workstation AMD Ryzen 9000",
+            "value": "MzczOA=="
+          },
+          {
+            "count": 4,
+            "label": "Workstation AMD Ryzen 9000",
+            "value": "NDI1NQ=="
+          },
+          {
+            "count": 12,
+            "label": "Workstation Intel Xeon (W-Serie)",
+            "value": "MzE4Nw=="
+          },
+          {
+            "count": 12,
+            "label": "Workstation Intel Xeon (W-Serie)",
+            "value": "NDI1Mg=="
+          },
+          {
+            "count": 12,
+            "label": "Workstation AMD Threadripper 7000",
+            "value": "MzE4NA=="
+          },
+          {
+            "count": 12,
+            "label": "Workstation AMD Threadripper 7000",
+            "value": "NDI1NA=="
+          },
+          {
+            "count": 4,
+            "label": "Workstation Intel Core (14. Gen)",
+            "value": "MzEyNA=="
+          },
+          {
+            "count": 4,
+            "label": "Workstation Intel Core (14. Gen)",
+            "value": "NDI1MQ=="
+          },
+          {
+            "count": 8,
+            "label": "Workstation AMD Threadripper 5000",
+            "value": "MjY1OQ=="
+          },
+          {
+            "count": 8,
+            "label": "Workstation AMD Threadripper 5000",
+            "value": "NDI1Mw=="
+          },
+          {
+            "count": 8,
+            "label": "Workstation Intel Core (13. Gen)",
+            "value": "MjMwNA=="
+          },
+          {
+            "count": 8,
+            "label": "Workstation Intel Core (13. Gen)",
+            "value": "NDI0OA=="
+          },
+          {
+            "count": 4,
+            "label": "Workstation AMD Ryzen 7000",
+            "value": "MjI0NQ=="
+          },
+          {
+            "count": 4,
+            "label": "Workstation AMD Ryzen 7000",
+            "value": "NDI0Nw=="
+          },
+          {
+            "count": 4,
+            "label": "Workstation AMD Ryzen 5000",
+            "value": "MTk4Nw=="
+          },
+          {
+            "count": 4,
+            "label": "Workstation AMD Ryzen 5000",
+            "value": "NDI0MA=="
+          }
+        ]
+      }
+    ]
+  }
+}

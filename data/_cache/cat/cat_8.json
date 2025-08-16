@@ -1,0 +1,120 @@
+{
+  "categoryList": [
+    {
+      "id": 8,
+      "name": "Reparaturen",
+      "description": null,
+      "canonical_url": "reparaturen",
+      "children_count": "14",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 0,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 0,
+      "custom_title": null,
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "reparaturen/pc-reparatur",
+          "name": "PC Reparatur",
+          "position": 1,
+          "url_key": "pc-reparatur"
+        },
+        {
+          "canonical_url": "reparaturen/laptop-reparatur",
+          "name": "Laptop Reparatur",
+          "position": 2,
+          "url_key": "laptop-reparatur"
+        },
+        {
+          "canonical_url": "reparaturen/drucker-reparatur",
+          "name": "Drucker Reparatur",
+          "position": 3,
+          "url_key": "drucker-reparatur"
+        },
+        {
+          "canonical_url": "reparaturen/macbook-reparatur",
+          "name": "MacBook Reparatur",
+          "position": 4,
+          "url_key": "macbook-reparatur"
+        },
+        {
+          "canonical_url": "reparaturen/smartphone-reparatur",
+          "name": "Smartphone Reparatur",
+          "position": 5,
+          "url_key": "smartphone-reparatur"
+        },
+        {
+          "canonical_url": "reparaturen/iphone-reparatur",
+          "name": "iPhone Reparatur",
+          "position": 6,
+          "url_key": "iphone-reparatur"
+        },
+        {
+          "canonical_url": "reparaturen/tablet-reparatur",
+          "name": "Tablet Reparatur",
+          "position": 7,
+          "url_key": "tablet-reparatur"
+        },
+        {
+          "canonical_url": "reparaturen/ipad-reparatur",
+          "name": "iPad Reparatur",
+          "position": 8,
+          "url_key": "ipad-reparatur"
+        },
+        {
+          "canonical_url": "reparaturen/microsoft-surface-reparatur",
+          "name": "Surface Reparatur",
+          "position": 9,
+          "url_key": "microsoft-surface-reparatur"
+        },
+        {
+          "canonical_url": "reparaturen/imac-reparatur",
+          "name": "iMac Reparatur",
+          "position": 10,
+          "url_key": "imac-reparatur"
+        },
+        {
+          "canonical_url": "reparaturen/apple-mac-mini-reparatur",
+          "name": "Mac mini Reparatur",
+          "position": 11,
+          "url_key": "apple-mac-mini-reparatur"
+        },
+        {
+          "canonical_url": "reparaturen/apple-watch-reparatur",
+          "name": "Apple Watch Reparatur",
+          "position": 12,
+          "url_key": "apple-watch-reparatur"
+        },
+        {
+          "canonical_url": "reparaturen/konsolen-reparatur",
+          "name": "Konsolen Reparatur",
+          "position": 13,
+          "url_key": "konsolen-reparatur"
+        },
+        {
+          "canonical_url": "reparaturen/vor-ort-service",
+          "name": "Vor-Ort-Service",
+          "position": 14,
+          "url_key": "vor-ort-service"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

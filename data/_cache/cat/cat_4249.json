@@ -1,0 +1,431 @@
+{
+  "categoryList": [
+    {
+      "id": 4249,
+      "name": "CAD PC Intel Core Ultra",
+      "description": null,
+      "canonical_url": "pc-systeme/cad-pc/cad-pc-intel-core-ultra",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 12,
+      "display_mode": null,
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": null,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 12,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 20
+    },
+    "items": [
+      {
+        "canonical_url": "cad-pc-intel-core-ultra-5-245k-rtx-a400",
+        "id": 18406,
+        "name": "CAD PC - Intel Core Ultra 5 245K - RTX A400",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS101001",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs2519610_11.jpg",
+        "product_type": "simple",
+        "final_price": 1244,
+        "discount_percent": 0,
+        "url_key": "cad-pc-intel-core-ultra-5-245k-rtx-a400",
+        "image": {
+          "label": "CAD PC - Intel Core Ultra 5 245K - RTX A400",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1244
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 245K</strong>, 14 Kerne, 3.60 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Kingston, <strong>5200 MHz</strong></li>\r\n<li>PNY <strong>NVIDIA</strong> <strong>RTX A400</strong>, 4GB GDDR6</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "cad-pc-intel-core-ultra-5-245k-rtx-a1000",
+        "id": 18407,
+        "name": "CAD PC - Intel Core Ultra 5 245K - RTX A1000",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS101002",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs4040074_13.jpg",
+        "product_type": "simple",
+        "final_price": 1542,
+        "discount_percent": 0,
+        "url_key": "cad-pc-intel-core-ultra-5-245k-rtx-a1000",
+        "image": {
+          "label": "CAD PC - Intel Core Ultra 5 245K - RTX A1000",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1542
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 245K</strong>, 14 Kerne, 3.60 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Kingston, <strong>5200 MHz</strong></li>\r\n<li>PNY <strong>NVIDIA</strong> <strong>RTX A1000</strong>, 8GB GDDR6</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "cad-pc-intel-core-ultra-5-245k-rtx-a2000",
+        "id": 18408,
+        "name": "CAD PC - Intel Core Ultra 5 245K - RTX A2000",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS101003",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs8310872_8.jpg",
+        "product_type": "simple",
+        "final_price": 1885,
+        "discount_percent": 0,
+        "url_key": "cad-pc-intel-core-ultra-5-245k-rtx-a2000",
+        "image": {
+          "label": "CAD PC - Intel Core Ultra 5 245K - RTX A2000",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1885
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 245K</strong>, 14 Kerne, 3.60 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>PNY <strong>NVIDIA</strong> <strong>RTX A2000</strong>, 12GB GDDR6</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "cad-pc-intel-core-ultra-5-245k-rtx-2000-ada",
+        "id": 18409,
+        "name": "CAD PC - Intel Core Ultra 5 245K - RTX 2000 ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS101006",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs7569278_4.jpg",
+        "product_type": "simple",
+        "final_price": 1961,
+        "discount_percent": 0,
+        "url_key": "cad-pc-intel-core-ultra-5-245k-rtx-2000-ada",
+        "image": {
+          "label": "CAD PC - Intel Core Ultra 5 245K - RTX 2000 ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1961
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 245K</strong>, 14 Kerne, 3.60 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>PNY <strong>NVIDIA</strong> <strong>RTX 2000 ADA</strong>, 16GB GDDR6</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "cad-pc-intel-core-ultra-7-265k-rtx-2000-ada",
+        "id": 18410,
+        "name": "CAD PC - Intel Core Ultra 7 265K - RTX 2000 ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS101013",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1058552_2.jpg",
+        "product_type": "simple",
+        "final_price": 2016,
+        "discount_percent": 0,
+        "url_key": "cad-pc-intel-core-ultra-7-265k-rtx-2000-ada",
+        "image": {
+          "label": "CAD PC - Intel Core Ultra 7 265K - RTX 2000 ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2016
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 7 265K</strong>, 20 Kerne, 3.90 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>PNY <strong>NVIDIA</strong> <strong>RTX 2000 ADA</strong>, 16GB GDDR6</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "cad-pc-intel-core-ultra-7-265k-rtx-4000-ada",
+        "id": 18411,
+        "name": "CAD PC - Intel Core Ultra 7 265K - RTX 4000 ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS101014",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1074436_13.jpg",
+        "product_type": "simple",
+        "final_price": 2770,
+        "discount_percent": 0,
+        "url_key": "cad-pc-intel-core-ultra-7-265k-rtx-4000-ada",
+        "image": {
+          "label": "CAD PC - Intel Core Ultra 7 265K - RTX 4000 ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2770
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 7 265K</strong>, 20 Kerne, 3.90 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>PNY <strong>NVIDIA</strong> <strong>RTX 4000 ADA</strong>, 20GB GDDR6</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "cad-pc-intel-core-ultra-9-285k-rtx-4000-ada",
+        "id": 18422,
+        "name": "CAD PC - Intel Core Ultra 9 285K - RTX 4000 ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS101017",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs6728965_4.jpg",
+        "product_type": "simple",
+        "final_price": 3363,
+        "discount_percent": 0,
+        "url_key": "cad-pc-intel-core-ultra-9-285k-rtx-4000-ada",
+        "image": {
+          "label": "CAD PC - Intel Core Ultra 9 285K - RTX 4000 ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 3363
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 9 285K</strong>, 24 Kerne, 3.70 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>PNY <strong>NVIDIA</strong> <strong>RTX 4000 ADA</strong>, 20GB GDDR6</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "cad-pc-intel-core-ultra-7-265k-rtx-4500-ada",
+        "id": 18420,
+        "name": "CAD PC - Intel Core Ultra 7 265K - RTX 4500 ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS101015",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs7813245_2.jpg",
+        "product_type": "simple",
+        "final_price": 4247,
+        "discount_percent": 0,
+        "url_key": "cad-pc-intel-core-ultra-7-265k-rtx-4500-ada",
+        "image": {
+          "label": "CAD PC - Intel Core Ultra 7 265K - RTX 4500 ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 4247
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 7 265K</strong>, 20 Kerne, 3.90 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>PNY <strong>NVIDIA</strong> <strong>RTX 4500 ADA</strong>, 24GB GDDR6</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "cad-pc-intel-core-ultra-9-285k-rtx-4500-ada",
+        "id": 18423,
+        "name": "CAD PC - Intel Core Ultra 9 285K - RTX 4500 ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS101018",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1342211_1.jpg",
+        "product_type": "simple",
+        "final_price": 4611,
+        "discount_percent": 0,
+        "url_key": "cad-pc-intel-core-ultra-9-285k-rtx-4500-ada",
+        "image": {
+          "label": "CAD PC - Intel Core Ultra 9 285K - RTX 4500 ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 4611
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 9 285K</strong>, 24 Kerne, 3.70 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>PNY <strong>NVIDIA</strong> <strong>RTX 4500 ADA</strong>, 24GB GDDR6</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "cad-pc-intel-core-ultra-7-265k-rtx-5000-ada",
+        "id": 18421,
+        "name": "CAD PC - Intel Core Ultra 7 265K - RTX 5000 ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS101016",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs9385334_1_2.jpg",
+        "product_type": "simple",
+        "final_price": 6326,
+        "discount_percent": 0,
+        "url_key": "cad-pc-intel-core-ultra-7-265k-rtx-5000-ada",
+        "image": {
+          "label": "CAD PC - Intel Core Ultra 7 265K - RTX 5000 ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 6326
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 7 265K</strong>, 20 Kerne, 3.90 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>PNY <strong>NVIDIA</strong> <strong>RTX 5000 ADA</strong>, 32GB GDDR6</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "cad-pc-intel-core-ultra-9-285k-rtx-5000-ada",
+        "id": 18424,
+        "name": "CAD PC - Intel Core Ultra 9 285K - RTX 5000 ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS101019",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs6244463.jpg",
+        "product_type": "simple",
+        "final_price": 6780,
+        "discount_percent": 0,
+        "url_key": "cad-pc-intel-core-ultra-9-285k-rtx-5000-ada",
+        "image": {
+          "label": "CAD PC - Intel Core Ultra 9 285K - RTX 5000 ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 6780
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 9 285K</strong>, 24 Kerne, 3.70 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, Corsair, <strong>6400 MHz</strong></li>\r\n<li>PNY <strong>NVIDIA</strong> <strong>RTX 5000 ADA</strong>, 32GB GDDR6</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "cad-pc-intel-core-ultra-9-285k-rtx-6000-ada",
+        "id": 18425,
+        "name": "CAD PC - Intel Core Ultra 9 285K - RTX 6000 ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS101020",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs6924810_1.jpg",
+        "product_type": "simple",
+        "final_price": 10415,
+        "discount_percent": 0,
+        "url_key": "cad-pc-intel-core-ultra-9-285k-rtx-6000-ada",
+        "image": {
+          "label": "CAD PC - Intel Core Ultra 9 285K - RTX 6000 ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 10415
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 9 285K</strong>, 24 Kerne, 3.70 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, Corsair, <strong>6400 MHz</strong></li>\r\n<li>PNY <strong>NVIDIA</strong> <strong>RTX 6000 ADA</strong>, 48GB GDDR6</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 2,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 11,
+            "label": "0-10000",
+            "value": "0_10000"
+          },
+          {
+            "count": 1,
+            "label": "10000-20000",
+            "value": "10000_20000"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 4,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 12,
+            "label": "PC Systeme",
+            "value": "Mw=="
+          },
+          {
+            "count": 12,
+            "label": "CAD PC",
+            "value": "NzE="
+          },
+          {
+            "count": 12,
+            "label": "CAD PC Intel Core (15. Gen)",
+            "value": "MzgzNg=="
+          },
+          {
+            "count": 12,
+            "label": "CAD PC Intel Core Ultra",
+            "value": "NDI0OQ=="
+          }
+        ]
+      }
+    ]
+  }
+}

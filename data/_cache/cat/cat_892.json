@@ -1,0 +1,35 @@
+{
+  "categoryList": [
+    {
+      "id": 892,
+      "name": "DDR4 RAM",
+      "description": null,
+      "canonical_url": "hardware/arbeitsspeicher/desktop-arbeitsspeicher/ddr4-ram",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": "DDR4 RAM online kaufen ✓ Kits bis zu 256 GB ✓ Große Auswahl ✓ Top Preise ✓ Schneller Versand ✓ Jetzt DDR4-Arbeitsspeicher.",
+      "meta_keywords": "DDR4 RAM online kaufen",
+      "meta_title": "DDR4 RAM jetzt online kaufen - CLS Computer",
+      "product_count": 0,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "DDR4 RAM jetzt online kaufen",
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

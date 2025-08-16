@@ -1,0 +1,678 @@
+{
+  "categoryList": [
+    {
+      "id": 3601,
+      "name": "Aktionen",
+      "description": null,
+      "canonical_url": "restposten",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 25,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 0,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 25,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 2,
+      "page_size": 20
+    },
+    "items": [
+      {
+        "canonical_url": "thermaltake-th360-argb-sync",
+        "id": 17678,
+        "name": "Thermaltake TH360 ARGB Sync",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS6345706",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls6345706.jpg",
+        "product_type": "simple",
+        "final_price": 87.9,
+        "discount_percent": 0,
+        "url_key": "thermaltake-th360-argb-sync",
+        "image": {
+          "label": "Thermaltake TH360 ARGB Sync",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 87.9
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p><strong>Thermaltake TH360 ARGB Sync</strong></p>"
+        }
+      },
+      {
+        "canonical_url": "huawei-mediapad-t5-10-schwarz-2gb-ram-16gb-flash-lte",
+        "id": 17861,
+        "name": "Huawei MediaPad T5 10, schwarz, 2GB RAM, 16GB Flash, LTE",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS6797971",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls6797971.jpg",
+        "product_type": "simple",
+        "final_price": 129,
+        "discount_percent": 0,
+        "url_key": "huawei-mediapad-t5-10-schwarz-2gb-ram-16gb-flash-lte",
+        "image": {
+          "label": "Huawei MediaPad T5 10, schwarz, 2GB RAM, 16GB Flash, LTE",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 129
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p><strong>Huawei MediaPad T5 10, schwarz, 2GB RAM, 16GB Flash, LTE</strong></p>"
+        }
+      },
+      {
+        "canonical_url": "asus-tuf-gaming-b660m-plus-wifi",
+        "id": 22396,
+        "name": "ASUS TUF Gaming B660M-Plus WIFI",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS7173688",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/p/c/pcs7173688.jpg",
+        "product_type": "simple",
+        "final_price": 146,
+        "discount_percent": 0,
+        "url_key": "asus-tuf-gaming-b660m-plus-wifi",
+        "image": {
+          "label": "ASUS TUF Gaming B660M-Plus WIFI",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 146
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p><strong>ASUS TUF Gaming B660M-Plus WIFI</strong></p>"
+        }
+      },
+      {
+        "canonical_url": "asrock-z690-phantom-gaming-4",
+        "id": 22399,
+        "name": "ASRock Z690 Phantom Gaming 4",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS7116431",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/p/c/pcs7116431.jpg",
+        "product_type": "simple",
+        "final_price": 222,
+        "discount_percent": 0,
+        "url_key": "asrock-z690-phantom-gaming-4",
+        "image": {
+          "label": "ASRock Z690 Phantom Gaming 4",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 222
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p><strong>ASRock Z690 Phantom Gaming 4</strong></p>"
+        }
+      },
+      {
+        "canonical_url": "nokia-xr20-64gb-granite",
+        "id": 17860,
+        "name": "Nokia XR20 64GB Granite",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS6980847",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls6980847.jpg",
+        "product_type": "simple",
+        "final_price": 239,
+        "discount_percent": 0,
+        "url_key": "nokia-xr20-64gb-granite",
+        "image": {
+          "label": "Nokia XR20 64GB Granite",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 239
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p><strong>Nokia XR20 64GB Granite</strong></p>"
+        }
+      },
+      {
+        "canonical_url": "msi-pro-z690-a-wifi",
+        "id": 22398,
+        "name": "MSI PRO Z690-A WIFI",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS7116445",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls7116445_1.jpg",
+        "product_type": "simple",
+        "final_price": 239,
+        "discount_percent": 0,
+        "url_key": "msi-pro-z690-a-wifi",
+        "image": {
+          "label": "MSI PRO Z690-A WIFI",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 239
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p><strong>MSI PRO Z690-A WIFI</strong></p>"
+        }
+      },
+      {
+        "canonical_url": "msi-pro-z690-a-wifi-ddr4",
+        "id": 22397,
+        "name": "MSI PRO Z690-A WIFI DDR4",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS7078694",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/p/c/pcs7078694.jpg",
+        "product_type": "simple",
+        "final_price": 249,
+        "discount_percent": 0,
+        "url_key": "msi-pro-z690-a-wifi-ddr4",
+        "image": {
+          "label": "MSI PRO Z690-A WIFI DDR4",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 249
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p><strong>MSI PRO Z690-A WIFI DDR4</strong></p>"
+        }
+      },
+      {
+        "canonical_url": "asus-tuf-gaming-z690-plus-wifi-d4",
+        "id": 22401,
+        "name": "ASUS TUF Gaming Z690-Plus WIFI D4",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS7138841",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/p/c/pcs7138841.jpg",
+        "product_type": "simple",
+        "final_price": 258,
+        "discount_percent": 0,
+        "url_key": "asus-tuf-gaming-z690-plus-wifi-d4",
+        "image": {
+          "label": "ASUS TUF Gaming Z690-Plus WIFI D4",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 258
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p><strong>ASUS TUF Gaming Z690-Plus WIFI D4</strong></p>"
+        }
+      },
+      {
+        "canonical_url": "msi-mag-z690m-mortar-wifi",
+        "id": 22400,
+        "name": "MSI MAG Z690M Mortar WIFI",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS7138485",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/p/c/pcs7138485.jpg",
+        "product_type": "simple",
+        "final_price": 269,
+        "discount_percent": 0,
+        "url_key": "msi-mag-z690m-mortar-wifi",
+        "image": {
+          "label": "MSI MAG Z690M Mortar WIFI",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 269
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p><strong>MSI MAG Z690M Mortar WIFI</strong></p>"
+        }
+      },
+      {
+        "canonical_url": "14-lenovo-v14-ada",
+        "id": 17691,
+        "name": "14\" Lenovo V14-ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS6653029",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls6653029.jpg",
+        "product_type": "simple",
+        "final_price": 419,
+        "discount_percent": 0,
+        "url_key": "14-lenovo-v14-ada",
+        "image": {
+          "label": "14\" Lenovo V14-ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 419
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p><strong>14\" Lenovo V14-ADA</strong></p>"
+        }
+      },
+      {
+        "canonical_url": "15-6-lenovo-v15-ada",
+        "id": 17692,
+        "name": "15.6\" Lenovo V15-ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS6800551",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls6800551.jpg",
+        "product_type": "simple",
+        "final_price": 429,
+        "discount_percent": 0,
+        "url_key": "15-6-lenovo-v15-ada",
+        "image": {
+          "label": "15.6\" Lenovo V15-ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 429
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p><strong>15.6\" Lenovo V15-ADA</strong></p>"
+        }
+      },
+      {
+        "canonical_url": "15-6-acer-aspire-3-a315-42-r7kk",
+        "id": 17697,
+        "name": "15.6\" Acer Aspire 3 A315-42-R7KK",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS7502716",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls7502716.jpg",
+        "product_type": "simple",
+        "final_price": 549,
+        "discount_percent": 0,
+        "url_key": "15-6-acer-aspire-3-a315-42-r7kk",
+        "image": {
+          "label": "15.6\" Acer Aspire 3 A315-42-R7KK",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 549
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p><strong>15.6\" Acer Aspire 3 A315-42-R7KK</strong></p>"
+        }
+      },
+      {
+        "canonical_url": "15-6-acer-travelmate-p2-tmp215-52-54cj",
+        "id": 17698,
+        "name": "15.6\" Acer TravelMate P2 TMP215-52-54CJ",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS6247276",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls6247276.jpg",
+        "product_type": "simple",
+        "final_price": 669,
+        "discount_percent": 0,
+        "url_key": "15-6-acer-travelmate-p2-tmp215-52-54cj",
+        "image": {
+          "label": "15.6\" Acer TravelMate P2 TMP215-52-54CJ",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 669
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p><strong>15.6\" Acer TravelMate P2 TMP215-52-54CJ</strong></p>"
+        }
+      },
+      {
+        "canonical_url": "gainward-geforce-rtx-4070-super-python-iii-oc-12gb-gddr6x-hdmi-3x-dp",
+        "id": 22406,
+        "name": "Gainward GeForce RTX 4070 SUPER Python III OC, 12GB GDDR6X, HDMI, 3x DP",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS9188691",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls9188691.webp",
+        "product_type": "simple",
+        "final_price": 799,
+        "discount_percent": 0,
+        "url_key": "gainward-geforce-rtx-4070-super-python-iii-oc-12gb-gddr6x-hdmi-3x-dp",
+        "image": {
+          "label": "Gainward GeForce RTX 4070 SUPER Python III OC, 12GB GDDR6X, HDMI, 3x DP",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 799
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p><strong>Gainward GeForce RTX 4070 SUPER Python III OC, 12GB GDDR6X, HDMI, 3x DP</strong></p>"
+        }
+      },
+      {
+        "canonical_url": "15-6-acer-nitro-5-an515-44-r5k7",
+        "id": 17693,
+        "name": "15.6\" Acer Nitro 5 AN515-44-R5K7",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS6377489",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls6377489.jpg",
+        "product_type": "simple",
+        "final_price": 849,
+        "discount_percent": 0,
+        "url_key": "15-6-acer-nitro-5-an515-44-r5k7",
+        "image": {
+          "label": "15.6\" Acer Nitro 5 AN515-44-R5K7",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 849
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p><strong>15.6\" Acer Nitro 5 AN515-44-R5K7</strong></p>"
+        }
+      },
+      {
+        "canonical_url": "17-3-hp-17-cd2146ng-shadow-black",
+        "id": 17694,
+        "name": "17.3\" HP 17-cd2146ng Shadow Black",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS7307842",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls7307842.jpg",
+        "product_type": "simple",
+        "final_price": 899,
+        "discount_percent": 0,
+        "url_key": "17-3-hp-17-cd2146ng-shadow-black",
+        "image": {
+          "label": "17.3\" HP 17-cd2146ng Shadow Black",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 899
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p><strong>17.3\" HP 17-cd2146ng Shadow Black</strong></p>"
+        }
+      },
+      {
+        "canonical_url": "15-microsoft-surface-laptop-3",
+        "id": 21750,
+        "name": "15\" Microsoft Surface Laptop 3",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLSA10128",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/clsa10128-1.jpg",
+        "product_type": "simple",
+        "final_price": 899,
+        "discount_percent": 0,
+        "url_key": "15-microsoft-surface-laptop-3",
+        "image": {
+          "label": "15\" Microsoft Surface Laptop 3",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 899
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>15\" Microsoft </strong>Surface Laptop 3 Schwarz</li>\r\n<li><strong>AMD Ryzen 5 3580U</strong>, 4x 2.10 GHz</li>\r\n<li><strong>16GB</strong> DDR4-SDRAM, <strong>3200 MHz</strong></li>\r\n<li>AMD Radeon Vega 9 Graphics<strong> (IGP)</strong></li>\r\n<li><strong>256GB</strong> M.2 Solid State Drive</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "inno3d-geforce-rtx-5070-ti-x3-oc-16gb-gddr7-hdmi-3x-dp",
+        "id": 20984,
+        "name": "INNO3D GeForce RTX 5070 Ti X3 OC, 16GB GDDR7, HDMI, 3x DP",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS5233681",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls5233681.webp",
+        "product_type": "simple",
+        "final_price": 945,
+        "discount_percent": 0,
+        "url_key": "inno3d-geforce-rtx-5070-ti-x3-oc-16gb-gddr7-hdmi-3x-dp",
+        "image": {
+          "label": "INNO3D GeForce RTX 5070 Ti X3 OC, 16GB GDDR7, HDMI, 3x DP",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 945
+            }
+          }
+        },
+        "short_description": {
+          "html": "<table style=\"float: left; height: 810px;\" data-start=\"99\" data-end=\"4632\">\r\n<thead data-start=\"99\" data-end=\"203\">\r\n<tr style=\"height: 18px;\" data-start=\"99\" data-end=\"203\">\r\n<th style=\"text-align: left; height: 18px; width: 288.438px;\" data-start=\"99\" data-end=\"137\"><strong data-start=\"101\" data-end=\"114\">Kategorie</strong></th>\r\n<th style=\"text-align: left; height: 18px; width: 528.562px;\" data-start=\"137\" data-end=\"203\"><strong data-start=\"139\" data-end=\"156\">Spezifikation</strong></th>\r\n</tr>\r\n</thead>\r\n<tbody data-start=\"308\" data-end=\"4632\">\r\n<tr style=\"height: 18px;\" data-start=\"308\" data-end=\"411\">\r\n<td style=\"height: 18px; width: 288.438px;\"><strong data-start=\"310\" data-end=\"340\">GPU Engine Spezifikationen</strong></td>\r\n<td style=\"height: 18px; width: 528.562px;\"> </td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"412\" data-end=\"516\">\r\n<td style=\"height: 18px; width: 288.438px;\">CUDA-Kerne</td>\r\n<td style=\"height: 18px; width: 528.562px;\">8960</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"517\" data-end=\"621\" data-is-only-node=\"\">\r\n<td style=\"height: 18px; width: 288.438px;\">Boost-Takt (MHz)</td>\r\n<td style=\"height: 18px; width: 528.562px;\">2482 MHz</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"622\" data-end=\"726\">\r\n<td style=\"height: 18px; width: 288.438px;\">Basis-Takt (MHz)</td>\r\n<td style=\"height: 18px; width: 528.562px;\">2295 MHz</td>\r\n</tr>\r\n<tr style=\"height: 36px;\" data-start=\"727\" data-end=\"829\">\r\n<td style=\"height: 36px; width: 288.438px;\"><strong data-start=\"729\" data-end=\"771\">Thermische und Energie Spezifikationen</strong></td>\r\n<td style=\"height: 36px; width: 528.562px;\"> </td>\r\n</tr>\r\n<tr style=\"height: 36px;\" data-start=\"830\" data-end=\"935\">\r\n<td style=\"height: 36px; width: 288.438px;\">Minimale Systemleistungsanforderung (W)</td>\r\n<td style=\"height: 36px; width: 528.562px;\">750W</td>\r\n</tr>\r\n<tr style=\"height: 36px;\" data-start=\"936\" data-end=\"1067\">\r\n<td style=\"height: 36px; width: 288.438px;\">Zusätzliche Stromanschlüsse</td>\r\n<td style=\"height: 36px; width: 528.562px;\">2x PCIe 8-polige Kabel (Adapter im Lieferumfang) oder 300W oder größeres PCIe Gen 5 Kabel</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"1068\" data-end=\"1171\">\r\n<td style=\"height: 18px; width: 288.438px;\"><strong data-start=\"1070\" data-end=\"1097\">Speicherspezifikationen</strong></td>\r\n<td style=\"height: 18px; width: 528.562px;\"> </td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"1172\" data-end=\"1276\">\r\n<td style=\"height: 18px; width: 288.438px;\">Speichertakt</td>\r\n<td style=\"height: 18px; width: 528.562px;\">28 Gbps</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"1277\" data-end=\"1381\">\r\n<td style=\"height: 18px; width: 288.438px;\">Standard Speicherkonfiguration</td>\r\n<td style=\"height: 18px; width: 528.562px;\">16 GB</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"1382\" data-end=\"1486\">\r\n<td style=\"height: 18px; width: 288.438px;\">Speicherschnittstelle</td>\r\n<td style=\"height: 18px; width: 528.562px;\">GDDR7</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"1487\" data-end=\"1591\">\r\n<td style=\"height: 18px; width: 288.438px;\">Speicherschnittstellenbreite</td>\r\n<td style=\"height: 18px; width: 528.562px;\">256-bit</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"1592\" data-end=\"1696\">\r\n<td style=\"height: 18px; width: 288.438px;\">Speicherbandbreite (GB/s)</td>\r\n<td style=\"height: 18px; width: 528.562px;\">896 GB/s</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"1697\" data-end=\"1800\">\r\n<td style=\"height: 18px; width: 288.438px;\"><strong data-start=\"1699\" data-end=\"1726\">Unterstützte Funktionen</strong></td>\r\n<td style=\"height: 18px; width: 528.562px;\"> </td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"1801\" data-end=\"1905\">\r\n<td style=\"height: 18px; width: 288.438px;\">Echtzeit-Raytracing</td>\r\n<td style=\"height: 18px; width: 528.562px;\">Ja</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"1906\" data-end=\"2010\">\r\n<td style=\"height: 18px; width: 288.438px;\">Raytracing-Kerne</td>\r\n<td style=\"height: 18px; width: 528.562px;\">4. Generation, 133 TFLOPS</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"2011\" data-end=\"2115\">\r\n<td style=\"height: 18px; width: 288.438px;\">Tensor-Kerne</td>\r\n<td style=\"height: 18px; width: 528.562px;\">5. Generation, 1406 AI TOPS</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"2116\" data-end=\"2220\">\r\n<td style=\"height: 18px; width: 288.438px;\">NVIDIA-Architektur</td>\r\n<td style=\"height: 18px; width: 528.562px;\">Blackwell</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"2221\" data-end=\"2325\">\r\n<td style=\"height: 18px; width: 288.438px;\">Microsoft DirectX</td>\r\n<td style=\"height: 18px; width: 528.562px;\">12 Ultimate</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"2326\" data-end=\"2430\">\r\n<td style=\"height: 18px; width: 288.438px;\">NVIDIA DLSS</td>\r\n<td style=\"height: 18px; width: 528.562px;\">4</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"2431\" data-end=\"2535\">\r\n<td style=\"height: 18px; width: 288.438px;\">NVIDIA Ansel</td>\r\n<td style=\"height: 18px; width: 528.562px;\">Ja</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"2536\" data-end=\"2640\">\r\n<td style=\"height: 18px; width: 288.438px;\">NVIDIA FreeStyle</td>\r\n<td style=\"height: 18px; width: 528.562px;\">Ja</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"2641\" data-end=\"2745\">\r\n<td style=\"height: 18px; width: 288.438px;\">Busunterstützung</td>\r\n<td style=\"height: 18px; width: 528.562px;\">PCI Express Gen 5</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"2746\" data-end=\"2850\">\r\n<td style=\"height: 18px; width: 288.438px;\">NVIDIA ShadowPlay</td>\r\n<td style=\"height: 18px; width: 528.562px;\">Ja</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"2851\" data-end=\"2955\">\r\n<td style=\"height: 18px; width: 288.438px;\">OS-Zertifizierung</td>\r\n<td style=\"height: 18px; width: 528.562px;\">Windows 11 / 10, Linux, FreeBSDx86</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"2956\" data-end=\"3060\">\r\n<td style=\"height: 18px; width: 288.438px;\">NVIDIA Highlights</td>\r\n<td style=\"height: 18px; width: 528.562px;\">Ja</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"3061\" data-end=\"3165\">\r\n<td style=\"height: 18px; width: 288.438px;\">NVIDIA G-SYNC™-Ready</td>\r\n<td style=\"height: 18px; width: 528.562px;\">Ja</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"3166\" data-end=\"3270\">\r\n<td style=\"height: 18px; width: 288.438px;\">Treiberbereitschaft</td>\r\n<td style=\"height: 18px; width: 528.562px;\">Ja</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"3271\" data-end=\"3375\">\r\n<td style=\"height: 18px; width: 288.438px;\">NVIDIA Studio-Treiber</td>\r\n<td style=\"height: 18px; width: 528.562px;\">Ja</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"3376\" data-end=\"3480\">\r\n<td style=\"height: 18px; width: 288.438px;\">NVIDIA GPU Boost™</td>\r\n<td style=\"height: 18px; width: 528.562px;\">Ja</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"3481\" data-end=\"3585\">\r\n<td style=\"height: 18px; width: 288.438px;\">Vulkan API</td>\r\n<td style=\"height: 18px; width: 528.562px;\">1.4</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"3586\" data-end=\"3690\">\r\n<td style=\"height: 18px; width: 288.438px;\">OpenGL</td>\r\n<td style=\"height: 18px; width: 528.562px;\">4.6</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"3691\" data-end=\"3795\">\r\n<td style=\"height: 18px; width: 288.438px;\">NVIDIA Encoder</td>\r\n<td style=\"height: 18px; width: 528.562px;\">2x Neunte Generation</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"3796\" data-end=\"3900\">\r\n<td style=\"height: 18px; width: 288.438px;\">NVIDIA Decoder</td>\r\n<td style=\"height: 18px; width: 528.562px;\">1x Sechste Generation</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"3901\" data-end=\"4004\">\r\n<td style=\"height: 18px; width: 288.438px;\"><strong data-start=\"3903\" data-end=\"3914\">Zubehör</strong></td>\r\n<td style=\"height: 18px; width: 528.562px;\"> </td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"4005\" data-end=\"4109\">\r\n<td style=\"height: 18px; width: 288.438px;\">Abmessungen der Grafikkarte</td>\r\n<td style=\"height: 18px; width: 528.562px;\">Länge: 300mm, Höhe: 116mm, Breite: 41mm</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"4110\" data-end=\"4213\">\r\n<td style=\"height: 18px; width: 288.438px;\"><strong data-start=\"4112\" data-end=\"4141\">Unterstützung für Anzeige</strong></td>\r\n<td style=\"height: 18px; width: 528.562px;\"> </td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"4214\" data-end=\"4318\">\r\n<td style=\"height: 18px; width: 288.438px;\">Multi-Monitor Unterstützung</td>\r\n<td style=\"height: 18px; width: 528.562px;\">bis zu 4</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"4319\" data-end=\"4422\">\r\n<td style=\"height: 18px; width: 288.438px;\">Maximale digitale Auflösung</td>\r\n<td style=\"height: 18px; width: 528.562px;\">4K bei 480Hz oder 8K bei 165Hz mit DSC</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"4423\" data-end=\"4527\">\r\n<td style=\"height: 18px; width: 288.438px;\">HDCP</td>\r\n<td style=\"height: 18px; width: 528.562px;\">2.3</td>\r\n</tr>\r\n<tr style=\"height: 18px;\" data-start=\"4528\" data-end=\"4632\">\r\n<td style=\"height: 18px; width: 288.438px;\">Standard Display-Anschlüsse</td>\r\n<td style=\"height: 18px; width: 528.562px;\">3x DisplayPort 2.1b, 1x HDMI 2.1b</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+        }
+      },
+      {
+        "canonical_url": "inno3d-geforce-rtx-4080-super-x3-16gb-gddr6x-hdmi-3x-dp",
+        "id": 22408,
+        "name": "INNO3D GeForce RTX 4080 SUPER X3, 16GB GDDR6X, HDMI, 3x DP",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS8742920",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls8742920.webp",
+        "product_type": "simple",
+        "final_price": 1258,
+        "discount_percent": 0,
+        "url_key": "inno3d-geforce-rtx-4080-super-x3-16gb-gddr6x-hdmi-3x-dp",
+        "image": {
+          "label": "INNO3D GeForce RTX 4080 SUPER X3, 16GB GDDR6X, HDMI, 3x DP",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1258
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p><strong>INNO3D GeForce RTX 4080 SUPER X3, 16GB GDDR6X, HDMI, 3x DP</strong></p>"
+        }
+      },
+      {
+        "canonical_url": "xfx-speedster-merc-319-radeon-rx-6900-xt-black-gaming-16gb-gddr6-hdmi-3x-dp",
+        "id": 22409,
+        "name": "XFX Speedster MERC 319 Radeon RX 6900 XT Black Gaming, 16GB GDDR6, HDMI, 3x DP",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS7033649",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls7033649.jpg",
+        "product_type": "simple",
+        "final_price": 1499,
+        "discount_percent": 0,
+        "url_key": "xfx-speedster-merc-319-radeon-rx-6900-xt-black-gaming-16gb-gddr6-hdmi-3x-dp",
+        "image": {
+          "label": "XFX Speedster MERC 319 Radeon RX 6900 XT Black Gaming, 16GB GDDR6, HDMI, 3x DP",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1499
+            }
+          }
+        },
+        "short_description": {
+          "html": "<p class=\"variant__header__headline\"><strong>XFX Speedster MERC 319 Radeon RX 6900 XT Black Gaming, 16GB GDDR6, HDMI, 3x DP</strong></p>"
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 4,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 18,
+            "label": "0-1000",
+            "value": "0_1000"
+          },
+          {
+            "count": 3,
+            "label": "1000-2000",
+            "value": "1000_2000"
+          },
+          {
+            "count": 2,
+            "label": "2000-3000",
+            "value": "2000_3000"
+          },
+          {
+            "count": 2,
+            "label": "3000-4000",
+            "value": "3000_4000"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 5,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 25,
+            "label": "Aktionen",
+            "value": "MzYwMQ=="
+          },
+          {
+            "count": 6,
+            "label": "Sale",
+            "value": "NjA4"
+          },
+          {
+            "count": 1,
+            "label": "PC Systeme",
+            "value": "Mw=="
+          },
+          {
+            "count": 1,
+            "label": "GAMING PC",
+            "value": "OQ=="
+          },
+          {
+            "count": 1,
+            "label": "Gaming PC Intel Core (14. Gen)",
+            "value": "MzExOQ=="
+          }
+        ]
+      }
+    ]
+  }
+}

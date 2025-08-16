@@ -1,0 +1,96 @@
+{
+  "categoryList": [
+    {
+      "id": 725,
+      "name": "PC Konfigurator",
+      "description": null,
+      "canonical_url": "pc-konfigurator",
+      "children_count": "10",
+      "image": "http://cls-computer-admin.nz/media/catalog/category/CLS-PC-KONFIGURATOR.webp",
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 0,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 0,
+      "custom_title": null,
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "pc-s-konfigurator/pc-konfigurator",
+          "name": "PC Konfigurator",
+          "position": 1,
+          "url_key": "pc-konfigurator"
+        },
+        {
+          "canonical_url": "pc-s-konfigurator/gaming-pc-konfigurator",
+          "name": "Gaming PC Konfigurator",
+          "position": 2,
+          "url_key": "gaming-pc-konfigurator"
+        },
+        {
+          "canonical_url": "pc-s-konfigurator/high-end-pc-konfigurator",
+          "name": "High End PC Konfigurator",
+          "position": 3,
+          "url_key": "high-end-pc-konfigurator"
+        },
+        {
+          "canonical_url": "pc-s-konfigurator/office-pc-konfigurator",
+          "name": "Office PC Konfigurator",
+          "position": 4,
+          "url_key": "office-pc-konfigurator"
+        },
+        {
+          "canonical_url": "pc-s-konfigurator/multimedia-pc-konfigurator",
+          "name": "Multimedia PC Konfigurator",
+          "position": 5,
+          "url_key": "multimedia-pc-konfigurator"
+        },
+        {
+          "canonical_url": "pc-s-konfigurator/silent-pc-konfigurator",
+          "name": "Silent PC Konfigurator",
+          "position": 6,
+          "url_key": "silent-pc-konfigurator"
+        },
+        {
+          "canonical_url": "pc-s-konfigurator/workstation-konfigurator",
+          "name": "Workstation Konfigurator",
+          "position": 7,
+          "url_key": "workstation-konfigurator"
+        },
+        {
+          "canonical_url": "pc-s-konfigurator/cad-pc-konfigurator",
+          "name": "CAD PC Konfigurator",
+          "position": 9,
+          "url_key": "cad-pc-konfigurator"
+        },
+        {
+          "canonical_url": "pc-s-konfigurator/mini-pc-konfigurator",
+          "name": "Mini PC Konfigurator",
+          "position": 10,
+          "url_key": "mini-pc-konfigurator"
+        },
+        {
+          "canonical_url": "pc-s-konfigurator/flugsimulator-pc-konfigurator",
+          "name": "Flugsimulator PC-Konfigurator",
+          "position": 11,
+          "url_key": "flugsimulator-pc-konfigurator"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

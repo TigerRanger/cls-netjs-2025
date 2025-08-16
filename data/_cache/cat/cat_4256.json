@@ -1,0 +1,494 @@
+{
+  "categoryList": [
+    {
+      "id": 4256,
+      "name": "Gaming PC Intel Core Ultra",
+      "description": null,
+      "canonical_url": "pc-systeme/gaming-pc/gaming-pc-intel-core-ultra",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 14,
+      "display_mode": null,
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": null,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 14,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 20
+    },
+    "items": [
+      {
+        "canonical_url": "gaming-pc-intel-core-ultra-5-225f-geforce-rtx-5060",
+        "id": 18294,
+        "name": "Gaming PC - Intel Core Ultra 5 225F - GeForce RTX 5060",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS61025",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls61025-605.webp",
+        "product_type": "simple",
+        "final_price": 1109,
+        "discount_percent": 0,
+        "url_key": "gaming-pc-intel-core-ultra-5-225f-geforce-rtx-5060",
+        "image": {
+          "label": "Intel Advanced Gaming PC 61005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1109
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 225F</strong>, 10 Kerne, 2.70 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5060</strong>, 8GB GDDR7</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-pc-intel-core-ultra-5-225f-radeon-rx-9060-xt",
+        "id": 23728,
+        "name": "Gaming PC - Intel Core Ultra 5 225F - Radeon RX 9060 XT",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS61036",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls61036-6000.jpg",
+        "product_type": "simple",
+        "final_price": 1130,
+        "discount_percent": 0,
+        "url_key": "gaming-pc-intel-core-ultra-5-225f-radeon-rx-9060-xt",
+        "image": {
+          "label": "Intel Advanced Gaming PC 61005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1130
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 225F</strong>, 10 Kerne, 2.70 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>AMD <strong>Radeon RX 9060 XT</strong>, 8GB GDDR6</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-pc-intel-core-ultra-5-235-radeon-rx-9060-xt",
+        "id": 23729,
+        "name": "Gaming PC - Intel Core Ultra 5 235 - Radeon RX 9060 XT",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS61038",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls61038-6000.jpg",
+        "product_type": "simple",
+        "final_price": 1277,
+        "discount_percent": 0,
+        "url_key": "gaming-pc-intel-core-ultra-5-235-radeon-rx-9060-xt",
+        "image": {
+          "label": "Intel Advanced Gaming PC 61005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1277
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 235</strong>, 14 Kerne, 2.90 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>AMD <strong>Radeon RX 9060 XT</strong>, 16GB GDDR6</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-pc-intel-core-ultra-5-235-geforce-rtx-5060-ti",
+        "id": 18295,
+        "name": "Gaming PC - Intel Core Ultra 5 235 - GeForce RTX 5060 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS61026",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls61026-6000.jpg",
+        "product_type": "simple",
+        "final_price": 1284,
+        "discount_percent": 0,
+        "url_key": "gaming-pc-intel-core-ultra-5-235-geforce-rtx-5060-ti",
+        "image": {
+          "label": "Intel Advanced Gaming PC 61005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1284
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 235</strong>, 14 Kerne, 2.90 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5060 Ti</strong>, 8GB GDDR7</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-pc-intel-core-ultra-5-245kf-rtx-5060-ti",
+        "id": 18296,
+        "name": "Gaming PC - Intel Core Ultra 5 245KF - RTX 5060 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS61029",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls61029-6000.jpg",
+        "product_type": "simple",
+        "final_price": 1349,
+        "discount_percent": 0,
+        "url_key": "gaming-pc-intel-core-ultra-5-245kf-rtx-5060-ti",
+        "image": {
+          "label": "Intel Advanced Gaming PC 61005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1349
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 245KF</strong>, 14 Kerne, 3.60 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5060 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-pc-intel-core-ultra-5-245kf-radeon-rx-7800-xt",
+        "id": 23730,
+        "name": "Gaming PC - Intel Core Ultra 5 245KF - Radeon RX 7800 XT",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS61041",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls61041-6000_1.jpg",
+        "product_type": "simple",
+        "final_price": 1431,
+        "discount_percent": 0,
+        "url_key": "gaming-pc-intel-core-ultra-5-245kf-radeon-rx-7800-xt",
+        "image": {
+          "label": "Intel Advanced Gaming PC 61005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1431
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 245KF</strong>, 14 Kerne, 3.60 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>AMD <strong>Radeon RX 7800 XT</strong>, 16GB GDDR6</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-pc-intel-core-ultra-7-265kf-geforce-rtx-5070",
+        "id": 18298,
+        "name": "Gaming PC - Intel Core Ultra 7 265KF - GeForce RTX 5070",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS61030",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls61030-6000.jpg",
+        "product_type": "simple",
+        "final_price": 1888,
+        "discount_percent": 0,
+        "url_key": "gaming-pc-intel-core-ultra-7-265kf-geforce-rtx-5070",
+        "image": {
+          "label": "Intel Advanced Gaming PC 61005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1888
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 7 265KF</strong>, 20 Kerne, 3.30 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5070</strong>, 12GB GDDR7</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-pc-intel-core-ultra-7-265kf-radeon-rx-9070",
+        "id": 23731,
+        "name": "Gaming PC - Intel Core Ultra 7 265KF - Radeon RX 9070",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS61042",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls61042-6000.webp",
+        "product_type": "simple",
+        "final_price": 2013,
+        "discount_percent": 0,
+        "url_key": "gaming-pc-intel-core-ultra-7-265kf-radeon-rx-9070",
+        "image": {
+          "label": "Intel Advanced Gaming PC 61005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2013
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 7 265KF</strong>, 20 Kerne, 3.30 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>AMD <strong>Radeon RX 9070</strong>, 16GB GDDR6</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-pc-intel-core-ultra-7-265k-radeon-rx-7900-xt",
+        "id": 23732,
+        "name": "Gaming PC - Intel Core Ultra 7 265K - Radeon RX 7900 XT",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS61043",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls61043-600.webp",
+        "product_type": "simple",
+        "final_price": 2055,
+        "discount_percent": 0,
+        "url_key": "gaming-pc-intel-core-ultra-7-265k-radeon-rx-7900-xt",
+        "image": {
+          "label": "Intel Advanced Gaming PC 61005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2055
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 7 265K</strong>, 20 Kerne, 3.30 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>AMD <strong>Radeon RX 7900 XT</strong>, 20GB GDDR6</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-pc-intel-core-ultra-7-265k-geforce-rtx-5070-ti",
+        "id": 18299,
+        "name": "Gaming PC - Intel Core Ultra 7 265K - GeForce RTX 5070 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS61033",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls61033-60000.jpg",
+        "product_type": "simple",
+        "final_price": 2206,
+        "discount_percent": 0,
+        "url_key": "gaming-pc-intel-core-ultra-7-265k-geforce-rtx-5070-ti",
+        "image": {
+          "label": "Intel Advanced Gaming PC 61005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2206
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 7 265K</strong>, 20 Kerne, 3.30 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5070 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-pc-intel-core-ultra-9-285k-radeon-rx-9070-xt",
+        "id": 23733,
+        "name": "Gaming PC - Intel Core Ultra 9 285K - Radeon RX 9070 XT",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS61044",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls61044-6000.jpg",
+        "product_type": "simple",
+        "final_price": 2536,
+        "discount_percent": 0,
+        "url_key": "gaming-pc-intel-core-ultra-9-285k-radeon-rx-9070-xt",
+        "image": {
+          "label": "Intel Advanced Gaming PC 61005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2536
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 9 285K</strong>, 24 Kerne, 3.20 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>AMD <strong>Radeon RX 9070 XT</strong>, 16GB GDDR6</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-pc-intel-core-ultra-9-285k-radeon-rx-7900-xtx",
+        "id": 23734,
+        "name": "Gaming PC - Intel Core Ultra 9 285K - Radeon RX 7900 XTX",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS61045",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls61045-6000.webp",
+        "product_type": "simple",
+        "final_price": 2915,
+        "discount_percent": 0,
+        "url_key": "gaming-pc-intel-core-ultra-9-285k-radeon-rx-7900-xtx",
+        "image": {
+          "label": "Intel Advanced Gaming PC 61005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2915
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 9 285K</strong>, 24 Kerne, 3.20 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>AMD <strong>Radeon RX 7900 XTX</strong>, 24GB GDDR6</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-pc-intel-core-ultra-9-285k-geforce-rtx-5080",
+        "id": 18300,
+        "name": "Gaming PC - Intel Core Ultra 9 285K - GeForce RTX 5080",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS61034",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls61034-6000.jpg",
+        "product_type": "simple",
+        "final_price": 2954,
+        "discount_percent": 0,
+        "url_key": "gaming-pc-intel-core-ultra-9-285k-geforce-rtx-5080",
+        "image": {
+          "label": "Intel Advanced Gaming PC 61005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2954
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 9 285K</strong>, 24 Kerne, 3.20 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5080</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-pc-intel-core-ultra-9-285k-geforce-rtx-5090",
+        "id": 18303,
+        "name": "Gaming PC - Intel Core Ultra 9 285K - GeForce RTX 5090",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS61035",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls61035-60000.jpg",
+        "product_type": "simple",
+        "final_price": 4686,
+        "discount_percent": 0,
+        "url_key": "gaming-pc-intel-core-ultra-9-285k-geforce-rtx-5090",
+        "image": {
+          "label": "Intel Advanced Gaming PC 61005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 4686
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 9 285K</strong>, 24 Kerne, 3.20 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, Corsair, <strong>6000 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5090</strong>, 32GB GDDR7</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 3,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 7,
+            "label": "1000-2000",
+            "value": "1000_2000"
+          },
+          {
+            "count": 6,
+            "label": "2000-3000",
+            "value": "2000_3000"
+          },
+          {
+            "count": 1,
+            "label": "4000-5000",
+            "value": "4000_5000"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 4,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 14,
+            "label": "PC Systeme",
+            "value": "Mw=="
+          },
+          {
+            "count": 14,
+            "label": "GAMING PC",
+            "value": "OQ=="
+          },
+          {
+            "count": 14,
+            "label": "Gaming PC Intel Core Ultra",
+            "value": "NDI1Ng=="
+          },
+          {
+            "count": 7,
+            "label": "Gaming PC Intel Core (15. Gen)",
+            "value": "MzgyMw=="
+          }
+        ]
+      }
+    ]
+  }
+}

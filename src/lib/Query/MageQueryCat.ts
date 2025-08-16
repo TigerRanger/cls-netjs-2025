@@ -51,7 +51,6 @@ query getProductPage(
       canonical_url
       id
       name
-      new
       rating_summary
       review_count
       sku

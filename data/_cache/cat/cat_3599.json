@@ -1,0 +1,499 @@
+{
+  "categoryList": [
+    {
+      "id": 3599,
+      "name": "Gaming Laptop 16 Zoll ",
+      "description": null,
+      "canonical_url": "notebooks/gaming-laptop/gaming-laptop-16-zoll",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 14,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 0,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 14,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 20
+    },
+    "items": [
+      {
+        "canonical_url": "gaming-laptop-16-ryzen-9-9955hx-rtx-5070-ti",
+        "id": 21826,
+        "name": "Gaming Laptop - 16\" - Ryzen 9 9955HX - RTX 5070 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS251012",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls251012-1.jpg",
+        "product_type": "simple",
+        "final_price": 2263,
+        "discount_percent": 0,
+        "url_key": "gaming-laptop-16-ryzen-9-9955hx-rtx-5070-ti",
+        "image": {
+          "label": "Gaming Laptop - 16\" - Ryzen 9 9955HX - RTX 5070 Ti",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2263
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>16\", </strong>2560x1600 Pixel (WQXGA),<strong> 300 Hz</strong></li>\r\n<li><strong>AMD Ryzen 9 9955HX</strong>, 16x 2.50 GHz</li>\r\n<li><strong>32GB</strong> DDR5-SDRAM, <strong>5600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5070 Ti</strong>, 12GB</li>\r\n<li><strong>1TB </strong>Kingston NV3,<strong> 6000/4000 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-laptop-16-intel-core-ultra-9-275hx-rtx-5070-ti",
+        "id": 21821,
+        "name": "Gaming Laptop - 16\" - Intel Core Ultra 9 275HX - RTX 5070 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS251024",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls251024-1.jpg",
+        "product_type": "simple",
+        "final_price": 2327,
+        "discount_percent": 0,
+        "url_key": "gaming-laptop-16-intel-core-ultra-9-275hx-rtx-5070-ti",
+        "image": {
+          "label": "Gaming Laptop - 16\" - Intel Core Ultra 9 275HX - RTX 5070 Ti",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2327
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>16\", </strong>2560x1600 Pixel (WQXGA),<strong> 300 Hz</strong></li>\r\n<li><strong>Intel Core Ultra 9 275HX</strong>, 24x 2.10 GHz</li>\r\n<li><strong>32GB</strong> DDR5-SDRAM, <strong>5600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5070 Ti</strong>, 12GB</li>\r\n<li><strong>1TB </strong>Kingston NV3,<strong> 6000/4000 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-laptop-16-ryzen-9-9955hx3d-rtx-5070-ti",
+        "id": 21828,
+        "name": "Gaming Laptop - 16\" - Ryzen 9 9955HX3D - RTX 5070 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS251015",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls251015-1.jpg",
+        "product_type": "simple",
+        "final_price": 2433,
+        "discount_percent": 0,
+        "url_key": "gaming-laptop-16-ryzen-9-9955hx3d-rtx-5070-ti",
+        "image": {
+          "label": "Gaming Laptop - 16\" - Ryzen 9 9955HX3D - RTX 5070 Ti",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2433
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>16\", </strong>2560x1600 Pixel (WQXGA),<strong> 300 Hz</strong></li>\r\n<li><strong>AMD Ryzen 9 9955HX3D</strong>, 16x 2.50 GHz</li>\r\n<li><strong>32GB</strong> DDR5-SDRAM, <strong>5600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5070 Ti</strong>, 12GB</li>\r\n<li><strong>1TB </strong>Kingston NV3,<strong> 6000/4000 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-laptop-16-ryzen-9-9955hx3d-rtx-5070-ti-1",
+        "id": 21829,
+        "name": "Gaming Laptop - 16\" - Ryzen 9 9955HX3D - RTX 5070 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS251019",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls251019-1.jpg",
+        "product_type": "simple",
+        "final_price": 2511,
+        "discount_percent": 0,
+        "url_key": "gaming-laptop-16-ryzen-9-9955hx3d-rtx-5070-ti",
+        "image": {
+          "label": "Gaming Laptop - 16\" - Ryzen 9 9955HX3D - RTX 5070 Ti",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2511
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>16\", </strong>2560x1600 Pixel (WQXGA),<strong> 300 Hz</strong></li>\r\n<li><strong>AMD Ryzen 9 9955HX3D</strong>, 16x 2.50 GHz</li>\r\n<li><strong>32GB</strong> DDR5-SDRAM, <strong>5600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5070 Ti</strong>, 12GB</li>\r\n<li><strong>1TB </strong>Kingston NV3,<strong> 6000/4000 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-laptop-16-ryzen-9-9955hx-rtx-5080",
+        "id": 21830,
+        "name": "Gaming Laptop - 16\" - Ryzen 9 9955HX - RTX 5080",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS251033",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls251033-1.jpg",
+        "product_type": "simple",
+        "final_price": 2829,
+        "discount_percent": 0,
+        "url_key": "gaming-laptop-16-ryzen-9-9955hx-rtx-5080",
+        "image": {
+          "label": "Gaming Laptop - 16\" - Ryzen 9 9955HX - RTX 5080",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2829
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>16\", </strong>2560x1600 Pixel (WQXGA),<strong> 300 Hz</strong></li>\r\n<li><strong>AMD Ryzen 9 9955HX</strong>, 16x 2.50 GHz</li>\r\n<li><strong>32GB</strong> DDR5-SDRAM, <strong>5600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5080</strong>, 16GB</li>\r\n<li><strong>1TB </strong>Samsung 990 Evo,<strong> 7150/6300 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-laptop-16-intel-core-ultra-9-275hx-rtx-5080",
+        "id": 21822,
+        "name": "Gaming Laptop - 16\" - Intel Core Ultra 9 275HX - RTX 5080",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS251031",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls251031-1.jpg",
+        "product_type": "simple",
+        "final_price": 2895,
+        "discount_percent": 0,
+        "url_key": "gaming-laptop-16-intel-core-ultra-9-275hx-rtx-5080",
+        "image": {
+          "label": "Gaming Laptop - 16\" - Intel Core Ultra 9 275HX - RTX 5080",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2895
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>16\", </strong>2560x1600 Pixel (WQXGA),<strong> 300 Hz</strong></li>\r\n<li><strong>Intel Core Ultra 9 275HX</strong>, 24x 2.10 GHz</li>\r\n<li><strong>32GB</strong> DDR5-SDRAM, <strong>5600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5080</strong>, 16GB</li>\r\n<li><strong>1TB </strong>Samsung 990 Evo,<strong> 7150/6300 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-laptop-16-ryzen-9-9955hx3d-rtx-5080",
+        "id": 21831,
+        "name": "Gaming Laptop - 16\" - Ryzen 9 9955HX3D - RTX 5080",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS251021",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls251021-1.jpg",
+        "product_type": "simple",
+        "final_price": 3097,
+        "discount_percent": 0,
+        "url_key": "gaming-laptop-16-ryzen-9-9955hx3d-rtx-5080",
+        "image": {
+          "label": "Gaming Laptop - 16\" - Ryzen 9 9955HX3D - RTX 5080",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 3097
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>16\", </strong>2560x1600 Pixel (WQXGA),<strong> 300 Hz</strong></li>\r\n<li><strong>AMD Ryzen 9 9955HX3D</strong>, 16x 2.50 GHz</li>\r\n<li><strong>64GB</strong> DDR5-SDRAM, <strong>5600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5080</strong>, 16GB</li>\r\n<li><strong>1TB </strong>Samsung 990 Evo,<strong> 7150/6300 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-laptop-16-intel-core-ultra-9-275hx-rtx-5080-1",
+        "id": 21823,
+        "name": "Gaming Laptop - 16\" - Intel Core Ultra 9 275HX - RTX 5080",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS251032",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls251032-1.jpg",
+        "product_type": "simple",
+        "final_price": 3112,
+        "discount_percent": 0,
+        "url_key": "gaming-laptop-16-intel-core-ultra-9-275hx-rtx-5080",
+        "image": {
+          "label": "Gaming Laptop - 16\" - Intel Core Ultra 9 275HX - RTX 5080",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 3112
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>16\", </strong>2560x1600 Pixel (WQXGA),<strong> 300 Hz</strong></li>\r\n<li><strong>Intel Core Ultra 9 275HX</strong>, 24x 2.10 GHz</li>\r\n<li><strong>64GB</strong> DDR5-SDRAM, <strong>5600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5080</strong>, 16GB</li>\r\n<li><strong>1TB </strong>Samsung 990 Evo,<strong> 6000/4000 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-laptop-16-ryzen-9-9955hx3d-rtx-5080-1",
+        "id": 21832,
+        "name": "Gaming Laptop - 16\" - Ryzen 9 9955HX3D - RTX 5080",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS251029",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls251029-1.jpg",
+        "product_type": "simple",
+        "final_price": 3180,
+        "discount_percent": 0,
+        "url_key": "gaming-laptop-16-ryzen-9-9955hx3d-rtx-5080",
+        "image": {
+          "label": "Gaming Laptop - 16\" - Ryzen 9 9955HX3D - RTX 5080",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 3180
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>16\", </strong>2560x1600 Pixel (WQXGA),<strong> 300 Hz</strong></li>\r\n<li><strong>AMD Ryzen 9 9955HX3D</strong>, 16x 2.50 GHz</li>\r\n<li><strong>64GB</strong> DDR5-SDRAM, <strong>5600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5080</strong>, 16GB</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro,<strong> 7450/6900 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-laptop-16-ryzen-9-9955hx-rtx-5090",
+        "id": 21833,
+        "name": "Gaming Laptop - 16\" - Ryzen 9 9955HX - RTX 5090",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS251036",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls251036-1.jpg",
+        "product_type": "simple",
+        "final_price": 3506,
+        "discount_percent": 0,
+        "url_key": "gaming-laptop-16-ryzen-9-9955hx-rtx-5090",
+        "image": {
+          "label": "Gaming Laptop - 16\" - Ryzen 9 9955HX - RTX 5090",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 3506
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>16\", </strong>2560x1600 Pixel (WQXGA),<strong> 300 Hz</strong></li>\r\n<li><strong>AMD Ryzen 9 9955HX</strong>, 16x 2.50 GHz</li>\r\n<li><strong>32GB</strong> DDR5-SDRAM, <strong>5600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5090</strong>, 24GB</li>\r\n<li><strong>1TB </strong>Samsung 990 Evo,<strong> 7150/6300 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-laptop-16-intel-core-ultra-9-275hx-rtx-5090",
+        "id": 21824,
+        "name": "Gaming Laptop - 16\" - Intel Core Ultra 9 275HX - RTX 5090",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS251006",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls251006-1.jpg",
+        "product_type": "simple",
+        "final_price": 3571,
+        "discount_percent": 0,
+        "url_key": "gaming-laptop-16-intel-core-ultra-9-275hx-rtx-5090",
+        "image": {
+          "label": "Gaming Laptop - 16\" - Intel Core Ultra 9 275HX - RTX 5090",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 3571
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>16\", </strong>2560x1600 Pixel (WQXGA),<strong> 300 Hz</strong></li>\r\n<li><strong>Intel Core Ultra 9 275HX</strong>, 24x 2.10 GHz</li>\r\n<li><strong>32GB</strong> DDR5-SDRAM, <strong>5600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5090</strong>, 24GB</li>\r\n<li><strong>1TB </strong>Samsung 990 Evo,<strong> 7150/6300 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-laptop-16-ryzen-9-9955hx3d-rtx-5090",
+        "id": 21834,
+        "name": "Gaming Laptop - 16\" - Ryzen 9 9955HX3D - RTX 5090",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS251041",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls251041-1.jpg",
+        "product_type": "simple",
+        "final_price": 3774,
+        "discount_percent": 0,
+        "url_key": "gaming-laptop-16-ryzen-9-9955hx3d-rtx-5090",
+        "image": {
+          "label": "Gaming Laptop - 16\" - Ryzen 9 9955HX3D - RTX 5090",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 3774
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>16\", </strong>2560x1600 Pixel (WQXGA),<strong> 300 Hz</strong></li>\r\n<li><strong>AMD Ryzen 9 9955HX3D</strong>, 16x 2.50 GHz</li>\r\n<li><strong>64GB</strong> DDR5-SDRAM, <strong>5600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5090</strong>, 24GB</li>\r\n<li><strong>1TB </strong>Samsung 990 Evo,<strong> 7150/6300 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-laptop-16-intel-core-ultra-9-275hx-rtx-5090-1",
+        "id": 21825,
+        "name": "Gaming Laptop - 16\" - Intel Core Ultra 9 275HX - RTX 5090",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS251008",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls251008-1.jpg",
+        "product_type": "simple",
+        "final_price": 3816,
+        "discount_percent": 0,
+        "url_key": "gaming-laptop-16-intel-core-ultra-9-275hx-rtx-5090",
+        "image": {
+          "label": "Gaming Laptop - 16\" - Intel Core Ultra 9 275HX - RTX 5090",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 3816
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>16\", </strong>2560x1600 Pixel (WQXGA),<strong> 300 Hz</strong></li>\r\n<li><strong>Intel Core Ultra 9 275HX</strong>, 24x 2.10 GHz</li>\r\n<li><strong>64GB</strong> DDR5-SDRAM, <strong>5600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5090</strong>, 24GB</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro,<strong> 7450/6900 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "gaming-laptop-16-ryzen-9-9955hx3d-rtx-5090-1",
+        "id": 21835,
+        "name": "Gaming Laptop - 16\" - Ryzen 9 9955HX3D - RTX 5090",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS251042",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls251042-1.jpg",
+        "product_type": "simple",
+        "final_price": 3857,
+        "discount_percent": 0,
+        "url_key": "gaming-laptop-16-ryzen-9-9955hx3d-rtx-5090",
+        "image": {
+          "label": "Gaming Laptop - 16\" - Ryzen 9 9955HX3D - RTX 5090",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 3857
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>16\", </strong>2560x1600 Pixel (WQXGA),<strong> 300 Hz</strong></li>\r\n<li><strong>AMD Ryzen 9 9955HX3D</strong>, 16x 2.50 GHz</li>\r\n<li><strong>64GB</strong> DDR5-SDRAM, <strong>5600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce RTX 5090</strong>, 24GB</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro,<strong> 7450/6900 </strong>MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 2,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 6,
+            "label": "2000-3000",
+            "value": "2000_3000"
+          },
+          {
+            "count": 8,
+            "label": "3000-4000",
+            "value": "3000_4000"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 6,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 14,
+            "label": "Laptop",
+            "value": "NA=="
+          },
+          {
+            "count": 14,
+            "label": "Laptop Konfigurator",
+            "value": "MTMyOQ=="
+          },
+          {
+            "count": 14,
+            "label": "Gaming Laptop",
+            "value": "MTMzNA=="
+          },
+          {
+            "count": 14,
+            "label": "Dream Machines",
+            "value": "MTgyOQ=="
+          },
+          {
+            "count": 14,
+            "label": "Gaming Laptop 16 Zoll ",
+            "value": "MzU5OQ=="
+          },
+          {
+            "count": 14,
+            "label": "Dream Machines 16 Zoll",
+            "value": "MzYwMA=="
+          }
+        ]
+      }
+    ]
+  }
+}

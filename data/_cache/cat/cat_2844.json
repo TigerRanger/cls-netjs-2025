@@ -1,0 +1,35 @@
+{
+  "categoryList": [
+    {
+      "id": 2844,
+      "name": "Zubehör",
+      "description": null,
+      "canonical_url": "hardware/barebone-systeme/barebone-zubehoer",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": "Entdecken Sie unser hochwertiges Zubehör für Barebones und maximieren Sie Ihre Möglichkeiten. Optimieren Sie Ihre Systeme mit erstklassigem Zubehör für beste Leistung.",
+      "meta_keywords": "Hochwertiges Zubehör",
+      "meta_title": "Hochwertiges Zubehör für Barebones - Maximieren Sie Ihre Möglichkeiten",
+      "product_count": 0,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "Hochwertiges Zubehör für Barebones - Maximieren Sie Ihre Möglichkeiten",
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

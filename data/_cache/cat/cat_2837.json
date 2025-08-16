@@ -1,0 +1,35 @@
+{
+  "categoryList": [
+    {
+      "id": 2837,
+      "name": "Steuerhorn & Gasregler",
+      "description": null,
+      "canonical_url": "hardware/eingabegerate/steuerhorn-gasregler",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": "Steuerhorn und Gasregler kaufen bei CLS Computer. Mit einem Steuerhorn und Gasregler hast du die volle Kontrolle über dein virtuelles Flugzeug.",
+      "meta_keywords": "Steuerhorn & Gasregler kaufen",
+      "meta_title": "Steuerhorn & Gasregler - Authentisches Flugerlebnis für Simulationsspiele",
+      "product_count": 0,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "Steuerhorn & Gasregler - Authentisches Flugerlebnis für Simulationsspiele | CLS Computer",
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

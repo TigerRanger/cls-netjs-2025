@@ -1,0 +1,600 @@
+{
+  "categoryList": [
+    {
+      "id": 4185,
+      "name": "Mini Multimedia PC",
+      "description": null,
+      "canonical_url": "pc-systeme/multimedia-pc/mini-multimedia-pc",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 18,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 0,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 18,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 20
+    },
+    "items": [
+      {
+        "canonical_url": "mini-multimedia-pc-intel-core-i3-12100f-geforce-gt-1030",
+        "id": 22658,
+        "name": "Mini Multimedia PC - Intel Core i3-12100F - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS341011",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls341011-600.jpg",
+        "product_type": "simple",
+        "final_price": 532,
+        "discount_percent": 0,
+        "url_key": "mini-multimedia-pc-intel-core-i3-12100f-geforce-gt-1030",
+        "image": {
+          "label": "Mini Multimedia PC - Intel Core i3-12100F - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 532
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i3-12100F</strong>, 4x 3.30 GHz</li>\r\n<li><strong>8GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "mini-multimedia-pc-amd-ryzen-5-5500-geforce-gt-1030",
+        "id": 22670,
+        "name": "Mini Multimedia PC - AMD Ryzen 5 5500 - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS342009",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls342009-600.jpg",
+        "product_type": "simple",
+        "final_price": 561,
+        "discount_percent": 0,
+        "url_key": "mini-multimedia-pc-amd-ryzen-5-5500-geforce-gt-1030",
+        "image": {
+          "label": "AMD Basic Multimedia PC 22001",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 561
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 5500</strong>, 6x 3.60 GHz</li>\r\n<li><strong>8GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "mini-multimedia-pc-amd-ryzen-5-5600x-geforce-gt-1030",
+        "id": 22671,
+        "name": "Mini Multimedia PC - AMD Ryzen 5 5600X - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS342010",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls342010-600.jpg",
+        "product_type": "simple",
+        "final_price": 579,
+        "discount_percent": 0,
+        "url_key": "mini-multimedia-pc-amd-ryzen-5-5600x-geforce-gt-1030",
+        "image": {
+          "label": "AMD Basic Multimedia PC 22001",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 579
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 5600X</strong>, 6x 3.70 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "mini-multimedia-pc-intel-core-i3-14100f-geforce-gt-1030",
+        "id": 22660,
+        "name": "Mini Multimedia PC - Intel Core i3-14100F - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS341013",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls341013-600.jpg",
+        "product_type": "simple",
+        "final_price": 601,
+        "discount_percent": 0,
+        "url_key": "mini-multimedia-pc-intel-core-i3-14100f-geforce-gt-1030",
+        "image": {
+          "label": "Mini Multimedia PC - Intel Core i3-14100F - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 601
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i3-14100F</strong>, 4x 3.50 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "mini-multimedia-pc-intel-core-i5-12400f-geforce-gt-1030",
+        "id": 22659,
+        "name": "Mini Multimedia PC - Intel Core i5-12400F - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS341012",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls341012-600.jpg",
+        "product_type": "simple",
+        "final_price": 604,
+        "discount_percent": 0,
+        "url_key": "mini-multimedia-pc-intel-core-i5-12400f-geforce-gt-1030",
+        "image": {
+          "label": "Intel Silent Multimedia PC 21004",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 604
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i5-12400F</strong>, 6x 2.50 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "mini-multimedia-pc-intel-core-i5-13400f-geforce-gt-1030",
+        "id": 22661,
+        "name": "Mini Multimedia PC - Intel Core i5-13400F - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS341014",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls341014-600.jpg",
+        "product_type": "simple",
+        "final_price": 640,
+        "discount_percent": 0,
+        "url_key": "mini-multimedia-pc-intel-core-i5-13400f-geforce-gt-1030",
+        "image": {
+          "label": "Intel Multimedia Desktop PC 21005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 640
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i5-13400F</strong>, 10x 2.50 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "mini-multimedia-pc-intel-core-i5-14400f-geforce-gt-1030",
+        "id": 22663,
+        "name": "Mini Multimedia PC - Intel Core i5-14400F - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS341015",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls341015-600.jpg",
+        "product_type": "simple",
+        "final_price": 690,
+        "discount_percent": 0,
+        "url_key": "mini-multimedia-pc-intel-core-i5-14400f-geforce-gt-1030",
+        "image": {
+          "label": "Mini Multimedia PC - Intel Core i5-14400F - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 690
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i5-14400F</strong>, 10x 2.50 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "mini-multimedia-pc-amd-ryzen-5-7600-geforce-gt-1030",
+        "id": 22677,
+        "name": "Mini Multimedia PC - AMD Ryzen 5 7600 - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS342016",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls342016-600.jpg",
+        "product_type": "simple",
+        "final_price": 728,
+        "discount_percent": 0,
+        "url_key": "mini-multimedia-pc-amd-ryzen-5-7600-geforce-gt-1030",
+        "image": {
+          "label": "Mini Multimedia PC - AMD Ryzen 5 7600 - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 728
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 7600</strong>, 6x 3.80 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "mini-multimedia-pc-amd-ryzen-5-8500g-geforce-gt-1030",
+        "id": 22673,
+        "name": "Mini Multimedia PC - AMD Ryzen 5 8500G - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS342012",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls342012-600.jpg",
+        "product_type": "simple",
+        "final_price": 741,
+        "discount_percent": 0,
+        "url_key": "mini-multimedia-pc-amd-ryzen-5-8500g-geforce-gt-1030",
+        "image": {
+          "label": "Mini Multimedia PC - AMD Ryzen 5 8500G - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 741
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 8500G</strong>, 6x 3.50 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "mini-multimedia-pc-amd-ryzen-7-5700x-geforce-rtx-3050",
+        "id": 22672,
+        "name": "Mini Multimedia PC - AMD Ryzen 7 5700X - GeForce RTX 3050",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS342011",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls342011-600.jpg",
+        "product_type": "simple",
+        "final_price": 794,
+        "discount_percent": 0,
+        "url_key": "mini-multimedia-pc-amd-ryzen-7-5700x-geforce-rtx-3050",
+        "image": {
+          "label": "AMD Advanced Multimedia PC 22002",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 794
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 7 5700X</strong>, 8x 3.40 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 3050</strong>, 6GB GDDR6</li>\r\n<li><strong>1TB </strong>Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "mini-multimedia-pc-intel-core-ultra-5-225f-geforce-gt-1030",
+        "id": 22666,
+        "name": "Mini Multimedia PC - Intel Core Ultra 5 225F - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS341017",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls341017-600.jpg",
+        "product_type": "simple",
+        "final_price": 850,
+        "discount_percent": 0,
+        "url_key": "mini-multimedia-pc-intel-core-ultra-5-225f-geforce-gt-1030",
+        "image": {
+          "label": "Mini Multimedia PC - Intel Core Ultra 5 225F - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 850
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 225F</strong>, 10 Kerne, 2.70 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "mini-multimedia-pc-amd-ryzen-5-9600-geforce-gt-1030",
+        "id": 22674,
+        "name": "Mini Multimedia PC - AMD Ryzen 5 9600 - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS342013",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls342013-600.jpg",
+        "product_type": "simple",
+        "final_price": 887,
+        "discount_percent": 0,
+        "url_key": "mini-multimedia-pc-amd-ryzen-5-9600-geforce-gt-1030",
+        "image": {
+          "label": "Mini Multimedia PC - AMD Ryzen 5 9600 - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 887
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 9600</strong>, 6x 3.80 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "mini-multimedia-pc-intel-core-i7-12700kf-geforce-rtx-3050",
+        "id": 22665,
+        "name": "Mini Multimedia PC - Intel Core i7-12700KF - GeForce RTX 3050",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS341016",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls341016-600.jpg",
+        "product_type": "simple",
+        "final_price": 930,
+        "discount_percent": 0,
+        "url_key": "mini-multimedia-pc-intel-core-i7-12700kf-geforce-rtx-3050",
+        "image": {
+          "label": "Mini Multimedia PC - Intel Core i7-12700KF - GeForce RTX 3050",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 930
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i7-12700KF</strong>, 12x 3.60 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 3050</strong>, 6GB GDDR6</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "mini-multimedia-pc-intel-core-ultra-5-245-geforce-gt-1030",
+        "id": 22667,
+        "name": "Mini Multimedia PC - Intel Core Ultra 5 245 - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS341018",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls341018-600.jpg",
+        "product_type": "simple",
+        "final_price": 1029,
+        "discount_percent": 0,
+        "url_key": "mini-multimedia-pc-intel-core-ultra-5-245-geforce-gt-1030",
+        "image": {
+          "label": "Mini Multimedia PC - Intel Core Ultra 5 245 - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1029
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 245</strong>, 14 Kerne, 3.00 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "mini-multimedia-pc-amd-ryzen-7-8700g-geforce-rtx-3050",
+        "id": 22675,
+        "name": "Mini Multimedia PC - AMD Ryzen 7 8700G - GeForce RTX 3050",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS342014",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls342014-600.jpg",
+        "product_type": "simple",
+        "final_price": 1078,
+        "discount_percent": 0,
+        "url_key": "mini-multimedia-pc-amd-ryzen-7-8700g-geforce-rtx-3050",
+        "image": {
+          "label": "Mini Multimedia PC - AMD Ryzen 7 8700G - GeForce RTX 3050",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1078
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 7 8700G</strong>, 8x 4.20 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 3050</strong>, 6GB GDDR6</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "mini-multimedia-pc-intel-core-i7-14700f-geforce-rtx-3050",
+        "id": 22668,
+        "name": "Mini Multimedia PC - Intel Core i7-14700F - GeForce RTX 3050",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS341019",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls341019-600.jpg",
+        "product_type": "simple",
+        "final_price": 1142,
+        "discount_percent": 0,
+        "url_key": "mini-multimedia-pc-intel-core-i7-14700f-geforce-rtx-3050",
+        "image": {
+          "label": "Mini Multimedia PC - Intel Core i7-14700F - GeForce RTX 3050",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1142
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i7-14700F</strong>, 20x 2.00 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 3050</strong>, 6GB GDDR6</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "mini-multimedia-pc-amd-ryzen-7-9700x-geforce-rtx-3050",
+        "id": 22676,
+        "name": "Mini Multimedia PC - AMD Ryzen 7 9700X - GeForce RTX 3050",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS342015",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls342015-600.jpg",
+        "product_type": "simple",
+        "final_price": 1144,
+        "discount_percent": 0,
+        "url_key": "mini-multimedia-pc-amd-ryzen-7-9700x-geforce-rtx-3050",
+        "image": {
+          "label": "Mini Multimedia PC - AMD Ryzen 7 9700X - GeForce RTX 3050",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1144
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 7 9700X</strong>, 8x 3.80 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 3050</strong>, 6GB GDDR6</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "mini-multimedia-pc-intel-core-ultra-7-265f-geforce-rtx-3050",
+        "id": 22669,
+        "name": "Mini Multimedia PC - Intel Core Ultra 7 265F - GeForce RTX 3050",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS341020",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls341020-600.jpg",
+        "product_type": "simple",
+        "final_price": 1170,
+        "discount_percent": 0,
+        "url_key": "mini-multimedia-pc-intel-core-ultra-7-265f-geforce-rtx-3050",
+        "image": {
+          "label": "Mini Multimedia PC - Intel Core Ultra 7 265F - GeForce RTX 3050",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1170
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 7 265F</strong>, 20 Kerne, 1.80 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 3050</strong>, 6GB GDDR6</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 2,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 13,
+            "label": "0-1000",
+            "value": "0_1000"
+          },
+          {
+            "count": 5,
+            "label": "1000-2000",
+            "value": "1000_2000"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 3,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 18,
+            "label": "PC Systeme",
+            "value": "Mw=="
+          },
+          {
+            "count": 18,
+            "label": "MULTIMEDIA PC",
+            "value": "NjQ="
+          },
+          {
+            "count": 18,
+            "label": "Mini Multimedia PC",
+            "value": "NDE4NQ=="
+          }
+        ]
+      }
+    ]
+  }
+}

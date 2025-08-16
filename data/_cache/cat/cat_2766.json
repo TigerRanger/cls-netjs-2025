@@ -1,0 +1,78 @@
+{
+  "categoryList": [
+    {
+      "id": 2766,
+      "name": "Telefonie",
+      "description": null,
+      "canonical_url": "hardware/telefonie",
+      "children_count": "7",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": "Entdecke zuverlässige Telefonie-Lösungen für effektive Kommunikation in Unternehmen und für Privatpersonen. Wähle aus einer Vielzahl von Telefonen und Telefonie-Dienstleistungen, um Anrufe zu tätigen, zu empfangen und effizient zu verwalten. ",
+      "meta_keywords": "Telefonie",
+      "meta_title": "Telefonie - Zuverlässige Kommunikationslösungen für Unternehmen und Privatpersonen",
+      "product_count": 0,
+      "display_mode": "PAGE",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "Telefonie - Zuverlässige Kommunikationslösungen für Unternehmen und Privatpersonen",
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "hardware/smartphones-und-zubehoer/smartphones",
+          "name": "Handy & Smartphone",
+          "position": 1,
+          "url_key": "smartphones"
+        },
+        {
+          "canonical_url": "hardware/telefonie/audio-und-video-konferenzsysteme",
+          "name": "Audio- und Video-Konferenzsysteme",
+          "position": 2,
+          "url_key": "audio-und-video-konferenzsysteme"
+        },
+        {
+          "canonical_url": "hardware/telefonie/festnetztelefone-und-telefonanlagen",
+          "name": "Festnetztelefone und Telefonanlagen",
+          "position": 3,
+          "url_key": "festnetztelefone-und-telefonanlagen"
+        },
+        {
+          "canonical_url": "hardware/telefonie/funkgerate",
+          "name": "Funkgeräte",
+          "position": 4,
+          "url_key": "funkgerate"
+        },
+        {
+          "canonical_url": "hardware/telefonie/voip-telefone-zubehor",
+          "name": "VOIP-Telefone",
+          "position": 5,
+          "url_key": "voip-telefone-zubehor"
+        },
+        {
+          "canonical_url": "hardware/telefonie/zubehor",
+          "name": "Zubehör",
+          "position": 6,
+          "url_key": "zubehor"
+        },
+        {
+          "canonical_url": "hardware/telefonie/sonstiges",
+          "name": "Sonstiges",
+          "position": 7,
+          "url_key": "sonstiges"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

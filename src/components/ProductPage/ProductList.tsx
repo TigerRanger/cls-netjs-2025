@@ -7,8 +7,13 @@ import {useDispatch } from "react-redux";
 import gridSvg from "../../../public/svg-icon/grid-white.svg";
 import listSvg from "../../../public/svg-icon/list-white.svg";
 import plusSvg from "../../../public/svg-icon/cart-main.svg";
-import PhoneSvg from "../../../public/svg-icon/phone.svg";
-import ConfigSvg from "../../../public/svg-icon/config.svg";
+
+
+
+const  PhoneSvg = "/svg-icon/phone.svg";
+const ConfigSvg = "/svg-icon/config.svg";
+const ClockSvg = "/images/clock.svg";
+const CartPlus = "/images/cart_plus.svg";
 
 import FallbackImage from "../Helper/FallbackImage";
 import EcommercePrice from "@/lib/jslib/Price";
@@ -375,7 +380,7 @@ const NZMaxPrice = parseInt(lastValue.split("_")[1], 10) || 1000;
             </select>
           </div>
           <button className={`${sortDirection === 'ASC' ? 'asc' : 'desc'} short_ico`} onClick={toggleSortDirection}>
-            <Image src="/images/up-white.svg" width={20} height={20} alt="sort-direction" />
+            <Image src="/images/up-chevron.svg" width={20} height={20} alt="sort-direction" />
           </button>
         </div>
       </div>
@@ -401,31 +406,31 @@ const NZMaxPrice = parseInt(lastValue.split("_")[1], 10) || 1000;
                       <FallbackImage
                         src={product.image?.url ? magento + '/pub/media/catalog/product/' + product.image?.url : product.custom_image}
                         fallbackSrc="/images/no_image.avif"
+                        class_name='product-image'
                         alt={product?.image?.label ?? product.name}
                         width={200}
                         height={200}
                       />
                     </div>
-                    <div className="product-info-wrapper">
-                      <a href={`/${product?.url_key}`} className="product-name">{product.name}</a>
-                      {product?.short_description && (
-                        <p
-                          className="product-description"
-                          dangerouslySetInnerHTML={{
-                            __html: product.short_description.html
-                          }}
-                        />
+
+
+
+                  <a href={`/${product.canonical_url}`} className="product-name" >
+                    {product.name}
+                  </a>
+
+
+                      {typeof product?.short_description?.html === 'string' && product.short_description.html.length > 0 && (
+                        <div className="product-desc" dangerouslySetInnerHTML={{ __html: product.short_description.html }} />
                       )}
-                      <div className="sku-review">
-                        <div className="rating-stars">
-                          {EcommercePrice.generateStars(
-                            EcommercePrice.calculate_review_percent(product?.rating_summary ?? 0)
-                          ).map((star, index) => (
-                            <span key={index} className={`star ${star}`}>★</span>
-                          ))}
-                        </div>
-                        <div className="sku-main">{product.sku}</div>
-                      </div>
+
+
+                  <div className="cs-delivery-info">
+                      <Image src={ClockSvg} width={17} height={20} alt="CLS Computer" />
+                      <span>Lieferzeit 6-8 Werktage</span>
+                  </div>
+
+                <div className="button-wrapper">
 
                       {final > 0 ? (
                         <div className="price-wrapper">
@@ -454,10 +459,12 @@ const NZMaxPrice = parseInt(lastValue.split("_")[1], 10) || 1000;
                             <Image src={ConfigSvg} width={27} height={27} alt="Configure" /> Configure
                           </a>
                         ) : (
+                          <div className="att-to-group">
                           <button className="addto-btn" onClick={handleAddToCart(product, 1)}>
-                            {productID !== String(product.id) ? (
+                             {productID !== String(product.id) ? (
                               <>
-                                <Image src={plusSvg} width={25} height={25} alt="Add to product" /> Add to Cart
+                                <Image src={CartPlus} width={37} height={35} alt="Add to product" />
+                                
                               </>
                             ) : (
                               <>
@@ -465,6 +472,10 @@ const NZMaxPrice = parseInt(lastValue.split("_")[1], 10) || 1000;
                               </>
                             )}
                           </button>
+                              <div className="cs-product-tile__main-bottom">
+                                <span className="cs-product-tile__details-link-span">Mehr</span>
+                              </div>
+                          </div>
                         )
                       ) : (
                         <a href={`tel:${phone ?? ''}`} className="call-price">

@@ -1,0 +1,325 @@
+{
+  "categoryList": [
+    {
+      "id": 4248,
+      "name": "Workstation Intel Core (13. Gen)",
+      "description": null,
+      "canonical_url": "pc-systeme/workstation/workstation-intel-core-13-gen",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 8,
+      "display_mode": null,
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": null,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 8,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 20
+    },
+    "items": [
+      {
+        "canonical_url": "workstation-intel-core-i5-13600k-rtx-4060",
+        "id": 10088,
+        "name": "Workstation - Intel Core i5-13600K - RTX 4060",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51007",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs8310872_4.jpg",
+        "product_type": "simple",
+        "final_price": 1247,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-i5-13600k-rtx-4060",
+        "image": {
+          "label": "Workstation - Intel Core i5-13600K - RTX 4060",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1247
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i5-13600K</strong>, 14x 3.50 GHz</li>\r\n<li><strong>32GB</strong> DDR4-RAM, Corsair, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 4060</strong>, 8GB GDDR6</li>\r\n<li><strong>1TB </strong>Samsung 980, <strong>3500/3000</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-i5-13600k-rtx-5060-ti",
+        "id": 10102,
+        "name": "Workstation - Intel Core i5-13600K - RTX 5060 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51015",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs1074436_10.jpg",
+        "product_type": "simple",
+        "final_price": 1362,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-i5-13600k-rtx-5060-ti",
+        "image": {
+          "label": "Workstation - Intel Core i5-13600K - RTX 5060 Ti",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1362
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i5-13600K</strong>, 14x 3.50 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5060 Ti</strong>, 8GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 980, <strong>3500/3000</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-i7-13700k-rtx-5070",
+        "id": 10090,
+        "name": "Workstation - Intel Core i7-13700K - RTX 5070",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51008",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls51008-5000_1.jpg",
+        "product_type": "simple",
+        "final_price": 1914,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-i7-13700k-rtx-5070",
+        "image": {
+          "label": "Workstation - Intel Core i7-13700K - RTX 5070",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1914
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i7-13700K</strong>, 16x 3.40 GHz</li>\r\n<li><strong>32GB</strong> DDR4-RAM, Corsair, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5070</strong>, 12GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-i7-13700k-rtx-5070-ti",
+        "id": 10103,
+        "name": "Workstation - Intel Core i7-13700K - RTX 5070 Ti",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51017",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs3971356_4.jpg",
+        "product_type": "simple",
+        "final_price": 2178,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-i7-13700k-rtx-5070-ti",
+        "image": {
+          "label": "Workstation - Intel Core i7-13700K - RTX 5070 Ti",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2178
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i7-13700K</strong>, 16x 3.40 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5070 Ti</strong>, 16GB GDDR7</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-i9-13900k-rtx-5080",
+        "id": 10091,
+        "name": "Workstation - Intel Core i9-13900K - RTX 5080",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51009",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls51009.jpg",
+        "product_type": "simple",
+        "final_price": 2885,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-i9-13900k-rtx-5080",
+        "image": {
+          "label": "Workstation - Intel Core i9-13900K - RTX 5080",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2885
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i9-13900K</strong>, 24x 3.00 GHz</li>\r\n<li><strong>64GB</strong> DDR4-RAM, Corsair, <strong>3600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5080</strong>, 16GB GDDR7</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-i9-13900k-rtx-5080-1",
+        "id": 10105,
+        "name": "Workstation - Intel Core i9-13900K - RTX 5080",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51018",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls51018.jpg",
+        "product_type": "simple",
+        "final_price": 2915,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-i9-13900k-rtx-5080",
+        "image": {
+          "label": "Workstation - Intel Core i9-13900K - RTX 5080",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 2915
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i9-13900K</strong>, 24x 3.00 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5080</strong>, 16GB GDDR7</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-i9-13900k-rtx-5090",
+        "id": 10092,
+        "name": "Workstation - Intel Core i9-13900K - RTX 5090",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51014",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls51014-5000.jpg",
+        "product_type": "simple",
+        "final_price": 4589,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-i9-13900k-rtx-5090",
+        "image": {
+          "label": "Workstation - Intel Core i9-13900K - RTX 5090",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 4589
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i9-13900K</strong>, 24x 3.00 GHz</li>\r\n<li><strong>128GB</strong> DDR4-RAM, Corsair, <strong>3600 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5090</strong>, 32GB GDDR7</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "workstation-intel-core-i9-13900k-rtx-5090-1",
+        "id": 10106,
+        "name": "Workstation - Intel Core i9-13900K - RTX 5090",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS51024",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls51024-5000.jpg",
+        "product_type": "simple",
+        "final_price": 4644,
+        "discount_percent": 0,
+        "url_key": "workstation-intel-core-i9-13900k-rtx-5090",
+        "image": {
+          "label": "Workstation - Intel Core i9-13900K - RTX 5090",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 4644
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core </strong><strong>i9-13900K</strong>, 24x 3.00 GHz</li>\r\n<li><strong>96GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA <strong>GeForce</strong> <strong>RTX 5090</strong>, 32GB GDDR7</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 3,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 3,
+            "label": "1000-2000",
+            "value": "1000_2000"
+          },
+          {
+            "count": 3,
+            "label": "2000-3000",
+            "value": "2000_3000"
+          },
+          {
+            "count": 2,
+            "label": "4000-5000",
+            "value": "4000_5000"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 5,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 8,
+            "label": "PC Systeme",
+            "value": "Mw=="
+          },
+          {
+            "count": 8,
+            "label": "WORKSTATION PC",
+            "value": "Njk="
+          },
+          {
+            "count": 8,
+            "label": "Workstation Intel Core (13. Gen)",
+            "value": "MjMwNA=="
+          },
+          {
+            "count": 8,
+            "label": "WORKSTATION",
+            "value": "NDIzOQ=="
+          },
+          {
+            "count": 8,
+            "label": "Workstation Intel Core (13. Gen)",
+            "value": "NDI0OA=="
+          }
+        ]
+      }
+    ]
+  }
+}

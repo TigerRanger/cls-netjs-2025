@@ -16,23 +16,23 @@
                 position: relative;
              a{
                 background: #fff;
-                color: #0a4082;
+                color: #000000;
                 outline: none;
-                padding: 7px 20px;
+                padding: 6px 20px 6px 11px;
                 position: relative;
                 text-decoration: none;
                 display: block;
                 padding-left: 10px;
                 position: relative;
                 &:hover{
-                     color: #0a4082;
-                     text-decoration: underline;
+                     color: #37a4a9;
+                     
                 }
              }
              span{
                 display: block;
-                color: #333;
-                padding: 7px 20px;
+                color: #727272;
+                padding: 6px 20px 6px 11px;
                 padding-left: 10px;
              }
  
@@ -42,7 +42,7 @@
 
   .breadcrumbs__item >  a::after {
 content: "";
-  border: solid #0a4082;
+  border: solid #000000;
     border-top-width: medium;
     border-right-width: medium;
     border-bottom-width: medium;
@@ -57,4 +57,9 @@ content: "";
   position: absolute;
   top: 16px;
   right: 3px;
+}
+
+
+  .breadcrumbs__item > a:hover:after {
+      border-color:#37a4a9;
 }

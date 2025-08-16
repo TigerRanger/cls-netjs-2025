@@ -1,0 +1,35 @@
+{
+  "categoryList": [
+    {
+      "id": 2808,
+      "name": "Sonstiges",
+      "description": null,
+      "canonical_url": "hardware/telefonie/sonstiges",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": "Entdecken Sie unser Sortiment an vielfältigem Zubehör. Optimieren Sie Ihr technisches Setup mit unseren unverzichtbaren Produkten.",
+      "meta_keywords": null,
+      "meta_title": "Zubehör Sonstiges: Finden Sie Ihre technischen Schätze",
+      "product_count": 0,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "Zubehör Sonstiges: Finden Sie Ihre technischen Schätze",
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

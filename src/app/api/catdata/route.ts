@@ -13,14 +13,19 @@ type sortType = {
 
 
 export async function POST(req: NextRequest) {
+  
   try {
     const body = await req.json();
     const { security_api } = body;
+
+
 
     if (security_api !== process.env.NEXTJS_SECRET_KEY) {
       return NextResponse.json({ error: 'Access Not Allowed' }, { status: 403 });
     }
 
+
+   
     const MAGENTO_ENDPOINT = process.env.MAGENTO_ENDPOINT;
     const TOKEN = process.env.NEXTJS_SECRET_KEY;
 
@@ -28,19 +33,31 @@ export async function POST(req: NextRequest) {
       return NextResponse.json({ error: 'Missing environment variables' }, { status: 500 });
     }
 
+
+     
+
     const readPath = path.join(process.cwd(), 'data', '_cache');
     const fileContent = await fs.readFile(path.join(readPath, 'menuData.json'), 'utf-8');
     const categories = JSON.parse(fileContent);
 
-
     const globalData = await fs.readFile(path.join(readPath, 'menuAllData.json'), 'utf-8');
-    
+
+        
     let pageSize = JSON.parse(globalData)?.getStoreInfo?.grid_per_page || 15;
     pageSize = typeof pageSize === 'string' ? Number(pageSize) : pageSize;
 
+
+    
+
     const default_sort_by = JSON.parse(globalData)?.getStoreInfo?.default_sort_by || 'position';
 
+
+    
+
     const default_sort_direction = JSON.parse(globalData)?.getStoreInfo?.default_sort_direction || 'ASC';
+
+
+    
 
   let sort : sortType = null; 
   
@@ -63,11 +80,12 @@ export async function POST(req: NextRequest) {
       };
     }
   
+   
     
     // Call saveCategory for each category
-    for (const category of categories) {
-      await saveCategory(category.id, MAGENTO_ENDPOINT, TOKEN, pageSize, sort);
-    }
+     for (const category of categories) {
+       await saveCategory(category.id, MAGENTO_ENDPOINT ??'', TOKEN ??'', pageSize, sort);
+     }
 
     return NextResponse.json({ success: true, message: 'All category data saved.' });
 

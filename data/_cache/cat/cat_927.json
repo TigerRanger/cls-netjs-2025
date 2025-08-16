@@ -1,0 +1,48 @@
+{
+  "categoryList": [
+    {
+      "id": 927,
+      "name": "Card Reader",
+      "description": null,
+      "canonical_url": "hardware/flash-speichermedien/card-reader",
+      "children_count": "2",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": "Card Reader günstig online kaufen von CLS Computer ✓Attraktive Preise ✓Große Auswahl ✓Gratis Versand ✓Riesiges Sortiment !",
+      "meta_keywords": "Card Reader günstig kaufen",
+      "meta_title": "Card Reader günstig online kaufen - CLS Computer",
+      "product_count": 0,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "Card Reader günstig online kaufen",
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "hardware/flash-speichermedien/card-reader/interne-card-reader",
+          "name": "interne Card-Reader",
+          "position": 1,
+          "url_key": "interne-card-reader"
+        },
+        {
+          "canonical_url": "hardware/flash-speichermedien/card-reader/externe-card-reader",
+          "name": "externe Card-Reader",
+          "position": 2,
+          "url_key": "externe-card-reader"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

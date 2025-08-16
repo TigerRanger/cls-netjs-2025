@@ -1,0 +1,436 @@
+{
+  "categoryList": [
+    {
+      "id": 3185,
+      "name": "CAD PC AMD Threadripper 7000",
+      "description": null,
+      "canonical_url": "pc-systeme/cad-pc/cad-pc-amd-threadripper-7000",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 12,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 0,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 12,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 20
+    },
+    "items": [
+      {
+        "canonical_url": "cad-pc-amd-threadripper-7960x-rtx-a4000",
+        "id": 13337,
+        "name": "CAD PC - AMD Threadripper 7960X - RTX A4000",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS102025",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs7041274_1_6.jpg",
+        "product_type": "simple",
+        "final_price": 5190,
+        "discount_percent": 0,
+        "url_key": "cad-pc-amd-threadripper-7960x-rtx-a4000",
+        "image": {
+          "label": "CAD PC - AMD Threadripper 7960X - RTX A4000",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 5190
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Threadripper 7960X</strong>, 24x 4.20 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, ECC, Samsung, <strong>4800 MHz</strong></li>\r\n<li>NVIDIA Quadro<strong> RTX A4000</strong>, 16GB GDDR6</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "cad-pc-amd-threadripper-7970x-rtx-a4500",
+        "id": 13338,
+        "name": "CAD PC - AMD Threadripper 7970X - RTX A4500",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS102026",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs7041274_1_12.jpg",
+        "product_type": "simple",
+        "final_price": 6809,
+        "discount_percent": 0,
+        "url_key": "cad-pc-amd-threadripper-7970x-rtx-a4500",
+        "image": {
+          "label": "CAD PC - AMD Threadripper 7970X - RTX A4500",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 6809
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Threadripper 7970X</strong>, 32x 4.00 GHz</li>\r\n<li><strong>128GB</strong> DDR5-RAM, ECC, Samsung, <strong>4800 MHz</strong></li>\r\n<li>NVIDIA Quadro<strong> RTX A4500</strong>, 20GB GDDR6</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "cad-pc-amd-threadripper-7965wx-rtx-4000-ada",
+        "id": 13344,
+        "name": "CAD PC - AMD Threadripper 7965WX - RTX 4000 ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS102032",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs7041301_9.jpg",
+        "product_type": "simple",
+        "final_price": 7280,
+        "discount_percent": 0,
+        "url_key": "cad-pc-amd-threadripper-7965wx-rtx-4000-ada",
+        "image": {
+          "label": "CAD PC - AMD Threadripper 7965WX - RTX 4000 ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 7280
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Threadripper 7965WX</strong>, 24x 4.20 GHz</li>\r\n<li><strong>64GB</strong> DDR5-RAM, ECC, Samsung, <strong>4800 MHz</strong></li>\r\n<li>NVIDIA Quadro <strong>RTX 4000 ADA</strong>, 20GB GDDR6</li>\r\n<li><strong>1TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "cad-pc-amd-threadripper-7970x-rtx-4500-ada",
+        "id": 13339,
+        "name": "CAD PC - AMD Threadripper 7970X - RTX 4500 ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS102027",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls102027.jpg",
+        "product_type": "simple",
+        "final_price": 7552,
+        "discount_percent": 0,
+        "url_key": "cad-pc-amd-threadripper-7970x-rtx-4500-ada",
+        "image": {
+          "label": "CAD PC - AMD Threadripper 7970X - RTX 4500 ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 7552
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Threadripper 7970X</strong>, 32x 4.00 GHz</li>\r\n<li><strong>128GB</strong> DDR5-RAM, ECC, Samsung, <strong>4800 MHz</strong></li>\r\n<li>NVIDIA Quadro<strong> RTX 4500 ADA</strong>, 24GB GDDR6</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "cad-pc-amd-threadripper-7975wx-rtx-4500-ada",
+        "id": 13345,
+        "name": "CAD PC - AMD Threadripper 7975WX - RTX 4500 ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS102033",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs7041274_1_8.jpg",
+        "product_type": "simple",
+        "final_price": 10404,
+        "discount_percent": 0,
+        "url_key": "cad-pc-amd-threadripper-7975wx-rtx-4500-ada",
+        "image": {
+          "label": "CAD PC - AMD Threadripper 7975WX - RTX 4500 ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 10404
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Threadripper 7975WX</strong>, 32x 4.00 GHz</li>\r\n<li><strong>128GB</strong> DDR5-RAM, ECC, Samsung, <strong>4800 MHz</strong></li>\r\n<li>NVIDIA Quadro <strong>RTX 4500 ADA</strong>, 24GB GDDR6</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "cad-pc-amd-threadripper-7980x-radeon-w7900",
+        "id": 13340,
+        "name": "CAD PC - AMD Threadripper 7980X - Radeon W7900",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS102028",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs7041274_1_9.jpg",
+        "product_type": "simple",
+        "final_price": 10914,
+        "discount_percent": 0,
+        "url_key": "cad-pc-amd-threadripper-7980x-radeon-w7900",
+        "image": {
+          "label": "CAD PC - AMD Threadripper 7980X - Radeon W7900",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 10914
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Threadripper 7980X</strong>, 64x 3.20 GHz</li>\r\n<li><strong>128GB</strong> DDR5-RAM, ECC, Samsung, <strong>4800 MHz</strong></li>\r\n<li>AMD<strong> Radeon Pro</strong> <strong>W7900</strong>, 48GB GDDR6</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "cad-pc-amd-threadripper-7975wx-rtx-5000-ada",
+        "id": 13346,
+        "name": "CAD PC - AMD Threadripper 7975WX - RTX 5000 ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS102034",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls102034.jpg",
+        "product_type": "simple",
+        "final_price": 12425,
+        "discount_percent": 0,
+        "url_key": "cad-pc-amd-threadripper-7975wx-rtx-5000-ada",
+        "image": {
+          "label": "CAD PC - AMD Threadripper 7975WX - RTX 5000 ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 12425
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Threadripper 7975WX</strong>, 32x 4.00 GHz</li>\r\n<li><strong>128GB</strong> DDR5-RAM, ECC, Samsung, <strong>4800 MHz</strong></li>\r\n<li>NVIDIA Quadro <strong>RTX 5000 ADA</strong>, 32GB GDDR6</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "cad-pc-amd-threadripper-7985wx-radeon-w7900",
+        "id": 13343,
+        "name": "CAD PC - AMD Threadripper 7985WX - Radeon W7900",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS102031",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls102031_2.jpg",
+        "product_type": "simple",
+        "final_price": 15235,
+        "discount_percent": 0,
+        "url_key": "cad-pc-amd-threadripper-7985wx-radeon-w7900",
+        "image": {
+          "label": "CAD PC - AMD Threadripper 7985WX - Radeon W7900",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 15235
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Threadripper 7985WX</strong>, 64x 3.20 GHz</li>\r\n<li><strong>128GB</strong> DDR5-RAM, ECC, Samsung, <strong>4800 MHz</strong></li>\r\n<li>AMD <strong>Radeon Pro W7900</strong>, 48GB GDDR6</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "cad-pc-amd-threadripper-7980x-rtx-6000-ada",
+        "id": 13341,
+        "name": "CAD PC - AMD Threadripper 7980X - RTX 6000 ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS102029",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs7041274_1_10.jpg",
+        "product_type": "simple",
+        "final_price": 15564,
+        "discount_percent": 0,
+        "url_key": "cad-pc-amd-threadripper-7980x-rtx-6000-ada",
+        "image": {
+          "label": "CAD PC - AMD Threadripper 7980X - RTX 6000 ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 15564
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Threadripper 7980X</strong>, 64x 3.20 GHz</li>\r\n<li><strong>128GB</strong> DDR5-RAM, ECC, Samsung, <strong>4800 MHz</strong></li>\r\n<li>NVIDIA Quadro <strong>RTX 6000 ADA</strong>, 48GB GDDR6</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "cad-pc-amd-threadripper-7985wx-rtx-6000-ada",
+        "id": 13347,
+        "name": "CAD PC - AMD Threadripper 7985WX - RTX 6000 ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS102035",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls102035.jpg",
+        "product_type": "simple",
+        "final_price": 19853,
+        "discount_percent": 0,
+        "url_key": "cad-pc-amd-threadripper-7985wx-rtx-6000-ada",
+        "image": {
+          "label": "CAD PC - AMD Threadripper 7985WX - RTX 6000 ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 19853
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Threadripper 7985WX</strong>, 64x 3.20 GHz</li>\r\n<li><strong>128GB</strong> DDR5-RAM, ECC, Samsung, <strong>4800 MHz</strong></li>\r\n<li>NVIDIA Quadro <strong>RTX 6000 ADA</strong>, 48GB GDDR6</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "cad-pc-amd-threadripper-7980x-2x-rtx-6000-ada",
+        "id": 13342,
+        "name": "CAD PC - AMD Threadripper 7980X - 2x RTX 6000 ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS102030",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/e/s/es-pcs7041274_1_11.jpg",
+        "product_type": "simple",
+        "final_price": 24184,
+        "discount_percent": 0,
+        "url_key": "cad-pc-amd-threadripper-7980x-2x-rtx-6000-ada",
+        "image": {
+          "label": "CAD PC - AMD Threadripper 7980X - 2x RTX 6000 ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 24184
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Threadripper 7980X</strong>, 64x 3.20 GHz</li>\r\n<li><strong>128GB</strong> DDR5-RAM, ECC, Samsung, <strong>4800 MHz</strong></li>\r\n<li><strong>2x</strong> NVIDIA Quadro <strong>RTX 6000 ADA</strong>, 48GB GDDR6</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "cad-pc-amd-threadripper-7995wx-2x-rtx-6000-ada",
+        "id": 13348,
+        "name": "CAD PC - AMD Threadripper 7995WX - 2x RTX 6000 ADA",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS102036",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls102036.jpg",
+        "product_type": "simple",
+        "final_price": 31800,
+        "discount_percent": 0,
+        "url_key": "cad-pc-amd-threadripper-7995wx-2x-rtx-6000-ada",
+        "image": {
+          "label": "CAD PC - AMD Threadripper 7995WX - 2x RTX 6000 ADA",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 31800
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Threadripper 7995WX</strong>, 96x 2.50 GHz</li>\r\n<li><strong>256GB</strong> DDR5-RAM, ECC, Samsung, <strong>4800 MHz</strong></li>\r\n<li><strong>2x</strong> NVIDIA Quadro <strong>RTX 6000 ADA</strong>, 48GB GDDR6</li>\r\n<li><strong>2TB </strong>Samsung 990 Pro, <strong>7450/6900</strong> MB/s</li>\r\n<li>Windows 11 <strong>Professional</strong></li>\r\n</ul>"
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 4,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 4,
+            "label": "0-10000",
+            "value": "0_10000"
+          },
+          {
+            "count": 6,
+            "label": "10000-20000",
+            "value": "10000_20000"
+          },
+          {
+            "count": 1,
+            "label": "20000-30000",
+            "value": "20000_30000"
+          },
+          {
+            "count": 1,
+            "label": "30000-40000",
+            "value": "30000_40000"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 3,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 12,
+            "label": "PC Systeme",
+            "value": "Mw=="
+          },
+          {
+            "count": 12,
+            "label": "CAD PC",
+            "value": "NzE="
+          },
+          {
+            "count": 12,
+            "label": "CAD PC AMD Threadripper 7000",
+            "value": "MzE4NQ=="
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,600 @@
+{
+  "categoryList": [
+    {
+      "id": 4059,
+      "name": "Mini Office PC",
+      "description": null,
+      "canonical_url": "pc-systeme/office-pc/mini-office-pc",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 18,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 0,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 18,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 20
+    },
+    "items": [
+      {
+        "canonical_url": "office-pc-amd-ryzen-3-3200g-radeon-graphics-1",
+        "id": 22340,
+        "name": "Office PC - AMD Ryzen 3 3200G - Radeon Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS342001",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls342001100.jpg",
+        "product_type": "simple",
+        "final_price": 510,
+        "discount_percent": 0,
+        "url_key": "office-pc-amd-ryzen-3-3200g-radeon-graphics",
+        "image": {
+          "label": "Intel Office Desktop PC 11005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 510
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 3 3200G</strong>, 4x 3.30 GHz</li>\r\n<li><strong>8GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>AMD Radeon Vega 8 Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-pc-intel-core-i3-12100-uhd-graphics-2",
+        "id": 22322,
+        "name": "Office PC - Intel Core i3-12100 - UHD Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS341001",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls341001-100.jpg",
+        "product_type": "simple",
+        "final_price": 536,
+        "discount_percent": 0,
+        "url_key": "office-pc-intel-core-i3-12100-uhd-graphics",
+        "image": {
+          "label": "Intel Office Desktop PC 11005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 536
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i3-12100</strong>, 4x 3.30 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>Intel UHD Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-pc-intel-core-i5-12400-uhd-graphics-1",
+        "id": 22323,
+        "name": "Office PC - Intel Core i5-12400 - UHD Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS341002",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls341002-100.jpg",
+        "product_type": "simple",
+        "final_price": 551,
+        "discount_percent": 0,
+        "url_key": "office-pc-intel-core-i5-12400-uhd-graphics",
+        "image": {
+          "label": "Intel Office Desktop PC 11005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 551
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i5-12400</strong>, 6x 2.50 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>Intel UHD Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-pc-amd-ryzen-5-5500gt-radeon-graphics",
+        "id": 22341,
+        "name": "Office PC - AMD Ryzen 5 5500GT - Radeon Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS342002",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls342002-100.jpg",
+        "product_type": "simple",
+        "final_price": 557,
+        "discount_percent": 0,
+        "url_key": "office-pc-amd-ryzen-5-5500gt-radeon-graphics",
+        "image": {
+          "label": "Intel Office Desktop PC 11005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 557
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 5500GT</strong>, 6x 3.60 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>AMD Radeon Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-pc-amd-ryzen-5-5600gt-radeon-graphics-1",
+        "id": 22342,
+        "name": "Office PC - AMD Ryzen 5 5600GT - Radeon Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS342003",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls342003-100.jpg",
+        "product_type": "simple",
+        "final_price": 575,
+        "discount_percent": 0,
+        "url_key": "office-pc-amd-ryzen-5-5600gt-radeon-graphics",
+        "image": {
+          "label": "Intel Office Desktop PC 11005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 575
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 5600GT</strong>, 6x 3.60 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>AMD Radeon Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-pc-intel-core-i3-14100-uhd-graphics-1",
+        "id": 22326,
+        "name": "Office PC - Intel Core i3-14100 - UHD Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS341004",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls341004-100.jpg",
+        "product_type": "simple",
+        "final_price": 588,
+        "discount_percent": 0,
+        "url_key": "office-pc-intel-core-i3-14100-uhd-graphics",
+        "image": {
+          "label": "Intel Office Desktop PC 11005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 588
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i3-14100</strong>, 4x 3.50 GHz</li>\r\n<li><strong>8GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>Intel UHD Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-pc-intel-core-i5-13400-uhd-graphics-1",
+        "id": 22330,
+        "name": "Office PC - Intel Core i5-13400 - UHD Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS341007",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls341007-100.jpg",
+        "product_type": "simple",
+        "final_price": 601,
+        "discount_percent": 0,
+        "url_key": "office-pc-intel-core-i5-13400-uhd-graphics",
+        "image": {
+          "label": "Intel Office Desktop PC 11005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 601
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i5-13400</strong>, 10x 2.50 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>Intel UHD Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-pc-amd-ryzen-7-5700g-radeon-graphics-1",
+        "id": 22343,
+        "name": "Office PC - AMD Ryzen 7 5700G - Radeon Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS342004",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls342004-200.jpg",
+        "product_type": "simple",
+        "final_price": 620,
+        "discount_percent": 0,
+        "url_key": "office-pc-amd-ryzen-7-5700g-radeon-graphics",
+        "image": {
+          "label": "Intel Office Desktop PC 11005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 620
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 7 5700G</strong>, 8x 3.80 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>AMD Radeon Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-pc-amd-ryzen-5-8500g-radeon-graphics",
+        "id": 22344,
+        "name": "Office PC - AMD Ryzen 5 8500G - Radeon Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS342005",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls342005-200.jpg",
+        "product_type": "simple",
+        "final_price": 688,
+        "discount_percent": 0,
+        "url_key": "office-pc-amd-ryzen-5-8500g-radeon-graphics",
+        "image": {
+          "label": "Intel Office Desktop PC 11005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 688
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 8500G</strong>, 6x 3.50 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>AMD Radeon 740M Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> Kingston NV3, <strong>6000/4000</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-pc-intel-core-i5-14400-uhd-graphics-2",
+        "id": 22327,
+        "name": "Office PC - Intel Core i5-14400 - UHD Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS341005",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls341005-100.jpg",
+        "product_type": "simple",
+        "final_price": 689,
+        "discount_percent": 0,
+        "url_key": "office-pc-intel-core-i5-14400-uhd-graphics",
+        "image": {
+          "label": "Intel Office Desktop PC 11005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 689
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i5-14400</strong>, 10x 2.50 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>Intel UHD Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-pc-intel-core-i7-12700-uhd-graphics",
+        "id": 22325,
+        "name": "Office PC - Intel Core i7-12700 - UHD Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS341003",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls341003-100.jpg",
+        "product_type": "simple",
+        "final_price": 746,
+        "discount_percent": 0,
+        "url_key": "office-pc-intel-core-i7-12700-uhd-graphics",
+        "image": {
+          "label": "Intel Office Desktop PC 11005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 746
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i7-12700</strong>, 12x 2.10 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>Intel UHD Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-pc-intel-core-ultra-5-225-intel-graphics",
+        "id": 22331,
+        "name": "Office PC - Intel Core Ultra 5 225 - Intel Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS341008",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls341008-100.jpg",
+        "product_type": "simple",
+        "final_price": 809,
+        "discount_percent": 0,
+        "url_key": "office-pc-intel-core-ultra-5-225-intel-graphics",
+        "image": {
+          "label": "Intel Office Desktop PC 11005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 809
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 225</strong>, 10 Kerne, 3.30 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>Intel Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-pc-amd-ryzen-5-9600x-radeon-graphics",
+        "id": 22346,
+        "name": "Office PC - AMD Ryzen 5 9600X - Radeon Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS342007",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls342007-200.jpg",
+        "product_type": "simple",
+        "final_price": 814,
+        "discount_percent": 0,
+        "url_key": "office-pc-amd-ryzen-5-9600x-radeon-graphics",
+        "image": {
+          "label": "Intel Office Desktop PC 11005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 814
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 9600X</strong>, 6x 3.90 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>AMD Radeon Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-pc-amd-ryzen-7-8700g-radeon-graphics",
+        "id": 22345,
+        "name": "Office PC - AMD Ryzen 7 8700G - Radeon Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS342006",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls342006-200.jpg",
+        "product_type": "simple",
+        "final_price": 966,
+        "discount_percent": 0,
+        "url_key": "office-pc-amd-ryzen-7-8700g-radeon-graphics",
+        "image": {
+          "label": "Intel Office Desktop PC 11005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 966
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 7 8700G</strong>, 8x 4.20 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>AMD Radeon 780M Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> Kingston NV3, <strong>6000/4000</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-pc-amd-ryzen-7-9700x-radeon-graphics",
+        "id": 22347,
+        "name": "Office PC - AMD Ryzen 7 9700X - Radeon Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS342008",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls342008-100.jpg",
+        "product_type": "simple",
+        "final_price": 995,
+        "discount_percent": 0,
+        "url_key": "office-pc-amd-ryzen-7-9700x-radeon-graphics",
+        "image": {
+          "label": "Intel Office Desktop PC 11005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 995
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 7 9700X</strong>, 8x 3.80 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>AMD Radeon Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> Kingston NV3, <strong>6000/4000</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-pc-intel-core-ultra-5-245k-intel-graphics",
+        "id": 22332,
+        "name": "Office PC - Intel Core Ultra 5 245K - Intel Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS341009",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls341009-100.jpg",
+        "product_type": "simple",
+        "final_price": 1007,
+        "discount_percent": 0,
+        "url_key": "office-pc-intel-core-ultra-5-245k-intel-graphics",
+        "image": {
+          "label": "Intel Office Desktop PC 11005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1007
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 245K</strong>, 14 Kerne, 3.60 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>Intel Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-pc-intel-core-i7-14700-uhd-graphics-1",
+        "id": 22329,
+        "name": "Office PC - Intel Core i7-14700 - UHD Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS341006",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls341006-100.jpg",
+        "product_type": "simple",
+        "final_price": 1046,
+        "discount_percent": 0,
+        "url_key": "office-pc-intel-core-i7-14700-uhd-graphics",
+        "image": {
+          "label": "Intel Office Desktop PC 11005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1046
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i7-14700</strong>, 20x 2.00 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>Intel UHD Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> Samsung 990 Evo, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "office-pc-intel-core-ultra-7-265k-intel-graphics",
+        "id": 22333,
+        "name": "Office PC - Intel Core Ultra 7 265K - Intel Graphics",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS341010",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls341010-100.jpg",
+        "product_type": "simple",
+        "final_price": 1094,
+        "discount_percent": 0,
+        "url_key": "office-pc-intel-core-ultra-7-265k-intel-graphics",
+        "image": {
+          "label": "Intel Office Desktop PC 11005",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1094
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 7 265K</strong>, 20 Kerne, 3.30 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>Intel Graphics <strong>(IGP)</strong></li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 2,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 15,
+            "label": "0-1000",
+            "value": "0_1000"
+          },
+          {
+            "count": 3,
+            "label": "1000-2000",
+            "value": "1000_2000"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 3,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 18,
+            "label": "PC Systeme",
+            "value": "Mw=="
+          },
+          {
+            "count": 18,
+            "label": "OFFICE PC",
+            "value": "MTA="
+          },
+          {
+            "count": 18,
+            "label": "Mini Office PC",
+            "value": "NDA1OQ=="
+          }
+        ]
+      }
+    ]
+  }
+}

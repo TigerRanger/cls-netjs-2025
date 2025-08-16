@@ -1,0 +1,84 @@
+{
+  "categoryList": [
+    {
+      "id": 82,
+      "name": "Eingabegeräte",
+      "description": null,
+      "canonical_url": "hardware/eingabegerate",
+      "children_count": "8",
+      "image": "http://cls-computer-admin.nz/media/catalog/category/Eingabeger_te-F_r-PC-kaufen.webp",
+      "is_anchor": 0,
+      "meta_description": "Eingabegeräte Für PC kaufen: Bestellen Eingabegeräte hardware - Gaming Eingabegeräte kaufen von CLS Computer ✓ attraktive preise ✓Große Auswahl !",
+      "meta_keywords": "eingabegerate",
+      "meta_title": "Eingabegeräte Für PC kaufen - eingabegeräte hardware| CLS Computer",
+      "product_count": 0,
+      "display_mode": "PAGE",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "Eingabegeräte Für PC kaufen: Eingabegeräte hardware - Gaming Eingabegeräte Kaufen",
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "hardware/eingabegerate/mause",
+          "name": "Mäuse",
+          "position": 1,
+          "url_key": "mause"
+        },
+        {
+          "canonical_url": "hardware/eingabegerate/keypads",
+          "name": "Keypads",
+          "position": 2,
+          "url_key": "keypads"
+        },
+        {
+          "canonical_url": "hardware/eingabegerate/mauspads",
+          "name": "Mauspads",
+          "position": 3,
+          "url_key": "mauspads"
+        },
+        {
+          "canonical_url": "hardware/eingabegerate/tastaturen",
+          "name": "Tastaturen",
+          "position": 4,
+          "url_key": "tastaturen"
+        },
+        {
+          "canonical_url": "hardware/eingabegerate/lenkrader-pedale",
+          "name": "Lenkräder & Pedale",
+          "position": 6,
+          "url_key": "lenkrader-pedale"
+        },
+        {
+          "canonical_url": "hardware/eingabegerate/joysticks-gamepads",
+          "name": "Joysticks & Gamepads",
+          "position": 7,
+          "url_key": "joysticks-gamepads"
+        },
+        {
+          "canonical_url": "hardware/eingabegerate/steuerhorn-gasregler",
+          "name": "Steuerhorn & Gasregler",
+          "position": 8,
+          "url_key": "steuerhorn-gasregler"
+        },
+        {
+          "canonical_url": "hardware/eingabegerate/eingabestifte-zubehoer",
+          "name": "Eingabestifte & Zubehör",
+          "position": 9,
+          "url_key": "eingabestifte-zubehoer"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

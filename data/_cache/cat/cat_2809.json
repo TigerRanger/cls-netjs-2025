@@ -1,0 +1,66 @@
+{
+  "categoryList": [
+    {
+      "id": 2809,
+      "name": "Controller / IO",
+      "description": null,
+      "canonical_url": "hardware/controller-io",
+      "children_count": "5",
+      "image": "http://cls-computer-admin.nz/media/catalog/category/Controller.jpg",
+      "is_anchor": 1,
+      "meta_description": "Entdecken Sie unsere hochwertigen Controller und erleben Sie präzise Kontrolle für ein optimales Gaming-Erlebnis. Perfekt für jede Spielkonsole.",
+      "meta_keywords": null,
+      "meta_title": "Präzise Kontrolle mit unseren erstklassigen Controllern",
+      "product_count": 0,
+      "display_mode": "PAGE",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 1,
+      "custom_title": "Präzise Kontrolle mit unseren erstklassigen Controllern",
+      "cms_block": null,
+      "children": [
+        {
+          "canonical_url": "hardware/controller-io/kabel-adapter",
+          "name": "Kabel & Zubehör",
+          "position": 1,
+          "url_key": "kabel-adapter"
+        },
+        {
+          "canonical_url": "hardware/controller-io/netzwerkkarten",
+          "name": "Netzwerkkarten",
+          "position": 2,
+          "url_key": "netzwerkkarten"
+        },
+        {
+          "canonical_url": "hardware/controller-io/raid-controller",
+          "name": "Speicher-Controller",
+          "position": 3,
+          "url_key": "raid-controller"
+        },
+        {
+          "canonical_url": "hardware/controller-io/parallel-seriell-karten",
+          "name": "Parallel- & Seriell-Karten",
+          "position": 4,
+          "url_key": "parallel-seriell-karten"
+        },
+        {
+          "canonical_url": "hardware/controller-io/usb-erweiterungskarten",
+          "name": "USB-Erweiterungskarten",
+          "position": 5,
+          "url_key": "usb-erweiterungskarten"
+        }
+      ]
+    }
+  ],
+  "products": {
+    "total_count": 0,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 0,
+      "page_size": 20
+    },
+    "items": [],
+    "aggregations": []
+  }
+}

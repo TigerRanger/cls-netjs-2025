@@ -31,7 +31,7 @@ const BreadCramp: React.FC<BreadCrampProps> = ({ links }) => {
 
   return (<>
     <section className={style['bradcrump-master']}>   
-       <div className='container'>
+       <div className='container-fluid'>
            <nav className={style["breadcramp-box"]}>
                <ul className="breadcrumb-list">
                {fullLinks.map((link, index) => (

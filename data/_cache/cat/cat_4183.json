@@ -1,0 +1,542 @@
+{
+  "categoryList": [
+    {
+      "id": 4183,
+      "name": "Silent Multimedia PC",
+      "description": null,
+      "canonical_url": "pc-systeme/multimedia-pc/silent-multimedia-pc",
+      "children_count": "0",
+      "image": null,
+      "is_anchor": 1,
+      "meta_description": null,
+      "meta_keywords": null,
+      "meta_title": null,
+      "product_count": 16,
+      "display_mode": "PRODUCTS",
+      "video_code": null,
+      "ans_set": null,
+      "que_set": null,
+      "enable_custom_title": 0,
+      "custom_title": null,
+      "cms_block": null,
+      "children": []
+    }
+  ],
+  "products": {
+    "total_count": 16,
+    "page_info": {
+      "current_page": 1,
+      "total_pages": 1,
+      "page_size": 20
+    },
+    "items": [
+      {
+        "canonical_url": "silent-multimedia-pc-amd-ryzen-5-5500-geforce-gt-1030",
+        "id": 22603,
+        "name": "Silent Multimedia PC - AMD Ryzen 5 5500 - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS22010",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls22010-600.jpg",
+        "product_type": "simple",
+        "final_price": 587,
+        "discount_percent": 0,
+        "url_key": "silent-multimedia-pc-amd-ryzen-5-5500-geforce-gt-1030",
+        "image": {
+          "label": "AMD Basic Multimedia PC 22001",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 587
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 5500</strong>, 6x 3.60 GHz</li>\r\n<li><strong>8GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "silent-multimedia-pc-intel-core-i3-12100f-geforce-gt-1030",
+        "id": 22634,
+        "name": "Silent Multimedia PC - Intel Core i3-12100F - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS21013",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls21013-600.jpg",
+        "product_type": "simple",
+        "final_price": 587,
+        "discount_percent": 0,
+        "url_key": "silent-multimedia-pc-intel-core-i3-12100f-geforce-gt-1030",
+        "image": {
+          "label": "Silent Multimedia PC - Intel Core i3-12100F - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 587
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i3-12100F</strong>, 4x 3.30 GHz</li>\r\n<li><strong>8GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "silent-multimedia-pc-intel-core-i3-13100f-geforce-gt-1030",
+        "id": 22635,
+        "name": "Silent Multimedia PC - Intel Core i3-13100F - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS21014",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls21014-600.jpg",
+        "product_type": "simple",
+        "final_price": 601,
+        "discount_percent": 0,
+        "url_key": "silent-multimedia-pc-intel-core-i3-13100f-geforce-gt-1030",
+        "image": {
+          "label": "Silent Multimedia PC - Intel Core i3-13100F - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 601
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i3-13100F</strong>, 4x 3.40 GHz</li>\r\n<li><strong>8GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "silent-multimedia-pc-amd-ryzen-5-5600x-geforce-gt-1030",
+        "id": 22604,
+        "name": "Silent Multimedia PC - AMD Ryzen 5 5600X - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS22011",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls22011-600.jpg",
+        "product_type": "simple",
+        "final_price": 644,
+        "discount_percent": 0,
+        "url_key": "silent-multimedia-pc-amd-ryzen-5-5600x-geforce-gt-1030",
+        "image": {
+          "label": "AMD Basic Multimedia PC 22001",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 644
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 5600X</strong>, 6x 3.70 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "silent-multimedia-pc-intel-core-i5-14400f-geforce-gt-1030",
+        "id": 22636,
+        "name": "Silent Multimedia PC - Intel Core i5-14400F - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS21015",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls21015-600.jpg",
+        "product_type": "simple",
+        "final_price": 745,
+        "discount_percent": 0,
+        "url_key": "silent-multimedia-pc-intel-core-i5-14400f-geforce-gt-1030",
+        "image": {
+          "label": "Silent Multimedia PC - Intel Core i5-14400F - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 745
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i5-14400F</strong>, 10x 2.50 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "silent-multimedia-pc-amd-ryzen-7-5700x-geforce-rtx-3050",
+        "id": 22605,
+        "name": "Silent Multimedia PC - AMD Ryzen 7 5700X - GeForce RTX 3050",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS22012",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls22012-600.jpg",
+        "product_type": "simple",
+        "final_price": 815,
+        "discount_percent": 0,
+        "url_key": "silent-multimedia-pc-amd-ryzen-7-5700x-geforce-rtx-3050",
+        "image": {
+          "label": "AMD Advanced Multimedia PC 22002",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 815
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 7 5700X</strong>, 8x 3.40 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 3050</strong>, 6GB GDDR6</li>\r\n<li><strong>1TB </strong>Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "silent-multimedia-pc-intel-core-i5-13600kf-geforce-gt-1030",
+        "id": 22637,
+        "name": "Silent Multimedia PC - Intel Core i5-13600KF - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS21016",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls21016-600.jpg",
+        "product_type": "simple",
+        "final_price": 821,
+        "discount_percent": 0,
+        "url_key": "silent-multimedia-pc-intel-core-i5-13600kf-geforce-gt-1030",
+        "image": {
+          "label": "Silent Multimedia PC - Intel Core i5-13600KF - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 821
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i5-13600KF</strong>, 14x 3.50 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "silent-multimedia-pc-amd-ryzen-5-7600-geforce-gt-1030",
+        "id": 22606,
+        "name": "Silent Multimedia PC - AMD Ryzen 5 7600 - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS22013",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls22013-600.jpg",
+        "product_type": "simple",
+        "final_price": 845,
+        "discount_percent": 0,
+        "url_key": "silent-multimedia-pc-amd-ryzen-5-7600-geforce-gt-1030",
+        "image": {
+          "label": "Silent Multimedia PC - AMD Ryzen 5 7600 - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 845
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 7600</strong>, 6x 3.80 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "silent-multimedia-pc-amd-ryzen-5-8500g-geforce-gt-1030",
+        "id": 22607,
+        "name": "Silent Multimedia PC - AMD Ryzen 5 8500G - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS22014",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls22014-600.jpg",
+        "product_type": "simple",
+        "final_price": 850,
+        "discount_percent": 0,
+        "url_key": "silent-multimedia-pc-amd-ryzen-5-8500g-geforce-gt-1030",
+        "image": {
+          "label": "Silent Multimedia PC - AMD Ryzen 5 8500G - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 850
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 8500G</strong>, 6x 3.50 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "silent-multimedia-pc-intel-core-ultra-5-225f-geforce-gt-1030",
+        "id": 22639,
+        "name": "Silent Multimedia PC - Intel Core Ultra 5 225F - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS21018",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls21018-600.jpg",
+        "product_type": "simple",
+        "final_price": 927,
+        "discount_percent": 0,
+        "url_key": "silent-multimedia-pc-intel-core-ultra-5-225f-geforce-gt-1030",
+        "image": {
+          "label": "Silent Multimedia PC - Intel Core Ultra 5 225F - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 927
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 225F</strong>, 10 Kerne, 2.70 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "silent-multimedia-pc-amd-ryzen-5-9600-geforce-gt-1030",
+        "id": 22609,
+        "name": "Silent Multimedia PC - AMD Ryzen 5 9600 - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS22016",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls22016-600.jpg",
+        "product_type": "simple",
+        "final_price": 929,
+        "discount_percent": 0,
+        "url_key": "silent-multimedia-pc-amd-ryzen-5-9600-geforce-gt-1030",
+        "image": {
+          "label": "Silent Multimedia PC - AMD Ryzen 5 9600 - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 929
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 5 9600</strong>, 6x 3.80 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "silent-multimedia-pc-amd-ryzen-7-7700-geforce-rtx-3050",
+        "id": 22608,
+        "name": "Silent Multimedia PC - AMD Ryzen 7 7700 - GeForce RTX 3050",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS22015",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls22015-600.jpg",
+        "product_type": "simple",
+        "final_price": 971,
+        "discount_percent": 0,
+        "url_key": "silent-multimedia-pc-amd-ryzen-7-7700-geforce-rtx-3050",
+        "image": {
+          "label": "Silent Multimedia PC - AMD Ryzen 7 7700 - GeForce RTX 3050",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 971
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 7 7700</strong>, 8x 3.80 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 3050</strong>, 6GB GDDR6</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "silent-multimedia-pc-intel-core-i7-12700kf-geforce-rtx-3050",
+        "id": 22638,
+        "name": "Silent Multimedia PC - Intel Core i7-12700KF - GeForce RTX 3050",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS21017",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls21017-600.jpg",
+        "product_type": "simple",
+        "final_price": 974,
+        "discount_percent": 0,
+        "url_key": "silent-multimedia-pc-intel-core-i7-12700kf-geforce-rtx-3050",
+        "image": {
+          "label": "Silent Multimedia PC - Intel Core i7-12700KF - GeForce RTX 3050",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 974
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core i7-12700KF</strong>, 12x 3.60 GHz</li>\r\n<li><strong>16GB</strong> DDR4-RAM, <strong>3200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 3050</strong>, 6GB GDDR6</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "silent-multimedia-pc-intel-core-ultra-5-245-geforce-gt-1030",
+        "id": 22640,
+        "name": "Silent Multimedia PC - Intel Core Ultra 5 245 - GeForce GT 1030",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS21019",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls21019-600.jpg",
+        "product_type": "simple",
+        "final_price": 994,
+        "discount_percent": 0,
+        "url_key": "silent-multimedia-pc-intel-core-ultra-5-245-geforce-gt-1030",
+        "image": {
+          "label": "Silent Multimedia PC - Intel Core Ultra 5 245 - GeForce GT 1030",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 994
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 5 245</strong>, 14 Kerne, 3.00 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>GT 1030</strong>, 2GB</li>\r\n<li><strong>1TB</strong> Crucial E100, <strong>5000/4500</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "silent-multimedia-pc-amd-ryzen-7-9700x-geforce-rtx-3050",
+        "id": 22610,
+        "name": "Silent Multimedia PC - AMD Ryzen 7 9700X - GeForce RTX 3050",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS22017",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls22017-600.jpg",
+        "product_type": "simple",
+        "final_price": 1209,
+        "discount_percent": 0,
+        "url_key": "silent-multimedia-pc-amd-ryzen-7-9700x-geforce-rtx-3050",
+        "image": {
+          "label": "Silent Multimedia PC - AMD Ryzen 7 9700X - GeForce RTX 3050",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1209
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>AMD Ryzen 7 9700X</strong>, 8x 3.80 GHz</li>\r\n<li><strong>32GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 3050</strong>, 6GB GDDR6</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      },
+      {
+        "canonical_url": "silent-multimedia-pc-intel-core-ultra-7-265f-geforce-rtx-3050",
+        "id": 22641,
+        "name": "Silent Multimedia PC - Intel Core Ultra 7 265F - GeForce RTX 3050",
+        "rating_summary": 0,
+        "review_count": 0,
+        "sku": "CLS21020",
+        "special_price": null,
+        "custom_image": "http://cls-computer-admin.nz/media/catalog/product/c/l/cls21020-600.jpg",
+        "product_type": "simple",
+        "final_price": 1229,
+        "discount_percent": 0,
+        "url_key": "silent-multimedia-pc-intel-core-ultra-7-265f-geforce-rtx-3050",
+        "image": {
+          "label": "Silent Multimedia PC - Intel Core Ultra 7 265F - GeForce RTX 3050",
+          "url": null
+        },
+        "price": {
+          "regularPrice": {
+            "amount": {
+              "currency": "EUR",
+              "value": 1229
+            }
+          }
+        },
+        "short_description": {
+          "html": "<ul>\r\n<li><strong>Intel Core Ultra 7 265F</strong>, 20 Kerne, 1.80 GHz</li>\r\n<li><strong>16GB</strong> DDR5-RAM, Corsair, <strong>5200 MHz</strong></li>\r\n<li>NVIDIA GeForce <strong>RTX 3050</strong>, 6GB GDDR6</li>\r\n<li><strong>1TB</strong> Samsung 990 Evo Plus, <strong>7150/6300</strong> MB/s</li>\r\n<li>Windows 11 <strong>Home</strong></li>\r\n</ul>"
+        }
+      }
+    ],
+    "aggregations": [
+      {
+        "attribute_code": "price",
+        "count": 2,
+        "label": "Price",
+        "position": null,
+        "options": [
+          {
+            "count": 14,
+            "label": "0-1000",
+            "value": "0_1000"
+          },
+          {
+            "count": 2,
+            "label": "1000-2000",
+            "value": "1000_2000"
+          }
+        ]
+      },
+      {
+        "attribute_code": "category_uid",
+        "count": 3,
+        "label": "Category",
+        "position": null,
+        "options": [
+          {
+            "count": 16,
+            "label": "PC Systeme",
+            "value": "Mw=="
+          },
+          {
+            "count": 16,
+            "label": "MULTIMEDIA PC",
+            "value": "NjQ="
+          },
+          {
+            "count": 16,
+            "label": "Silent Multimedia PC",
+            "value": "NDE4Mw=="
+          }
+        ]
+      }
+    ]
+  }
+}
