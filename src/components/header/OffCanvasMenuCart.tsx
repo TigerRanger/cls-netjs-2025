@@ -2,9 +2,9 @@
 
 import React, { memo, useState } from "react";
 import Image from "next/image";
-import crossSvg from "../../../public/svg-icon//cross-close.svg";
-import plusSvg from "../../../public/svg-icon//plus.svg";
-import minusSvg from "../../../public/svg-icon//minus.svg";
+import crossSvg from "../../../public/svg-icon/cross-close.svg";
+import plusSvg from "../../../public/svg-icon/plus-svg2.svg";
+import minusSvg from "../../../public/svg-icon/dash-svg.svg";
 import { showMsg } from '@/lib/jslib/GlobalMsgControl';
 import { Modal, Button } from "react-bootstrap";
 
@@ -162,7 +162,7 @@ const OffCanvasMenuCart: React.FC<OffCanvasMenuProps> = ({ isOpen, onClose }) =>
             <ul className="cart-items-list" role="list" aria-label="Cart items list">
               {items.map((item) => (
                 <li key={item.id} className="cart-item" role="listitem">
-                  <div className="cart-item-name">{ productID === String(item.id) ?  "Updating...." : item.name }</div>
+                  <div className="cart-item-name">{ item.name }</div>
                   <div className="cart-item-details">
                     <div className="cart-item-image">
 
@@ -190,7 +190,7 @@ const OffCanvasMenuCart: React.FC<OffCanvasMenuProps> = ({ isOpen, onClose }) =>
                         type="button"
                         disabled={item.qty <= 1}
                       >
-                        <Image src={minusSvg} alt="minus" width={15} height={15} />
+                        <Image src={minusSvg} alt="minus" width={12} height={12} />
                       </button>
                       <span className="qty" aria-live="polite" aria-atomic="true">
                         {item.qty}
@@ -201,7 +201,7 @@ const OffCanvasMenuCart: React.FC<OffCanvasMenuProps> = ({ isOpen, onClose }) =>
                         aria-label={`Increase quantity of ${item.name}`}
                         type="button"
                       >
-                        <Image src={plusSvg} alt="plus" width={35} height={35} />
+                        <Image src={plusSvg} alt="plus" width={12} height={12} />
                       </button>
                     </div>
 
@@ -219,7 +219,7 @@ const OffCanvasMenuCart: React.FC<OffCanvasMenuProps> = ({ isOpen, onClose }) =>
                       aria-label={`Remove ${item.name} from cart`}
                       type="button"
                     >
-                      <Image src="/images/delete.svg" alt="Remove" width={17} height={17} />
+                      <Image src="/svg-icon/trash-can.svg" alt="Remove" width={17} height={17} />
                     </button>
                   </div>
                 </li>

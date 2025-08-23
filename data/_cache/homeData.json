@@ -68,7 +68,7 @@
       "alt": "CLS",
       "caption": " Our skilled team of certified technicians is here to provide top-notch car repair and auto services to ensure your vehicle performs at its best. Our skilled team of certified technicians.",
       "id": "1",
-      "image": "1/slider1.jpg",
+      "image": "1/borderland-4.avif",
       "mobile_image": null,
       "sort": 0,
       "title": "Computer Repair & Auto",
@@ -79,7 +79,7 @@
       "alt": "CLS",
       "caption": " Our skilled team of certified technicians is here to provide top-notch car repair and auto services to ensure your vehicle performs at its best. Our skilled team of certified technicians.",
       "id": "2",
-      "image": "2/slider2.jpg",
+      "image": "2/geforce-rtx-9-series.avif",
       "mobile_image": null,
       "sort": 1,
       "title": "Car Perking Guidence Solutions",
@@ -90,7 +90,7 @@
       "alt": "CLS",
       "caption": " Our skilled team of certified technicians is here to provide top-notch car repair and auto services to ensure your vehicle performs at its best. Our skilled team of certified technicians.",
       "id": "3",
-      "image": "3/slider3.jpg",
+      "image": "3/gaming-pc.avif",
       "mobile_image": null,
       "sort": 2,
       "title": "Car Barrier Gate Solutions",
@@ -166,28 +166,28 @@
     "category_list": [
       {
         "id": 3,
-        "image": "/media/catalog/category/Gaming-PC.jpg",
+        "image": "/media/catalog/category/Gaming-PC-Popular-Categories.jpg",
         "name": "PC Systeme",
         "url_key": "pc-systeme",
         "canonical_url": "pc-systeme"
       },
       {
         "id": 725,
-        "image": "/media/catalog/category/CPU-Configaration_1.jpg",
+        "image": "/media/catalog/category/CPU-Configaration_2.jpg",
         "name": "PC Konfigurator",
         "url_key": "pc-konfigurator",
         "canonical_url": "pc-konfigurator"
       },
       {
         "id": 608,
-        "image": "/media/catalog/category/Sale.jpg",
+        "image": "/media/catalog/category/Sale_1.jpg",
         "name": "Sale",
         "url_key": "top-angebote",
         "canonical_url": "top-angebote"
       },
       {
         "id": 4,
-        "image": "/media/catalog/category/Laptop.jpg",
+        "image": "/media/catalog/category/Laptop_1.jpg",
         "name": "Laptop",
         "url_key": "laptop",
         "canonical_url": "laptop"

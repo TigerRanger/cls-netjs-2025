@@ -1,0 +1,14 @@
+[
+  {
+    "code": "checkmo",
+    "title": "Bar bei Abholung "
+  },
+  {
+    "code": "cashondelivery",
+    "title": " Nachnahme"
+  },
+  {
+    "code": "banktransfer",
+    "title": "Überweisung ( Vorkasse )"
+  }
+]

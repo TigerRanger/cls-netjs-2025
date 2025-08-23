@@ -8,7 +8,7 @@ interface BrandingProps {
   storeConfig: StoreConfig | null;
 }
 const defaultLogo = {
-  src: "/images/logo.webp",
+  src: "/images/logo.png",
   alt: "CLS Computer Logo",
 };
 const Branding: React.FC<BrandingProps> = ({ storeConfig }) => {

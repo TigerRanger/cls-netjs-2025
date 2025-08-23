@@ -10,6 +10,11 @@ import ProductNotFound from './ProductNotFound';
 
 import { getMenuData } from "@/lib/loaders/menuLoader";
 
+import CmsDescription from  "@/components/CmsDescription";
+
+
+
+
 import {Aggregation , CustomFilter } from "@/lib/Interface/FilterInterface";
 
 
@@ -33,8 +38,7 @@ const  PageWithFilter : React.FC<ProductPagePops> = async ({CategoryList , Agg ,
     const categoryVideoCode = CategoryList?.video_code;
     const magento = process.env.MAGENTO_ENDPOINT_SITE ;
 
-
-    const MenuData= await getMenuData();
+     const MenuData= await getMenuData();
 
     const storeInfo = MenuData?.getStoreInfo;
     const phone = MenuData?.getStoreInfo?.store_phone;
@@ -59,6 +63,20 @@ const  PageWithFilter : React.FC<ProductPagePops> = async ({CategoryList , Agg ,
       <section className="category-page">
         <div className="container-fluid">
          <div className='title-block'>
+
+         {CateoryBanner &&
+            ( 
+                <div className='category_banner'>
+                  {categoryVideoCode &&
+                  <CategoryVideo video_code={categoryVideoCode ?? ""} name={CategoryList?.name} />
+                  }
+                   <Image src={CateoryBanner} width={1300} height={250} alt={CategoryList?.name} />
+                </div> 
+            )
+         }
+
+
+
               <h1 className='category_heading'>
                   { CategoryList?.custom_title?CategoryList?.custom_title:CategoryList.name}     
              </h1>
@@ -74,16 +92,7 @@ const  PageWithFilter : React.FC<ProductPagePops> = async ({CategoryList , Agg ,
           
 
 
-         {CateoryBanner &&
-            ( 
-                <div className='category_banner'>
-                  {categoryVideoCode &&
-                  <CategoryVideo video_code={categoryVideoCode ?? ""} name={CategoryList?.name} />
-                  }
-                   <Image src={CateoryBanner} width={1300} height={250} alt={CategoryList?.name} />
-                </div> 
-            )
-         }
+
 
 
           {/* Render Category Children */}
@@ -114,17 +123,15 @@ const  PageWithFilter : React.FC<ProductPagePops> = async ({CategoryList , Agg ,
               </section>
             )}
 
-          {CategoryList?.description && CategoryList?.description!=="" && (
-            <div className='product_description'>
-            {/* <div className='cms-block'
-              dangerouslySetInnerHTML={{
-                __html: PageBuilder.reove_css_tag(CategoryList.description),
-              }}
-            /> */}
 
-            {CategoryList.description}
-            </div>   
-          )}
+
+
+          {/* Render  Description */}
+{CategoryList?.description && CategoryList?.description !== "" && (
+
+  <CmsDescription data={PageBuilder.reove_css_tag(CategoryList.description)} />
+  
+)}
         </div>
           {  products && products.items && products.items.length > 0 &&
           ( 

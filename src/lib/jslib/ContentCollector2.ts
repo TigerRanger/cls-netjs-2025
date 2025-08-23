@@ -64,13 +64,19 @@ export default class ContentCollector {
            //default:
            //console.log(`Unknown content type: ${type}`);
       }
+   
+     
     });
+
     console.log("ContentCollector results", this.results);
     return this.results;
   }
 
   public  processData(params: string , child_data: ContentItem[] ):  ContentItem[] {
-    if (typeof params === "string") {
+      
+     
+      if (typeof params === "string") {
+
     // Decode escaped HTML
     const decodedHTML = this.decodeHTML(params);
     // Parse with jsdom
@@ -79,51 +85,61 @@ export default class ContentCollector {
     // ✅ Get the first div
     const firstDiv = doc.body.querySelector("div");
     if (!firstDiv) return child_data;
+
     // ✅ Get only its direct children with data-content-type
     const child_data_extract = Array.from(firstDiv.children) as HTMLElement[];
+
+
+
         child_data_extract.forEach((el) => {
             let type = el.getAttribute("data-content-type");
-              let child_data2 = [] as ContentItem[];
-              let content = "";
-              switch (type) {
+            console.log("processData element Name", el.tagName);
+            console.log("processData type", type);
+            console.log("processData child_data", el.children);
+
+          let child_data2 = [] as ContentItem[];
+
+          let content = "";
+
+          switch (type) {
+
               case "heading":
                 content =  el.innerHTML.trim() || "";
                     // this.processData(content , child_data2);
                     // console.log("processData child_data", child_data2);
                 break;
+
               case "text":
                 content =  el.innerHTML.trim() || "";
                     // this.processData(content , child_data2);
                     // console.log("processData child_data", child_data2);
                 break;
+
+
               case "column-group":
                 content =  el.innerHTML.trim() || "";  
-                 this.processData("<div>"+ content + "</div>" , child_data2);
+                 this.processData(content , child_data2);
                 // console.log("processData child_data", child_data2);
                 break;
+
               case "image":
-                      const img = el.querySelector<HTMLImageElement>('img[data-element="desktop_image"]');
-                      content = (
-                        (img?.src || "CLS") + '#' +
-                        (img?.alt || "CLS") + '#' +
-                        (img?.title || "CLS")
-                      );
-                break;
-              case "column-line":
                 content =  el.innerHTML.trim() || "";  
-                 this.processData("<div>"+ content + "</div>" , child_data2);
-                // console.log("processData child_data", child_data2);
-                break; 
-             case "column":
-                content =  el.innerHTML.trim() || "";  
-                 this.processData("<div>"+ content + "</div>" , child_data2);
+                // this.processData(content , child_data2);
                 // console.log("processData child_data", child_data2);
                 break;  
-                case "video":
-                  // Try to find iframe inside the element
-                  const iframe = el.querySelector<HTMLIFrameElement>('iframe[data-element="video"]');
-                  content = iframe?.src || ""; // fallback to "video" if no iframe
-                  break;
+
+
+             case "column":
+                content =  el.innerHTML.trim() || "";  
+                 this.processData(content , child_data2);
+                // console.log("processData child_data", child_data2);
+                break;  
+
+
+              case "video":
+                content = el.innerHTML.trim();
+                break;
+
                case "null":
                 content = el.innerHTML.trim();
                 type = el.tagName.toLowerCase();
@@ -131,12 +147,25 @@ export default class ContentCollector {
                 default:
                 //console.log(`Unknown content type: ${type}`);
             }
+            
             child_data.push({ type, content , hasChildren:child_data2.length > 0 , children: child_data2 });
+
         }
+
+
       )};
 
         return [] as ContentItem[];
+      // If no elements found, treat the whole content as one HTML block
+      // if (child_data.length === 0 && doc.body.innerHTML.trim() !== "") {
+      //   return [{ type: "html", content: doc.body.innerHTML }];
+      // }
+
+    // Default return value to satisfy the function signature
+   // return [] as ContentItem[];
 }
+
+
 
 }
 

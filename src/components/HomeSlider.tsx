@@ -85,12 +85,12 @@ const MainSlider: React.FC<SliderProps> = ({ SliderItems:SliderItems , StoreInfo
       {/* Contact Info */}
       <div className="container-fluid">
         <div className="hero-contact-info">
-              { StoreInfo?.store_phone && (
+              { StoreInfo?.store_support_email && (
                 <div className="d-flex align-items-center gap-2">
                   <div className="heartbeat-icon blueglow">
                     <Image src={HeroEmail} alt="CLS Email" width={24} height={24} />
                   </div>
-                  <p className="ak-font-15 ak-white-color ak-semi-bold">info@cls-computer.de</p>
+                  <p className="ak-font-15 ak-white-color ak-semi-bold">{StoreInfo?.store_support_email}</p>
                 </div>
               )}
             <div className="d-flex align-items-center gap-2">
