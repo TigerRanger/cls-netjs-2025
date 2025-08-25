@@ -102,6 +102,7 @@ export const fetchMagentoFilterProducts = async ({
           rating_summary
           review_count
           sku
+          back_image
           special_price
           custom_image
           product_type

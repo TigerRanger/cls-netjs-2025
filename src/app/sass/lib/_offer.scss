@@ -170,9 +170,23 @@ ul.pt_plus_countdown {
 
     }
 
-}
-
-
+    img.back-image{
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      z-index: -1;
+      opacity: 0.3;
+      transition: all 0.3s ease;
+    }
+    &:hover img.back-image{
+      opacity: 1;
+      z-index: 1;
+      transition: all 0.3s ease;
+    }
+  }
 .product-name {
 	color: #333;
 	text-overflow: ellipsis;

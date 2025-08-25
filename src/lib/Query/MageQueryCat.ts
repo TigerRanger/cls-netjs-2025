@@ -23,7 +23,6 @@ query getProductPage(
     que_set
     enable_custom_title
     custom_title
-
     cms_block {
       identifier
       content
@@ -60,6 +59,7 @@ query getProductPage(
       final_price
       discount_percent
       url_key
+      back_image
       image {
         label
         url

@@ -3,7 +3,7 @@
 import React, { useRef } from "react";
 import { Swiper as SwiperClass } from "swiper/types";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { Parallax, Pagination, Autoplay } from "swiper/modules";
+import { Parallax, Pagination, Autoplay  } from "swiper/modules";
 import { ButtonCommon } from "@/components/Buttons";
 import Link from "next/link";
 import Image from "next/image";
@@ -34,6 +34,7 @@ const MainSlider: React.FC<SliderProps> = ({ SliderItems:SliderItems , StoreInfo
         loop={true}
         slidesPerView={"auto"}
         parallax={true}
+        navigation={false}
         pagination={{
           clickable: true,
           el: ".hero-swiper-pagination",
@@ -64,9 +65,9 @@ const MainSlider: React.FC<SliderProps> = ({ SliderItems:SliderItems , StoreInfo
                 <div className="hero-slider-info">
                   <div className="slider-info">
                     <div className="hero-title">
-                      <h2 className="hero-main-title" data-swiper-parallax="300">
+                      <div className="hero-main-title" data-swiper-parallax="300">
                         {item.title}
-                      </h2>
+                      </div>
                       <p className="mini-title" data-swiper-parallax="400">
                         {item.caption}
                       </p>

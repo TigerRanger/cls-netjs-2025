@@ -131,6 +131,22 @@ const dispatch = useDispatch<AppDispatch>();
                  )}
 
                   <div className="product-image-holder">
+
+
+                    { product.back_image && (
+                    <FallbackImage
+                      src={product?.back_image || "/images/no_image.avif"}
+                      fallbackSrc="/images/no_image.avif"
+                      alt={product?.image?.label ?? product.name}
+                      width={250}
+                      height={250}
+                      class_name="back-image"
+                    />
+                    )
+                  }
+
+
+
                     <FallbackImage
                       src={magento+'/pub/media/catalog/product/'+product.image?.url || "/images/no_image.avif"}
                       fallbackSrc="/images/no_image.avif"

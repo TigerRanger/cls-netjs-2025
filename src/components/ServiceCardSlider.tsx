@@ -52,15 +52,6 @@ const ServiceCardSlider: React.FC<ServiceCardSliderProps> = ({
 
   return (
     <div className="w-full relative">
-      {/* Custom Navigation Arrows */}
-      <div
-        ref={prevRef}
-        className="swiper-button-prev !left-0 !text-black z-10"
-      />
-      <div
-        ref={nextRef}
-        className="swiper-button-next !right-0 !text-black z-10"
-      />
 
       <Swiper
         spaceBetween={20}

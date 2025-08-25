@@ -46,6 +46,12 @@ const nextConfig: NextConfig = {
         hostname: "cls-blog.nz",
         pathname: "/**",
       },
+      {
+        protocol: "https",
+        hostname: "img.youtube.com",
+        pathname: "/**",
+      },
+
     ],
   }
 

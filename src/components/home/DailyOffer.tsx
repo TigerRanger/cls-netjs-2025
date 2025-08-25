@@ -45,26 +45,22 @@ const DailyOffer: React.FC<DailyPops> = ({dailyData , site , phone , auto}) => {
         if (distance < 0) {
           show=false;
         }
-
         
   return (
     <>
     <section className="daily-offer-section offer-block">
-    <div className='container'>
+    <div className='container-fluid'>
 
                 <div className={style['daily-offer']}>
                   
-                 
-                             {( dailyData?.daily_offer_title &&
+                        {( dailyData?.daily_offer_title &&
                             <h2 className="feature_heading" dangerouslySetInnerHTML={{ __html: dailyData?.daily_offer_title  }} />
                             )}
                          {( dailyData?.daily_offer_content &&
                             <p className= "feature_para" dangerouslySetInnerHTML={{ __html: dailyData.daily_offer_content }} />)}
                   
                         <CountDownTimer endTime={dateOnly} eday={false} />
-                  
-
-                    <div className={show ? style['daily-offer-body'] : 'hidden_block'}>
+                      <div className={show ? style['daily-offer-body'] : 'hidden_block'}>
                          {show ?
                         <ProductSlider
                           products={dailyData?.daily_offer_products}

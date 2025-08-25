@@ -45,27 +45,39 @@ export default class ContentCollector {
 
     this.elements.forEach((el) => {
       const type = el.getAttribute("data-content-type");
-          let child_data = [] as ContentItem[];
+
+      let child_data = [] as ContentItem[];
       let content = "";
      switch (type) {
         case "row":
           content =  el.innerHTML.trim() || "";
-
-          
-
               this.processData(content , child_data);
               // console.log("processData child_data", child_data);
                this.results.push({ type, content , hasChildren: child_data.length > 0, children: child_data  });
           break;
+
+
         case "html":
           content = el.innerHTML.trim();
+        // check if this element has a parent with ANY data-content-type
+          const parent = el.parentElement;
+          if (parent===null || !parent.hasAttribute("data-content-type")) {
            this.results.push({ type, content , hasChildren: child_data.length > 0, children: child_data  });
-          break;
-           //default:
-           //console.log(`Unknown content type: ${type}`);
+          }
+           break;
+
+        case "div":
+          content = el.innerHTML.trim();
+          this.results.push({ type, content , hasChildren: child_data.length > 0, children: child_data  });
+            break;
+
+           default:
+          //   content = el.innerHTML.trim();
+          //  this.results.push({ type, content , hasChildren: child_data.length > 0, children: child_data  });
       }
     });
-    console.log("ContentCollector results", this.results);
+
+
     return this.results;
   }
 
@@ -86,15 +98,18 @@ export default class ContentCollector {
               let child_data2 = [] as ContentItem[];
               let content = "";
               switch (type) {
+
+
+              case "html":
+                content = el.innerHTML.trim();
+                break;
+
               case "heading":
-                content =  el.innerHTML.trim() || "";
-                    // this.processData(content , child_data2);
-                    // console.log("processData child_data", child_data2);
+                let tagName = el.tagName.toLowerCase();
+                  content =  "<"+ tagName +">"+ el.innerHTML.trim() + "</"+ tagName +">" || "";
                 break;
               case "text":
                 content =  el.innerHTML.trim() || "";
-                    // this.processData(content , child_data2);
-                    // console.log("processData child_data", child_data2);
                 break;
               case "column-group":
                 content =  el.innerHTML.trim() || "";  
@@ -102,6 +117,7 @@ export default class ContentCollector {
                 // console.log("processData child_data", child_data2);
                 break;
               case "image":
+          
                       const img = el.querySelector<HTMLImageElement>('img[data-element="desktop_image"]');
                       content = (
                         (img?.src || "CLS") + '#' +

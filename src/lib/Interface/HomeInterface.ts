@@ -89,6 +89,7 @@ export interface HomeProducts {
   url_key: string;
   canonical_url: string;
   new: boolean;
+  back_image: string | null;
   rating_summary: number;
   review_count: number;
   special_price?: number;

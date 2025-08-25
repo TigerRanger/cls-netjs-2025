@@ -55,7 +55,7 @@ export interface Product {
   special_price?: number;
   rating_summary?: number;
   review_count?: number;
-
+  back_image?: string | null;
 
   image?: {
     url: string;

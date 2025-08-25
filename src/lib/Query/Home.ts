@@ -99,6 +99,7 @@ query Home {
             special_price
             type
             url_key
+            back_image
             image {
                 label
                 url
@@ -146,6 +147,7 @@ query Home {
             special_price
             type
             url_key
+            back_image
             image {
                 label
                 url
@@ -193,6 +195,7 @@ query Home {
             special_price
             type
             url_key
+            back_image
             image {
                 label
                 url

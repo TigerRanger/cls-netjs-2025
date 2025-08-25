@@ -193,9 +193,7 @@ a:hover {
 
 
 
-.description_html{
-    padding:20px; 
-
+.cms-description , .description_html{
     h2{
       margin-top: 20px;
         margin-bottom: 0;
@@ -208,5 +206,7 @@ a:hover {
         font-size: 1.2rem;
         color: #454444;
     }
-
+    p{
+      text-align: justify;
+    }
 }
