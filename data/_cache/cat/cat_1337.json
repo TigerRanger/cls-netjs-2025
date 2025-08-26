@@ -43,6 +43,7 @@
         "final_price": 380,
         "discount_percent": 0,
         "url_key": "office-laptop-15-6-intel-pentium-n6000-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 15.6\" - Intel Pentium N6000 - UHD Graphics",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 422,
         "discount_percent": 0,
         "url_key": "office-laptop-15-6-amd-ryzen-3-5425u-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 15.6\" - AMD Ryzen 3 5425U - Radeon Graphics",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 428,
         "discount_percent": 0,
         "url_key": "office-laptop-15-6-intel-core-i3-1315u-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 15.6\" - Intel Core i3-1315U - UHD Graphics",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 438,
         "discount_percent": 0,
         "url_key": "office-laptop-15-6-amd-ryzen-5-7520u-radeon-610m",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 15.6\" - AMD Ryzen 5 7520U - Radeon 610M",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 454,
         "discount_percent": 0,
         "url_key": "office-laptop-15-6-intel-core-i3-1315u-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 15.6\" - Intel Core i3-1315U - UHD Graphics",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 466,
         "discount_percent": 0,
         "url_key": "office-laptop-15-6-intel-core-i3-1315u-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 15.6\" - Intel Core i3-1315U - UHD Graphics",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 506,
         "discount_percent": 0,
         "url_key": "office-laptop-15-6-intel-core-i3-1315u-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 15.6\" - Intel Core i3-1315U - UHD Graphics",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 690,
         "discount_percent": 0,
         "url_key": "office-laptop-15-6-intel-core-i7-1255u-iris-xe-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 15.6\" - Intel Core i7-1255U - Iris Xe Graphics",
           "url": null

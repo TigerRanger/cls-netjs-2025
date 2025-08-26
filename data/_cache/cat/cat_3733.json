@@ -43,6 +43,7 @@
         "final_price": 1087,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-5-9600-geforce-rtx-5060",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Gaming PC 62005",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 1108,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-5-9600-radeon-rx-9060-xt",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Gaming PC 62005",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 1163,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-5-9600x-radeon-rx-9060-xt",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Gaming PC 62005",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 1170,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-5-9600x-geforce-rtx-5060-ti",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Gaming PC 62005",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 1345,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-7-9700x-geforce-rtx-5060-ti",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Gaming PC 62005",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 1427,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-7-9700x-radeon-rx-7800-xt",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Gaming PC 62005",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 2018,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-7-9800x3d-geforce-rtx-5070",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Gaming PC 62005",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 2075,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-9-9900x-radeon-rx-7900-xt",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Gaming PC 62005",
           "url": null
@@ -275,6 +283,7 @@
         "final_price": 2143,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-7-9800x3d-radeon-rx-9070",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Gaming PC 62005",
           "url": null
@@ -304,6 +313,7 @@
         "final_price": 2226,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-9-9900x-geforce-rtx-5070-ti",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Gaming PC 62005",
           "url": null
@@ -333,6 +343,7 @@
         "final_price": 2494,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-9-9900x3d-radeon-rx-9070-xt",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Gaming PC 62005",
           "url": null
@@ -362,6 +373,7 @@
         "final_price": 2912,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-9-9900x3d-geforce-rtx-5080",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Gaming PC 62005",
           "url": null
@@ -391,6 +403,7 @@
         "final_price": 3074,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-9-9950x3d-radeon-rx-7900-xtx",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Gaming PC 62005",
           "url": null
@@ -420,6 +433,7 @@
         "final_price": 4845,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-9-9950x3d-geforce-rtx-5090",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Gaming PC 62005",
           "url": null

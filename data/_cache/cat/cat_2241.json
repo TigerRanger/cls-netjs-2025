@@ -43,6 +43,7 @@
         "final_price": 1191,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-ryzen-5-7600x-nvidia-t1000",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced CAD PC 102002",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 1765,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-ryzen-7-7700x-quadro-rtx-a2000",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced CAD PC 102002",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 2789,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-ryzen-9-7900x-quadro-rtx-a4000",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced CAD PC 102002",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 4872,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-ryzen-9-7950x-quadro-rtx-a5000",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced CAD PC 102002",
           "url": null

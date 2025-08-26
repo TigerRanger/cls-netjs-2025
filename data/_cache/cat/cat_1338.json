@@ -43,6 +43,7 @@
         "final_price": 458,
         "discount_percent": 0,
         "url_key": "office-laptop-17-3-intel-pentium-8505-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 17.3\" - Intel Pentium 8505 - UHD Graphics",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 479,
         "discount_percent": 0,
         "url_key": "office-laptop-17-3-intel-core-i3-1215u-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 17.3\" - Intel Core i3-1215U - UHD Graphics",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 508,
         "discount_percent": 0,
         "url_key": "office-laptop-17-3-amd-ryzen-5-7520u-radeon-610m",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 17.3\" - AMD Ryzen 5 7520U - Radeon 610M",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 679,
         "discount_percent": 0,
         "url_key": "office-laptop-17-3-intel-core-i5-1334u-iris-xe-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 17.3\" - Intel Core i5-1334U - Iris Xe Graphics",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 879,
         "discount_percent": 0,
         "url_key": "office-laptop-17-3-intel-core-i7-1355u-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 17.3\" - Intel Core i7-1355U - UHD Graphics",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 894,
         "discount_percent": 0,
         "url_key": "office-laptop-17-3-intel-core-5-120u-intel-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 17.3\" - Intel Core 5 120U - Intel Graphics",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 1029,
         "discount_percent": 0,
         "url_key": "office-laptop-17-3-intel-core-7-150u-intel-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 17.3\" - Intel Core 7 150U - Intel Graphics",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 1088,
         "discount_percent": 0,
         "url_key": "office-laptop-17-3-intel-core-7-150u-intel-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 17.3\" - Intel Core 7 150U - Intel Graphics",
           "url": null

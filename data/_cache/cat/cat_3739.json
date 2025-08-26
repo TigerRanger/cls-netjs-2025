@@ -43,6 +43,7 @@
         "final_price": 1066,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-ryzen-5-9600x-rtx-a400",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced CAD PC 102002",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 1851,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-ryzen-7-9700x-rtx-2000-ada",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced CAD PC 102002",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 2980,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-ryzen-9-9900x-rtx-4000-ada",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced CAD PC 102002",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 4757,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-ryzen-9-9950x-rtx-4500-ada",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced CAD PC 102002",
           "url": null

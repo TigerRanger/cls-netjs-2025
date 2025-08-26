@@ -43,6 +43,7 @@
         "final_price": 832,
         "discount_percent": 0,
         "url_key": "gaming-laptop-15-6-intel-core-i5-12450h-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 15.6\" - Intel Core i5-12450H - RTX 3050",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 864,
         "discount_percent": 0,
         "url_key": "gaming-laptop-15-6-amd-ryzen-5-7535hs-rtx-4050",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 15.6\"\" - AMD Ryzen 5 7535HS - RTX 4050",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 978,
         "discount_percent": 0,
         "url_key": "gaming-laptop-15-6-amd-ryzen-7-7735hs-rtx-4050",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 15.6\" - AMD Ryzen 7 7735HS - RTX 4050",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 1392,
         "discount_percent": 0,
         "url_key": "gaming-laptop-15-6-amd-ryzen-7-7435hs-rtx-4070",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 15.6\" - AMD Ryzen 7 7435HS - RTX 4070",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 1763,
         "discount_percent": 0,
         "url_key": "gaming-laptop-16-1-amd-ryzen-7-7840hs-rtx-4070",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 16.1\" - AMD Ryzen 7 7840HS - RTX 4070",
           "url": null

@@ -56,6 +56,7 @@
         "final_price": 538,
         "discount_percent": 0,
         "url_key": "office-komplettlosung-intel-celeron-g6900-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Komplettlösung - Intel Celeron G6900 - UHD Graphics",
           "url": null
@@ -85,6 +86,7 @@
         "final_price": 579,
         "discount_percent": 0,
         "url_key": "office-komplettlosung-amd-ryzen-5-5600g-vega-graphics",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Office PC 12001",
           "url": null
@@ -114,6 +116,7 @@
         "final_price": 735,
         "discount_percent": 0,
         "url_key": "office-komplettlosung-intel-core-i3-13100-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Komplettlösung - Intel Core i3-13100 - UHD Graphics",
           "url": null
@@ -143,6 +146,7 @@
         "final_price": 736,
         "discount_percent": 0,
         "url_key": "office-komplettlosung-amd-ryzen-7-5700g-vega-graphics",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Office PC 12001",
           "url": null
@@ -172,6 +176,7 @@
         "final_price": 926,
         "discount_percent": 0,
         "url_key": "office-komplettlosung-amd-ryzen-5-7600-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Office PC 12001",
           "url": null
@@ -201,6 +206,7 @@
         "final_price": 935,
         "discount_percent": 0,
         "url_key": "office-komplettlosung-intel-core-i5-13400-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Komplettlösung - Intel Core i5-13400 - UHD Graphics",
           "url": null
@@ -230,6 +236,7 @@
         "final_price": 1074,
         "discount_percent": 0,
         "url_key": "office-komplettlosung-amd-ryzen-7-7700-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Office PC 12001",
           "url": null
@@ -259,6 +266,7 @@
         "final_price": 1252,
         "discount_percent": 0,
         "url_key": "gaming-komplettlosung-intel-core-i5-13400f-rtx-4060",
+        "back_image": null,
         "image": {
           "label": "Intel Basic Gaming PC 61013",
           "url": null
@@ -288,6 +296,7 @@
         "final_price": 1278,
         "discount_percent": 0,
         "url_key": "office-komplettlosung-intel-core-i7-13700-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Komplettlösung - Intel Core i7-13700 - UHD Graphics",
           "url": null
@@ -317,6 +326,7 @@
         "final_price": 1290,
         "discount_percent": 0,
         "url_key": "gaming-komplettlosung-amd-ryzen-5-7600x-rx-7600",
+        "back_image": null,
         "image": {
           "label": "Intel Basic Gaming PC 61013",
           "url": null
@@ -346,6 +356,7 @@
         "final_price": 1533,
         "discount_percent": 0,
         "url_key": "gaming-komplettlosung-intel-core-i5-14600kf-rtx-5060-ti",
+        "back_image": null,
         "image": {
           "label": "Intel Basic Gaming PC 61013",
           "url": null
@@ -375,6 +386,7 @@
         "final_price": 1990,
         "discount_percent": 0,
         "url_key": "gaming-komplettlosung-amd-ryzen-7-7800x3d-rx-7800-xt",
+        "back_image": null,
         "image": {
           "label": "Intel Basic Gaming PC 61013",
           "url": null
@@ -404,6 +416,7 @@
         "final_price": 2330,
         "discount_percent": 0,
         "url_key": "gaming-komplettlosung-intel-core-i7-14700kf-rtx-5070",
+        "back_image": null,
         "image": {
           "label": "Intel Basic Gaming PC 61013",
           "url": null
@@ -433,6 +446,7 @@
         "final_price": 2929,
         "discount_percent": 0,
         "url_key": "gaming-komplettlosung-amd-ryzen-9-7900x3d-rx-7900-xt",
+        "back_image": null,
         "image": {
           "label": "Intel Basic Gaming PC 61013",
           "url": null
@@ -462,6 +476,7 @@
         "final_price": 3289,
         "discount_percent": 0,
         "url_key": "gaming-komplettlosung-intel-core-i9-14900kf-rtx-5080",
+        "back_image": null,
         "image": {
           "label": "Intel Basic Gaming PC 61013",
           "url": null
@@ -491,6 +506,7 @@
         "final_price": 3718,
         "discount_percent": 0,
         "url_key": "gaming-komplettlosung-amd-ryzen-9-7950x3d-rx-7900-xtx",
+        "back_image": null,
         "image": {
           "label": "Intel Basic Gaming PC 61013",
           "url": null

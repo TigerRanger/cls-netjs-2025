@@ -56,6 +56,7 @@
         "final_price": 459,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-n100-uhd-graphics-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel N100 - UHD Graphics (23.8\")",
           "url": null
@@ -85,6 +86,7 @@
         "final_price": 569,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-amd-ryzen-3-7320u-radeon-610m-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - AMD Ryzen 3 7320U - Radeon 610M (23.8\")",
           "url": null
@@ -114,6 +116,7 @@
         "final_price": 606,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-i3-1215u-uhd-graphics-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core i3-1215U - UHD Graphics (23.8\")",
           "url": null
@@ -143,6 +146,7 @@
         "final_price": 654,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-i3-13100t-uhd-graphics-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core i3-13100T - UHD Graphics (23.8\")",
           "url": null
@@ -172,6 +176,7 @@
         "final_price": 696,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-i3-1315u-uhd-graphics-27",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core i3-1315U - UHD Graphics (27\")",
           "url": null
@@ -201,6 +206,7 @@
         "final_price": 732,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-i5-14500t-uhd-graphics-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core i5-14500T - UHD Graphics (23.8\")",
           "url": null
@@ -230,6 +236,7 @@
         "final_price": 740,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-amd-ryzen-5-7520u-radeon-610m-27",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - AMD Ryzen 5 7520U - Radeon 610M (27\")",
           "url": null
@@ -259,6 +266,7 @@
         "final_price": 746,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-i5-1235u-uhd-graphics-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core i5-1235U - UHD Graphics (23.8\")",
           "url": null
@@ -288,6 +296,7 @@
         "final_price": 832,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-ultra-5-125h-arc-graphics-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core Ultra 5 125H - Arc Graphics (23.8\")",
           "url": null
@@ -317,6 +326,7 @@
         "final_price": 849,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-5-120u-intel-graphics-27",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core 5 120U - Intel Graphics (27\")",
           "url": null
@@ -346,6 +356,7 @@
         "final_price": 869,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-i5-13500t-uhd-graphics-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core i5-13500T - UHD Graphics (23.8\")",
           "url": null
@@ -375,6 +386,7 @@
         "final_price": 874,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-i5-13420h-uhd-graphics-27",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core i5-13420H - UHD Graphics (27\")",
           "url": null
@@ -404,6 +416,7 @@
         "final_price": 878,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-amd-ryzen-7-7735h-radeon-680m-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - AMD Ryzen 7 7735H - Radeon 680M (23.8\")",
           "url": null
@@ -433,6 +446,7 @@
         "final_price": 896,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-amd-ryzen-7730u-radeon-graphics-27",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - AMD Ryzen 7730U - Radeon Graphics (27\")",
           "url": null
@@ -462,6 +476,7 @@
         "final_price": 932,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-i5-12450h-uhd-graphics-27",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core i5-12450H - UHD Graphics (27\")",
           "url": null
@@ -491,6 +506,7 @@
         "final_price": 966,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-i7-13620h-uhd-graphics-27",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core i7-13620H - UHD Graphics (27\")",
           "url": null
@@ -520,6 +536,7 @@
         "final_price": 978,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-i5-1335u-iris-xe-graphics-27",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core i5-1335U - Iris Xe Graphics (27\")",
           "url": null
@@ -549,6 +566,7 @@
         "final_price": 979,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-i5-13420h-uhd-graphics-27",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core i5-13420H - UHD Graphics (27\")",
           "url": null
@@ -578,6 +596,7 @@
         "final_price": 984,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-i5-14500t-uhd-graphics-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core i5-14500T - UHD Graphics (23.8\")",
           "url": null
@@ -607,6 +626,7 @@
         "final_price": 1008,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-i5-14500t-uhd-graphics-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core i5-14500T - UHD Graphics (23.8\")",
           "url": null

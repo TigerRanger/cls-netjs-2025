@@ -43,6 +43,7 @@
         "final_price": 719,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-5-5600x-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "AMD Ultra Gaming PC 62009",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 768,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-5-5600x-radeon-rx-6600",
+        "back_image": null,
         "image": {
           "label": "AMD Ultra Gaming PC 62009",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 784,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-7-5700x-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "AMD Ultra Gaming PC 62009",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 922,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-7-5700x-radeon-rx-9060-xt",
+        "back_image": null,
         "image": {
           "label": "AMD Ultra Gaming PC 62009",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 1007,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-7-5800x-geforce-rtx-5060",
+        "back_image": null,
         "image": {
           "label": "AMD Ultra Gaming PC 62009",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 1108,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-7-5800x-radeon-rx-9060-xt",
+        "back_image": null,
         "image": {
           "label": "AMD Ultra Gaming PC 62009",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 1380,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-7-5700x3d-geforce-rtx-5060-ti",
+        "back_image": null,
         "image": {
           "label": "AMD Ultra Gaming PC 62009",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 1737,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-7-5700x3d-radeon-rx-9070-xt",
+        "back_image": null,
         "image": {
           "label": "AMD Ultra Gaming PC 62009",
           "url": null

@@ -43,6 +43,7 @@
         "final_price": 3753,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-xeon-w3-2425-rtx-a2000",
+        "back_image": null,
         "image": {
           "label": "Intel Basic CAD PC 101007",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 4642,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-xeon-w5-2445-rtx-a4000",
+        "back_image": null,
         "image": {
           "label": "Intel Basic CAD PC 101007",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 4883,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-xeon-w5-2445-rtx-4000-ada",
+        "back_image": null,
         "image": {
           "label": "Intel Basic CAD PC 101007",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 5291,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-xeon-w5-3425-rtx-a4000",
+        "back_image": null,
         "image": {
           "label": "Intel Basic CAD PC 101007",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 6546,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-xeon-w5-2455x-rtx-4500-ada",
+        "back_image": null,
         "image": {
           "label": "Intel Basic CAD PC 101007",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 7826,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-xeon-w7-3445-rtx-a5000",
+        "back_image": null,
         "image": {
           "label": "Intel Basic CAD PC 101007",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 9438,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-xeon-w7-2475x-rtx-5000-ada",
+        "back_image": null,
         "image": {
           "label": "Intel Basic CAD PC 101007",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 10534,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-xeon-w5-2465x-rtx-a6000",
+        "back_image": null,
         "image": {
           "label": "Intel Basic CAD PC 101007",
           "url": null
@@ -275,6 +283,7 @@
         "final_price": 13107,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-xeon-w5-2465x-rtx-6000-ada",
+        "back_image": null,
         "image": {
           "label": "Intel Basic CAD PC 101007",
           "url": null
@@ -304,6 +313,7 @@
         "final_price": 14205,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-xeon-w7-2495x-rtx-6000-ada",
+        "back_image": null,
         "image": {
           "label": "Intel Basic CAD PC 101007",
           "url": null
@@ -333,6 +343,7 @@
         "final_price": 15851,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-xeon-w9-3475x-rtx-6000-ada",
+        "back_image": null,
         "image": {
           "label": "Intel Basic CAD PC 101007",
           "url": null
@@ -362,6 +373,7 @@
         "final_price": 21992,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-xeon-w7-2475x-2x-rtx-6000-ada",
+        "back_image": null,
         "image": {
           "label": "Intel Basic CAD PC 101007",
           "url": null

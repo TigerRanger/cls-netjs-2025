@@ -74,6 +74,7 @@
         "final_price": 832,
         "discount_percent": 0,
         "url_key": "gaming-laptop-15-6-intel-core-i5-12450h-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 15.6\" - Intel Core i5-12450H - RTX 3050",
           "url": null
@@ -103,6 +104,7 @@
         "final_price": 864,
         "discount_percent": 0,
         "url_key": "gaming-laptop-15-6-amd-ryzen-5-7535hs-rtx-4050",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 15.6\"\" - AMD Ryzen 5 7535HS - RTX 4050",
           "url": null
@@ -132,6 +134,7 @@
         "final_price": 978,
         "discount_percent": 0,
         "url_key": "gaming-laptop-15-6-amd-ryzen-7-7735hs-rtx-4050",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 15.6\" - AMD Ryzen 7 7735HS - RTX 4050",
           "url": null
@@ -161,6 +164,7 @@
         "final_price": 1392,
         "discount_percent": 0,
         "url_key": "gaming-laptop-15-6-amd-ryzen-7-7435hs-rtx-4070",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 15.6\" - AMD Ryzen 7 7435HS - RTX 4070",
           "url": null
@@ -190,6 +194,7 @@
         "final_price": 1398,
         "discount_percent": 0,
         "url_key": "gaming-laptop-17-3-amd-ryzen-7-8845hs-rtx-4060",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 17.3\" - AMD Ryzen 7 8845HS - RTX 4060",
           "url": null
@@ -219,6 +224,7 @@
         "final_price": 1539,
         "discount_percent": 0,
         "url_key": "gaming-laptop-17-3-intel-core-i7-13620h-rtx-4070",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 17.3\" - Intel Core i7-13620H - RTX 4070",
           "url": null
@@ -248,6 +254,7 @@
         "final_price": 1569,
         "discount_percent": 0,
         "url_key": "gaming-laptop-17-3-amd-ryzen-7-8845hs-rtx-4070",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 17.3\" - AMD Ryzen 7 8845HS - RTX 4070",
           "url": null
@@ -277,6 +284,7 @@
         "final_price": 1607,
         "discount_percent": 0,
         "url_key": "gaming-laptop-17-3-intel-core-i7-13620h-rtx-4060",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 17.3\" - Intel Core i7-13620H - RTX 4060",
           "url": null
@@ -306,6 +314,7 @@
         "final_price": 1763,
         "discount_percent": 0,
         "url_key": "gaming-laptop-16-1-amd-ryzen-7-7840hs-rtx-4070",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 16.1\" - AMD Ryzen 7 7840HS - RTX 4070",
           "url": null
@@ -335,6 +344,7 @@
         "final_price": 1952,
         "discount_percent": 0,
         "url_key": "gaming-laptop-17-3-amd-ryzen-7-8845hs-rtx-4070",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 17.3\" - AMD Ryzen 7 8845HS - RTX 4070",
           "url": null
@@ -364,6 +374,7 @@
         "final_price": 2044,
         "discount_percent": 0,
         "url_key": "gaming-laptop-17-3-amd-ryzen-9-7940hx-rtx-4070",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 17.3\" - AMD Ryzen 9 7940HX - RTX 4070",
           "url": null
@@ -393,6 +404,7 @@
         "final_price": 2263,
         "discount_percent": 0,
         "url_key": "gaming-laptop-16-ryzen-9-9955hx-rtx-5070-ti",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 16\" - Ryzen 9 9955HX - RTX 5070 Ti",
           "url": null
@@ -422,6 +434,7 @@
         "final_price": 2327,
         "discount_percent": 0,
         "url_key": "gaming-laptop-16-intel-core-ultra-9-275hx-rtx-5070-ti",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 16\" - Intel Core Ultra 9 275HX - RTX 5070 Ti",
           "url": null
@@ -451,6 +464,7 @@
         "final_price": 2433,
         "discount_percent": 0,
         "url_key": "gaming-laptop-16-ryzen-9-9955hx3d-rtx-5070-ti",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 16\" - Ryzen 9 9955HX3D - RTX 5070 Ti",
           "url": null
@@ -480,6 +494,7 @@
         "final_price": 2511,
         "discount_percent": 0,
         "url_key": "gaming-laptop-16-ryzen-9-9955hx3d-rtx-5070-ti",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 16\" - Ryzen 9 9955HX3D - RTX 5070 Ti",
           "url": null
@@ -509,6 +524,7 @@
         "final_price": 2708,
         "discount_percent": 0,
         "url_key": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5070-ti",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5070 Ti",
           "url": null
@@ -538,6 +554,7 @@
         "final_price": 2829,
         "discount_percent": 0,
         "url_key": "gaming-laptop-16-ryzen-9-9955hx-rtx-5080",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 16\" - Ryzen 9 9955HX - RTX 5080",
           "url": null
@@ -567,6 +584,7 @@
         "final_price": 2895,
         "discount_percent": 0,
         "url_key": "gaming-laptop-16-intel-core-ultra-9-275hx-rtx-5080",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 16\" - Intel Core Ultra 9 275HX - RTX 5080",
           "url": null
@@ -596,6 +614,7 @@
         "final_price": 2993,
         "discount_percent": 0,
         "url_key": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5070-ti",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5070 Ti",
           "url": null
@@ -625,6 +644,7 @@
         "final_price": 3038,
         "discount_percent": 0,
         "url_key": "gaming-laptop-17-3-intel-core-i9-14900hx-rtx-4080",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 17.3\" - Intel Core i9-14900HX - RTX 4080",
           "url": null

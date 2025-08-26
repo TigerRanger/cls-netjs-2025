@@ -43,6 +43,7 @@
         "final_price": 739,
         "discount_percent": 0,
         "url_key": "business-laptop-14-intel-core-i5-1240p-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Business Laptop - 14\" - Intel Core i5-1240P - UHD Graphics",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 772,
         "discount_percent": 0,
         "url_key": "business-laptop-14-intel-core-i5-1235u-iris-xe-graphics",
+        "back_image": null,
         "image": {
           "label": "Business Laptop - 14\" - Intel Core i5-1235U - Iris Xe Graphics",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 804,
         "discount_percent": 0,
         "url_key": "business-laptop-14-intel-core-i5-1335u-iris-xe-graphics",
+        "back_image": null,
         "image": {
           "label": "Business Laptop - 14\" - Intel Core i5-1335U - Iris Xe Graphics",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 866,
         "discount_percent": 0,
         "url_key": "business-laptop-14-amd-ryzen-5-7535u-radeon-660m",
+        "back_image": null,
         "image": {
           "label": "Business Laptop - 14\" - AMD Ryzen 5 7535U - Radeon 660M",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 894,
         "discount_percent": 0,
         "url_key": "business-laptop-14-intel-core-ultra-5-125u-intel-graphics",
+        "back_image": null,
         "image": {
           "label": "Business Laptop - 14\" - Intel Core Ultra 5 125U - Intel Graphics",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 929,
         "discount_percent": 0,
         "url_key": "business-laptop-14-amd-ryzen-7-7735hs-radeon-680m",
+        "back_image": null,
         "image": {
           "label": "Business Laptop - 14\" - AMD Ryzen 7 7735HS - Radeon 680M",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 999,
         "discount_percent": 0,
         "url_key": "business-laptop-14-intel-core-i7-1355u-iris-xe-graphics",
+        "back_image": null,
         "image": {
           "label": "Business Laptop - 14\" - Intel Core i7-1355U - Iris Xe Graphics",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 1079,
         "discount_percent": 0,
         "url_key": "business-laptop-14-intel-core-ultra-5-125u-intel-graphics",
+        "back_image": null,
         "image": {
           "label": "Business Laptop - 14\" - Intel Core Ultra 5 125U - Intel Graphics",
           "url": null

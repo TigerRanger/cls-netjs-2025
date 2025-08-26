@@ -43,6 +43,7 @@
         "final_price": 822,
         "discount_percent": 0,
         "url_key": "business-laptop-17-3-intel-core-i5-1334u-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "17.3 Acer Aspire 3 A317",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 889,
         "discount_percent": 0,
         "url_key": "business-laptop-17-3-intel-core-7-150u-intel-graphics",
+        "back_image": null,
         "image": {
           "label": "Business Laptop - 17.3\" - Intel Core 7 150U - Intel Graphics",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 1094,
         "discount_percent": 0,
         "url_key": "business-laptop-17-3-intel-core-i7-1355u-iris-xe-graphics",
+        "back_image": null,
         "image": {
           "label": "Business Laptop - 17.3\" - Intel Core i7-1355U - Iris Xe Graphics",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 1139,
         "discount_percent": 0,
         "url_key": "business-laptop-17-3-intel-core-7-150u-intel-graphics",
+        "back_image": null,
         "image": {
           "label": "Business Laptop - 17.3\" - Intel Core 7 150U - Intel Graphics",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 1149,
         "discount_percent": 0,
         "url_key": "business-laptop-17-3-intel-core-ultra-155h-intel-arc-graphics",
+        "back_image": null,
         "image": {
           "label": "Business Laptop - 17.3\" - Intel Core Ultra 155H - Intel Arc Graphics",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 1229,
         "discount_percent": 0,
         "url_key": "business-laptop-17-3-intel-core-ultra-5-125h-arc-graphics",
+        "back_image": null,
         "image": {
           "label": "Business Laptop - 17.3\" - Intel Core Ultra 5 125H - Arc Graphics",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 1244,
         "discount_percent": 0,
         "url_key": "business-laptop-17-3-intel-core-i7-1355u-iris-xe-graphics",
+        "back_image": null,
         "image": {
           "label": "Business Laptop - 17.3\" - Intel Core i7-1355U - Iris Xe Graphics",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 1264,
         "discount_percent": 0,
         "url_key": "business-laptop-17-3-intel-core-ultra-7-155h-arc-graphics",
+        "back_image": null,
         "image": {
           "label": "Business Laptop - 17.3\" - Intel Core Ultra 7 155H - Arc Graphics",
           "url": null

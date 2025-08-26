@@ -43,6 +43,7 @@
         "final_price": 532,
         "discount_percent": 0,
         "url_key": "mini-multimedia-pc-intel-core-i3-12100f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Mini Multimedia PC - Intel Core i3-12100F - GeForce GT 1030",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 561,
         "discount_percent": 0,
         "url_key": "mini-multimedia-pc-amd-ryzen-5-5500-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Multimedia PC 22001",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 579,
         "discount_percent": 0,
         "url_key": "mini-multimedia-pc-amd-ryzen-5-5600x-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Multimedia PC 22001",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 601,
         "discount_percent": 0,
         "url_key": "mini-multimedia-pc-intel-core-i3-14100f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Mini Multimedia PC - Intel Core i3-14100F - GeForce GT 1030",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 604,
         "discount_percent": 0,
         "url_key": "mini-multimedia-pc-intel-core-i5-12400f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Intel Silent Multimedia PC 21004",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 640,
         "discount_percent": 0,
         "url_key": "mini-multimedia-pc-intel-core-i5-13400f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Intel Multimedia Desktop PC 21005",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 690,
         "discount_percent": 0,
         "url_key": "mini-multimedia-pc-intel-core-i5-14400f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Mini Multimedia PC - Intel Core i5-14400F - GeForce GT 1030",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 728,
         "discount_percent": 0,
         "url_key": "mini-multimedia-pc-amd-ryzen-5-7600-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Mini Multimedia PC - AMD Ryzen 5 7600 - GeForce GT 1030",
           "url": null
@@ -275,6 +283,7 @@
         "final_price": 741,
         "discount_percent": 0,
         "url_key": "mini-multimedia-pc-amd-ryzen-5-8500g-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Mini Multimedia PC - AMD Ryzen 5 8500G - GeForce GT 1030",
           "url": null
@@ -304,6 +313,7 @@
         "final_price": 794,
         "discount_percent": 0,
         "url_key": "mini-multimedia-pc-amd-ryzen-7-5700x-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Multimedia PC 22002",
           "url": null
@@ -333,6 +343,7 @@
         "final_price": 850,
         "discount_percent": 0,
         "url_key": "mini-multimedia-pc-intel-core-ultra-5-225f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Mini Multimedia PC - Intel Core Ultra 5 225F - GeForce GT 1030",
           "url": null
@@ -362,6 +373,7 @@
         "final_price": 887,
         "discount_percent": 0,
         "url_key": "mini-multimedia-pc-amd-ryzen-5-9600-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Mini Multimedia PC - AMD Ryzen 5 9600 - GeForce GT 1030",
           "url": null
@@ -391,6 +403,7 @@
         "final_price": 930,
         "discount_percent": 0,
         "url_key": "mini-multimedia-pc-intel-core-i7-12700kf-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Mini Multimedia PC - Intel Core i7-12700KF - GeForce RTX 3050",
           "url": null
@@ -420,6 +433,7 @@
         "final_price": 1029,
         "discount_percent": 0,
         "url_key": "mini-multimedia-pc-intel-core-ultra-5-245-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Mini Multimedia PC - Intel Core Ultra 5 245 - GeForce GT 1030",
           "url": null
@@ -449,6 +463,7 @@
         "final_price": 1078,
         "discount_percent": 0,
         "url_key": "mini-multimedia-pc-amd-ryzen-7-8700g-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Mini Multimedia PC - AMD Ryzen 7 8700G - GeForce RTX 3050",
           "url": null
@@ -478,6 +493,7 @@
         "final_price": 1142,
         "discount_percent": 0,
         "url_key": "mini-multimedia-pc-intel-core-i7-14700f-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Mini Multimedia PC - Intel Core i7-14700F - GeForce RTX 3050",
           "url": null
@@ -507,6 +523,7 @@
         "final_price": 1144,
         "discount_percent": 0,
         "url_key": "mini-multimedia-pc-amd-ryzen-7-9700x-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Mini Multimedia PC - AMD Ryzen 7 9700X - GeForce RTX 3050",
           "url": null
@@ -536,6 +553,7 @@
         "final_price": 1170,
         "discount_percent": 0,
         "url_key": "mini-multimedia-pc-intel-core-ultra-7-265f-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Mini Multimedia PC - Intel Core Ultra 7 265F - GeForce RTX 3050",
           "url": null

@@ -43,6 +43,7 @@
         "final_price": 931,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-amd-ryzen-5-5600x-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - AMD Ryzen 5 5600X - RTX 3050",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 1160,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-amd-ryzen-7-5800x-rtx-4060",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - AMD Ryzen 7 5800X - RTX 4060",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 1194,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-amd-ryzen-5-7600x-rtx-4060",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - AMD Ryzen 5 7600X - RTX 4060",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 1277,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-amd-ryzen-5-9600x-rtx-4060",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - AMD Ryzen 5 9600X - RTX 4060",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 1480,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-amd-ryzen-7-7700x-rtx-5060-ti",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - AMD Ryzen 7 7700X - RTX 5060 Ti",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 1785,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-amd-ryzen-7-9700x-rtx-5070",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - AMD Ryzen 7 9700X - RTX 5070",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 1869,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-amd-ryzen-9-5900x-rtx-5070",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - AMD Ryzen 9 5900X - RTX 5070",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 2335,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-amd-ryzen-9-7900x-rtx-5070-ti",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - AMD Ryzen 9 7900X - RTX 5070 Ti",
           "url": null
@@ -275,6 +283,7 @@
         "final_price": 2684,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-amd-ryzen-9-5950x-rtx-5080",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - AMD Ryzen 9 5950X - RTX 5080",
           "url": null
@@ -304,6 +313,7 @@
         "final_price": 2892,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-amd-ryzen-9-9900x-rtx-5080",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - AMD Ryzen 9 9900X - RTX 5080",
           "url": null
@@ -333,6 +343,7 @@
         "final_price": 4571,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-amd-ryzen-9-7950x-rtx-5090",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - AMD Ryzen 9 7950X - RTX 5090",
           "url": null
@@ -362,6 +373,7 @@
         "final_price": 4817,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-amd-ryzen-9-9950x-rtx-5090",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - AMD Ryzen 9 9950X - RTX 5090",
           "url": null

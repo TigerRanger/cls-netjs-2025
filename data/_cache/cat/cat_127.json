@@ -43,6 +43,7 @@
         "final_price": 1028,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-ryzen-5-5500-nvidia-t1000",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced CAD PC 102002",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 1497,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-ryzen-5-5600x-rtx-a2000",
+        "back_image": null,
         "image": {
           "label": "AMD Professional CAD PC 102003",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 1571,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-ryzen-7-5700x-quadro-rtx-a2000",
+        "back_image": null,
         "image": {
           "label": "AMD Professional CAD PC 102003",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 2158,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-ryzen-7-5800x-quadro-rtx-a4000",
+        "back_image": null,
         "image": {
           "label": "AMD Professional CAD PC 102003",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 2360,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-ryzen-7-5800x-quadro-rtx-a4000",
+        "back_image": null,
         "image": {
           "label": "CAD PC - AMD Ryzen 7 5800X - Quadro RTX A4000",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 4259,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-ryzen-9-5900x-quadro-rtx-a5000",
+        "back_image": null,
         "image": {
           "label": "AMD Professional CAD PC 102003",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 4501,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-ryzen-9-5950x-quadro-rtx-a5000",
+        "back_image": null,
         "image": {
           "label": "AMD Professional CAD PC 102003",
           "url": null

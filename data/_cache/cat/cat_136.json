@@ -43,6 +43,7 @@
         "final_price": 503,
         "discount_percent": 0,
         "url_key": "multimedia-pc-intel-core-i3-12100f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia PC - Intel Core i3-12100F - GeForce GT 1030",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 517,
         "discount_percent": 0,
         "url_key": "multimedia-pc-intel-core-i3-13100f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia PC - Intel Core i3-13100F - GeForce GT 1030",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 595,
         "discount_percent": 0,
         "url_key": "multimedia-pc-intel-core-i3-14100f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia PC - Intel Core i3-14100F - GeForce GT 1030",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 598,
         "discount_percent": 0,
         "url_key": "multimedia-pc-intel-core-i5-12400f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Intel Silent Multimedia PC 21004",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 638,
         "discount_percent": 0,
         "url_key": "multimedia-pc-intel-core-i5-13400f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Intel Multimedia Desktop PC 21005",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 686,
         "discount_percent": 0,
         "url_key": "multimedia-pc-intel-core-i5-14400f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia PC - Intel Core i5-14400F - GeForce GT 1030",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 716,
         "discount_percent": 0,
         "url_key": "multimedia-pc-intel-core-i5-13600kf-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia PC - Intel Core i5-13600KF - GeForce GT 1030",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 824,
         "discount_percent": 0,
         "url_key": "multimedia-pc-intel-core-ultra-5-225f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia PC - Intel Core Ultra 5 225F - GeForce GT 1030",
           "url": null
@@ -275,6 +283,7 @@
         "final_price": 926,
         "discount_percent": 0,
         "url_key": "multimedia-pc-intel-core-ultra-5-245-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia PC - Intel Core Ultra 5 245 - GeForce GT 1030",
           "url": null
@@ -304,6 +313,7 @@
         "final_price": 939,
         "discount_percent": 0,
         "url_key": "multimedia-pc-intel-core-i7-12700kf-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Multimedia PC - Intel Core i7-12700KF - GeForce RTX 3050",
           "url": null
@@ -333,6 +343,7 @@
         "final_price": 1073,
         "discount_percent": 0,
         "url_key": "multimedia-pc-intel-core-i7-14700f-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Multimedia PC - Intel Core i7-14700F - GeForce RTX 3050",
           "url": null
@@ -362,6 +373,7 @@
         "final_price": 1152,
         "discount_percent": 0,
         "url_key": "multimedia-pc-intel-core-ultra-7-265f-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Multimedia PC - Intel Core Ultra 7 265F - GeForce RTX 3050",
           "url": null

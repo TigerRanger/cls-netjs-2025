@@ -56,6 +56,7 @@
         "final_price": 448,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-celeron-g6900-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -85,6 +86,7 @@
         "final_price": 455,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i3-13100-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -114,6 +116,7 @@
         "final_price": 461,
         "discount_percent": 0,
         "url_key": "studenten-pc-amd-ryzen-5-5600g-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Office PC 12001",
           "url": null
@@ -143,6 +146,7 @@
         "final_price": 469,
         "discount_percent": 0,
         "url_key": "studenten-pc-amd-ryzen-5-5600g-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Office PC 12002",
           "url": null
@@ -172,6 +176,7 @@
         "final_price": 479,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i3-12100-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -201,6 +206,7 @@
         "final_price": 494,
         "discount_percent": 0,
         "url_key": "studenten-pc-amd-ryzen-3-4100-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Office PC 12002",
           "url": null
@@ -230,6 +236,7 @@
         "final_price": 501,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i3-14100-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -259,6 +266,7 @@
         "final_price": 522,
         "discount_percent": 0,
         "url_key": "studenten-pc-amd-ryzen-5-5500-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Office PC 12002",
           "url": null
@@ -288,6 +296,7 @@
         "final_price": 535,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-pentium-g7600-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -317,6 +326,7 @@
         "final_price": 565,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i3-12100-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -346,6 +356,7 @@
         "final_price": 573,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i5-14400-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -375,6 +386,7 @@
         "final_price": 588,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i5-12400f-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -404,6 +416,7 @@
         "final_price": 618,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i5-13400-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -433,6 +446,7 @@
         "final_price": 638,
         "discount_percent": 0,
         "url_key": "studenten-pc-amd-ryzen-5-7600-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Office PC 12002",
           "url": null
@@ -462,6 +476,7 @@
         "final_price": 686,
         "discount_percent": 0,
         "url_key": "studenten-pc-amd-ryzen-7-5700g-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Office PC 12002",
           "url": null
@@ -491,6 +506,7 @@
         "final_price": 782,
         "discount_percent": 0,
         "url_key": "studenten-pc-amd-ryzen-7-5700x-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Office PC 12002",
           "url": null
@@ -520,6 +536,7 @@
         "final_price": 783,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i5-14500-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -549,6 +566,7 @@
         "final_price": 805,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i5-12500-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -578,6 +596,7 @@
         "final_price": 842,
         "discount_percent": 0,
         "url_key": "studenten-pc-amd-ryzen-7-7700-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Office PC 12002",
           "url": null
@@ -607,6 +626,7 @@
         "final_price": 886,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i7-12700f-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null

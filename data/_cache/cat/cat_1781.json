@@ -43,6 +43,7 @@
         "final_price": 1300,
         "discount_percent": 0,
         "url_key": "msi-gaming-pc-intel-core-i5-14600kf-rtx-4060",
+        "back_image": null,
         "image": {
           "label": "MSI GAMING EDITION 221001",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 1346,
         "discount_percent": 0,
         "url_key": "msi-gaming-pc-amd-ryzen-5-7600x-rtx-4060",
+        "back_image": null,
         "image": {
           "label": "MSI Gaming PC - AMD Ryzen 5 7600X - RTX 4060",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 2260,
         "discount_percent": 0,
         "url_key": "msi-gaming-pc-intel-core-i7-14700kf-rtx-5070-ti",
+        "back_image": null,
         "image": {
           "label": "MSI Gaming PC - Intel Core i7-14700KF - RTX 5070 Ti",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 2356,
         "discount_percent": 0,
         "url_key": "msi-gaming-pc-amd-ryzen-7-7800x3d-rtx-5070-ti",
+        "back_image": null,
         "image": {
           "label": "MSI GAMING EDITION 221004",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 4340,
         "discount_percent": 0,
         "url_key": "msi-gaming-pc-intel-core-i9-14900kf-rtx-5090",
+        "back_image": null,
         "image": {
           "label": "MSI GAMING EDITION 221002",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 5454,
         "discount_percent": 0,
         "url_key": "msi-gaming-pc-amd-ryzen-9-7950x3d-rtx-5090",
+        "back_image": null,
         "image": {
           "label": "MSI GAMING EDITION 221004",
           "url": null

@@ -43,6 +43,7 @@
         "final_price": 538,
         "discount_percent": 0,
         "url_key": "office-komplettlosung-intel-celeron-g6900-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Komplettlösung - Intel Celeron G6900 - UHD Graphics",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 579,
         "discount_percent": 0,
         "url_key": "office-komplettlosung-amd-ryzen-5-5600g-vega-graphics",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Office PC 12001",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 735,
         "discount_percent": 0,
         "url_key": "office-komplettlosung-intel-core-i3-13100-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Komplettlösung - Intel Core i3-13100 - UHD Graphics",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 736,
         "discount_percent": 0,
         "url_key": "office-komplettlosung-amd-ryzen-7-5700g-vega-graphics",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Office PC 12001",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 926,
         "discount_percent": 0,
         "url_key": "office-komplettlosung-amd-ryzen-5-7600-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Office PC 12001",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 935,
         "discount_percent": 0,
         "url_key": "office-komplettlosung-intel-core-i5-13400-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Komplettlösung - Intel Core i5-13400 - UHD Graphics",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 1074,
         "discount_percent": 0,
         "url_key": "office-komplettlosung-amd-ryzen-7-7700-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Office PC 12001",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 1278,
         "discount_percent": 0,
         "url_key": "office-komplettlosung-intel-core-i7-13700-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Komplettlösung - Intel Core i7-13700 - UHD Graphics",
           "url": null

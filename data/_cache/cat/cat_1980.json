@@ -56,6 +56,7 @@
         "final_price": 464,
         "discount_percent": 0,
         "url_key": "desktop-pc-amd-ryzen-5-3400g-vega-graphics",
+        "back_image": null,
         "image": {
           "label": "\r\nChieftec UNI UE-02B",
           "url": null
@@ -85,6 +86,7 @@
         "final_price": 517,
         "discount_percent": 0,
         "url_key": "desktop-pc-intel-core-i3-13100-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Desktop PC - Intel Core i3-13100 - UHD Graphics",
           "url": null
@@ -114,6 +116,7 @@
         "final_price": 537,
         "discount_percent": 0,
         "url_key": "desktop-pc-amd-ryzen-5-5600gt-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Desktop PC - AMD Ryzen 5 5600GT - Radeon Graphics",
           "url": null
@@ -143,6 +146,7 @@
         "final_price": 541,
         "discount_percent": 0,
         "url_key": "desktop-pc-amd-ryzen-7-5700g-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Desktop PC - AMD Ryzen 7 5700G - Radeon Graphics",
           "url": null
@@ -172,6 +176,7 @@
         "final_price": 552,
         "discount_percent": 0,
         "url_key": "desktop-pc-amd-ryzen-5-5500-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Multimedia PC 22001",
           "url": null
@@ -201,6 +206,7 @@
         "final_price": 562,
         "discount_percent": 0,
         "url_key": "desktop-pc-intel-core-i3-13100f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Desktop PC - Intel Core i3-13100F - GeForce GT 1030",
           "url": null
@@ -230,6 +236,7 @@
         "final_price": 564,
         "discount_percent": 0,
         "url_key": "desktop-pc-intel-core-i3-12100-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Office Desktop PC 11005",
           "url": null
@@ -259,6 +266,7 @@
         "final_price": 571,
         "discount_percent": 0,
         "url_key": "desktop-pc-intel-core-i5-14400-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Office Desktop PC 11005",
           "url": null
@@ -288,6 +296,7 @@
         "final_price": 588,
         "discount_percent": 0,
         "url_key": "desktop-pc-amd-ryzen-5-5600x-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Multimedia PC 22001",
           "url": null
@@ -317,6 +326,7 @@
         "final_price": 599,
         "discount_percent": 0,
         "url_key": "desktop-pc-intel-core-i3-12100f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Desktop PC - Intel Core i3-12100F - GeForce GT 1030",
           "url": null
@@ -346,6 +356,7 @@
         "final_price": 649,
         "discount_percent": 0,
         "url_key": "desktop-pc-intel-core-i5-14400f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Desktop PC - Intel Core i5-14400F - GeForce GT 1030",
           "url": null
@@ -375,6 +386,7 @@
         "final_price": 651,
         "discount_percent": 0,
         "url_key": "desktop-pc-amd-ryzen-5-7600-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Desktop PC - AMD Ryzen 5 7600 - Radeon Graphics",
           "url": null
@@ -404,6 +416,7 @@
         "final_price": 672,
         "discount_percent": 0,
         "url_key": "desktop-pc-amd-ryzen-5-8500g-radeon-740m",
+        "back_image": null,
         "image": {
           "label": "Desktop PC - AMD Ryzen 5 8500G - Radeon 740M",
           "url": null
@@ -433,6 +446,7 @@
         "final_price": 720,
         "discount_percent": 0,
         "url_key": "desktop-pc-amd-ryzen-5-9600-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Desktop PC - AMD Ryzen 5 9600 - Radeon Graphics",
           "url": null
@@ -462,6 +476,7 @@
         "final_price": 743,
         "discount_percent": 0,
         "url_key": "desktop-pc-amd-ryzen-5-7600-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Desktop PC - AMD Ryzen 5 7600 - GeForce GT 1030",
           "url": null
@@ -491,6 +506,7 @@
         "final_price": 744,
         "discount_percent": 0,
         "url_key": "desktop-pc-amd-ryzen-5-8500g-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Desktop PC - AMD Ryzen 5 8500G - GeForce GT 1030",
           "url": null
@@ -520,6 +536,7 @@
         "final_price": 813,
         "discount_percent": 0,
         "url_key": "desktop-pc-amd-ryzen-5-9600-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Desktop PC - AMD Ryzen 5 9600 - GeForce GT 1030",
           "url": null
@@ -549,6 +566,7 @@
         "final_price": 815,
         "discount_percent": 0,
         "url_key": "desktop-pc-amd-ryzen-7-5700x-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Multimedia PC 22002",
           "url": null
@@ -578,6 +596,7 @@
         "final_price": 829,
         "discount_percent": 0,
         "url_key": "desktop-pc-intel-core-ultra-5-225-intel-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Office Desktop PC 11005",
           "url": null
@@ -607,6 +626,7 @@
         "final_price": 843,
         "discount_percent": 0,
         "url_key": "desktop-pc-intel-core-ultra-5-245-intel-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Office Desktop PC 11005",
           "url": null

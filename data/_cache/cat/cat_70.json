@@ -56,6 +56,7 @@
         "final_price": 897,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-intel-core-i5-13400-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Intel Basic Videoschnitt PC 41001",
           "url": null
@@ -85,6 +86,7 @@
         "final_price": 914,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-intel-core-i5-12400-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Intel Basic Videoschnitt PC 41001",
           "url": null
@@ -114,6 +116,7 @@
         "final_price": 931,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-amd-ryzen-5-5600x-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - AMD Ryzen 5 5600X - RTX 3050",
           "url": null
@@ -143,6 +146,7 @@
         "final_price": 1160,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-amd-ryzen-7-5800x-rtx-4060",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - AMD Ryzen 7 5800X - RTX 4060",
           "url": null
@@ -172,6 +176,7 @@
         "final_price": 1184,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-intel-core-i5-12600k-rtx-4060",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - Intel Core i5-12600K - RTX 4060",
           "url": null
@@ -201,6 +206,7 @@
         "final_price": 1186,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-intel-core-i5-12600k-rtx-4060",
+        "back_image": null,
         "image": {
           "label": "Intel Advanced Videoschnitt PC 41002",
           "url": null
@@ -230,6 +236,7 @@
         "final_price": 1194,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-amd-ryzen-5-7600x-rtx-4060",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - AMD Ryzen 5 7600X - RTX 4060",
           "url": null
@@ -259,6 +266,7 @@
         "final_price": 1260,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-intel-core-i5-13600k-rtx-4060",
+        "back_image": null,
         "image": {
           "label": "Intel Basic Videoschnitt PC 41001",
           "url": null
@@ -288,6 +296,7 @@
         "final_price": 1271,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-intel-core-i5-13600k-rtx-4060",
+        "back_image": null,
         "image": {
           "label": "Intel Basic Videoschnitt PC 41001",
           "url": null
@@ -317,6 +326,7 @@
         "final_price": 1277,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-amd-ryzen-5-9600x-rtx-4060",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - AMD Ryzen 5 9600X - RTX 4060",
           "url": null
@@ -346,6 +356,7 @@
         "final_price": 1389,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-intel-core-i5-14600k-rtx-4060",
+        "back_image": null,
         "image": {
           "label": "Intel Basic Videoschnitt PC 41001",
           "url": null
@@ -375,6 +386,7 @@
         "final_price": 1405,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-intel-core-ultra-5-245k-rtx-4060",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - Intel Core Ultra 5 245K - RTX 4060",
           "url": null
@@ -404,6 +416,7 @@
         "final_price": 1480,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-amd-ryzen-7-7700x-rtx-5060-ti",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - AMD Ryzen 7 7700X - RTX 5060 Ti",
           "url": null
@@ -433,6 +446,7 @@
         "final_price": 1486,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-intel-core-i7-12700k-rtx-5060-ti",
+        "back_image": null,
         "image": {
           "label": "Intel Videoschnitt PC 41013",
           "url": null
@@ -462,6 +476,7 @@
         "final_price": 1620,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-intel-core-ultra-7-265k-rtx-5060-ti",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - Intel Core Ultra 7 265K - RTX 5060 Ti",
           "url": null
@@ -491,6 +506,7 @@
         "final_price": 1625,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-intel-core-i7-13700k-rtx-5060-ti",
+        "back_image": null,
         "image": {
           "label": "Intel Basic Videoschnitt PC 41001",
           "url": null
@@ -520,6 +536,7 @@
         "final_price": 1785,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-amd-ryzen-7-9700x-rtx-5070",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - AMD Ryzen 7 9700X - RTX 5070",
           "url": null
@@ -549,6 +566,7 @@
         "final_price": 1869,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-amd-ryzen-9-5900x-rtx-5070",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - AMD Ryzen 9 5900X - RTX 5070",
           "url": null
@@ -578,6 +596,7 @@
         "final_price": 1884,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-intel-core-i7-12700k-rtx-5070",
+        "back_image": null,
         "image": {
           "label": "Intel Silent Videoschnitt PC 41003",
           "url": null
@@ -607,6 +626,7 @@
         "final_price": 1922,
         "discount_percent": 0,
         "url_key": "videoschnitt-pc-intel-core-ultra-7-265k-rtx-5070",
+        "back_image": null,
         "image": {
           "label": "Videoschnitt PC - Intel Core Ultra 7 265K - RTX 5070",
           "url": null

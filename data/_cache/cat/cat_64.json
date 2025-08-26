@@ -86,6 +86,7 @@
         "final_price": 459,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-n100-uhd-graphics-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel N100 - UHD Graphics (23.8\")",
           "url": null
@@ -115,6 +116,7 @@
         "final_price": 499,
         "discount_percent": 0,
         "url_key": "multimedia-pc-amd-ryzen-5-5500-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Multimedia PC 22001",
           "url": null
@@ -144,6 +146,7 @@
         "final_price": 503,
         "discount_percent": 0,
         "url_key": "multimedia-pc-intel-core-i3-12100f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia PC - Intel Core i3-12100F - GeForce GT 1030",
           "url": null
@@ -173,6 +176,7 @@
         "final_price": 517,
         "discount_percent": 0,
         "url_key": "multimedia-pc-intel-core-i3-13100f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia PC - Intel Core i3-13100F - GeForce GT 1030",
           "url": null
@@ -202,6 +206,7 @@
         "final_price": 532,
         "discount_percent": 0,
         "url_key": "mini-multimedia-pc-intel-core-i3-12100f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Mini Multimedia PC - Intel Core i3-12100F - GeForce GT 1030",
           "url": null
@@ -231,6 +236,7 @@
         "final_price": 550,
         "discount_percent": 0,
         "url_key": "multimedia-pc-amd-ryzen-5-5600x-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Multimedia PC 22001",
           "url": null
@@ -260,6 +266,7 @@
         "final_price": 552,
         "discount_percent": 0,
         "url_key": "desktop-pc-amd-ryzen-5-5500-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Multimedia PC 22001",
           "url": null
@@ -289,6 +296,7 @@
         "final_price": 561,
         "discount_percent": 0,
         "url_key": "mini-multimedia-pc-amd-ryzen-5-5500-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Multimedia PC 22001",
           "url": null
@@ -318,6 +326,7 @@
         "final_price": 562,
         "discount_percent": 0,
         "url_key": "desktop-pc-intel-core-i3-13100f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Desktop PC - Intel Core i3-13100F - GeForce GT 1030",
           "url": null
@@ -347,6 +356,7 @@
         "final_price": 569,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-amd-ryzen-3-7320u-radeon-610m-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - AMD Ryzen 3 7320U - Radeon 610M (23.8\")",
           "url": null
@@ -376,6 +386,7 @@
         "final_price": 579,
         "discount_percent": 0,
         "url_key": "mini-multimedia-pc-amd-ryzen-5-5600x-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Multimedia PC 22001",
           "url": null
@@ -405,6 +416,7 @@
         "final_price": 587,
         "discount_percent": 0,
         "url_key": "silent-multimedia-pc-amd-ryzen-5-5500-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Multimedia PC 22001",
           "url": null
@@ -434,6 +446,7 @@
         "final_price": 587,
         "discount_percent": 0,
         "url_key": "silent-multimedia-pc-intel-core-i3-12100f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Silent Multimedia PC - Intel Core i3-12100F - GeForce GT 1030",
           "url": null
@@ -463,6 +476,7 @@
         "final_price": 588,
         "discount_percent": 0,
         "url_key": "desktop-pc-amd-ryzen-5-5600x-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Multimedia PC 22001",
           "url": null
@@ -492,6 +506,7 @@
         "final_price": 595,
         "discount_percent": 0,
         "url_key": "multimedia-pc-intel-core-i3-14100f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia PC - Intel Core i3-14100F - GeForce GT 1030",
           "url": null
@@ -521,6 +536,7 @@
         "final_price": 597,
         "discount_percent": 0,
         "url_key": "multimedia-komplettsystem-amd-ryzen-5-5500-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Multimedia PC 22001",
           "url": null
@@ -550,6 +566,7 @@
         "final_price": 598,
         "discount_percent": 0,
         "url_key": "multimedia-pc-intel-core-i5-12400f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Intel Silent Multimedia PC 21004",
           "url": null
@@ -579,6 +596,7 @@
         "final_price": 599,
         "discount_percent": 0,
         "url_key": "desktop-pc-intel-core-i3-12100f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Desktop PC - Intel Core i3-12100F - GeForce GT 1030",
           "url": null
@@ -608,6 +626,7 @@
         "final_price": 601,
         "discount_percent": 0,
         "url_key": "silent-multimedia-pc-intel-core-i3-13100f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Silent Multimedia PC - Intel Core i3-13100F - GeForce GT 1030",
           "url": null
@@ -637,6 +656,7 @@
         "final_price": 601,
         "discount_percent": 0,
         "url_key": "multimedia-komplettsystem-intel-core-i3-12100f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia Komplettsystem - Intel Core i3-12100F - GeForce GT 1030",
           "url": null

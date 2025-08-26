@@ -56,6 +56,7 @@
         "final_price": 389,
         "discount_percent": 0,
         "url_key": "mini-pc-intel-n150-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Mini PC 181005",
           "url": null
@@ -85,6 +86,7 @@
         "final_price": 425,
         "discount_percent": 0,
         "url_key": "mini-pc-intel-n250-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Mini PC 181005",
           "url": null
@@ -114,6 +116,7 @@
         "final_price": 583,
         "discount_percent": 0,
         "url_key": "mini-pc-amd-ryzen-3-pro-5355ge-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Mini PC 181005",
           "url": null
@@ -143,6 +146,7 @@
         "final_price": 612,
         "discount_percent": 0,
         "url_key": "mini-pc-intel-core-3-100u-intel-graphics",
+        "back_image": null,
         "image": {
           "label": "GIGABYTE Brix GB-BLPD-5005",
           "url": null
@@ -172,6 +176,7 @@
         "final_price": 686,
         "discount_percent": 0,
         "url_key": "mini-pc-intel-core-i3-13100t-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Mini PC 181005",
           "url": null
@@ -201,6 +206,7 @@
         "final_price": 766,
         "discount_percent": 0,
         "url_key": "mini-pc-intel-core-ultra-5-125h-arc-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Advanced Mini PC 181002",
           "url": null
@@ -230,6 +236,7 @@
         "final_price": 774,
         "discount_percent": 0,
         "url_key": "mini-pc-amd-ryzen-5-pro-5655ge-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Mini PC 181005",
           "url": null
@@ -259,6 +266,7 @@
         "final_price": 868,
         "discount_percent": 0,
         "url_key": "mini-pc-amd-ryzen-7-pro-5755ge-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Mini PC 181005",
           "url": null
@@ -288,6 +296,7 @@
         "final_price": 872,
         "discount_percent": 0,
         "url_key": "mini-pc-intel-core-i5-13400t-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Mini PC 181005",
           "url": null
@@ -317,6 +326,7 @@
         "final_price": 882,
         "discount_percent": 0,
         "url_key": "mini-pc-intel-core-5-120u-intel-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Mini PC 181005",
           "url": null
@@ -346,6 +356,7 @@
         "final_price": 890,
         "discount_percent": 0,
         "url_key": "mini-pc-intel-core-ultra-5-125h-arc-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Mini PC 181005",
           "url": null
@@ -375,6 +386,7 @@
         "final_price": 904,
         "discount_percent": 0,
         "url_key": "mini-pc-amd-ryzen-7535h-radeon-660m",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Mini PC 181005",
           "url": null
@@ -404,6 +416,7 @@
         "final_price": 1019,
         "discount_percent": 0,
         "url_key": "mini-pc-intel-core-7-150u-intel-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Mini PC 181005",
           "url": null
@@ -433,6 +446,7 @@
         "final_price": 1021,
         "discount_percent": 0,
         "url_key": "mini-pc-intel-core-ultra-7-155h-arc-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Business Mini PC 181004",
           "url": null
@@ -462,6 +476,7 @@
         "final_price": 1025,
         "discount_percent": 0,
         "url_key": "mini-pc-amd-ryzen-7-7735h-radeon-680m",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Mini PC 181005",
           "url": null
@@ -491,6 +506,7 @@
         "final_price": 1058,
         "discount_percent": 0,
         "url_key": "mini-pc-intel-core-i7-13700t-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Mini PC 181005",
           "url": null
@@ -520,6 +536,7 @@
         "final_price": 1150,
         "discount_percent": 0,
         "url_key": "mini-pc-intel-core-ultra-7-155h-arc-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Advanced Mini PC 181002",
           "url": null
@@ -549,6 +566,7 @@
         "final_price": 1265,
         "discount_percent": 0,
         "url_key": "mini-pc-intel-core-ultra-9-185h-arc-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Advanced Mini PC 181002",
           "url": null
@@ -578,6 +596,7 @@
         "final_price": 1974,
         "discount_percent": 0,
         "url_key": "mini-pc-intel-core-ultra-7-155h-rtx-4060",
+        "back_image": null,
         "image": {
           "label": "Intel Advanced Mini PC 181002",
           "url": null
@@ -607,6 +626,7 @@
         "final_price": 2298,
         "discount_percent": 0,
         "url_key": "mini-pc-intel-core-ultra-9-185h-rtx-4070",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Mini PC 181005",
           "url": null

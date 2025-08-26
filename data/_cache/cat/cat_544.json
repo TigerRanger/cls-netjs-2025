@@ -43,6 +43,7 @@
         "final_price": 3429,
         "discount_percent": 0,
         "url_key": "high-end-gaming-pc-intel-core-i7-14700k-rtx-5080",
+        "back_image": null,
         "image": {
           "label": "High End Gaming PC - Intel Core i7-14700K - RTX 5080",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 3985,
         "discount_percent": 0,
         "url_key": "high-end-gaming-pc-intel-core-i9-14900ks-rtx-5080",
+        "back_image": null,
         "image": {
           "label": "Intel Extreme High End PC 71003",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 5158,
         "discount_percent": 0,
         "url_key": "high-end-gaming-pc-intel-core-i7-14700k-rtx-5090",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra High End PC 71002",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 5638,
         "discount_percent": 0,
         "url_key": "high-end-gaming-pc-intel-core-i9-14900ks-rtx-5090",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra High End PC 71002",
           "url": null

@@ -43,6 +43,7 @@
         "final_price": 3701,
         "discount_percent": 0,
         "url_key": "workstation-amd-threadripper-pro-5955wx-rtx-5060-ti",
+        "back_image": null,
         "image": {
           "label": "AMD Professional Workstation 52006",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 4516,
         "discount_percent": 0,
         "url_key": "workstation-amd-threadripper-pro-5955wx-rtx-a4000",
+        "back_image": null,
         "image": {
           "label": "AMD Professional Workstation 52006",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 4704,
         "discount_percent": 0,
         "url_key": "workstation-amd-threadripper-pro-5965wx-rtx-5070-ti",
+        "back_image": null,
         "image": {
           "label": "AMD Professional Workstation 52006",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 5000,
         "discount_percent": 0,
         "url_key": "workstation-amd-threadripper-pro-5965wx-rtx-5080",
+        "back_image": null,
         "image": {
           "label": "AMD Professional Workstation 52006",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 7093,
         "discount_percent": 0,
         "url_key": "workstation-amd-threadripper-pro-5975wx-rtx-5090",
+        "back_image": null,
         "image": {
           "label": "Workstation - AMD Threadripper Pro 5975WX - RTX 5090",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 11058,
         "discount_percent": 0,
         "url_key": "workstation-amd-threadripper-pro-5975wx-rtx-a6000",
+        "back_image": null,
         "image": {
           "label": "Workstation - AMD Threadripper Pro 5975WX - RTX A6000",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 20176,
         "discount_percent": 0,
         "url_key": "workstation-amd-threadripper-pro-5995wx-2x-rtx-a6000",
+        "back_image": null,
         "image": {
           "label": "Workstation - AMD Threadripper Pro 5995WX - 2x RTX A6000",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 33303,
         "discount_percent": 0,
         "url_key": "workstation-amd-threadripper-pro-5995wx-4x-rtx-a6000",
+        "back_image": null,
         "image": {
           "label": "Workstation - AMD Threadripper Pro 5995WX - 4x RTX A6000",
           "url": null

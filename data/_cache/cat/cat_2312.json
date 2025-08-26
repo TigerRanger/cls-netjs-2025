@@ -43,6 +43,7 @@
         "final_price": 1126,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-core-i5-13400-nvidia-t1000",
+        "back_image": null,
         "image": {
           "label": "CAD PC - Intel Core i5-13400 - NVIDIA T1000",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 1677,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-core-i5-13600k-rtx-a2000",
+        "back_image": null,
         "image": {
           "label": "CAD PC - Intel Core i5-13600K - RTX A2000",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 1803,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-core-i5-13600k-rtx-a2000",
+        "back_image": null,
         "image": {
           "label": "CAD PC - Intel Core i5-13600K - RTX A2000",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 2635,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-core-i7-13700k-rtx-a4000",
+        "back_image": null,
         "image": {
           "label": "CAD PC - Intel Core i7-13700K - RTX A4000",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 3107,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-core-i7-13700k-rtx-a4500",
+        "back_image": null,
         "image": {
           "label": "CAD PC - Intel Core i7-13700K - RTX A4500",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 3378,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-core-i9-13900k-rtx-4000",
+        "back_image": null,
         "image": {
           "label": "CAD PC - Intel Core i9-13900K - RTX 4000",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 4791,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-core-i9-13900k-rtx-a5000",
+        "back_image": null,
         "image": {
           "label": "CAD PC - Intel Core i9-13900K - RTX A5000",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 8446,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-core-i9-13900k-rtx-a6000",
+        "back_image": null,
         "image": {
           "label": "CAD PC - Intel Core i9-13900K - RTX A6000",
           "url": null

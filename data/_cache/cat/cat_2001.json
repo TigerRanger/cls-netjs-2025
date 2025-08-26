@@ -43,6 +43,7 @@
         "final_price": 583,
         "discount_percent": 0,
         "url_key": "mini-pc-amd-ryzen-3-pro-5355ge-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Mini PC 181005",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 774,
         "discount_percent": 0,
         "url_key": "mini-pc-amd-ryzen-5-pro-5655ge-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Mini PC 181005",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 868,
         "discount_percent": 0,
         "url_key": "mini-pc-amd-ryzen-7-pro-5755ge-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Mini PC 181005",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 904,
         "discount_percent": 0,
         "url_key": "mini-pc-amd-ryzen-7535h-radeon-660m",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Mini PC 181005",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 1025,
         "discount_percent": 0,
         "url_key": "mini-pc-amd-ryzen-7-7735h-radeon-680m",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Mini PC 181005",
           "url": null

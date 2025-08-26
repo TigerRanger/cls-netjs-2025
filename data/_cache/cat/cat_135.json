@@ -43,6 +43,7 @@
         "final_price": 499,
         "discount_percent": 0,
         "url_key": "multimedia-pc-amd-ryzen-5-5500-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Multimedia PC 22001",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 550,
         "discount_percent": 0,
         "url_key": "multimedia-pc-amd-ryzen-5-5600x-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Multimedia PC 22001",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 719,
         "discount_percent": 0,
         "url_key": "multimedia-pc-amd-ryzen-5-7600-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia PC - AMD Ryzen 5 7600 - GeForce GT 1030",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 741,
         "discount_percent": 0,
         "url_key": "multimedia-pc-amd-ryzen-5-8500g-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia PC - AMD Ryzen 5 8500G - GeForce GT 1030",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 742,
         "discount_percent": 0,
         "url_key": "multimedia-pc-amd-ryzen-7-5700x-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Multimedia PC 22002",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 838,
         "discount_percent": 0,
         "url_key": "multimedia-pc-amd-ryzen-5-9600-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia PC - AMD Ryzen 5 9600 - GeForce GT 1030",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 876,
         "discount_percent": 0,
         "url_key": "multimedia-pc-amd-ryzen-7-7700-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Multimedia PC - AMD Ryzen 7 7700 - GeForce RTX 3050",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 980,
         "discount_percent": 0,
         "url_key": "multimedia-pc-amd-ryzen-7-8700g-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Multimedia PC - AMD Ryzen 7 8700G - GeForce RTX 3050",
           "url": null
@@ -275,6 +283,7 @@
         "final_price": 1085,
         "discount_percent": 0,
         "url_key": "multimedia-pc-amd-ryzen-7-9700x-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Multimedia PC - AMD Ryzen 7 9700X - GeForce RTX 3050",
           "url": null

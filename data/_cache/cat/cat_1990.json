@@ -43,6 +43,7 @@
         "final_price": 468,
         "discount_percent": 0,
         "url_key": "office-pc-intel-core-i3-12100-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Office Desktop PC 11005",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 472,
         "discount_percent": 0,
         "url_key": "office-pc-intel-core-i3-13100-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office PC - Intel Core i3-13100 - UHD Graphics",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 545,
         "discount_percent": 0,
         "url_key": "office-pc-intel-core-i5-12400-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office PC - Intel Core i5-12400 - UHD Graphics",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 558,
         "discount_percent": 0,
         "url_key": "office-pc-intel-core-i3-14100-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Office Desktop PC 11005",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 579,
         "discount_percent": 0,
         "url_key": "office-pc-intel-core-i5-13400-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office PC - Intel Core i5-13400 - UHD Graphics",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 628,
         "discount_percent": 0,
         "url_key": "office-pc-intel-core-i5-14400-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Office Desktop PC 11005",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 663,
         "discount_percent": 0,
         "url_key": "office-pc-intel-core-i5-13600k-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office PC - Intel Core i5-13600K - UHD Graphics",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 753,
         "discount_percent": 0,
         "url_key": "office-pc-intel-core-i7-12700k-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office PC - Intel Core i7-12700K - UHD Graphics",
           "url": null
@@ -275,6 +283,7 @@
         "final_price": 777,
         "discount_percent": 0,
         "url_key": "office-pc-intel-core-ultra-5-225-intel-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Office Desktop PC 11005",
           "url": null
@@ -304,6 +313,7 @@
         "final_price": 840,
         "discount_percent": 0,
         "url_key": "office-pc-intel-core-ultra-5-245-intel-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Office Desktop PC 11005",
           "url": null
@@ -333,6 +343,7 @@
         "final_price": 909,
         "discount_percent": 0,
         "url_key": "office-pc-intel-core-i7-14700-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Office Desktop PC 11005",
           "url": null
@@ -362,6 +373,7 @@
         "final_price": 981,
         "discount_percent": 0,
         "url_key": "office-pc-intel-core-ultra-7-265-intel-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Office Desktop PC 11005",
           "url": null

@@ -43,6 +43,7 @@
         "final_price": 1368,
         "discount_percent": 0,
         "url_key": "workstation-amd-ryzen-5-9600x-rtx-5060-ti",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Workstation 52002",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 1782,
         "discount_percent": 0,
         "url_key": "workstation-amd-ryzen-7-9700x-rtx-5070",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Workstation 52002",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 2864,
         "discount_percent": 0,
         "url_key": "workstation-amd-ryzen-9-9900x-rtx-5080",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Workstation 52002",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 4839,
         "discount_percent": 0,
         "url_key": "workstation-amd-ryzen-9-9950x-rtx-5090",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Workstation 52002",
           "url": null

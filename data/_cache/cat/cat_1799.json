@@ -43,6 +43,7 @@
         "final_price": 746,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i5-12400f-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "MSI-MAG-Forge-100M",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 795,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i5-12400f-radeon-rx-6600",
+        "back_image": null,
         "image": {
           "label": "MSI-MAG-Forge-100M",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 834,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i5-12600kf-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Gaming PC 61031",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 972,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i5-12600kf-radeon-rx-9060-xt",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Gaming PC 61031",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 1086,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i7-12700kf-geforce-rtx-5060",
+        "back_image": null,
         "image": {
           "label": "Intel Basic Gaming PC 61003",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 1187,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i7-12700kf-radeon-rx-9060-xt",
+        "back_image": null,
         "image": {
           "label": "Intel Basic Gaming PC 61003",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 1481,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i9-12900kf-geforce-rtx-5060-ti",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 1838,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i9-12900kf-radeon-rx-9070-xt",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null

@@ -43,6 +43,7 @@
         "final_price": 499,
         "discount_percent": 0,
         "url_key": "silent-office-pc-amd-ryzen-5-3400g-vega-graphics",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Office PC 12001",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 552,
         "discount_percent": 0,
         "url_key": "silent-office-pc-intel-core-i3-12100-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Office Desktop PC 11005",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 556,
         "discount_percent": 0,
         "url_key": "silent-office-pc-intel-core-i3-13100-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Silent Office PC - Intel Core i3-13100 - UHD Graphics",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 593,
         "discount_percent": 0,
         "url_key": "silent-office-pc-amd-ryzen-5-5600gt-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Silent Office PC - AMD Ryzen 5 5600GT - Radeon Graphics",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 634,
         "discount_percent": 0,
         "url_key": "silent-office-pc-amd-ryzen-7-5700g-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Silent Office PC - AMD Ryzen 7 5700G - Radeon Graphics",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 667,
         "discount_percent": 0,
         "url_key": "silent-office-pc-intel-core-i5-14400-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Office Desktop PC 11005",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 759,
         "discount_percent": 0,
         "url_key": "silent-office-pc-amd-ryzen-5-7600-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Silent Office PC - AMD Ryzen 5 7600 - Radeon Graphics",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 764,
         "discount_percent": 0,
         "url_key": "silent-office-pc-amd-ryzen-5-8500g-radeon-740m",
+        "back_image": null,
         "image": {
           "label": "Silent Office PC - AMD Ryzen 5 8500G - Radeon 740M",
           "url": null
@@ -275,6 +283,7 @@
         "final_price": 768,
         "discount_percent": 0,
         "url_key": "silent-office-pc-intel-core-i5-13600k-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Silent Office PC - Intel Core i5-13600K - UHD Graphics",
           "url": null
@@ -304,6 +313,7 @@
         "final_price": 777,
         "discount_percent": 0,
         "url_key": "silent-office-pc-amd-ryzen-7-7700-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Silent Office PC - AMD Ryzen 7 7700 - Radeon Graphics",
           "url": null
@@ -333,6 +343,7 @@
         "final_price": 822,
         "discount_percent": 0,
         "url_key": "silent-office-pc-intel-core-i7-12700k-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Silent Office PC - Intel Core i7-12700K - UHD Graphics",
           "url": null
@@ -362,6 +373,7 @@
         "final_price": 843,
         "discount_percent": 0,
         "url_key": "silent-office-pc-amd-ryzen-5-9600-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Silent Office PC - AMD Ryzen 5 9600 - Radeon Graphics",
           "url": null
@@ -391,6 +403,7 @@
         "final_price": 880,
         "discount_percent": 0,
         "url_key": "silent-office-pc-intel-core-ultra-5-225-intel-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Office Desktop PC 11005",
           "url": null
@@ -420,6 +433,7 @@
         "final_price": 908,
         "discount_percent": 0,
         "url_key": "silent-office-pc-intel-core-ultra-5-245-intel-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Office Desktop PC 11005",
           "url": null
@@ -449,6 +463,7 @@
         "final_price": 1009,
         "discount_percent": 0,
         "url_key": "silent-office-pc-amd-ryzen-7-9700x-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Silent Office PC - AMD Ryzen 7 9700X - Radeon Graphics",
           "url": null
@@ -478,6 +493,7 @@
         "final_price": 1052,
         "discount_percent": 0,
         "url_key": "silent-office-pc-intel-core-ultra-7-265-intel-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Office Desktop PC 11005",
           "url": null

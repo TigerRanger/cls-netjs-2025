@@ -82,4 +82,83 @@
 	position: relative;
 }
 
+.text_content{
+ul , ol {
+	color: #757575;
+	line-height: 35px;
+}
 
+
+ul li , ol li {
+    position: relative;
+}
+
+ul li{
+    list-style: none;
+    padding-left: 33px;
+}
+
+ul li::before {
+	content: "";
+	background-image: url("/pagebuilder/ok-bullet.svg");
+	background-repeat: no-repeat;
+	width: 15px;
+	height: 38px;
+	position: absolute;
+	left: 0;
+	background-position: center center;
+	background-size: 90%;
+}
+
+
+ol{
+        list-style: none; /* remove default numbers */
+        counter-reset: my-counter;
+        padding-left: 0;
+
+    li{
+         counter-increment: my-counter;
+        margin: 10px 0;
+        position: relative;
+        padding-left: 40px; /* space for number */
+
+        &::before {
+                    content: counter(my-counter);
+                    color: #fff;
+                    background: #37a4a9;
+                    border-radius: 50%;
+                    justify-content: center;
+                    align-items: center;
+                    width: 22px;
+                    height: 22px;
+                    font-weight: bold;
+                    display: flex;
+                    position: absolute;
+                    top: 50%;
+                    left: 0;
+                    transform: translateY(-50%);
+                    font-size: 11px;
+                }
+
+    }
+
+}
+    table{
+        width: 100%;
+        border:none;
+
+            tr{
+                background-color: #f3f3f3;
+            }
+ 
+            tr:nth-child(2n) {
+                 background-color: white;
+            }
+
+            td{
+                padding: 10px;
+                border: 1px solid #ddd;
+            }
+
+    }
+}

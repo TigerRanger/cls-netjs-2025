@@ -43,6 +43,7 @@
         "final_price": 411,
         "discount_percent": 0,
         "url_key": "office-pc-amd-ryzen-5-3400g-vega-graphics",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Office PC 12001",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 499,
         "discount_percent": 0,
         "url_key": "office-pc-amd-ryzen-5-5600gt-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Office PC - AMD Ryzen 5 5600GT - Radeon Graphics",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 527,
         "discount_percent": 0,
         "url_key": "office-pc-amd-ryzen-7-5700g-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Office PC - AMD Ryzen 7 5700G - Radeon Graphics",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 633,
         "discount_percent": 0,
         "url_key": "office-pc-amd-ryzen-5-7600-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Office PC - AMD Ryzen 5 7600 - Radeon Graphics",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 648,
         "discount_percent": 0,
         "url_key": "office-pc-amd-ryzen-7-7700-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Office PC - AMD Ryzen 7 7700 - Radeon Graphics",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 655,
         "discount_percent": 0,
         "url_key": "office-pc-amd-ryzen-5-8500g-radeon-740m",
+        "back_image": null,
         "image": {
           "label": "Office PC - AMD Ryzen 5 8500G - Radeon 740M",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 752,
         "discount_percent": 0,
         "url_key": "office-pc-amd-ryzen-7-8700g-radeon-780m",
+        "back_image": null,
         "image": {
           "label": "Office PC - AMD Ryzen 7 8700G - Radeon 780M",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 752,
         "discount_percent": 0,
         "url_key": "office-pc-amd-ryzen-5-9600-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Office PC - AMD Ryzen 5 9600 - Radeon Graphics",
           "url": null
@@ -275,6 +283,7 @@
         "final_price": 897,
         "discount_percent": 0,
         "url_key": "office-pc-amd-ryzen-7-9700x-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Office PC - AMD Ryzen 7 9700X - Radeon Graphics",
           "url": null

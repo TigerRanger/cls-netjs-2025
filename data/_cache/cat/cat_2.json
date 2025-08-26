@@ -92,6 +92,7 @@
         "final_price": 0,
         "discount_percent": 0,
         "url_key": "grafik-onboard",
+        "back_image": null,
         "image": {
           "label": "Grafik onBoard",
           "url": null
@@ -121,6 +122,7 @@
         "final_price": 0,
         "discount_percent": 0,
         "url_key": "3-jahre-garantie-und-lebenslanger-service-inkl-pick-up-return",
+        "back_image": null,
         "image": {
           "label": "3 Jahre Garantie und lebenslanger Service | inkl. Pick-Up & Return",
           "url": null
@@ -150,6 +152,7 @@
         "final_price": 0,
         "discount_percent": 0,
         "url_key": "professioneller-zusammenbau-betriebssystem-installation-mit-neusten-updates-und-treibern-bios-aktualisierung-und-24-stunden-funktions-und-stresstest",
+        "back_image": null,
         "image": {
           "label": "Professioneller Zusammenbau, Betriebssystem-Installation mit neusten Updates und Treibern, BIOS-Aktualisierung und 24-Stunden Funktions- und Stresstest",
           "url": null
@@ -179,6 +182,7 @@
         "final_price": 0,
         "discount_percent": 0,
         "url_key": "on-board-sound",
+        "back_image": null,
         "image": {
           "label": "on Board Sound",
           "url": null
@@ -208,6 +212,7 @@
         "final_price": 0,
         "discount_percent": 0,
         "url_key": "raid-0-konfiguration",
+        "back_image": null,
         "image": {
           "label": "RAID 0 - Konfiguration",
           "url": null
@@ -237,6 +242,7 @@
         "final_price": 0,
         "discount_percent": 0,
         "url_key": "raid-1-konfiguration",
+        "back_image": null,
         "image": {
           "label": "RAID 1 - Konfiguration",
           "url": null
@@ -266,6 +272,7 @@
         "final_price": 0,
         "discount_percent": 0,
         "url_key": "raid-5-konfiguration",
+        "back_image": null,
         "image": {
           "label": "RAID 5 - Konfiguration",
           "url": null
@@ -295,6 +302,7 @@
         "final_price": 0,
         "discount_percent": 0,
         "url_key": "raid-6-konfiguration",
+        "back_image": null,
         "image": {
           "label": "RAID 6 - Konfiguration",
           "url": null
@@ -324,6 +332,7 @@
         "final_price": 0,
         "discount_percent": 0,
         "url_key": "raid-10-konfiguration",
+        "back_image": null,
         "image": {
           "label": "RAID 10 - Konfiguration",
           "url": null
@@ -353,6 +362,7 @@
         "final_price": 0,
         "discount_percent": 0,
         "url_key": "lebenslanger-service",
+        "back_image": null,
         "image": {
           "label": "lebenslanger Service",
           "url": null
@@ -382,6 +392,7 @@
         "final_price": 0,
         "discount_percent": 0,
         "url_key": "1-jahr-herstellergarantie",
+        "back_image": null,
         "image": {
           "label": "1 Jahr Herstellergarantie",
           "url": null
@@ -411,6 +422,7 @@
         "final_price": 0,
         "discount_percent": 0,
         "url_key": "2-jahre-herstellergarantie",
+        "back_image": null,
         "image": {
           "label": "2 Jahre Herstellergarantie",
           "url": null
@@ -440,6 +452,7 @@
         "final_price": 0,
         "discount_percent": 0,
         "url_key": "3-jahre-garantie-inkl-pick-up-return",
+        "back_image": null,
         "image": {
           "label": "3 Jahre Garantie | inkl. Pick-Up & Return",
           "url": null
@@ -469,6 +482,7 @@
         "final_price": 0,
         "discount_percent": 0,
         "url_key": "ohne-zusammenbau",
+        "back_image": null,
         "image": {
           "label": "Ohne Zusammenbau",
           "url": null
@@ -498,6 +512,7 @@
         "final_price": 0,
         "discount_percent": 0,
         "url_key": "cls-pc-konfiguration",
+        "back_image": null,
         "image": {
           "label": "CLS PC-Konfiguration",
           "url": null
@@ -527,6 +542,7 @@
         "final_price": 0,
         "discount_percent": 0,
         "url_key": "on-board-lan",
+        "back_image": null,
         "image": {
           "label": "on Board LAN",
           "url": null
@@ -556,6 +572,7 @@
         "final_price": 0,
         "discount_percent": 0,
         "url_key": "3-jahre-garantie-und-lebenslanger-service-inkl-pick-up-return",
+        "back_image": null,
         "image": {
           "label": "3 Jahre Garantie und lebenslanger Service | inkl. Pick-Up & Return",
           "url": null
@@ -585,6 +602,7 @@
         "final_price": 0,
         "discount_percent": 0,
         "url_key": "256-gb-m-2-solid-state-drive-ssd",
+        "back_image": null,
         "image": {
           "label": "256 GB M.2 Solid State Drive (SSD)",
           "url": null
@@ -614,6 +632,7 @@
         "final_price": 0,
         "discount_percent": 0,
         "url_key": "512-gb-m-2-solid-state-drive-ssd",
+        "back_image": null,
         "image": {
           "label": "512 GB M.2 Solid State Drive (SSD)",
           "url": null
@@ -643,6 +662,7 @@
         "final_price": 0,
         "discount_percent": 0,
         "url_key": "1-tb-m-2-solid-state-drive-ssd",
+        "back_image": null,
         "image": {
           "label": "1 TB M.2 Solid State Drive (SSD)",
           "url": null

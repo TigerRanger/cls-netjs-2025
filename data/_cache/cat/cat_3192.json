@@ -43,6 +43,7 @@
         "final_price": 459,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-n100-uhd-graphics-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel N100 - UHD Graphics (23.8\")",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 569,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-amd-ryzen-3-7320u-radeon-610m-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - AMD Ryzen 3 7320U - Radeon 610M (23.8\")",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 606,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-i3-1215u-uhd-graphics-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core i3-1215U - UHD Graphics (23.8\")",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 654,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-i3-13100t-uhd-graphics-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core i3-13100T - UHD Graphics (23.8\")",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 732,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-i5-14500t-uhd-graphics-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core i5-14500T - UHD Graphics (23.8\")",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 746,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-i5-1235u-uhd-graphics-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core i5-1235U - UHD Graphics (23.8\")",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 832,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-ultra-5-125h-arc-graphics-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core Ultra 5 125H - Arc Graphics (23.8\")",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 869,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-i5-13500t-uhd-graphics-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core i5-13500T - UHD Graphics (23.8\")",
           "url": null
@@ -275,6 +283,7 @@
         "final_price": 878,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-amd-ryzen-7-7735h-radeon-680m-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - AMD Ryzen 7 7735H - Radeon 680M (23.8\")",
           "url": null
@@ -304,6 +313,7 @@
         "final_price": 984,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-i5-14500t-uhd-graphics-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core i5-14500T - UHD Graphics (23.8\")",
           "url": null
@@ -333,6 +343,7 @@
         "final_price": 1008,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-i5-14500t-uhd-graphics-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core i5-14500T - UHD Graphics (23.8\")",
           "url": null
@@ -362,6 +373,7 @@
         "final_price": 1022,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-7-150u-intel-graphics-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core 7 150U - Intel Graphics (23.8\")",
           "url": null
@@ -391,6 +403,7 @@
         "final_price": 1152,
         "discount_percent": 0,
         "url_key": "all-in-one-pc-intel-core-ultra-7-155u-intel-graphics-23-8",
+        "back_image": null,
         "image": {
           "label": "All-in-One PC - Intel Core Ultra 7 155U - Intel Graphics (23.8\")",
           "url": null

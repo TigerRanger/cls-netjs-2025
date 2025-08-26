@@ -43,6 +43,7 @@
         "final_price": 3908,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-threadripper-5955wx-rtx-a2000",
+        "back_image": null,
         "image": {
           "label": "AMD Professional CAD PC 102004",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 4488,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-threadripper-5955wx-rtx-a4000",
+        "back_image": null,
         "image": {
           "label": "AMD Professional CAD PC 102004",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 5030,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-threadripper-5965wx-rtx-a4000",
+        "back_image": null,
         "image": {
           "label": "AMD Professional CAD PC 102004",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 6938,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-threadripper-5965wx-rtx-a5000",
+        "back_image": null,
         "image": {
           "label": "AMD Professional CAD PC 102004",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 10960,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-threadripper-5975wx-rtx-a6000",
+        "back_image": null,
         "image": {
           "label": "AMD Professional CAD PC 102004",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 17373,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-threadripper-5975wx-2x-rtx-a6000",
+        "back_image": null,
         "image": {
           "label": "AMD Professional CAD PC 102004",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 20174,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-threadripper-5995wx-2x-rtx-a6000",
+        "back_image": null,
         "image": {
           "label": "AMD Professional CAD PC 102004",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 33305,
         "discount_percent": 0,
         "url_key": "cad-pc-amd-threadripper-5995wx-4x-rtx-a6000",
+        "back_image": null,
         "image": {
           "label": "AMD Professional CAD PC 102004",
           "url": null

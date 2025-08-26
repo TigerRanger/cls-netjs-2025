@@ -43,6 +43,7 @@
         "final_price": 2708,
         "discount_percent": 0,
         "url_key": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5070-ti",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5070 Ti",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 2993,
         "discount_percent": 0,
         "url_key": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5070-ti",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5070 Ti",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 3273,
         "discount_percent": 0,
         "url_key": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5080",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5080",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 3585,
         "discount_percent": 0,
         "url_key": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5080",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5080",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 4087,
         "discount_percent": 0,
         "url_key": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5090",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5090",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 4304,
         "discount_percent": 0,
         "url_key": "gaming-laptop-18-intel-core-ultra-9-275hx-rtx-5090",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 18\" - Intel Core Ultra 9 275HX - RTX 5090",
           "url": null

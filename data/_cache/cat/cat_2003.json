@@ -43,6 +43,7 @@
         "final_price": 448,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-celeron-g6900-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 455,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i3-13100-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 479,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i3-12100-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 501,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i3-14100-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 535,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-pentium-g7600-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 565,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i3-12100-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 573,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i5-14400-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 588,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i5-12400f-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -275,6 +283,7 @@
         "final_price": 618,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i5-13400-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -304,6 +313,7 @@
         "final_price": 783,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i5-14500-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -333,6 +343,7 @@
         "final_price": 805,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i5-12500-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -362,6 +373,7 @@
         "final_price": 886,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i7-12700f-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -391,6 +403,7 @@
         "final_price": 945,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i7-14700-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -420,6 +433,7 @@
         "final_price": 949,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i7-12700-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -449,6 +463,7 @@
         "final_price": 998,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i5-13500-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null
@@ -478,6 +493,7 @@
         "final_price": 1264,
         "discount_percent": 0,
         "url_key": "studenten-pc-intel-core-i7-13700-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "Intel Professional Office PC 11011",
           "url": null

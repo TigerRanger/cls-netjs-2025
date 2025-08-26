@@ -50,6 +50,7 @@
         "final_price": 2944,
         "discount_percent": 0,
         "url_key": "cad-laptop-16-intel-core-ultra-9-185h-rtx-2000-ada",
+        "back_image": null,
         "image": {
           "label": "17.3 Acer Aspire 3 A317",
           "url": null
@@ -79,6 +80,7 @@
         "final_price": 3430,
         "discount_percent": 0,
         "url_key": "cad-laptop-16-intel-core-ultra-9-185h-rtx-3000-ada",
+        "back_image": null,
         "image": {
           "label": "CAD Laptop - 16\" - Intel Core Ultra 9 185H - RTX 3000 ADA",
           "url": null
@@ -108,6 +110,7 @@
         "final_price": 4830,
         "discount_percent": 0,
         "url_key": "cad-laptop-16-intel-core-i9-14900hx-rtx-4000-ada",
+        "back_image": null,
         "image": {
           "label": "CAD Laptop - 16\" - Intel Core i9-14900HX - RTX 4000 ADA",
           "url": null
@@ -137,6 +140,7 @@
         "final_price": 6849,
         "discount_percent": 0,
         "url_key": "cad-laptop-16-intel-core-i9-13980hx-rtx-5000-ada",
+        "back_image": null,
         "image": {
           "label": "CAD Laptop - 16\" - Intel Core i9-13980HX - RTX 5000 ADA",
           "url": null

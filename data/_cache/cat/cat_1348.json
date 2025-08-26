@@ -43,6 +43,7 @@
         "final_price": 1398,
         "discount_percent": 0,
         "url_key": "gaming-laptop-17-3-amd-ryzen-7-8845hs-rtx-4060",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 17.3\" - AMD Ryzen 7 8845HS - RTX 4060",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 1539,
         "discount_percent": 0,
         "url_key": "gaming-laptop-17-3-intel-core-i7-13620h-rtx-4070",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 17.3\" - Intel Core i7-13620H - RTX 4070",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 1569,
         "discount_percent": 0,
         "url_key": "gaming-laptop-17-3-amd-ryzen-7-8845hs-rtx-4070",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 17.3\" - AMD Ryzen 7 8845HS - RTX 4070",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 1607,
         "discount_percent": 0,
         "url_key": "gaming-laptop-17-3-intel-core-i7-13620h-rtx-4060",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 17.3\" - Intel Core i7-13620H - RTX 4060",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 1952,
         "discount_percent": 0,
         "url_key": "gaming-laptop-17-3-amd-ryzen-7-8845hs-rtx-4070",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 17.3\" - AMD Ryzen 7 8845HS - RTX 4070",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 2044,
         "discount_percent": 0,
         "url_key": "gaming-laptop-17-3-amd-ryzen-9-7940hx-rtx-4070",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 17.3\" - AMD Ryzen 9 7940HX - RTX 4070",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 3038,
         "discount_percent": 0,
         "url_key": "gaming-laptop-17-3-intel-core-i9-14900hx-rtx-4080",
+        "back_image": null,
         "image": {
           "label": "Gaming Laptop - 17.3\" - Intel Core i9-14900HX - RTX 4080",
           "url": null

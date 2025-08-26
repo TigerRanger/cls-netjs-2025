@@ -43,6 +43,7 @@
         "final_price": 1551,
         "discount_percent": 0,
         "url_key": "powered-by-icue-intel-core-i5-14600kf-rtx-4060",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 1629,
         "discount_percent": 0,
         "url_key": "powered-by-icue-amd-ryzen-5-7600x-rx-7600-xt",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 2508,
         "discount_percent": 0,
         "url_key": "powered-by-icue-amd-ryzen-7-7800x3d-rtx-5070-ti",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 2591,
         "discount_percent": 0,
         "url_key": "powered-by-icue-intel-core-i7-14700kf-rtx-5070-ti",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 3349,
         "discount_percent": 0,
         "url_key": "powered-by-icue-intel-core-i9-14900kf-rtx-5080",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 3400,
         "discount_percent": 0,
         "url_key": "powered-by-icue-amd-ryzen-9-7900x3d-rx-7900-xt",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 5584,
         "discount_percent": 0,
         "url_key": "powered-by-icue-intel-core-i9-14900ks-rtx-5090",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 5733,
         "discount_percent": 0,
         "url_key": "powered-by-icue-amd-ryzen-9-7950x3d-rtx-5090",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null

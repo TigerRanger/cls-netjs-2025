@@ -43,6 +43,7 @@
         "final_price": 517,
         "discount_percent": 0,
         "url_key": "desktop-pc-intel-core-i3-13100-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Desktop PC - Intel Core i3-13100 - UHD Graphics",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 562,
         "discount_percent": 0,
         "url_key": "desktop-pc-intel-core-i3-13100f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Desktop PC - Intel Core i3-13100F - GeForce GT 1030",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 564,
         "discount_percent": 0,
         "url_key": "desktop-pc-intel-core-i3-12100-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Office Desktop PC 11005",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 571,
         "discount_percent": 0,
         "url_key": "desktop-pc-intel-core-i5-14400-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Office Desktop PC 11005",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 599,
         "discount_percent": 0,
         "url_key": "desktop-pc-intel-core-i3-12100f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Desktop PC - Intel Core i3-12100F - GeForce GT 1030",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 649,
         "discount_percent": 0,
         "url_key": "desktop-pc-intel-core-i5-14400f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Desktop PC - Intel Core i5-14400F - GeForce GT 1030",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 829,
         "discount_percent": 0,
         "url_key": "desktop-pc-intel-core-ultra-5-225-intel-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Office Desktop PC 11005",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 843,
         "discount_percent": 0,
         "url_key": "desktop-pc-intel-core-ultra-5-245-intel-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Office Desktop PC 11005",
           "url": null
@@ -275,6 +283,7 @@
         "final_price": 845,
         "discount_percent": 0,
         "url_key": "desktop-pc-intel-core-ultra-5-225f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Desktop PC - Intel Core Ultra 5 225F - GeForce GT 1030",
           "url": null
@@ -304,6 +313,7 @@
         "final_price": 929,
         "discount_percent": 0,
         "url_key": "desktop-pc-intel-core-ultra-5-245-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Desktop PC - Intel Core Ultra 5 245 - GeForce GT 1030",
           "url": null
@@ -333,6 +343,7 @@
         "final_price": 947,
         "discount_percent": 0,
         "url_key": "desktop-pc-intel-core-ultra-7-265-intel-graphics",
+        "back_image": null,
         "image": {
           "label": "Intel Office Desktop PC 11005",
           "url": null
@@ -362,6 +373,7 @@
         "final_price": 1107,
         "discount_percent": 0,
         "url_key": "desktop-pc-intel-core-ultra-7-265f-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Desktop PC - Intel Core Ultra 7 265F - GeForce RTX 3050",
           "url": null

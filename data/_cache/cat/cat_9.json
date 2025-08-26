@@ -98,6 +98,7 @@
         "final_price": 719,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-5-5600x-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "AMD Ultra Gaming PC 62009",
           "url": null
@@ -127,6 +128,7 @@
         "final_price": 746,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i5-12400f-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "MSI-MAG-Forge-100M",
           "url": null
@@ -156,6 +158,7 @@
         "final_price": 768,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-5-5600x-radeon-rx-6600",
+        "back_image": null,
         "image": {
           "label": "AMD Ultra Gaming PC 62009",
           "url": null
@@ -185,6 +188,7 @@
         "final_price": 770,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-intel-core-i5-12400f-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "MSI-MAG-Forge-100M",
           "url": null
@@ -214,6 +218,7 @@
         "final_price": 784,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-7-5700x-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "AMD Ultra Gaming PC 62009",
           "url": null
@@ -243,6 +248,7 @@
         "final_price": 788,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-amd-ryzen-5-5600x-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Silent Gaming PC - AMD Ryzen 5 5600X - GeForce RTX 3050",
           "url": null
@@ -272,6 +278,7 @@
         "final_price": 795,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i5-12400f-radeon-rx-6600",
+        "back_image": null,
         "image": {
           "label": "MSI-MAG-Forge-100M",
           "url": null
@@ -301,6 +308,7 @@
         "final_price": 829,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i5-13400f-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Intel Advanced Gaming PC 61005",
           "url": null
@@ -330,6 +338,7 @@
         "final_price": 834,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i5-12600kf-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Gaming PC 61031",
           "url": null
@@ -359,6 +368,7 @@
         "final_price": 800,
         "discount_percent": 4.19,
         "url_key": "gaming-pc-intel-core-i5-14400f-geforce-rtx-3050",
+        "back_image": "http://cls-computer-admin.nz/media/catalog/product/h/u/hunter_rev2_side_rgb-min_5_9.jpg",
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -388,6 +398,7 @@
         "final_price": 868,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-5-7500f-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Gaming PC 62005",
           "url": null
@@ -417,6 +428,7 @@
         "final_price": 872,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i5-13400f-radeon-rx-6600",
+        "back_image": null,
         "image": {
           "label": "Intel Advanced Gaming PC 61005",
           "url": null
@@ -446,6 +458,7 @@
         "final_price": 884,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i5-14400f-radeon-rx-6600",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -475,6 +488,7 @@
         "final_price": 905,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-intel-core-i5-14400f-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -504,6 +518,7 @@
         "final_price": 911,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-5-7500f-radeon-rx-6600",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Gaming PC 62005",
           "url": null
@@ -533,6 +548,7 @@
         "final_price": 922,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-7-5700x-radeon-rx-9060-xt",
+        "back_image": null,
         "image": {
           "label": "AMD Ultra Gaming PC 62009",
           "url": null
@@ -562,6 +578,7 @@
         "final_price": 926,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-intel-core-i5-13400f-radeon-rx-6600",
+        "back_image": null,
         "image": {
           "label": "Intel Advanced Gaming PC 61005",
           "url": null
@@ -591,6 +608,7 @@
         "final_price": 936,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i5-14600kf-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -620,6 +638,7 @@
         "final_price": 938,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i5-13600kf-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Intel Advanced Gaming PC 61005",
           "url": null
@@ -649,6 +668,7 @@
         "final_price": 946,
         "discount_percent": 0,
         "url_key": "gaming-pc-amd-ryzen-5-7600x-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Gaming PC 62005",
           "url": null

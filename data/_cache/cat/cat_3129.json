@@ -43,6 +43,7 @@
         "final_price": 1742,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-core-i5-14600k-rtx-a2000",
+        "back_image": null,
         "image": {
           "label": "CAD PC - Intel Core i5-14600K - RTX A2000",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 3250,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-core-i7-14700k-rtx-a4500",
+        "back_image": null,
         "image": {
           "label": "CAD PC - Intel Core i7-14700K - RTX A4500",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 4631,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-core-i9-14900k-rtx-a5000",
+        "back_image": null,
         "image": {
           "label": "CAD PC - Intel Core i9-14900K - RTX A5000",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 8406,
         "discount_percent": 0,
         "url_key": "cad-pc-intel-core-i9-14900k-rtx-a6000",
+        "back_image": null,
         "image": {
           "label": "CAD PC - Intel Core i9-14900K - RTX A6000",
           "url": null

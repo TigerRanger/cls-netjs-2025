@@ -43,6 +43,7 @@
         "final_price": 87.9,
         "discount_percent": 0,
         "url_key": "thermaltake-th360-argb-sync",
+        "back_image": null,
         "image": {
           "label": "Thermaltake TH360 ARGB Sync",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 129,
         "discount_percent": 0,
         "url_key": "huawei-mediapad-t5-10-schwarz-2gb-ram-16gb-flash-lte",
+        "back_image": null,
         "image": {
           "label": "Huawei MediaPad T5 10, schwarz, 2GB RAM, 16GB Flash, LTE",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 146,
         "discount_percent": 0,
         "url_key": "asus-tuf-gaming-b660m-plus-wifi",
+        "back_image": null,
         "image": {
           "label": "ASUS TUF Gaming B660M-Plus WIFI",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 222,
         "discount_percent": 0,
         "url_key": "asrock-z690-phantom-gaming-4",
+        "back_image": null,
         "image": {
           "label": "ASRock Z690 Phantom Gaming 4",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 239,
         "discount_percent": 0,
         "url_key": "nokia-xr20-64gb-granite",
+        "back_image": null,
         "image": {
           "label": "Nokia XR20 64GB Granite",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 239,
         "discount_percent": 0,
         "url_key": "msi-pro-z690-a-wifi",
+        "back_image": null,
         "image": {
           "label": "MSI PRO Z690-A WIFI",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 249,
         "discount_percent": 0,
         "url_key": "msi-pro-z690-a-wifi-ddr4",
+        "back_image": null,
         "image": {
           "label": "MSI PRO Z690-A WIFI DDR4",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 258,
         "discount_percent": 0,
         "url_key": "asus-tuf-gaming-z690-plus-wifi-d4",
+        "back_image": null,
         "image": {
           "label": "ASUS TUF Gaming Z690-Plus WIFI D4",
           "url": null
@@ -275,6 +283,7 @@
         "final_price": 269,
         "discount_percent": 0,
         "url_key": "msi-mag-z690m-mortar-wifi",
+        "back_image": null,
         "image": {
           "label": "MSI MAG Z690M Mortar WIFI",
           "url": null
@@ -304,6 +313,7 @@
         "final_price": 419,
         "discount_percent": 0,
         "url_key": "14-lenovo-v14-ada",
+        "back_image": null,
         "image": {
           "label": "14\" Lenovo V14-ADA",
           "url": null
@@ -333,6 +343,7 @@
         "final_price": 429,
         "discount_percent": 0,
         "url_key": "15-6-lenovo-v15-ada",
+        "back_image": null,
         "image": {
           "label": "15.6\" Lenovo V15-ADA",
           "url": null
@@ -362,6 +373,7 @@
         "final_price": 549,
         "discount_percent": 0,
         "url_key": "15-6-acer-aspire-3-a315-42-r7kk",
+        "back_image": null,
         "image": {
           "label": "15.6\" Acer Aspire 3 A315-42-R7KK",
           "url": null
@@ -391,6 +403,7 @@
         "final_price": 669,
         "discount_percent": 0,
         "url_key": "15-6-acer-travelmate-p2-tmp215-52-54cj",
+        "back_image": null,
         "image": {
           "label": "15.6\" Acer TravelMate P2 TMP215-52-54CJ",
           "url": null
@@ -420,6 +433,7 @@
         "final_price": 799,
         "discount_percent": 0,
         "url_key": "gainward-geforce-rtx-4070-super-python-iii-oc-12gb-gddr6x-hdmi-3x-dp",
+        "back_image": null,
         "image": {
           "label": "Gainward GeForce RTX 4070 SUPER Python III OC, 12GB GDDR6X, HDMI, 3x DP",
           "url": null
@@ -449,6 +463,7 @@
         "final_price": 849,
         "discount_percent": 0,
         "url_key": "15-6-acer-nitro-5-an515-44-r5k7",
+        "back_image": null,
         "image": {
           "label": "15.6\" Acer Nitro 5 AN515-44-R5K7",
           "url": null
@@ -478,6 +493,7 @@
         "final_price": 899,
         "discount_percent": 0,
         "url_key": "17-3-hp-17-cd2146ng-shadow-black",
+        "back_image": null,
         "image": {
           "label": "17.3\" HP 17-cd2146ng Shadow Black",
           "url": null
@@ -507,6 +523,7 @@
         "final_price": 899,
         "discount_percent": 0,
         "url_key": "15-microsoft-surface-laptop-3",
+        "back_image": null,
         "image": {
           "label": "15\" Microsoft Surface Laptop 3",
           "url": null
@@ -536,6 +553,7 @@
         "final_price": 945,
         "discount_percent": 0,
         "url_key": "inno3d-geforce-rtx-5070-ti-x3-oc-16gb-gddr7-hdmi-3x-dp",
+        "back_image": null,
         "image": {
           "label": "INNO3D GeForce RTX 5070 Ti X3 OC, 16GB GDDR7, HDMI, 3x DP",
           "url": null
@@ -565,6 +583,7 @@
         "final_price": 1258,
         "discount_percent": 0,
         "url_key": "inno3d-geforce-rtx-4080-super-x3-16gb-gddr6x-hdmi-3x-dp",
+        "back_image": null,
         "image": {
           "label": "INNO3D GeForce RTX 4080 SUPER X3, 16GB GDDR6X, HDMI, 3x DP",
           "url": null
@@ -594,6 +613,7 @@
         "final_price": 1499,
         "discount_percent": 0,
         "url_key": "xfx-speedster-merc-319-radeon-rx-6900-xt-black-gaming-16gb-gddr6-hdmi-3x-dp",
+        "back_image": null,
         "image": {
           "label": "XFX Speedster MERC 319 Radeon RX 6900 XT Black Gaming, 16GB GDDR6, HDMI, 3x DP",
           "url": null

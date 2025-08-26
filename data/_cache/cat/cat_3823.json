@@ -43,6 +43,7 @@
         "final_price": 1109,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-ultra-5-225f-geforce-rtx-5060",
+        "back_image": null,
         "image": {
           "label": "Intel Advanced Gaming PC 61005",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 1284,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-ultra-5-235-geforce-rtx-5060-ti",
+        "back_image": null,
         "image": {
           "label": "Intel Advanced Gaming PC 61005",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 1349,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-ultra-5-245kf-rtx-5060-ti",
+        "back_image": null,
         "image": {
           "label": "Intel Advanced Gaming PC 61005",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 1888,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-ultra-7-265kf-geforce-rtx-5070",
+        "back_image": null,
         "image": {
           "label": "Intel Advanced Gaming PC 61005",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 2206,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-ultra-7-265k-geforce-rtx-5070-ti",
+        "back_image": null,
         "image": {
           "label": "Intel Advanced Gaming PC 61005",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 2954,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-ultra-9-285k-geforce-rtx-5080",
+        "back_image": null,
         "image": {
           "label": "Intel Advanced Gaming PC 61005",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 4686,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-ultra-9-285k-geforce-rtx-5090",
+        "back_image": null,
         "image": {
           "label": "Intel Advanced Gaming PC 61005",
           "url": null

@@ -43,6 +43,7 @@
         "final_price": 542,
         "discount_percent": 0,
         "url_key": "office-laptop-14-amd-ryzen-5-5625u-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 14\" - AMD Ryzen 5 5625U - Radeon Graphics",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 595,
         "discount_percent": 0,
         "url_key": "office-laptop-14-amd-ryzen-3-7320u-radeon-610m",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 14\" - AMD Ryzen 3 7320U - Radeon 610M",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 632,
         "discount_percent": 0,
         "url_key": "office-laptop-14-intel-core-i5-1335u-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 14\" - Intel Core i5-1335U - UHD Graphics",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 632,
         "discount_percent": 0,
         "url_key": "office-laptop-14-intel-core-i3-n305-uhd-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 14\" - Intel Core i3-N305 - UHD Graphics",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 658,
         "discount_percent": 0,
         "url_key": "office-laptop-14-intel-core-i5-1335u-iris-xe-graphics",
+        "back_image": null,
         "image": {
           "label": "17.3 ASUS VivoBook 17 S712",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 658,
         "discount_percent": 0,
         "url_key": "office-laptop-14-amd-ryzen-5-7520u-radeon-610m",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 14\" - AMD Ryzen 5 7520U - Radeon 610M",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 804,
         "discount_percent": 0,
         "url_key": "office-laptop-14-amd-ryzen-7-7730u-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 14\" - AMD Ryzen 7 7730U - Radeon Graphics",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 876,
         "discount_percent": 0,
         "url_key": "office-laptop-14-amd-ryzen-7-7730u-radeon-graphics",
+        "back_image": null,
         "image": {
           "label": "Office Laptop - 14\" - AMD Ryzen 7 7730U - Radeon Graphics",
           "url": null

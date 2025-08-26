@@ -43,6 +43,7 @@
         "final_price": 461,
         "discount_percent": 0,
         "url_key": "studenten-pc-amd-ryzen-5-5600g-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Office PC 12001",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 469,
         "discount_percent": 0,
         "url_key": "studenten-pc-amd-ryzen-5-5600g-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Office PC 12002",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 494,
         "discount_percent": 0,
         "url_key": "studenten-pc-amd-ryzen-3-4100-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Office PC 12002",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 522,
         "discount_percent": 0,
         "url_key": "studenten-pc-amd-ryzen-5-5500-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Office PC 12002",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 638,
         "discount_percent": 0,
         "url_key": "studenten-pc-amd-ryzen-5-7600-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Office PC 12002",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 686,
         "discount_percent": 0,
         "url_key": "studenten-pc-amd-ryzen-7-5700g-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Office PC 12002",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 782,
         "discount_percent": 0,
         "url_key": "studenten-pc-amd-ryzen-7-5700x-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Office PC 12002",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 842,
         "discount_percent": 0,
         "url_key": "studenten-pc-amd-ryzen-7-7700-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Office PC 12002",
           "url": null
@@ -275,6 +283,7 @@
         "final_price": 956,
         "discount_percent": 0,
         "url_key": "studenten-pc-amd-ryzen-5-7600-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Office PC 12002",
           "url": null
@@ -304,6 +313,7 @@
         "final_price": 1119,
         "discount_percent": 0,
         "url_key": "studenten-pc-amd-ryzen-7-7700-microsoft-office",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Office PC 12002",
           "url": null

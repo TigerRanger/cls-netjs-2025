@@ -43,6 +43,7 @@
         "final_price": 770,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-intel-core-i5-12400f-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "MSI-MAG-Forge-100M",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 788,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-amd-ryzen-5-5600x-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Silent Gaming PC - AMD Ryzen 5 5600X - GeForce RTX 3050",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 905,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-intel-core-i5-14400f-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 926,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-intel-core-i5-13400f-radeon-rx-6600",
+        "back_image": null,
         "image": {
           "label": "Intel Advanced Gaming PC 61005",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 1010,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-amd-ryzen-7-5700x-radeon-rx-9060-xt",
+        "back_image": null,
         "image": {
           "label": "Silent Gaming PC - AMD Ryzen 7 5700X - Radeon RX 9060 XT",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 1028,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-intel-core-i5-12600kf-radeon-rx-9060-xt",
+        "back_image": null,
         "image": {
           "label": "Intel Ultra Gaming PC 61031",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 1038,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-intel-core-i5-13600kf-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Intel Advanced Gaming PC 61005",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 1072,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-amd-ryzen-7-5800x-geforce-rtx-5060",
+        "back_image": null,
         "image": {
           "label": "Silent Gaming PC - AMD Ryzen 7 5800X - GeForce RTX 5060",
           "url": null
@@ -275,6 +283,7 @@
         "final_price": 1142,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-intel-core-i7-12700kf-geforce-rtx-5060",
+        "back_image": null,
         "image": {
           "label": "Intel Basic Gaming PC 61003",
           "url": null
@@ -304,6 +313,7 @@
         "final_price": 1150,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-intel-core-i5-14600kf-radeon-rx-9060-xt",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -333,6 +343,7 @@
         "final_price": 1186,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-intel-core-ultra-5-225f-geforce-rtx-5060",
+        "back_image": null,
         "image": {
           "label": "Silent Gaming PC - Intel Core Ultra 5 225F - GeForce RTX 5060",
           "url": null
@@ -362,6 +373,7 @@
         "final_price": 1309,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-intel-core-ultra-5-235-radeon-rx-9060-xt",
+        "back_image": null,
         "image": {
           "label": "Silent Gaming PC - Intel Core Ultra 5 235 - Radeon RX 9060 XT",
           "url": null
@@ -391,6 +403,7 @@
         "final_price": 1407,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-intel-core-ultra-5-245kf-rtx-5060-ti",
+        "back_image": null,
         "image": {
           "label": "Silent Gaming PC - Intel Core Ultra 5 245KF - RTX 5060 Ti",
           "url": null
@@ -420,6 +433,7 @@
         "final_price": 1430,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-intel-core-i7-13700kf-radeon-rx-9060-xt",
+        "back_image": null,
         "image": {
           "label": "Intel Advanced Gaming PC 61005",
           "url": null
@@ -449,6 +463,7 @@
         "final_price": 1792,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-intel-core-i9-13900kf-geforce-rtx-5060-ti",
+        "back_image": null,
         "image": {
           "label": "Intel Advanced Gaming PC 61005",
           "url": null
@@ -478,6 +493,7 @@
         "final_price": 1818,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-intel-core-i9-12900kf-radeon-rx-9070-xt",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -507,6 +523,7 @@
         "final_price": 1869,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-intel-core-ultra-7-265kf-geforce-rtx-5070",
+        "back_image": null,
         "image": {
           "label": "Silent Gaming PC - Intel Core Ultra 7 265KF - GeForce RTX 5070",
           "url": null
@@ -536,6 +553,7 @@
         "final_price": 1872,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-intel-core-i7-14700kf-geforce-rtx-5070",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -565,6 +583,7 @@
         "final_price": 2111,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-intel-core-i7-14700k-radeon-rx-9070-xt",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -594,6 +613,7 @@
         "final_price": 2293,
         "discount_percent": 0,
         "url_key": "silent-gaming-pc-intel-core-ultra-7-265k-geforce-rtx-5070-ti",
+        "back_image": null,
         "image": {
           "label": "Silent Gaming PC - Intel Core Ultra 7 265K - GeForce RTX 5070 Ti",
           "url": null

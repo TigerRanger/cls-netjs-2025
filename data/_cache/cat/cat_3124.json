@@ -43,6 +43,7 @@
         "final_price": 1408,
         "discount_percent": 0,
         "url_key": "workstation-intel-core-i5-14600k-rtx-5060-ti",
+        "back_image": null,
         "image": {
           "label": "Workstation - Intel Core i5-14600K - RTX 5060 Ti",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 2313,
         "discount_percent": 0,
         "url_key": "workstation-intel-core-i7-14700k-rtx-5070-ti",
+        "back_image": null,
         "image": {
           "label": "Workstation - Intel Core i7-14700K - RTX 5070 Ti",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 2976,
         "discount_percent": 0,
         "url_key": "workstation-intel-core-i9-14900k-rtx-5080",
+        "back_image": null,
         "image": {
           "label": "Workstation - Intel Core i9-14900K - RTX 5080",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 4763,
         "discount_percent": 0,
         "url_key": "workstation-intel-core-i9-14900k-rtx-5090",
+        "back_image": null,
         "image": {
           "label": "Workstation - Intel Core i9-14900K - RTX 5090",
           "url": null

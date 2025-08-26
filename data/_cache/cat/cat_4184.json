@@ -43,6 +43,7 @@
         "final_price": 597,
         "discount_percent": 0,
         "url_key": "multimedia-komplettsystem-amd-ryzen-5-5500-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Multimedia PC 22001",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 601,
         "discount_percent": 0,
         "url_key": "multimedia-komplettsystem-intel-core-i3-12100f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia Komplettsystem - Intel Core i3-12100F - GeForce GT 1030",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 649,
         "discount_percent": 0,
         "url_key": "multimedia-komplettsystem-intel-core-i3-13100f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia Komplettsystem - Intel Core i3-13100F - GeForce GT 1030",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 682,
         "discount_percent": 0,
         "url_key": "multimedia-komplettsystem-amd-ryzen-5-5600x-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "AMD Basic Multimedia PC 22001",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 848,
         "discount_percent": 0,
         "url_key": "multimedia-komplettsystem-intel-core-i5-13600kf-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia Komplettsystem - Intel Core i5-13600KF - GeForce GT 1030",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 851,
         "discount_percent": 0,
         "url_key": "multimedia-komplettsystem-amd-ryzen-5-7600-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia Komplettsystem - AMD Ryzen 5 7600 - GeForce GT 1030",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 853,
         "discount_percent": 0,
         "url_key": "multimedia-komplettsystem-intel-core-i5-14400f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia Komplettsystem - Intel Core i5-14400F - GeForce GT 1030",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 874,
         "discount_percent": 0,
         "url_key": "multimedia-komplettsystem-amd-ryzen-7-5700x-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "AMD Advanced Multimedia PC 22002",
           "url": null
@@ -275,6 +283,7 @@
         "final_price": 908,
         "discount_percent": 0,
         "url_key": "multimedia-komplettsystem-amd-ryzen-5-8500g-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia Komplettsystem - AMD Ryzen 5 8500G - GeForce GT 1030",
           "url": null
@@ -304,6 +313,7 @@
         "final_price": 956,
         "discount_percent": 0,
         "url_key": "multimedia-komplettsystem-intel-core-ultra-5-225f-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia Komplettsystem - Intel Core Ultra 5 225F - GeForce GT 1030",
           "url": null
@@ -333,6 +343,7 @@
         "final_price": 970,
         "discount_percent": 0,
         "url_key": "multimedia-komplettsystem-amd-ryzen-5-9600-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia Komplettsystem - AMD Ryzen 5 9600 - GeForce GT 1030",
           "url": null
@@ -362,6 +373,7 @@
         "final_price": 1008,
         "discount_percent": 0,
         "url_key": "multimedia-komplettsystem-amd-ryzen-7-7700-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Multimedia Komplettsystem - AMD Ryzen 7 7700 - GeForce RTX 3050",
           "url": null
@@ -391,6 +403,7 @@
         "final_price": 1058,
         "discount_percent": 0,
         "url_key": "multimedia-komplettsystem-intel-core-ultra-5-245-geforce-gt-1030",
+        "back_image": null,
         "image": {
           "label": "Multimedia Komplettsystem - Intel Core Ultra 5 245 - GeForce GT 1030",
           "url": null
@@ -420,6 +433,7 @@
         "final_price": 1106,
         "discount_percent": 0,
         "url_key": "multimedia-komplettsystem-intel-core-i7-12700kf-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Multimedia Komplettsystem - Intel Core i7-12700KF - GeForce RTX 3050",
           "url": null
@@ -449,6 +463,7 @@
         "final_price": 1217,
         "discount_percent": 0,
         "url_key": "multimedia-komplettsystem-amd-ryzen-7-9700x-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Multimedia Komplettsystem - AMD Ryzen 7 9700X - GeForce RTX 3050",
           "url": null
@@ -478,6 +493,7 @@
         "final_price": 1284,
         "discount_percent": 0,
         "url_key": "multimedia-komplettsystem-intel-core-ultra-7-265f-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Multimedia Komplettsystem - Intel Core Ultra 7 265F - GeForce RTX 3050",
           "url": null

@@ -43,6 +43,7 @@
         "final_price": 800,
         "discount_percent": 4.19,
         "url_key": "gaming-pc-intel-core-i5-14400f-geforce-rtx-3050",
+        "back_image": "http://cls-computer-admin.nz/media/catalog/product/h/u/hunter_rev2_side_rgb-min_5_9.jpg",
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -72,6 +73,7 @@
         "final_price": 884,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i5-14400f-radeon-rx-6600",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -101,6 +103,7 @@
         "final_price": 936,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i5-14600kf-geforce-rtx-3050",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -130,6 +133,7 @@
         "final_price": 1104,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i5-14600kf-radeon-rx-9060-xt",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -159,6 +163,7 @@
         "final_price": 1256,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i7-14700kf-geforce-rtx-5060",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -188,6 +193,7 @@
         "final_price": 1359,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i7-14700kf-radeon-rx-9060-xt",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -217,6 +223,7 @@
         "final_price": 1551,
         "discount_percent": 0,
         "url_key": "powered-by-icue-intel-core-i5-14600kf-rtx-4060",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -246,6 +253,7 @@
         "final_price": 1692,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i9-14900kf-geforce-rtx-5060-ti",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -275,6 +283,7 @@
         "final_price": 1874,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i7-14700kf-geforce-rtx-5070",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -304,6 +313,7 @@
         "final_price": 1970,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i7-14700kf-radeon-rx-9070",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -333,6 +343,7 @@
         "final_price": 2057,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i9-14900kf-radeon-rx-9070-xt",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -362,6 +373,7 @@
         "final_price": 2198,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i7-14700k-radeon-rx-9070-xt",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -391,6 +403,7 @@
         "final_price": 2200,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i7-14700k-geforce-rtx-5070-ti",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -420,6 +433,7 @@
         "final_price": 2354,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i9-14900kf-radeon-rx-9070-xt",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -449,6 +463,7 @@
         "final_price": 2439,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i7-14700kf-radeon-rx-7900-xtx",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -478,6 +493,7 @@
         "final_price": 2503,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i7-14700kf-geforce-rtx-5080",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -507,6 +523,7 @@
         "final_price": 2591,
         "discount_percent": 0,
         "url_key": "powered-by-icue-intel-core-i7-14700kf-rtx-5070-ti",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -536,6 +553,7 @@
         "final_price": 2615,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i9-14900kf-geforce-rtx-5080",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -565,6 +583,7 @@
         "final_price": 2806,
         "discount_percent": 0,
         "url_key": "gaming-pc-intel-core-i9-14900k-radeon-rx-7900-xtx",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
@@ -594,6 +613,7 @@
         "final_price": 3349,
         "discount_percent": 0,
         "url_key": "powered-by-icue-intel-core-i9-14900kf-rtx-5080",
+        "back_image": null,
         "image": {
           "label": "Gaming PC - Intel Core i7-12700KF - RTX 3070",
           "url": null
